@@ -18,6 +18,7 @@
     "build:11ty": "cross-env ELEVENTY_ENV=production eleventy",
     "start": "npm run dev:11ty",
     "build": "npm run clean && npm run build:11ty",
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/minnebar-for-humans/",
     "pa11y:build": "npm run clean && cross-env ELEVENTY_ENV=test eleventy",
     "pa11y:test": "sleep 3 && pa11y-ci --config ./dist/pa11y.json",
     "pa11y:serve": "ELEVENTY_ENV=test eleventy --serve --ignore-initial",

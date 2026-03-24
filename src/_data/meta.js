@@ -2,7 +2,7 @@ export const url = process.env.URL || 'http://localhost:8080';
 // Extract domain from `url`
 export const domain = new URL(url).hostname;
 export const siteName = 'Minnebar for Humans';
-export const siteDescription = "Keeping Minnebar human-powered, like it's always been";
+export const siteDescription = "Keeping Minnebar human-powered.";
 export const siteType = 'Person'; // schema
 export const locale = 'en_EN';
 export const lang = 'en';

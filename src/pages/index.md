@@ -1,7 +1,7 @@
 ---
 title: No-AI Minnebar track
 permalink: /index.html
-description: "It sounds like you don't want AI talks flooding your beloved Minnebar. Great idea! I'm happy to help with that."
+description: "Keeping Minnebar human-powered."
 layout: page
 ---
 

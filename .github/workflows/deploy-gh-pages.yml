@@ -7,6 +7,8 @@ on:
 
 jobs:
   build:
+    environment:
+      name: github-pages
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -33,7 +35,10 @@ jobs:
           key: ${{ runner.os }}-eleventy-fetch-cache
 
       - run: npm ci
-      - run: npm run build-ghpages
+      - name: Build for GitHub Pages
+        run: npm run build-ghpages
+        env:
+          URL: ${{ vars.URL }}
 
       - name: Upload static files as artifact
         id: deployment

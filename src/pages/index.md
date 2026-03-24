@@ -12,3 +12,5 @@ Either way, you've found the right place. Let's raise up all the great stuff at 
 Above all, remember the Minnebar slogan:
 
 <div style="font-family: var(--font-display)">"Vote with your feet."</div>
+
+<a href="/sessions" class="button" data-button-variant="primary">See the sessions</a>

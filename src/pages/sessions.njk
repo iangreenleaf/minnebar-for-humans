@@ -1,0 +1,40 @@
+---
+title: Sessions
+permalink: /sessions/index.html
+layout: page
+sections:
+  criticism:
+    title: Critical of AI
+    open: false
+  crypto:
+    title: Crypto sessions
+    open: false
+  none:
+    title: Not about AI
+    open: true
+---
+{% set groupedSessions = sessions | groupby("list") %}
+
+<p>
+  Be sure to visit the official site and mark yourself as interested in any sessions that catch your eye.
+</p>
+<p>
+  Audience interest determines the schedule and who gets assigned to the larger rooms.
+  Also, you'll be able to view your saved sessions once the schedule is announced.
+</p>
+
+{% for type, block in sections %}
+  <details {{ "open" if block.open }}>
+    <summary style="font-family: var(--font-display); font-size: var(--size-step-2);">{{block.title}}</summary>
+
+    <ul>
+      {% for session in groupedSessions[type] %}
+        <li>
+          <a href={{ session.url }}>
+            {{ session.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </details>
+{% endfor %}

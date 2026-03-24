@@ -47,4 +47,4 @@ try {
 }
 
 // Saves updated sessions list
-fs.writeFileSync(dataFile, JSON.stringify(sessionDetails));
+fs.writeFileSync(dataFile, JSON.stringify(sessionDetails, null, 4));

@@ -19,7 +19,7 @@ const sessionDetails = JSON.parse(readFile).sessions;
 // Scrapes pages detected as new
 const sessionAElements = $allSession("a[href^='/sessions/']:not([class])");
 
-for (const sessionA of sessionAElements) {
+for (const sessionA of sessionAElements.toArray().reverse()) {
   const sessionUrl = `${baseURL}${sessionA.attribs['href']}`;
 
   // If page is already scraped, skip it

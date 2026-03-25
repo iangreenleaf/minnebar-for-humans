@@ -32,7 +32,7 @@ for (const sessionDetail of sessionDetails) {
   console.log("\x1b[34m", sessionDetail["title"]);
   console.log(sessionDetail["url"]);
   console.log("\x1b[31m", `Tags: ${sessionDetail["tags"].join(", ")}`);
-  console.log("\x1b[0m", wrap(sessionDetail["description"], 120).trim());
+  console.log("\x1b[0m", wrap(sessionDetail["description"], 120).trim().replace(/\n\n/g, "\n"));
   for (const list of lists) {
     console.log("\x1b[1m", "\x1b[31m", `${list['key']}: `, "\x1b[0m", list["list"]);
   }

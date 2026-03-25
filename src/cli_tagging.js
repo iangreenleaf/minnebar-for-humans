@@ -15,7 +15,7 @@ const rl = readline.createInterface({input: process.stdin, output: process.stdou
 
 // https://stackoverflow.com/a/51506718/5813879
 const wrap = (s, w) => s.replace(
-    new RegExp(`(?![^\\n]{1,${w}}$)([^\\n]{1,${w}})\\s`, 'g'), '$1\n'
+    new RegExp(`(?![^\\n]{1,${w}}$)(([^\n]{1,${w}})((?:\\s)|-))`, 'g'), '$1\n'
 );
 
 function askQuestion(query) {

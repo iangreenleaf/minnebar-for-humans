@@ -5,7 +5,7 @@ import fs from 'node:fs';
 // Constants
 const allSessions = "https://sessions.minnestar.org/events/46/sessions";
 const baseURL = "https://sessions.minnestar.org";
-const dataFile = "./src/raw_sessions.json";
+const dataFile = "./src/pages/sessions.json";
 const requestDelayTime = 3000;  // Delay between http requests, in ms
 
 // Handles fetching all sessions page
@@ -14,7 +14,7 @@ const $allSession = cheerio.load(allSessionReq.data);
 
 // Reads all data already scraped in the past
 const readFile = fs.readFileSync(dataFile);
-const sessionDetails = JSON.parse(readFile);
+const sessionDetails = JSON.parse(readFile).sessions;
 
 // Scrapes pages detected as new
 const sessionAElements = $allSession("a[href^='/sessions/']:not([class])");
@@ -40,11 +40,14 @@ try {
       tags.push($sessionPage(tagElement).text());
     }
 
-    sessionDetails.push({"url": sessionUrl, "title": title, "tags": tags});
+    $sessionPage(".session_description .tags").remove();
+    const description = $sessionPage(".session_description").text();
+
+    sessionDetails.push({"url": sessionUrl, title, description, tags});
   }
 } catch {
   console.log("Failed to fetch all new sessions!");
 }
 
 // Saves updated sessions list
-fs.writeFileSync(dataFile, JSON.stringify(sessionDetails, null, 4));
+fs.writeFileSync(dataFile, JSON.stringify({ sessions: sessionDetails }, null, 4));

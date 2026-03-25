@@ -49,5 +49,4 @@ for (const sessionDetail of sessionDetails) {
   fs.writeFileSync(dataFile, JSON.stringify({ sessions: sessionDetails }, null, 4));
 }
 
-console.log(sessionDetails);
 rl.close();

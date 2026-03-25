@@ -30,6 +30,7 @@ for (const sessionDetail of sessionDetails) {
 
   console.log("\n\n\n\n\n\n");
   console.log("\x1b[34m", sessionDetail["title"]);
+  console.log(sessionDetail["url"]);
   console.log("\x1b[31m", `Tags: ${sessionDetail["tags"].join(", ")}`);
   console.log("\x1b[0m", wrap(sessionDetail["description"], 120).trim());
   for (const list of lists) {

@@ -5,7 +5,8 @@ const dataFile = "./src/pages/sessions.json";
 const lists = [
   {"key": "1", "list": "ai"},
   {"key": "2", "list": "criticism"},
-  {"key": "3", "list": "none"}
+  {"key": "3", "list": "discussion"},
+  {"key": "4", "list": "none"}
 ];
 
 const readFile = fs.readFileSync(dataFile);

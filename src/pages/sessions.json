@@ -10,7 +10,8 @@
                 "Emerging Tech",
                 "Wildcard",
                 "Other"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1894",
@@ -21,7 +22,8 @@
                 "Startups",
                 "AI/ML",
                 "Marketing"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1895",

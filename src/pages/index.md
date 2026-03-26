@@ -9,10 +9,10 @@ Are you opposed to genAI on ethical, environmental, or political grounds? Or jus
 
 Either way, you've found the right place. Let's raise up all the great stuff at Minnebar that isn't yet another pitch about LLMs changing the world.
 
+<a href="/sessions" class="button mt-l mb-l" data-button-variant="primary">See the sessions</a>
+
+Check back here before the event to see the schedule for a No-AI Minnebar track!
+
 Above all, remember the Minnebar slogan:
 
 <blockquote style="font-family: var(--font-display)">"Vote with your feet."</blockquote>
-
-<a href="/sessions" class="button" data-button-variant="primary">See the sessions</a>
-
-Check back here before the event to see the schedule for a No-AI Minnebar track!

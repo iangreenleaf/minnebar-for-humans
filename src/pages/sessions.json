@@ -815,6 +815,19 @@
                 "AI/ML"
             ],
             "list": "ai"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1964",
+            "title": "Problem to Publish in Microsoft Dynamics 365 ",
+            "description": "\n      See an Example of Microsoft Dynamics 365 being edited and published live\n\n      \n    ",
+            "tags": [
+                "Intermediate",
+                "Development",
+                "Startups",
+                "Design",
+                "Marketing"
+            ],
+            "list": "none"
         }
     ]
 }

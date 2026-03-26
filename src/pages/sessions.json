@@ -34,7 +34,8 @@
                 "Startups",
                 "Soft Skills",
                 "Careers"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1896",
@@ -45,7 +46,8 @@
                 "Startups",
                 "Emerging Tech",
                 "Design"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1898",
@@ -54,7 +56,8 @@
             "tags": [
                 "Intermediate",
                 "Emerging Tech"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1899",
@@ -66,7 +69,8 @@
                 "AI/ML",
                 "Wildcard",
                 "Other"
-            ]
+            ],
+            "list": "criticism"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1900",
@@ -78,7 +82,8 @@
                 "Emerging Tech",
                 "AI/ML",
                 "Soft Skills"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1901",
@@ -87,7 +92,8 @@
             "tags": [
                 "All levels",
                 "Soft Skills"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1902",
@@ -97,7 +103,8 @@
                 "Beginner",
                 "Startups",
                 "AI/ML"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1903",
@@ -108,7 +115,8 @@
                 "AI/ML",
                 "Development",
                 "Wildcard"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1904",
@@ -118,7 +126,8 @@
                 "All levels",
                 "AI/ML",
                 "Wildcard"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1905",
@@ -130,7 +139,8 @@
                 "AI/ML",
                 "Design",
                 "Soft Skills"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1906",
@@ -141,7 +151,8 @@
                 "Development",
                 "AI/ML",
                 "Other"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1907",
@@ -152,7 +163,8 @@
                 "Soft Skills",
                 "Careers",
                 "Wildcard"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1908",
@@ -161,7 +173,8 @@
             "tags": [
                 "Intermediate",
                 "Startups"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1909",
@@ -172,7 +185,8 @@
                 "Startups",
                 "Design",
                 "Marketing"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1910",
@@ -181,7 +195,8 @@
             "tags": [
                 "All levels",
                 "Emerging Tech"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1911",
@@ -195,7 +210,8 @@
                 "AI/ML",
                 "Marketing",
                 "Wildcard"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1912",
@@ -212,7 +228,8 @@
                 "Design",
                 "Marketing",
                 "Other"
-            ]
+            ],
+            "list": "discussion"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1913",
@@ -225,7 +242,8 @@
                 "Emerging Tech",
                 "Marketing",
                 "Wildcard"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1914",
@@ -235,7 +253,8 @@
                 "All levels",
                 "Development",
                 "AI/ML"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1915",
@@ -246,7 +265,8 @@
                 "Startups",
                 "Wildcard",
                 "Other"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1916",
@@ -256,7 +276,8 @@
                 "All levels",
                 "AI/ML",
                 "Soft Skills"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1917",
@@ -266,7 +287,8 @@
                 "All levels",
                 "Startups",
                 "AI/ML"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1918",
@@ -278,7 +300,8 @@
                 "AI/ML",
                 "Community",
                 "Other"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1919",
@@ -289,7 +312,8 @@
                 "Development",
                 "Emerging Tech",
                 "AI/ML"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1920",
@@ -301,7 +325,8 @@
                 "Emerging Tech",
                 "Design",
                 "Wildcard"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1921",
@@ -312,7 +337,8 @@
                 "Development",
                 "Wildcard",
                 "Other"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1922",
@@ -324,7 +350,8 @@
                 "Startups",
                 "Design",
                 "Product"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1923",
@@ -335,7 +362,8 @@
                 "Wildcard",
                 "Soft Skills",
                 "Community"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1924",
@@ -347,7 +375,8 @@
                 "Community",
                 "Wildcard",
                 "Other"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1925",
@@ -358,7 +387,8 @@
                 "Development",
                 "Startups",
                 "Product"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1927",
@@ -369,7 +399,8 @@
                 "Startups",
                 "Careers",
                 "Marketing"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1928",
@@ -378,7 +409,8 @@
             "tags": [
                 "All levels",
                 "Development"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1929",
@@ -389,7 +421,8 @@
                 "AI/ML",
                 "Soft Skills",
                 "Careers"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1930",
@@ -400,7 +433,8 @@
                 "Development",
                 "Startups",
                 "Careers"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1931",
@@ -410,7 +444,8 @@
                 "Intermediate",
                 "Development",
                 "Design"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1932",
@@ -420,7 +455,8 @@
                 "Beginner",
                 "Development",
                 "Emerging Tech"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1933",
@@ -430,7 +466,8 @@
                 "All levels",
                 "AI/ML",
                 "Soft Skills"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1934",
@@ -442,7 +479,8 @@
                 "AI/ML",
                 "Product",
                 "Careers"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1935",
@@ -453,7 +491,8 @@
                 "Design",
                 "Wildcard",
                 "Other"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1936",
@@ -465,7 +504,8 @@
                 "Community",
                 "Soft Skills",
                 "Careers"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1937",
@@ -475,7 +515,8 @@
                 "All levels",
                 "Wildcard",
                 "Other"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1938",
@@ -486,7 +527,8 @@
                 "AI/ML",
                 "Soft Skills",
                 "Wildcard"
-            ]
+            ],
+            "list": "criticism"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1939",
@@ -497,7 +539,8 @@
                 "Startups",
                 "Community",
                 "Marketing"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1940",
@@ -506,7 +549,8 @@
             "tags": [
                 "Intermediate",
                 "Startups"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1941",
@@ -520,7 +564,8 @@
                 "AI/ML",
                 "Design",
                 "Community"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1942",
@@ -531,7 +576,8 @@
                 "Development",
                 "Product",
                 "Other"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1943",
@@ -540,7 +586,8 @@
             "tags": [
                 "All levels",
                 "Other"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1944",
@@ -549,7 +596,8 @@
             "tags": [
                 "All levels",
                 "Wildcard"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1945",
@@ -558,7 +606,8 @@
             "tags": [
                 "Beginner",
                 "Wildcard"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1946",
@@ -567,7 +616,8 @@
             "tags": [
                 "All levels",
                 "Community"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1947",
@@ -578,7 +628,8 @@
                 "Development",
                 "Soft Skills",
                 "Careers"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1948",
@@ -591,7 +642,8 @@
                 "Community",
                 "Soft Skills",
                 "Careers"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1949",
@@ -603,7 +655,8 @@
                 "Product",
                 "Soft Skills",
                 "Wildcard"
-            ]
+            ],
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1950",
@@ -613,7 +666,8 @@
                 "All levels",
                 "Community",
                 "Other"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1951",
@@ -625,7 +679,8 @@
                 "Design",
                 "Community",
                 "Soft Skills"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1952",
@@ -634,7 +689,8 @@
             "tags": [
                 "All levels",
                 "Other"
-            ]
+            ],
+            "list": "none"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1953",
@@ -645,7 +701,120 @@
                 "Startups",
                 "AI/ML",
                 "Other"
-            ]
+            ],
+            "list": "ai"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1954",
+            "title": "How To Sell Your Neighbor's Wi-Fi, For Fun and Bitcoin! ",
+            "description": "\n      I don’t have dedicated home internet at my apartment — but my neighbor’s cable company will sell me wireless internet access from his cable modem for $10/month. Then I run  TollGate.me on a cheap router and resell that bandwidth as a Bitcoin-powered hotspot.\n\nIn this session I’ll show you exactly how it works: the simple hardware setup, how Lightning micropayments flow in sats every time someone connects, and how people in a good location with spare bandwidth can turn it into automatic bitcoin income with almost zero ongoing effort.\n\nI’ll bring my hotspot router so you can try it yourself — I’ll give you a sample of ecash to pay and connect with your phone or laptop, and you’ll see the sats flow in real-time.\n\nIf you’ve ever wanted to set up a tiny ISP that pays you in bitcoin while you do nothing — or just see decentralized internet access in action — come check it out. No slides, just a working hotspot with real payments happening on the spot.\n\n      \n    ",
+            "tags": [
+                "Intermediate",
+                "Emerging Tech"
+            ],
+            "list": "none"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1955",
+            "title": "What Happens When You Combine Bad Bunny + AI + Mental Health?  ",
+            "description": "\n      It starts with a WestCoast Swing Dance demo to a Bad Bunny song. Then it gets real. Cadre's CAIO Mike Arulfo breaks down the AI strategy powering a mental health platform built for humans, not algorithms. Dr. Charryse Johnson unveils The Cadre Way AI Framework— a clinical governance framework defining how AI operates in moments of vulnerability. Lead Product Designer Emily Rathbun demos the Cadre v1.5 application live! Facilitated by Sarah Edwards. Three perspectives. One mission. Zero boring slides.\n\n      \n    ",
+            "tags": [
+                "Intermediate",
+                "AI/ML"
+            ],
+            "list": "ai"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1956",
+            "title": "Sol LeWitt, Combinatorial Enumeration, and Rogue ",
+            "description": "\n      Sol LeWitt wrote that \"the serial artist does not attempt to produce a beautiful or mysterious object but functions merely as a clerk cataloguing the results of his premise.”  This premise could be a set of axioms, a geometric constraint – or a roguelike level generator! From this viewpoint, the enumeration of all outputs from a procedural content system is itself a type of artwork.\n\nRogue, a text-based dungeon crawler from the 1980s, is one of the first games that used procedurally generated content. It generates a random layout for each level that the player explores. Rogue's simple algorithms for doing so have been a source of inspiration for game developers for decades. But because Rogue uses a 32-bit psuedorandom number generator, there are \"only\" four billion possible levels, and we can enumerate them all.  (I'd hoped that there was some crunchy technical content about how to do so efficiently -- but it's actually pretty easy!)\n\nI’ll explore this connection between 20th century conceptual art and 21st century expressive range analysis. I'll show some examples of serial art, more recent examples of complete enumerations, and some results from looking at the Rogue level generator.\n\n      \n    ",
+            "tags": [
+                "Intermediate",
+                "Wildcard"
+            ],
+            "list": "none"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1957",
+            "title": " Growing a Social Media Community: What’s Working Right Now ",
+            "description": "\n      Social media is full of advice- but what actually works today to build a real, engaged community?\n\nIn this session, I’ll break down current strategies for growing a personal brand and turning followers into a community that interacts, shares, and sticks around. I’ll share what I’ve learned building a community of 300K+ followers, including what worked, what didn’t, and what I would do differently if starting from zero.\n\nWe’ll cover:\n\nHow to find your voice and stand out (without feeling fake)\nWhat kind of content actually drives engagement right now\nHow to build trust and connection- not just followers\nPractical ways to stay consistent without burning out\n\nThis will be a collaborative session- come ready to share your experience, ask questions, and exchange ideas. Whether you’re just starting or already creating content, you’ll leave with clear, actionable strategies you can apply immediately.\n\n      \n    ",
+            "tags": [
+                "Beginner",
+                "Startups",
+                "Community",
+                "Careers",
+                "Marketing"
+            ],
+            "list": "none"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1958",
+            "title": "Questions to ask during a transition... and who can help. ",
+            "description": "\n      What am I doing? Who am I? What SHOULD I be doing? \n\nAll transitions are hard. I'm not just talking about the \"I need a new job\" transition. It could also be a \"I have a new boss\" or a \"it's really hitting me that I'm 40\" or even \"I guess I want to be done working\" transition. \n\nWe ALL transition, and inevitably some pesky thoughts creep up when that happens. We start to question and maybe even doubt what we are doing or the choices we have made. And then making even more choices is harder. \n\nWell, there is a lot of help out there and navigating that can be another hurdle and before you know it you haven't gotten any help and you are stumbling around uncertain and confused. \n\nLet's talk about transitional questions and how the different types of help out there may or may not meet the needs you have. \n\nI firmly believe, and my life has shown me, that going alone is the worst option. \n\nTransitions are hard, different types of help exists. Let's navigate that together. \n\n      \n    ",
+            "tags": [
+                "All levels",
+                "Soft Skills",
+                "Careers",
+                "Other"
+            ],
+            "list": "none"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1959",
+            "title": "Cannabis has always been healthcare. Building a cultivation, R&D, manufacturing and dispensary business.  ",
+            "description": "\n      Recreational, adult use cannabis is now legal in Minnesota. What's it like building a large cannabis business compared to other healthcare or high tech businesses? Join me to hear the journey and get free merch. \n\n      \n    ",
+            "tags": [
+                "All levels",
+                "Startups"
+            ],
+            "list": "none"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1960",
+            "title": "Photogrammetry to Furniture -  Designing for the real world in Blender ",
+            "description": "\n      Sometimes string and cardboard aren’t enough to figure out a home improvement project. As a visual person I have found it extremely handy to use a couple of free tools to help visualize things before diving in. This started as a way for me to understand projects around my own house, but now it has transformed into a furniture business.\n\nIn this talk I will go over my process for taking a 3D scan of a space and prototyping with it in Blender. I'll also cover some of the pitfalls and rough edges you can encounter, and answer any questions about what's possible with these tools.\n\n      \n    ",
+            "tags": [
+                "All levels",
+                "Design",
+                "Wildcard",
+                "Other"
+            ],
+            "list": "none"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1961",
+            "title": "✨ Let’s animate! ✨ An Introduction to Rive.app ",
+            "description": "\n      The founders of Rive.app are twins that wanted to bring back the joy and interactivity that we lost after the death of Flash. In this session, learn about Rive.app, how it’s used, what platforms it integrates with, examples, and basic walkthrough.\n\n      \n    ",
+            "tags": [
+                "All levels",
+                "Development",
+                "Design"
+            ],
+            "list": "none"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1962",
+            "title": "You can do it all, just not all at once: Practical prioritization for leaders and builders ",
+            "description": "\n      What are we building? What's most important? When are we done? What's needed? Where will I find the time? What's next?\n\nLeadership is the effective reconciliation of the unlimited work and limited resources. So much dysfunction exists in this space. We have all felt the pain of messy planning and ineffective prioritization.  \n\nIt's cliche to say that \"priorities shift\" and yet, so many of our leadership practices are built on assumptions of stability. Beautiful vision statements grow stale and fail when we never update them.  We give ourselves and teams whiplash when we pivot too often and chase problems that weren't really in our way.    \n\nHow might we do better? \n\nWhat could it mean to update your vision regularly? What could it mean to embrace the rhythm of when, before what?  What could it mean to acknowledge the boundaries of the won't do list? \n\nIf you attend this session, expect to participate.  This is about you and your work.  Expect to walk away with work to do, and a few new techniques to help you do it. \n\n      \n    ",
+            "tags": [
+                "Intermediate",
+                "Startups",
+                "Product",
+                "Soft Skills",
+                "Other"
+            ],
+            "list": "none"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1963",
+            "title": "AI - Technology Cannibalism: Who Ate Who and What's Working Now ",
+            "description": "\n      Since last year a lot has happened in the world of AI.\n\nHundreds of new SaaS tools have become available and thousands of apps. \n\nSome have disappeared completely - or have they...\n\nFind out what AI tools have been eaten in the past year, and by who!\n\nAlso learn about what's working and what's not with AI tools that have the power to change the way we work.\n\nThis session will have a combination of information and demonstrations in a choose your own adventure format.\n\n\nWho Ate Who, and Who's Next...\nDemos: AI Wars! Pitting similar AI tools against each other to see who can and who can't do that\n\nSome fun things you can try at home\n\n\nNote: This session is geared towards using AI mainly for work tasks in various roles and industries, for the (potentially non-technical) end user\n\n      \n    ",
+            "tags": [
+                "All levels",
+                "Emerging Tech",
+                "AI/ML"
+            ],
+            "list": "ai"
         }
     ]
 }

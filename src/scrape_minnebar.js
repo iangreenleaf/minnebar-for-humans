@@ -5,7 +5,7 @@ import fs from 'node:fs';
 // Constants
 const allSessions = "https://sessions.minnestar.org/events/46/sessions";
 const baseURL = "https://sessions.minnestar.org";
-const dataFile = "./src/pages/sessions.json";
+const dataFile = "./src/_data/sessions.json";
 const requestDelayTime = 3000;  // Delay between http requests, in ms
 
 // Handles fetching all sessions page
@@ -14,7 +14,7 @@ const $allSession = cheerio.load(allSessionReq.data);
 
 // Reads all data already scraped in the past
 const readFile = fs.readFileSync(dataFile);
-let sessionDetails = JSON.parse(readFile).sessions;
+let sessionDetails = JSON.parse(readFile);
 
 // Scrapes pages detected as new
 const sessionAElements = $allSession("a[href^='/sessions/']:not([class])").toArray();
@@ -40,10 +40,16 @@ for (const sessionA of sessionAElements.reverse()) {
     tags.push($sessionPage(tagElement).text());
   }
 
+  const categories = [];
+  for (const categoryA of $sessionPage("ul.tags > li a.tag")) {
+    const matchdata = categoryA.attribs['href'].match(/\/categories\/([0-9]+)/);
+    if (matchdata) { categories.push(matchdata[1]) }
+  }
+
   $sessionPage(".session_description .tags").remove();
   const description = $sessionPage(".session_description").text();
 
-  sessionDetails.push({"url": sessionUrl, title, description, tags});
+  sessionDetails.push({"url": sessionUrl, title, description, tags, categories});
 }
 
 sessionDetails = sessionDetails.filter(function (session) {
@@ -58,4 +64,4 @@ sessionDetails = sessionDetails.filter(function (session) {
 });
 
 // Saves updated sessions list
-fs.writeFileSync(dataFile, JSON.stringify({ sessions: sessionDetails }, null, 4));
+fs.writeFileSync(dataFile, JSON.stringify(sessionDetails, null, 4));

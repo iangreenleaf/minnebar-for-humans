@@ -1,0 +1,14 @@
+[
+  { "id": "2", "name": "Development" },
+  { "id": "4", "name": "Startups" },
+  { "id": "6", "name": "Emerging Tech" },
+  { "id": "7", "name": "AI & Machine Learning" },
+  { "id": "1", "name": "Design" },
+  { "id": "8", "name": "Product Management" },
+  { "id": "9", "name": "Community & DEI" },
+  { "id": "10", "name": "Soft Skills & Personal Growth" },
+  { "id": "11", "name": "Careers & Talent" },
+  { "id": "12", "name": "Marketing & Sales" },
+  { "id": "13", "name": "Wildcard" },
+  { "id": "5", "name": "Other" }
+]

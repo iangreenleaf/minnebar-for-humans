@@ -1,0 +1,1186 @@
+[
+    {
+        "url": "https://sessions.minnestar.org/sessions/1893",
+        "title": "Capture the Flag ",
+        "description": "\n      We’re not talking about the outdoor game where you are trying to steal a physical flag and bring it back to your base, this capture the flag is a series of computer security challenges you solve to retrieve a flag and get points!  Solving these challenges require various skills including decrypting content, SQL Injection, reverse engineering and more.  Learn about how capture the flag works, where you find challenges/competitions, and some techniques required to solve them.  I went from never having tried one to winning a competition the next year.  The challenges are not only interesting, they helped change my perspective about how web sites are attacked and how I could better protect them.  \n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "Emerging Tech",
+            "Wildcard",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "6",
+            "13",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1894",
+        "title": "The Rise of the Creative Technologist: How & Why Artists and Creatives Are Shaping the Future of AI ",
+        "description": "\n      Last year at Minnebar, we discussed why GenAI will help creative technologists become the world's future tech giants. \n\nThis year, we're giving a major update, once again sharing WHY Creatives are uniquely positioned to take advantage of the AI revolution and HOW they are already changing the landscape in MN and beyond!\n\nCaroline Holden, a creative technologist, content creator, and founder of MN Women in AI with 8 years experience in startups, AI, and venture capital explains why creatives are uniquely positioned to become the tech leaders of tomorrow.\n\nThis session is ideal for anyone interested in the intersection of creativity and technology or anyone interested in how Generative AI may fundamentally change what it means to be a stellar employee, founder, or innovator.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Startups",
+            "AI/ML",
+            "Marketing"
+        ],
+        "list": "ai",
+        "categories": [
+            "4",
+            "7",
+            "12"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1895",
+        "title": "Building a Tech Community ",
+        "description": "\n      We started TechMasters 17 years ago with the promise of helping grow presenters for the Developer Community. Since then we've evolved to a hybrid tech focused meeting every Tuesday where people are able to learn and practice the skills necessary to evolve their careers and chase dreams of keynoting conferences. In this session we'll look at the key ingredients that helped spark the group and keeps it going, the story of TechMasters, Twin Cities.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Startups",
+            "Soft Skills",
+            "Careers"
+        ],
+        "list": "none",
+        "categories": [
+            "4",
+            "10",
+            "11"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1896",
+        "title": "How I Use Notion to Run my Publishing Company ",
+        "description": "\n      I have been running Sofawolf Press INC, a four-person full-service publishing company, for over 25 years. A lot of software solutions for managing day to day operations have come and gone from our tech stack, and none of ever held a candle to what I have been able to do using Notion.\n\nNotion is our CRM, our ERP, our Product Development and Event Planning System, our Royalty Reporting system, and a web-facing solution for our Sales and Marketing Efforts. All for <$1,500 a year.\n\nIn this session I will describe the challenges we faced trying to run a small but complex business \"in the old days\" and how Notion has been a cost-effective solution to most of them, allowing us to run lean and still be a fully functional business.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Startups",
+            "Emerging Tech",
+            "Design"
+        ],
+        "list": "none",
+        "categories": [
+            "4",
+            "6",
+            "1"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1899",
+        "title": "Multiplayer Interactive Fiction on the Elixir VM ",
+        "description": "\n      This session aims to answer the age-old question: \"What would happen if you mixed the modern Elixir programming language with interactive fiction in the style of Zork or 'Choose-your-own-adventure' stories?\"\n\nWhile it may seem an unlikely mashup, the actor-based model of Elixir combined with the non-linear workflows possible in the Ink scripting language for narrative fiction fit together to create an interesting, fun environment.\n\nA few things that may come out of this session include:\n\n\nA more humane alternative to forcing AI automation into flows that demand a human touch\nHow to design dynamic, complex, multiplayer entertainment experiences\nIncorporating complex consequences into non-linear workflow engines\nThe sheer fun of messing with storytelling while learning about the actor model of programming\n\n\nCome for the storytelling, stay for the drama of Actors with Inky scripts!\n\nRegarding topic level: Although we will be engaging with topics that are themselves extremely deep (narrative fiction, actor-based programming models), this session will aim to be accessible to a general audience.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Development",
+            "AI/ML",
+            "Wildcard",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "7",
+            "13",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1900",
+        "title": "Where is Maldo? An LLM Adoption Journey for Software Engineers ",
+        "description": "\n      LLMs and agents are changing the ways we build and maintain software.\n\nAs a result, a skill becoming increasingly relevant is the ability to guide and govern LLMs and agents.\n\nIn this session I will share a set of LLM adoption levels, and what tends to show up at each level. My hope is that this gives software engineers a practical way to:\n\n\nsee where they are today\nunderstand what it might look like to grow\ntake the next step\n\n\nThis matters for us, and for those we lead. Understanding where our colleagues and direct reports are on that journey can help us create safer, wiser, and more effective ways of adopting these tools together.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "Emerging Tech",
+            "AI/ML",
+            "Soft Skills"
+        ],
+        "list": "ai",
+        "categories": [
+            "2",
+            "6",
+            "7",
+            "10"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1901",
+        "title": "Building a Hope Practice: A Science-Based Workshop for Uncertain Times ",
+        "description": "\n      The tech industry asks a lot of us: long hours, shifting priorities, layoffs, and reorgs.  If you follow the news at all, the drain on our attention doesn't clock out when we close our laptops for the day.\n\nI have come to understand that hope is not a feeling you wait for.  Research by C.R. Snyder shows that hope is a cognitive skill.  I call this skill a Hope Practice, and the good news is you can build it.\n\nIn this workshop, you will leave with a concrete tool you can use to build your own Hope Practice.  The keyword you will create is a single word, with a little neuroscience mixed in, that can help you reconnect to your deepest why when your inner critic gets loud and tries to take you off course.\n\nThis session is not therapy.  It's the same deliberate skill-building you already apply to your craft, aimed to help you stay in the game when things get hard.\n\nBring your whole self.  Leave with a new tool built for you in exactly this moment.  All are welcome.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Soft Skills"
+        ],
+        "list": "none",
+        "categories": [
+            "10"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1902",
+        "title": "AI Video for Small Business: Tools, Uses, and Open Discussion ",
+        "description": "\n      As part of my work with the Southwest Minnesota Small Business Development Center, I work with small businesses that are increasingly curious about AI tools but often unsure where to begin or how to use them effectively.\n\nThis session will include a practical demonstration of several AI video tools, showing how they can be used to create content, explain services, improve communication, and support small business marketing. Examples will focus on practical use rather than theory, including simple ways small businesses can begin experimenting with AI video.\n\nWe will end with a discussion, giving attendees an opportunity to share how they are using AI video tools—or AI more broadly—in small-business settings. The goal is to exchange ideas, hear what is working in real-world situations, and learn where businesses are finding value, facing challenges, or discovering unexpected uses for AI.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Startups",
+            "AI/ML"
+        ],
+        "list": "ai",
+        "categories": [
+            "4",
+            "7"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1903",
+        "title": "git commit -m \"I didn't write this\" ",
+        "description": "\n      For the past year, AI tools have fundamentally changed how I write software. In this session, I'll live-build something from scratch using the AI-powered development workflow I use every day — no slides, no deck, just a terminal and 40 minutes on the clock.\n\nWhether you're a seasoned dev curious about AI-assisted workflows or a skeptic who wants to see it break, come watch and find out how far we can get.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "AI/ML",
+            "Development",
+            "Wildcard"
+        ],
+        "list": "ai",
+        "categories": [
+            "7",
+            "2",
+            "13"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1904",
+        "title": "All Watched Over By Machines of Loving Grace ",
+        "description": "\n      What happens when machine intelligence surpasses human intelligence? We're finding out in real time -- in the coming years, this technological revolution will reshape not only our economic and political world, it will reshape all of us. But what happens after the dust settles? \n\nThis talk will summarize and synthesize ideas from Novacene, by James Lovelock (2019) and The Age of Spiritual Machines, by Ray Kurzweil (1999). Both of these books offer a prescient vision of the near future as well as predictions of where all of this is headed. \n\nWe'll talk about science fiction, consciousness, the human condition, and what life looks like when the machines become our caretakers.\n\nTitle taken from the poem of the same name by by Richard Brautigan.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "AI/ML",
+            "Wildcard"
+        ],
+        "list": "ai",
+        "categories": [
+            "7",
+            "13"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1905",
+        "title": "Escape the Screenshot Graveyard: Using Notion AI to turn notes, memos & screenshots into action, content, and next steps ",
+        "description": "\n      Most people don’t have an organization problem.\nThey have a “saved it… never used it” problem.\n\nScreenshots. Saved posts. Notes. Ideas.\nYou save everything… and use none of it.\n\nIn this session, you’ll learn a simple system using Notion AI to turn what you capture into something useful—fast.\n\nThink:\n\nturn notes into clear next steps\n\nturn screenshots into content ideas\n\nturn old thoughts into actual drafts\n\nfinally follow up instead of forgetting\n\nWe’ll also use custom AI agents + personalities trained on your saved content—so your ideas don’t just sit there, they actually get applied to your workflow.\n\nNo complicated “second brain.”\nJust a clean system: Capture → Organize → Apply\n\nIf your camera roll and notes app are a graveyard of good ideas… this is for you.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Emerging Tech",
+            "AI/ML",
+            "Design",
+            "Soft Skills"
+        ],
+        "list": "ai",
+        "categories": [
+            "6",
+            "7",
+            "1",
+            "10"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1906",
+        "title": "No Cloud Required: Running an AI RAG Pipeline on your Phone ",
+        "description": "\n      Every RAG system you've ever seen has a dirty secret, it's phoning home. Every query, document chunk, and embedding sent to a server, processed in a data center, returned over a network you don't control. What if you could cut the cord entirely?\n\nIn this session, we'll walk through a fully on-device Retrieval-Augmented Generation pipeline featuring embedding models, a vector store, and a language model running entirely on consumer mobile hardware. No API keys. No latency spikes. No round trips. Full privacy.\n\nThrough live demos and architectural deep dives, we'll cover the full stack: converting embedding models to run on device, building an efficient chunking and indexing pipeline, performing vector similarity search without a backend, and using a local LLM.\n\nThe cloud isn't always the answer sometimes it is the edge.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "AI/ML",
+            "Other"
+        ],
+        "list": "ai",
+        "categories": [
+            "2",
+            "7",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1907",
+        "title": "Writing the Video Game Narrative  ",
+        "description": "\n      Beyond the skills to program and create your own video game, there is a process to create a unique story to base it on. In this session I will be teaching how to write the plot of your own video game. It will give you a step-by-step tutorial to begin your journey into writing an in-depth storyline that your players will love.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Soft Skills",
+            "Careers",
+            "Wildcard"
+        ],
+        "list": "none",
+        "categories": [
+            "10",
+            "11",
+            "13"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1908",
+        "title": "Lessons from Two Decades of Angel Investing ",
+        "description": "\n      My brother Ryan and I have been investing in the early stages for 20+ years. Since we started investing together back in 2005, we’ve been involved with 60+ companies. I am going to pull back the curtain on what those two decades have actually looked like—beyond just the headlines.\n\nWhether you are an active angel investor or someone just starting to explore the space, I’d love to have you join me.  \n\nI plan to cover several practical topics, including:\n- The Long Game: Reality checks on how long exits actually take.\n- Post-Investment: How to manage and support your portfolio after the check is signed.\n- Deal Flow: Strategies for building a high-quality, consistent pipeline.\n- The Founder Perspective: What founders actually value most from their angel investors.   \n\nI want this session to be a great resource for our Minnebar community, so if you know of other angel investors or colleagues thinking about getting into the space, please help spread the word of my session.   \n\nHope you can make it!  \n\nBest,  \n\nRob Weber\nManaging Partner\nGreat North Ventures  \n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Startups"
+        ],
+        "list": "none",
+        "categories": [
+            "4"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1909",
+        "title": "Bootstrapping Your E-Commerce Empire Side Hustle With No Money ",
+        "description": "\n      This session is a tactical walkthrough of bootstrapping a micro e-commerce business using 3D printing and eBay. We’ll cover niche selection, rapid product iteration, demand validation and fulfillment, all without spending a nickel.  Whether you’re a maker, a marketer, or just side-hustle curious, you’ll leave with a clear path to launch something small, scrappy, and profitable.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Startups",
+            "Design",
+            "Marketing"
+        ],
+        "list": "none",
+        "categories": [
+            "4",
+            "1",
+            "12"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1910",
+        "title": "The Future of Energy and the 30X Problem ",
+        "description": "\n      In the next decade, it is predicted that the rising energy demands of AI and electrification will require millions of new tech workers and thousands of new, billion dollar companies. Thats because the transition to sustainable, carbon free energy requires 70TW of clean energy by 2050. To accomplish this, the US power grid will have to be almost completely reimagined and rebuilt. New energy sources must be found, developed, and dispatched, and doing so requires hardware, software, and business models that do not exist today.\n\nThis is called the 30X problem.\n\nBack for a fourth year at Minnebar, this rapid-fire summary will highlight the leading startups and discoveries in the world of solar, wind, nuclear, hydrogen and geo power. It will suggest what the future of energy might look like for technologists here in Minnesota: founders, engineers, designers, investors, policymakers, and anyone interested in clean energy.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Emerging Tech"
+        ],
+        "list": "none",
+        "categories": [
+            "6"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1911",
+        "title": "AI Told You So Again: How I Built a $1B Unfair Advantage ... And So Can You (Meet OpenClaw) ",
+        "description": "\n      Two years ago at Minnebar I said I could build a $1M business in 30 minutes using ChatGPT. You were skeptical. I did it anyway. \n\nCombat Candy now has half a million in seed capital, five-figure monthly sales, and a Shopify store so effective it makes even Chatgpt question free will.\n\nSo naturally, I raised the stakes. Because apparently I have something to prove. To you. Repeatedly.\n\nThis year I’m going to show you how a two-person supplement company is chasing $1B ... not because we’re delusional, but because we built something that makes the math actually work. \n\nIt’s called OpenClaw, and if you haven’t heard of it yet, you will because your LinkedIn feed is about to bombard you with it. \n\nOpenClaw is an open source multi-agent AI framework that’s quietly becoming one of the most powerful unfair advantages available to anyone with a MacMini and something to prove. I’ve deployed it across Combat Candy like a very ambitious, extremely underpaid intern army. \n\n\nIt runs our email marketing. \nIt optimizes our paid social spend. \nIt manages and grows our CRM. \nIt finds, inspires, and literally pays our affiliates. \n\n\nAnd that  genuinely is just the tip of the A-Iceberg.\n\nTwo people. One framework. Zero chill about what’s possible.\n\nI’ll show you exactly how I built it into our stack, what it’s doing right now, and how you can steal the whole playbook before you leave the room.\n\nBring your skepticism. I brought receipts. Again.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML",
+            "Marketing",
+            "Wildcard"
+        ],
+        "list": "ai",
+        "categories": [
+            "2",
+            "4",
+            "6",
+            "7",
+            "12",
+            "13"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1912",
+        "title": " Artificial Intelligence 1967, Yes '1967' ",
+        "description": "\n      Remember '2001 a Space Odyssey'?  Where is AI going? A highly capable system simply needs to be indifferent to human survival to create fatal risks.  Could it Happen? Will it Happen?  You Be the Judge!   \n\nCould AI pose an existential risk by surpassing human intelligence, leading to an \"obsolescence regime\" where humanity cannot compete, or just not understanding how to deal with human emotions!? \n\nDoes AI benefit humanity by augmenting human capabilities, driving efficiencies, and solving complex problems across healthcare, sustainability, and daily life?\n\nAI offers significant benefits, yet experts emphasize the need for managing risks regarding ethical considerations, such as AI bias in decision-making and ensuring privacy.\n\nRisk or Benefits or Both? You be the Judge - It's worth a discussion!\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML",
+            "Community",
+            "Wildcard",
+            "Design",
+            "Marketing",
+            "Other"
+        ],
+        "list": "ai",
+        "categories": [
+            "2",
+            "4",
+            "6",
+            "7",
+            "9",
+            "13",
+            "1",
+            "12",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1913",
+        "title": "How to Go Public in 2026 Using an Initial Crowd Offering ",
+        "description": "\n      Wall Street doesn't want you to know this exists.\n\nThere's a legal, fully-regulated path for founders to become publicly traded —without venture capitalists, and without surrendering control of your company. It's called an Initial Crowd Offering (ICO), and in 2026, it's more powerful than ever.\n\nIn this session, David \"The Little Duke\" Duccini breaks down the securities \"jujitsu\" that lets founders combine existing exemptions — MNvest, Reg CF, Reg D, and Reg A+ — to raise capital directly from the public. Stack them right, and you can unlock unlimited capital while keeping VCs completely out of the equation. (Yes, the ones who fund less than 1% of what crosses their desk. The vampire clan, not just the vultures.)\n\nBut raising money is only half the story.\n\nBy linking your offering to an Alternative Trading System (ATS) like SPPX, you don't just raise — you go public. Early investors get liquidity. Your cap table gets cleaned up through smart lot-size mechanics. And you build a private secondary market that works for you — one that doesn't allow short-selling.\n\nYou'll also learn the single most important insight repeat founders already know: sell the exit first. It's why they keep getting funded on worse ideas. Because investors don't care about your vision — they care about cashing out. Master that, and you raise 150–300% more, right out of the gate.\n\n\"An investment without an exit is just a donation.\"\n\nAnd stick around for the closer: a clever successive-offering hack — borrowed from the Reg A+ \"30% selling-shareholder rule\" — that lets you create a stabilizing bid in your own private market. Founders getting paid. Early investors getting liquid. The crowd winning alongside you.\n\nThis is the blueprint.\n\nListen to the episode that breaks it all down on The Big Idea Deep Dive Podcast\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Startups",
+            "Other",
+            "Emerging Tech",
+            "Marketing",
+            "Wildcard"
+        ],
+        "list": "none",
+        "categories": [
+            "4",
+            "5",
+            "6",
+            "12",
+            "13"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1914",
+        "title": "🚀 AI Is Changing What Matters in Software ",
+        "description": "\n      AI can generate code faster than most teams can think. That does not mean the hard part is over. The software industry has spent years overvaluing output: more tickets closed, more features shipped, more code written, more visible motion mistaken for progress. AI supercharges all of that. It also reveals how incomplete that view always was. In enterprise software especially, the hardest part was never just making more things. It was deciding what matters, what is noise, what to preserve, what to cut, and how to keep systems and products coherent under real-world pressure.\n\nAI is compressing the value of output and exposing the value of decision quality. It is exceptional at generation and acceleration, and increasingly useful in analysis and recommendation. But the highest-leverage work in software still lives in framing the problem well, setting the right constraints, making sound tradeoffs across technical and business realities, and staying accountable for the consequences over time. This talk argues that AI is not reducing the value of great engineers, product thinkers, or technical leaders. It is making their highest-value work easier to see. In a world of abundant generation, the differentiator is increasingly judgment.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "AI/ML"
+        ],
+        "list": "ai",
+        "categories": [
+            "2",
+            "7"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1915",
+        "title": "Building A Profitable Independent Newsletter ",
+        "description": "\n      I am a longtime journalist that founded the web site AllYourScreens.com and its sister newsletter Too Much TV.\n\nTooMuchTV is a five day a week newsletter with a current free subscriber base of around 175,000 and a paid subscriber base of just under 9,000 paid subscribers. In the past several years, the newsletter has won several national journalism awards and broken a number of big stories. It's been mentioned in a number of other publications, including in the Associated Press, The Independent, The Verge, CNET, The Minnesota Star Tribune, Slate, Marketwatch, Variety, The Hollywood Reporter, The Guardian and many more.\n\nI'll talk about the journey that led to me running a financially successful newsletter and the lessons I learned along the way. It's not easy to accomplish, but it is possible and if nothing else, perhaps I can inspire a few people to give their idea a serious shot at success.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Startups",
+            "Wildcard",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "4",
+            "13",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1916",
+        "title": "What should I do while AI is working? answer will shape the future of humanity ",
+        "description": "\n      90 seconds here. Five minutes there. All those moments while you wait for AI to generate a response to your prompts add up. A new genre of free time now exists. Humans need to decide what to do with it\n\nIn this session we’ll explore the various ways we can respond to this new-found free time and discuss how these micro moments will shape the future of how humans work and live with AI. \n\n      \n    ",
+        "tags": [
+            "All levels",
+            "AI/ML",
+            "Soft Skills"
+        ],
+        "list": "ai",
+        "categories": [
+            "7",
+            "10"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1917",
+        "title": "\"Can an AI Learn to Truly Listen? The Making of Markos\" The story of building a conversational AI for men who've stopped talking and what we learned about silence, trust, and what it means to be heard. ",
+        "description": "\n      \"Men Don't Need Better Listeners. They Need to Start Talking.\"\n\nThere are 17 veterans dying by suicide every day in America.\nMost of them never told anyone they were struggling.\n\nWe're not building a better therapy app. \nWe're not building a journaling tool. \nWe're not building another wellness chatbot with a calming color palette.\n\nWe're building an upstream intervention an AI that meets men in the silence before the crisis, and asks the question that cracks it open.\n\nmrkos.ai is a bet that the hardest problem in conversational AI isn't sentiment analysis or context windows. \nIt's this: how do you build something a man who doesn't want to talk will actually talk to?\n\nThis session is the honest answer. \nThe philosophy behind it. The psychology inside it. \nThe engineering decisions that kept us up at night. \nAnd what 571 questions taught us about what men actually need to hear.\nLive demo. Real conversation. Bring your skepticism.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Startups",
+            "AI/ML"
+        ],
+        "list": "ai",
+        "categories": [
+            "4",
+            "7"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1918",
+        "title": "\"They'll take anyone - even English majors!\": Putting the Language in Large Language Models ",
+        "description": "\n      The quote in the title was encouragement I received about a program in 2012, when I was deciding to enroll in an M.S. in Software Engineering. I was not an English major. I was something considered even more useless during The Great Recession; I was a Global Studies major with a world language addiction.\n\n\n\"Delve\"\n\"It's Not X, It's Y\"\nEm dashes (-- RIP?)\nBulleted lists with emojis\n\n\n\nLet's review and discuss LLMs and code generation through a linguistic lens. Not just examples of the cues that tip us off that someone has sent us their Chat response unedited and our thoughts about the etiquette of that (although this is welcome!); but consideration of changing internet language norms. Because language.\n\n“Language is humanity's most spectacular open source project.”\n― Gretchen McCulloch, Because Internet: Understanding the New Rules of Language\n\nOne thing I love about software as an industry is it has given me greater opportunity for international collaboration than even my original major. My colleagues speak a multitude of mother tongues. A few coworkers have called into zoom from a new country every other week. But at the end of the day, we all produce code in languages that take their vocabulary mostly from English (our current business lingua franca). We'll explore exceptions, and look at how AI is also a language unto itself that is in turn shaping our human communication.\n\nIn the spirit of keeping Minnebar weird, come ready to experiment with LLMs and creative/collaborative output in a competitive race. I'll bring the markers and posterboard!\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "AI/ML",
+            "Community",
+            "Other"
+        ],
+        "list": "ai",
+        "categories": [
+            "2",
+            "7",
+            "9",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1919",
+        "title": "Speak the Domain: How DSLs Help Humans — and AI — Model the Real World ",
+        "description": "\n      What if instead of writing code to describe something, you could write a language about it? That's the idea behind domain-specific languages, and once you've built one, you'll never stop seeing where they belong. \n\nIn this talk, Jake introduces DSLs from first principles: what they are, why they're worth reaching for, and how they let you model messy real-world problems with surprising clarity. He'll walk through Tamarack, an open DSL he's building for video and image annotation, as a hands-on case study — showing how a well-designed language can describe scenes, sync media, and track annotations in a way that's human-readable, git-friendly, and built from the ground up to be understood by AI. \n\nThat last part matters more than ever. As AI becomes a collaborator in our workflows, the structure and intentionality of a DSL gives it something powerful: a constrained, meaningful vocabulary to work with — making its output more predictable, more trustworthy, and more useful. You'll also get a practical, beginner-friendly look at how to actually build one — from identifying the right domain to designing a grammar your team can read on day one. You'll leave with a new mental model and the tools to start speaking your own domain.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Emerging Tech",
+            "AI/ML"
+        ],
+        "list": "ai",
+        "categories": [
+            "2",
+            "6",
+            "7"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1920",
+        "title": "📡🕸️ Preppers & Comrades Unite: Building a Decentralized Mesh Network for Resilient Communication ",
+        "description": "\n      What happens when digital communication systems go down or simply aren't available?\n\nWhile that might sound like a worst-case scenario, it’s also a practical problem. Communication can become unreliable or inaccessible for all kinds of reasons, ranging from infrastructure outages and remote environments to situations where networks are congested, limited, or impeded.\n\nIn this session we’ll explore Meshtastic, an open-source, off-grid communication platform that uses low-power LoRa radios to create decentralized mesh networks. These networks allow devices to send text messages and share location data without relying on cellular service, Wi-Fi, or traditional infrastructure.\n\nYou’ll learn how Meshtastic works, what makes it unique, and where it fits into real-world use cases from outdoor adventures to emergency preparedness, as well as grassroots communication with privacy in mind.\n\nI’ll also demo a personal project I built which extends Meshtastic’s capabilities by bridging it with a modern messaging platform, opening up new possibilities for resilient and adaptable communication systems that can operate across network boundaries.\n\nWhether you're curious about off-grid tech, mesh networking, or building resilient systems, this talk will give you a practical introduction and a look at what’s already happening in Minneapolis and across the world.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Emerging Tech",
+            "Design",
+            "Wildcard"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "6",
+            "1",
+            "13"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1921",
+        "title": "MN Indie Gamedev Microtalks 2026 ",
+        "description": "\n      5-10 speakers who are game developers in some capacity, talking about their games and/or their experiences.\n\nWe'll update this description with short blurbs from each of the speakers as they are locked-in.\n\nFor example:\n\nMartin Grider will talk about his exploration of game design ideas related to hexagons with rounded (convex and concave) edges.\n\nChip Pedersen What does a retired Game Executive do, when they retire? They make the games they always wanted to do with today's tools.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Wildcard",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "13",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1922",
+        "title": "Canary in a Gold Mine:  De-risk Your Product with Quick & Dirty Experiments ",
+        "description": "\n      Potential investors assess risk from the moment they open your pitch deck.  This interactive session will give founders a framework for assessing and addressing some of their biggest unknowns - before they face a diligence panel.  Sound expensive?  It doesn't have to be!  Learn how to zero in on the most impactful bang for your limited-resource bucks.\n\nAudience takeaways:\n- Overview of Design Thinking and founder self-assessment\n- Brief intro to identifying your biggest actionable risk\n- Examples of how quick and dirty experiments can be used to de-risk complex technology\n\nFormat:\n- 15-20 minutes interactive presentation\n- 20-25 minutes speed brainstorming (1:1 volunteer founder/speaker, 5 min each, open with identified risk and close with testing ideas)\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Startups",
+            "Design",
+            "Product"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "4",
+            "1",
+            "8"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1923",
+        "title": "When Disability Is Misread: Safety in High-Stress Systems ",
+        "description": "\n      Imagine you process information more slowly, avoid eye contact when overwhelmed, or shut down under stress. Now imagine being confronted by law enforcement during a large-scale enforcement operation like Operation Metro Surge here in Minnesota.\n\nWhat might be interpreted as defiance could simply be disability.\n\nThis session examines that moment, when behavior is interpreted quickly and often incorrectly. We will explore practical tools and community-informed strategies that help people with disabilities prepare, communicate clearly, and reduce risk in high-stress encounters. You will leave with concrete ideas you can apply in design, policy, and real-world interactions.\n\nIf you care about accessibility, dignity, and real human impact, join the conversation.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Wildcard",
+            "Soft Skills",
+            "Community"
+        ],
+        "list": "none",
+        "categories": [
+            "13",
+            "10",
+            "9"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1924",
+        "title": "Whose Utopia? Restructuring the Digital Environment in an Age of Human - AI Relationships ",
+        "description": "\n      Utopia did not originally imply a place of perfection. In fact, it means \"no land\" or \"nowhere\". The digital environment is such a place. It is at once nowhere, and a place in which we spend more of our time. It is far from perfect, but it is more malleable than the physical world. While the two are inseparable they need not be mirror images.\n\nThe rapidity of developments in artificial intelligence over the last decade are awe inspiring. Scale and influence has grown increasingly concentrated in a few corporations, and the structure of the digital experience appears to be a foregone conclusion. The confluence of narratives, digital and economic, can leave the individual feeling as if they are caught in a rip tide and being dragged out to sea. However, a rip tide is not inescapable. By swimming crosscurrent, we can restructure the human experience in the digital utopia. \n\nWhether you are a technologist, entrepreneur, enthusiast, skeptic, or some combination thereof, you are part of the digital environment. Join me for a brief presentation and rich discussion about the world we inhabit and the world we create. \n\n      \n    ",
+        "tags": [
+            "All levels",
+            "AI/ML",
+            "Community",
+            "Wildcard",
+            "Other"
+        ],
+        "list": "ai",
+        "categories": [
+            "7",
+            "9",
+            "13",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1925",
+        "title": "50 Ways to Leave Your Company in Ruins ",
+        "description": "\n      A talk about farts. Wait, nobody's going to come to that. Forget I said that. It's not about farts.\n\nA talk about the messes we make at tech companies, which bear a purely metaphorical resemblance to farts.\n\nEvery company has them (messes, not farts). And, just like farts, each one is pungent in its own special, unique way. The holes we dig for ourselves are uniquely our own, though maybe with enough perspective we'll be able to spot some common characteristics. \n\nThrough 18 years in the tech industry, half of that freelancing, I've ridden a few sinking ships and some others that were taking on an awful lot of water. Come with me on a retrospective of all the different ways a tech company can flounder. We'll have some fun, and see if there's anything at all we can learn from it.\n\nBring a story about the most notable failure you've been a part of, and we'll have some time for sharing at the end.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Startups",
+            "Product"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "4",
+            "8"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1927",
+        "title": "Build a Business that Isn't Soul Sucking ",
+        "description": "\n      Whether you're founder-curious or you've already taken the plunge, this one's for you.\n\nYou finally have the freedom to build something on your own terms. So why does the business you're planning look suspiciously like the job you just left?\n\nIn this session, we'll walk through real stories of people who started with the obvious idea and ended up building something far more interesting, far more profitable, and uniquely theirs. Along the way, you'll reflect on your own business idea, stress test it, and leave with a clearer sense of what you should actually be building.\n\nFair warning: You might walk out of here with a completely different business than the one you walked in with. That's kind of the point.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Startups",
+            "Careers",
+            "Marketing"
+        ],
+        "list": "none",
+        "categories": [
+            "4",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1929",
+        "title": "Learning Together to Build LLMs at Scale with Open-Source Coursework ",
+        "description": "\n      In this presentation, we will share our experience of bringing together a study group to learn how to build and scale language models from scratch using Stanford’s open-source CS-336 coursework.\n\nWhat started as a straightforward plan with weekly study sessions and hands-on homework, quickly came face to face with reality: varied skill levels, competing priorities, and schedules that didn’t resemble a university semester. Along the way, we discovered that organizing and sustaining the group was at least as challenging as understanding the trade-offs in scaling and optimizing the training of large language models.\n\nIn this session, we’ll discuss the motivations and tactics that helped us form and keep an engaged learning community. We’ll cover how we adapted the material for participants with diverse backgrounds, restructured expectations when the original plan fell short, and leaned into individual members’ expertise to create a more sustainable and rewarding experience.\n\nThe talk is practical, honest, and intentionally humorous. Attendees will leave with actionable insights for running their own technical study groups, learning effectively from open-source coursework, and navigating the inevitable “bumps in the road” that come with expanding their knowledge, especially when doing so alongside others.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "AI/ML",
+            "Soft Skills",
+            "Careers"
+        ],
+        "list": "ai",
+        "categories": [
+            "7",
+            "10",
+            "11"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1930",
+        "title": "The Good Years: Formative Tech Companies in the Twin Cities ",
+        "description": "\n      In the Twin Cities tech scene, a handful of companies keep coming up - places like Code42, Refactr, Clockwork, Sport Ngin, GovDelivery, etc. - where it was a genuinely great place to work and a cohort of really good people all happened to be there at the same time. If you were there during the right years, you know it, and you probably still keep in touch with those people.\n\nThis session is about those runs. For each company, we'll try to articulate three things:\n\n\n📈 When was the golden era?\n✨ What made it special?\n📉 What changed?\n\n\n‼️ Help me make this session great: I put together a very short form to gather data and stories for this session. You'll help me immensely by filling it out for one (or multiple) companies you've worked at that had one of these runs. Even better, share it with former coworkers who were there during the same era.\n\nI'll compile the results and share my findings during this session. It won't be about naming and shaming, more identifying patterns and themes to help us all recognize these special places when we see them in the future.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Startups",
+            "Careers"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "4",
+            "11"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1931",
+        "title": "End-to-end tests considered harmful (securing credentials for E2E and synthetic testing) ",
+        "description": "\n      Last summer, eager to show a team how easily they could author Microsoft Playwright tests to determine whether their site still works after each new vendor patch ... I came five seconds away from hitting \"send\" on a test run results report that would have included:\n\n\nscreenshots of my bank account number, and\nbrowser history including a cookie that could have let them log in as me and reroute my next payments to themselves.\n\n\nMy impatient boundless enthusiasm is partly to blame, but it could happen to any of us, because the problem is inherent to the nature of automation:\n\n\n\nCredential problems arise quickly when we take humans out of the loop and automate testing authenticated systems.\n\n\nThis session explores the security implications of common testing practices, and presents practical alternatives that maintain quality assurance and observability without compromising security.\n\nYou'll learn authentication and authorization patterns to improve test security across the software development lifecycle.\n\nProperly implementing mitigations like health check endpoints, synthetic data, and privilege separation likely involves more subject matter expertise than is reasonable to expect everyone to hold at once, so you'll leave this session with a shareable vocabulary you can use to align business, development, quality, identity, security, and monitoring teams as you work toward safer test automation against your most important systems.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "Design"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1932",
+        "title": "What the fuck are passkeys and why are they everywhere now? ",
+        "description": "\n      It seems like every time you login to a website nowadays, it asks you to create a passkey. If you’re like me, you initially assumed this was some sort of scam. But now that it’s everywhere, you’re beginning to wonder what it’s all about and why every website is pushing it constantly.\n\nThis talk will cover the basics of what a passkey is, how they came to be, and what you should do about them now that they’re here.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Development",
+            "Emerging Tech"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "6"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1933",
+        "title": "Deep Reflection, Vulnerability, and Learning: How AI Can Help Unlock Your 5% ",
+        "description": "\n      Personal reflection requires something most of us avoid: honesty and vulnerability. Entrepreneurs’ Organization (EO) members are trained to reflect regularly on their work, family, and personal life experiences through the “5% Reflection” practice, but consistency and depth can be very hard.\n\nIn this session, you will learn about the EO 5% Reflection methodology and I'll demonstrate a custom GPT that helps guide deeper, more vulnerable thinking about your experiences.\n\nWe’ll explore:\n\n\nWhy meaningful reflection is uncomfortable – and why that matters\nHow prompts structured by AI can encourage more honest thinking\nA live demo of the custom GPT 5% Coach\nHow sharing your 5% reflection can benefit others through resonance\n\n\nThis will be part demo, part discussion. Come if you’re interested in thinking more clearly about your vulnerabilities, experiences, successes, and blind spots.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "AI/ML",
+            "Soft Skills"
+        ],
+        "list": "ai",
+        "categories": [
+            "7",
+            "10"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1934",
+        "title": "Shipping Atoms and Bits: What Building Physical Products Taught Me About Better Engineering Decisions ",
+        "description": "\n      Most tech talks assume your product lives in the cloud. Mine ships in a box.\n\nI lead engineering at a small professional audio/video company where software, firmware, and hardware all have to work together on day one. Our products range from Bluetooth Auracast audio devices to AI-powered real-time translation, and all of them have to ship on time with a small team and a real budget. A hardware mistake means a costly respin, not a quick patch. That changes how you think about every decision.\n\nIn this session I'll share things that building physical products taught me that I think apply to anyone making engineering decisions:\n\n\n\nCoordinating teams that move at completely different speeds. Hardware timelines don't bend to your sprint cadence. How we blend structured milestones with agile sprints so firmware, software, and hardware teams stay aligned without slowing each other down.\n\nRolling out AI tools when you don't have an AI team. Our actual strategy for adopting AI tools across the entire company, what stuck, what flopped, and how it's changed what we can take on.\n\nYour team isn't generic, so why is your tooling? Enterprise software is either too expensive or too bloated for a small team, and the spreadsheet you've been nursing along is one pivot table away from collapse. I used Claude Code to build a custom resource planning tool in a week. No dev team, no six-figure license. I'll make the case that building your own tools is now a real option for any small company.\n\nSaying no to good ideas. How constraints on time, people, and budget force better prioritization than any framework.\n\n\nWhether you're an engineer thinking about leadership, a founder wearing every hat, or a developer curious how the \"other side\" builds products, there's something here for you.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "AI/ML",
+            "Product",
+            "Careers"
+        ],
+        "list": "ai",
+        "categories": [
+            "2",
+            "7",
+            "8",
+            "11"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1935",
+        "title": "Don’t Blame the User—Fix the Design: The UX of Streets and Cities ",
+        "description": "\n      Following up from last year’s deep dive into traffic signal technology, this talk shifts focus to the human side of our streets.\n\nWhy do people “break the rules”?\nWhy do some streets feel stressful, even when they’re technically safe?\nWhy do drivers, cyclists, and pedestrians seem to be in constant conflict?\n\nThe answer often isn’t (just) bad behavior—it’s design.\n\nIn this session, we’ll apply UX thinking to urban planning: affordances, mental models, and cognitive load in the real world. We’ll look at bikeways, intersections, transit, and accessibility—and how each user is making decisions based on incomplete, conflicting signals.\n\nCities are designed systems—and they’re constantly changing. This talk will give you a UX lens to better understand the streets you use every day, spot what works (and what doesn’t), and feel more confident engaging in the changes shaping your neighborhood.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Design",
+            "Wildcard",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "1",
+            "13",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1936",
+        "title": "AI Doesn't Care If You Can Code ",
+        "description": "\n      There's a story we keep telling about AI: it's a tech tool, for tech people, and if you're not technical, you're behind.\n\nThat story is wrong. And it's costing us talent.\n\nAI is a language interface. The quality of what you get out is directly tied to how well you communicate what you need - context, nuance, specificity, the messy details. That's not a coding skill. That's a people skill. It's the skill you build after 15 or 20 years of managing ambiguity, reading rooms, translating between teams, and explaining complicated things to people who don't want to hear them.\n\nThe people with the deepest reps in exactly that kind of communication? They're the ones most likely to be sitting AI out right now. Not because they can't learn it. Because nobody told them the thing they're already good at is the thing AI actually rewards.\n\nIn this session, we'll prove it live. I'll take two prompts - one written like a command, one written like a conversation - and we'll watch the difference in real time. Then you'll try it. No slides after the first five minutes. No lecture. Just evidence.\n\nYou'll walk out knowing:\n\n\nWhy AI rewards the person with the most context, not the most technical skill\nThe single reframe that changes how you (or your team) approach any AI tool\nWhat a good prompt actually looks like, and why it sounds more like a briefing than a line of code\n\n\nFair warning: some of you are going to realize you've been underestimating the least technical person on your team. That's the point.\n\nBring your phone. Bring your skepticism. I'll bring the receipts.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "AI/ML",
+            "Community",
+            "Soft Skills",
+            "Careers"
+        ],
+        "list": "ai",
+        "categories": [
+            "7",
+            "9",
+            "10",
+            "11"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1937",
+        "title": "Gopher Supercomputing: Past, Present, and Future ",
+        "description": "\n      The University of Minnesota has been a longstanding leader in scientific computing. It was the first U.S. University to buy a supercomputer, from Minnesota- and Wisconsin-based Cray Research in 1981. In the years since, the Minnesota Supercomputing Institute has offered on-campus computing resources and technical expertise to thousands of researchers around the state, enabling scientific discoveries in disciplines including genetics, chemistry, astronomy, and economics.\n\nAs an engineer at MSI, I've seen firsthand the value of this resource to the research community, and the interesting legacy quirks that come with operating a decades-old computing center. \n\nIn this session, I'll share an overview of MSI's history, a virtual tour of its current datacenter in the basement of a 100-year-old library, and get into the tech we use today and some examples of the computational research people are doing. And we'll touch on how things may change in the years ahead, as AI seeps into academia and hyperscalers eat the world's hardware supply.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Wildcard",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "13",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1938",
+        "title": "The Truman Show: Reclaiming Self-hood When its Not in the Script ",
+        "description": "\n       I will detail concrete steps and tools I used to extricate myself from the claws of Big Tech. I enjoy storytelling and will share some amusing and somewhat disquieting anecdotes along the way (with screenshots ofc). \n\nWe are all living in our own version of the Truman show, dis-reality, embedded ads , Big Tech following us around the internet ---unprecedented data collection from our sleep cycles, taste in music, and even our heartbeat in real time. The Orwellian surveillance economy wrapped itself in convenience and clean minimalist aesthetic. Much like edelweiss and Truman's quaint home, our devices and interfaces looked harmless and happy to greet us-- \n\nFunny thing is, we didn't realize that google was actually googling us. \n\n You will encounter almost comical levels of friction when you assert your autonomy from these established platforms and reclaim your self-hood.  As Truman did when he breaks from his routine and boldy attempts to leave Seahaven.  The obvious guardrails  at the point of exit for these systems is  illustrative; \n\nCompliance is expected and entitlement to our lives has been normalized. Much like the director  in the film; Sam Altman, Mark Zuckerberg, Elon Musk see our lived experience and personal data as their asset - believing that grand visions somehow legitimize disenfranchisement\n\nIn the face of all this its easy to become apathetic, believing we have passed a point of no return, or we are too small to make a difference. The truth is if you are big enough to be a target you're big enough to effect change.  We can begin again,  we can use non-extractive tools that respect our right to privacy, and we can build ethical ecosystems of our own. \n\nWe don't have to go it alone , we have communities like Minnestar, perhaps a writing club, a neighborhood garden---We need to value each other like never before---and like Truman we have to be willing to face the unfamiliar , abandon well worn paths and patterns, and bid a farewell to the unblinking eye of big tech:\n\nGood Morning- and in case I don't see you, Good Afternoon , Good evening , and Goodnight.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "AI/ML",
+            "Soft Skills",
+            "Wildcard"
+        ],
+        "list": "none",
+        "categories": [
+            "7",
+            "10",
+            "13"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1939",
+        "title": "Early Stage Funding in Minnesota ",
+        "description": "\n      With the launch of the Minnesota Angel Investor Network, there are new opportunities for funding in Minnesota! Learn how getting funding from angel investors works, as well as other funding options available within the state. Also, learn what makes a good pitch, and what to avoid.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Startups",
+            "Community",
+            "Marketing"
+        ],
+        "list": "none",
+        "categories": [
+            "4",
+            "9",
+            "12"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1940",
+        "title": "Entrepreneur Panel: Maximizing Value from a Mentor ",
+        "description": "\n      Each member of this panel is currently using a mentor and has found it valuable. They will discuss their experience in a formal mentoring program and will address these issues:\n\n• Why consider having a mentor? • How does a mentor differ from other advisors and investors? • What should you look for in a mentor or in a mentoring program? • What is an example of your mentor’s impact on your decision making? • What does a good mentor do and not do? • How has your mentor changed how you think about your business? • What is your cadence for meeting with your mentor?\n\nA good mentor provides unvarnished, straight guidance and feedback shaped by experience and motivated by a pure desire to see the entrepreneur succeed.\n\nWe believe that this discussion will benefit any entrepreneur considering a mentor or mentoring program. We hope it will provide specific and actionable guidance. The panel moderator will conduct an “open Q&A” session for the final 10-15 minutes of the session.\n\nThis panel, with a different set of entrepreneurs, was well-received at Minnebar 18 and 19, with 40--50 attendees.. Mark Capaldini will once again serve as Moderator.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Startups"
+        ],
+        "list": "none",
+        "categories": [
+            "4"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1941",
+        "title": "We Won a Global Hackathon. Then We Built a Real Company. Here's What Changed. ",
+        "description": "\n      One of us spent 18 years in a high school classroom. The other leads enterprise AI strategy at the University of St. Thomas. Together we built RealPath Learning — and won the SheBuilds Season 2 Buildathon out of nearly 2,000 global applicants.\n\nThe problem we couldn't stop thinking about: teachers spend 3 hours differentiating a single lesson — and a 2024 DOJ ruling just made that a federal compliance crisis for every K-12 district in America.\n\nSo we built something. Using Lovable, Claude, and a hackathon deadline, we went from idea to working product fast. Now we have a real company, district pilots , and a $500K seed raise in motion.\n\nThis session is the unfiltered story: what tools we used, what broke, what surprised us, and what we wish we'd known about building a compliance-driven EdTech startup as two non-traditional founders. If you've ever had an idea you thought required a \"real\" developer — or a \"real\" background — this session is for you.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Development",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML",
+            "Design",
+            "Community"
+        ],
+        "list": "ai",
+        "categories": [
+            "2",
+            "4",
+            "6",
+            "7",
+            "1",
+            "9"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1942",
+        "title": "Don't Rip and Replace: how to avoid the shiny upgrade pitfall in long-term systems ",
+        "description": "\n      \"But when we move off CodeIgniter and onto Laravel, that'll fix all the little bugs\"\n\n\"Check out this new JS Framework; it'll improve our dev productivity\"\n\n\"The vendor assures me the migration to this new ERP will be painless, and the ROI will pay off in 3 years\"\n\nFor long-running systems, upgrades are often more painful than they're worth. \n\nBut what's the alternative?  Sticking with old, crusty code from yore?\n\nWe'll discuss why upgrading is painful, different options for upgrading, and finally, ways we've found to not upgrade.\n\nCome and share your upgrade experiences.  Come and learn why we're still running a project on 2010's latest technologies - Grunt and Bower - and why we have forced ourselves to not upgrade.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "Product",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "8",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1943",
+        "title": "Newbie Table ",
+        "description": "\n      New to Minnebar? Come find the Newbie Table outside of Sandy's Place (the cafeteria)!\n\nThe Newbie Table is your home base to ask questions, meet friendly faces, and get the lay of the land.\n\nWhether you’re flying solo or just want someone to chat with between sessions, stop by and say hi. We’ll have longtime community members on hand to help you navigate the day, make connections, and feel right at home.\n\nThis table is open all day.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1944",
+        "title": "\tMega Minne Multi Indie Mini Arcade ",
+        "description": "\n      Stop by to play some locally made games!\n\nThis year the arcade will have:\n\n🎮 TVs running a selection of locally made video games\n\n🎲 Tables with locally designed board games\n\n🧠 Information about how to get involved with game development in the Twin Cities, including our chapter of the International Game Developers Association (igdatc)\n\n💪 Volunteers on-hand to talk about all of the above\n\nThis thing is going all day long!\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Wildcard"
+        ],
+        "list": "none",
+        "categories": [
+            "13"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1945",
+        "title": "3D Printing: Getting Started ",
+        "description": "\n      Are you interested in 3D printing but don't know how to get started?\n\nThis session is to give aspiring 3D printing hobbyists a rundown of what it is, what it isn't, and how to start trying it out if you're interested.\n\nWe'll be exploring:\n\n\nTypes of 3D printers\nTypes of filaments / resin\nSoftware for creating objects\nSlicing software for prepping files for printing\nCaveats, considerations, and drawbacks\nSafety\n\n\nThere will be time for a Q&A at the end for anyone who has specific questions. 3D printing is an exciting, fun, sometimes frustrating, and extremely vast and deep hobby. I hope you'll join and find out more about one of my favorite hobbies!\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Wildcard"
+        ],
+        "list": "none",
+        "categories": [
+            "13"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1946",
+        "title": "✱✱ State of Minnestar: A Community Conversation on the Past, Present & What’s Possible! ✱✱ ",
+        "description": "\n      Minnestar has always been by the community, for the community — and that’s especially true as we look ahead to what’s next.\n\nAs we celebrate 20 years of Minnestar, we’ll take a moment to reflect on where we’ve been, share where things stand today, and open up the conversation about where we go from here.\n\nMost importantly, we’ll gather your ideas, hopes, and feedback to help shape what’s ahead.\n\nWhat do you want to see more of? What’s missing? What would make Minnestar — and spaces like Minnebar — even more welcoming, inclusive, and impactful?\n\nWhether it’s your first Minnebar or your twentieth, this is a chance to share ideas, ask questions, and help shape what comes next.\n\nCome be part of the conversation.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Community"
+        ],
+        "list": "none",
+        "categories": [
+            "9"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1947",
+        "title": "Owning your engineering career progression and some advice from Tom Hanks ",
+        "description": "\n      Career advancement in engineering is often opaque. Promotion criteria is frequently unclear, inconsistent, or interpreted differently even across teams at the same company(!), making it hard to know whether you’re operating at the level required to grow, and whether or not anyone is recognizing your growth.\n\nI will introduce a practical, repeatable framework for taking ownership of your career progression. Drawing from experience participating in and also designing career ladders across organizations ranging from startups to large enterprises, I’ll walk through how to turn vague expectations into an actionable growth plan and create alignment with your leadership.\n\nYou’ll learn how to:\n\n\nTranslate ambiguous promotion criteria into concrete actions\nBuild a career roadmap aligned with your organization’s expectations\nHave productive, low-friction conversations with your manager about advancement\nDocument your work and impact in ways that matter for promotion decisions\nShift from reactive career management to intentional proactive planning\n\n\nYou’ll leave with a system you can apply at any company to create clarity around growth and to advocate effectively for your own progression. While the examples focus on software engineering, the framework applies broadly to technical roles across the industry.\n\nAnd Tom Hanks has some great advice that I will share with you too!\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "Soft Skills",
+            "Careers"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "10",
+            "11"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1948",
+        "title": "Code, cloth, and your hands: How engaging in textile craft makes you a better technologist ",
+        "description": "\n      The Jacquard loom gave us binary code and beautiful brocades. What else has the world of textiles given us and how to does engaging in textile craft make us better technologists? Turns out a lot. Spend 40 minutes engaging in hand quilting and Sashiko embroidery with your peers. Zero experience requires as we are all here to learn. \n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Design",
+            "Community",
+            "Soft Skills",
+            "Careers"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "1",
+            "9",
+            "10",
+            "11"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1949",
+        "title": "Dr. BotLove or: How I Learned to Stop Worrying and Love the AI ",
+        "description": "\n      I’ll be blunt: AI is really cool, but also really, really dumb. It can build an app in an afternoon, design a VR videogame overnight, update your systems, and build an entire ETL system. It also can’t remember who you work for, has a habit of broadcasting your secure keys, and clutters your codebase with dozens of debug_duplicate.py files. \n\nAI is the best of the worst tools in our belt. It’s brilliant, it’s broken, and I use it every single day\n\nIn this session, we’re taking a frank look at where AI actually is right now, where it shines, and where it consistently falls apart. The critical topics of how to make it useful, where it shines, where it just won't work, and ways to make it less obnoxious. How to accommodate goldfish memory, terrible assumptions and tendencies to go on “adventures”. Strategies the average user to leverage these tools safely and sanely without a dedicated dev team or a complex setup.\n\nThere are various ways to integrate it into your work life without losing your mind (or your ability to think). Come learn how to interact with the bots recognizing they are like an overconfident, very smart, but completely chaotic junior dev.\n\nScope: This discussion will be focused on commercially available AI tools like Claude, ChatGPT, Gemini, and Copilot. I’m sure some of y’all have custom fixes for all these issues, but for this we’re focusing on the out-of-the-box bots were stuck with.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "AI/ML",
+            "Product",
+            "Soft Skills",
+            "Wildcard"
+        ],
+        "list": "ai",
+        "categories": [
+            "7",
+            "8",
+            "10",
+            "13"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1950",
+        "title": "Crafternoon ",
+        "description": "\n      BYOC - Bring your own craft (knitting, crochet, embroidery, cross stitch, etc)\n\nMeet other crafters and work on your craft.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Community",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "9",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1951",
+        "title": "I'm Disabled & You Will Be, Too ",
+        "description": "\n      According to the World Health Organization currently about 1 in 6 people experience a significant disability.\n\nWhile the numbers of disabled people vastly outnumber software engineers, software products are still being shipped that are not digitally accessible.\n\nCome learn some basics that everyone, no matter their role in the software development cycle, can use to make more accessible products.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Design",
+            "Community",
+            "Soft Skills"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "1",
+            "9",
+            "10"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1952",
+        "title": "Horror Movie Survival: Protecting Yourself From Airborne Pathogens ",
+        "description": "\n      A common trope in stupid horror movies is authority figures who prove to be too clueless and wimpy to protect the people.\n\nSadly, the writers of those stupid horror movies are proving to be much smarter than they seem. Because there's nobody in charge of public health, you and I have MORE responsibility.  Worse yet, there are people in charge who are working hard to undermine public health.\n\nThe threat I'm focusing on in this session is airborne pathogens. COVID-19 is an airborne disease and is still raging. Worse yet, so many people have had their immune systems weakened by COVID that more diseases have become more prevalent. H5N1 bird flu has become a full-blown pandemic for birds and cows, and not enough is being done to prevent it from becoming a pandemic for humans as well.\n\nI believe that airborne pathogens are nastier than ingested pathogens. Unlike your stomach, your lungs and nasal passages do not have a strong acid that kills pathogens. You can wash your hands, but you CANNOT wash your lungs.\n\nFortunately, there are ways to protect yourself from airborne pathogens, and the world would be a much better place if these practices were the norm. In this session, I will focus on air purifiers and masks. Air purification and masking in tandem provide MUCH more protection than either one alone.\n\nPeople are more concerned about sanitizing surfaces, but sanitizing the air is MUCH more important. Air purifiers sanitize the air, and there are ways to build them on the cheap. Yes, it's possible to build your own air purifier that's just as effective as some commercial products that are at least 10 times more expensive. You can use the money you save to build more air purifiers.  If you want a quiet air purifier that does not get in the way of conversations, music, TV shows, or music, you can build one using quiet PC fans or buy an air purifier from Clean Air Kits.\n\nIf you have abandoned wearing a mask, you should return to this practice. Just because you should wear a mask does NOT mean you have to suck it up and suffer from an uncomfortable one. In this session, I'll discuss the masks/respirators that I like because they offer comfort AND N95 or better protection. I'll discuss the masks I like best (such as my 3M HF-802SD and 3M Aura masks) and the masks that I hate (such as ear loop mask and 3M's N95 cup masks).\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1953",
+        "title": "Hack Your Legal Costs: AI + Your Attorney in 2026 ",
+        "description": "\n      Founders are already using ChatGPT, Grok, Claude and other AI to draft contracts, review investor terms, and do legal research. Some of that's great, and some of it's going to cost you your company when it blows up.\n\nThis session is a practical walkthrough of how to use AI and your lawyer together to get quality legal work done faster and cheaper. We'll look at live examples: AI drafting a SAFE (what it nails, what it hallucinates), AI reviewing a contractor agreement (what it catches, what it misses), and AI \"doing legal research\" (when it's useful, when it's confidently making things up).\n\nYou'll leave knowing:\n\n\nHow to use AI output to make your lawyer faster and your bill smaller\nThe mistakes AI makes about startup legal work that could actually sink your company\nConfidentiality risks with AI\nWhat an AI-forward law firm looks like in practice, and why it matters for your budget\n\n\nThis isn't a talk about AI replacing lawyers. It's about founders being smarter about how they use both. Bring your laptop.\n\nPresenters: Todd Taylor and Alex Frescoln, Avisen Legal — startup and business lawyers with an AI-forward practice serving founders, funders, and growth companies.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Startups",
+            "AI/ML",
+            "Other"
+        ],
+        "list": "ai",
+        "categories": [
+            "4",
+            "7",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1954",
+        "title": "How To Sell Your Neighbor's Wi-Fi, For Fun and Bitcoin! ",
+        "description": "\n      I don’t have dedicated home internet at my apartment — but my neighbor’s cable company will sell me wireless internet access from his cable modem for $10/month. Then I run  TollGate.me on a cheap router and resell that bandwidth as a Bitcoin-powered hotspot.\n\nIn this session I’ll show you exactly how it works: the simple hardware setup, how Lightning micropayments flow in sats every time someone connects, and how people in a good location with spare bandwidth can turn it into automatic bitcoin income with almost zero ongoing effort.\n\nI’ll bring my hotspot router so you can try it yourself — I’ll give you a sample of ecash to pay and connect with your phone or laptop, and you’ll see the sats flow in real-time.\n\nIf you’ve ever wanted to set up a tiny ISP that pays you in bitcoin while you do nothing — or just see decentralized internet access in action — come check it out. No slides, just a working hotspot with real payments happening on the spot.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Emerging Tech"
+        ],
+        "list": "none",
+        "categories": [
+            "6"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1955",
+        "title": "What Happens When You Combine Bad Bunny + AI + Mental Health?  ",
+        "description": "\n      It starts with a WestCoast Swing Dance demo to a Bad Bunny song. Then it gets real. Cadre's CAIO Mike Arulfo breaks down the AI strategy powering a mental health platform built for humans, not algorithms. Dr. Charryse Johnson unveils The Cadre Way AI Framework— a clinical governance framework defining how AI operates in moments of vulnerability. Lead Product Designer Emily Rathbun demos the Cadre v1.5 application live! Facilitated by Sarah Edwards. Three perspectives. One mission. Zero boring slides.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "AI/ML"
+        ],
+        "list": "ai",
+        "categories": [
+            "7"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1956",
+        "title": "Sol LeWitt, Combinatorial Enumeration, and Rogue ",
+        "description": "\n      Sol LeWitt wrote that \"the serial artist does not attempt to produce a beautiful or mysterious object but functions merely as a clerk cataloguing the results of his premise.”  This premise could be a set of axioms, a geometric constraint – or a roguelike level generator! From this viewpoint, the enumeration of all outputs from a procedural content system is itself a type of artwork.\n\nRogue, a text-based dungeon crawler from the 1980s, is one of the first games that used procedurally generated content. It generates a random layout for each level that the player explores. Rogue's simple algorithms for doing so have been a source of inspiration for game developers for decades. But because Rogue uses a 32-bit psuedorandom number generator, there are \"only\" four billion possible levels, and we can enumerate them all.  (I'd hoped that there was some crunchy technical content about how to do so efficiently -- but it's actually pretty easy!)\n\nI’ll explore this connection between 20th century conceptual art and 21st century expressive range analysis. I'll show some examples of serial art, more recent examples of complete enumerations, and some results from looking at the Rogue level generator.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Wildcard"
+        ],
+        "list": "none",
+        "categories": [
+            "13"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1957",
+        "title": " Growing a Social Media Community: What’s Working Right Now ",
+        "description": "\n      Social media is full of advice- but what actually works today to build a real, engaged community?\n\nIn this session, I’ll break down current strategies for growing a personal brand and turning followers into a community that interacts, shares, and sticks around. I’ll share what I’ve learned building a community of 300K+ followers, including what worked, what didn’t, and what I would do differently if starting from zero.\n\nWe’ll cover:\n\nHow to find your voice and stand out (without feeling fake)\nWhat kind of content actually drives engagement right now\nHow to build trust and connection- not just followers\nPractical ways to stay consistent without burning out\n\nThis will be a collaborative session- come ready to share your experience, ask questions, and exchange ideas. Whether you’re just starting or already creating content, you’ll leave with clear, actionable strategies you can apply immediately.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Startups",
+            "Community",
+            "Careers",
+            "Marketing"
+        ],
+        "list": "none",
+        "categories": [
+            "4",
+            "9",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1958",
+        "title": "Questions to ask during a transition... and who can help. ",
+        "description": "\n      What am I doing? Who am I? What SHOULD I be doing? \n\nAll transitions are hard. I'm not just talking about the \"I need a new job\" transition. It could also be a \"I have a new boss\" or a \"it's really hitting me that I'm 40\" or even \"I guess I want to be done working\" transition. \n\nWe ALL transition, and inevitably some pesky thoughts creep up when that happens. We start to question and maybe even doubt what we are doing or the choices we have made. And then making even more choices is harder. \n\nWell, there is a lot of help out there and navigating that can be another hurdle and before you know it you haven't gotten any help and you are stumbling around uncertain and confused. \n\nLet's talk about transitional questions and how the different types of help out there may or may not meet the needs you have. \n\nI firmly believe, and my life has shown me, that going alone is the worst option. \n\nTransitions are hard, different types of help exists. Let's navigate that together. \n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Soft Skills",
+            "Careers",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "10",
+            "11",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1959",
+        "title": "Cannabis has always been healthcare. Building a cultivation, R&D, manufacturing and dispensary business.  ",
+        "description": "\n      Recreational, adult use cannabis is now legal in Minnesota. What's it like building a large cannabis business compared to other healthcare or high tech businesses? Join me to hear the journey and get free merch. \n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Startups"
+        ],
+        "list": "none",
+        "categories": [
+            "4"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1960",
+        "title": "Photogrammetry to Furniture -  Designing for the real world in Blender ",
+        "description": "\n      Sometimes string and cardboard aren’t enough to figure out a home improvement project. As a visual person I have found it extremely handy to use a couple of free tools to help visualize things before diving in. This started as a way for me to understand projects around my own house, but now it has transformed into a furniture business.\n\nIn this talk I will go over my process for taking a 3D scan of a space and prototyping with it in Blender. I'll also cover some of the pitfalls and rough edges you can encounter, and answer any questions about what's possible with these tools.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Design",
+            "Wildcard",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "1",
+            "13",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1961",
+        "title": "✨ Let’s animate! ✨ An Introduction to Rive.app ",
+        "description": "\n      The founders of Rive.app are twins that wanted to bring back the joy and interactivity that we lost after the death of Flash. In this session, learn about Rive.app, how it’s used, what platforms it integrates with, examples, and basic walkthrough.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Design"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "1"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1962",
+        "title": "You can do it all, just not all at once: Practical prioritization for leaders and builders ",
+        "description": "\n      What are we building? What's most important? When are we done? What's needed? Where will I find the time? What's next?\n\nLeadership is the effective reconciliation of the unlimited work and limited resources. So much dysfunction exists in this space. We have all felt the pain of messy planning and ineffective prioritization.  \n\nIt's cliche to say that \"priorities shift\" and yet, so many of our leadership practices are built on assumptions of stability. Beautiful vision statements grow stale and fail when we never update them.  We give ourselves and teams whiplash when we pivot too often and chase problems that weren't really in our way.    \n\nHow might we do better? \n\nWhat could it mean to update your vision regularly? What could it mean to embrace the rhythm of when, before what?  What could it mean to acknowledge the boundaries of the won't do list? \n\nIf you attend this session, expect to participate.  This is about you and your work.  Expect to walk away with work to do, and a few new techniques to help you do it. \n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Startups",
+            "Product",
+            "Soft Skills",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "4",
+            "8",
+            "10",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1963",
+        "title": "AI - Technology Cannibalism: Who Ate Who and What's Working Now ",
+        "description": "\n      Since last year a lot has happened in the world of AI.\n\nHundreds of new SaaS tools have become available and thousands of apps. \n\nSome have disappeared completely - or have they...\n\nFind out what AI tools have been eaten in the past year, and by who!\n\nAlso learn about what's working and what's not with AI tools that have the power to change the way we work.\n\nThis session will have a combination of information and demonstrations in a choose your own adventure format.\n\n\nWho Ate Who, and Who's Next...\nDemos: AI Wars! Pitting similar AI tools against each other to see who can and who can't do that\n\nSome fun things you can try at home\n\n\nNote: This session is geared towards using AI mainly for work tasks in various roles and industries, for the (potentially non-technical) end user\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Emerging Tech",
+            "AI/ML"
+        ],
+        "list": "ai",
+        "categories": [
+            "6",
+            "7"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1964",
+        "title": "Problem to Publish in Microsoft Dynamics 365 ",
+        "description": "\n      See an Example of Microsoft Dynamics 365 being edited and published live\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "Startups",
+            "Design",
+            "Marketing"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "4",
+            "1",
+            "12"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1965",
+        "title": "(Cybersecurity) Warnings 😳 ",
+        "description": "\n      Let's talk about cybersecurity warnings! 😳 Security warnings - and many other computer warnings - are terrible, and there are so many examples...but why is that and does it really have to be that way? I'm lucky to have worked on a project to explain what makes a good cybersecurity warning for product designers, security professionals, and lawyers, and I can tell you that it doesn't!\n\nCome join us in mocking a gallery of bad security and not-security warnings, in screenshots and emoji. Along the way, we'll talk about the history of security and traditional product warnings, what we know about making good warnings, celebrate a (small) gallery of good warnings, and talk about how we can all get better!\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Design",
+            "Product",
+            "Other"
+        ],
+        "list": "none",
+        "categories": [
+            "2",
+            "1",
+            "8",
+            "5"
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1966",
+        "title": "UNLOCKING PRODUCTIVITY: THE POWER OF AI TOOLS IN THE WORKPLACE V4 ",
+        "description": "\n      \"Remember last year when we were 'Ghibli-fying' photos and marveling at the first wave of AI agents? That was the rehearsal. This year, the curtain has officially stayed up, and the 'Magic' has turned into Muscle.\"\n\nThe Power of Autonomy & Context\n\nWe’ll kick off with the game-changers in Agentic AI: systems that don't just \"chat\" but independently solve problems. We’ll specifically dive into Google AI Studio and Gemini 2.5 Flash, showing how its massive context window can digest hours of video or thousands of documents in seconds to act as your ultimate research partner.\n\nThe 60+ Tool Transformation\n\nI’ll break down a curated list of over 60 industry-leading tools to replace your most tedious tasks:\nProductivity & Research: Mastering Perplexity, Grok 3, and Gamma for instant intelligence.\nContent Powerhouses: Using Kling, HeyGen, and VEO 3 for video, and Midjourney for elite design.\nThe Business Engine: Automating entire workflows with Make, Zapier, and Bardeen.\nSpecialized Agents: Deploying Seona AI for SEO and Otter/Fireflies to automate your meetings.\n\nBuilding Your Own \"Staff\"\n\nLearn how to use Agentic AI to create autonomous digital assistants that execute tasks. From Social Media Management with Tapilo and TweetHunter to Vibe Coding with Lovable and Cursor, you’ll see how to build a virtual department on a shoestring budget.\n\nThe Bottom Line This isn't just a list of \"cool apps.\" It’s a roadmap for Productivity 4.0. Whether you are a startup founder using Tome or an executive streamlining with Copilot, you’ll leave with a toolkit to transform your workday from \"busy\" to \"impactful.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Development",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML",
+            "Product",
+            "Soft Skills"
+        ],
+        "list": "ai",
+        "categories": [
+            "2",
+            "4",
+            "6",
+            "7",
+            "8",
+            "10"
+        ]
+    }
+]

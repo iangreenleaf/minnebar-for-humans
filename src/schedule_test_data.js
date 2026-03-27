@@ -233,7 +233,7 @@ to mark your favorite sessions
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1887">Attending</button>
+<button class="toggle-attendance" data-session-id="1927">Attending</button>
 <h3 class="title">Session 0 feat. Dr. AnnMarie Thomas!</h3>
 <div class="presenters">
 <div class="presenter">Minnestar</div>
@@ -288,7 +288,7 @@ to mark your favorite sessions
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1886">Attending</button>
+<button class="toggle-attendance" data-session-id="1928">Attending</button>
 <h3 class="title">Mega Minne Multi Indie Mini Arcade</h3>
 <div class="presenters">
 <div class="presenter">Minnestar</div>
@@ -336,7 +336,7 @@ to mark your favorite sessions
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1891">Attending</button>
+<button class="toggle-attendance" data-session-id="1929">Attending</button>
 <h3 class="title">Open-to-Work Table</h3>
 <div class="presenters">
 <div class="presenter">Minnestar</div>
@@ -375,7 +375,7 @@ to mark your favorite sessions
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1801">Attending</button>
+<button class="toggle-attendance" data-session-id="1930">Attending</button>
 <h3 class="title">UX Office Hours</h3>
 <div class="presenters">
 <div class="presenter">Bryce Howitson</div>
@@ -497,7 +497,7 @@ Dante is currently a Lead UX/UI Designer at Wolters Kluwer, an information servi
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1890">Attending</button>
+<button class="toggle-attendance" data-session-id="1931">Attending</button>
 <h3 class="title">Newbie Table</h3>
 <div class="presenters">
 <div class="presenter">Minnestar</div>
@@ -544,7 +544,7 @@ Dante is currently a Lead UX/UI Designer at Wolters Kluwer, an information servi
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1709">Attending</button>
+<button class="toggle-attendance" data-session-id="1932">Attending</button>
 <div class="room" href="/assets/maps/theater-c3cd8c45a0ddcfb6a1c27286519a8e0a82b1ad41a260b696dd54ec033af8cae8.png">
 Theater
 </div>
@@ -568,7 +568,7 @@ Theater
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1883">Attending</button>
+<button class="toggle-attendance" data-session-id="1933">Attending</button>
 <div class="room" href="/maps/bde maka ska.png">
 Bde Maka Ska
 </div>
@@ -608,7 +608,7 @@ Bde Maka Ska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1863">Attending</button>
+<button class="toggle-attendance" data-session-id="1934">Attending</button>
 <div class="room" href="/assets/maps/harriet-351c66ad24cc4d8e427b31bbf421253a56d79005217eba39d47848f5a911b2e1.png">
 Harriet
 </div>
@@ -680,7 +680,7 @@ Harriet
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1719">Attending</button>
+<button class="toggle-attendance" data-session-id="1935">Attending</button>
 <div class="room" href="/assets/maps/minnetonka-98014d3f4a088257d7d188991288b4ff41dc7d57fe533e34b9ee498b20899a0a.png">
 Minnetonka
 </div>
@@ -712,7 +712,7 @@ Minnetonka
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1800">Attending</button>
+<button class="toggle-attendance" data-session-id="1936">Attending</button>
 <div class="room" href="/assets/maps/nokomis-f1f1a49a3bc322f035fb2a148caa615e96f67710c085358260a744bad290b630.png">
 Nokomis
 </div>
@@ -746,7 +746,7 @@ Nokomis
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1829">Attending</button>
+<button class="toggle-attendance" data-session-id="1937">Attending</button>
 <div class="room" href="/assets/maps/proverb-edison-58071be6ccdfe26120eaa014c74bc5cb8900ff8a9b28819690a4b4a83da0f1a1.png">
 Proverb-Edison
 </div>
@@ -790,7 +790,7 @@ Proverb-Edison
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1700">Attending</button>
+<button class="toggle-attendance" data-session-id="1938">Attending</button>
 <div class="room" href="/assets/maps/zeke landres-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Zeke Landres
 </div>
@@ -816,7 +816,7 @@ Zeke Landres
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1790">Attending</button>
+<button class="toggle-attendance" data-session-id="1939">Attending</button>
 <div class="room" href="/assets/maps/challenge-1b287c04e25a6009ce6b283cacbead69b004e5d39c6cf72babc2f21afb4a5ddc.png">
 Challenge
 </div>
@@ -844,7 +844,7 @@ Challenge
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1876">Attending</button>
+<button class="toggle-attendance" data-session-id="1940">Attending</button>
 <div class="room" href="/assets/maps/learn-069f0b43bcb12d4540fc0eb267a709f2f39f94f9ff009840ac49fd85257e42fe.png">
 Learn
 </div>
@@ -876,7 +876,7 @@ Learn
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1817">Attending</button>
+<button class="toggle-attendance" data-session-id="1941">Attending</button>
 <div class="room" href="/assets/maps/discovery-92f75e9aeed097cdeac8a520d9ee89f12ba67aebdd8ad2cacf272120a1ddc523.png">
 Discovery
 </div>
@@ -914,7 +914,7 @@ Brandon also loves burgers and welcomes all /any burger discussions and recommen
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1824">Attending</button>
+<button class="toggle-attendance" data-session-id="1942">Attending</button>
 <div class="room" href="/assets/maps/gandhi-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Gandhi
 </div>
@@ -956,7 +956,7 @@ Gandhi
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1846">Attending</button>
+<button class="toggle-attendance" data-session-id="1943">Attending</button>
 <div class="room" href="/assets/maps/stephen leacock-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Stephen Leacock
 </div>
@@ -994,7 +994,7 @@ Stephen Leacock
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1831">Attending</button>
+<button class="toggle-attendance" data-session-id="1944">Attending</button>
 <div class="room" href="/assets/maps/tackle-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Tackle
 </div>
@@ -1032,7 +1032,7 @@ Tackle
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1867">Attending</button>
+<button class="toggle-attendance" data-session-id="1945">Attending</button>
 <div class="room" href="/assets/maps/louis pasteur-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Louis Pasteur
 </div>
@@ -1081,7 +1081,7 @@ Louis Pasteur
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1826">Attending</button>
+<button class="toggle-attendance" data-session-id="1946">Attending</button>
 <div class="room" href="/maps/nevada (by caribou).png">
 Nevada (by Caribou)
 </div>
@@ -1126,7 +1126,7 @@ Nevada (by Caribou)
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1788">Attending</button>
+<button class="toggle-attendance" data-session-id="1947">Attending</button>
 <div class="room" href="/assets/maps/texas-4d1f883cdcb7279c2cc5d59109b55408649be62a031d9634807592006820cc2f.png">
 Texas
 </div>
@@ -1160,7 +1160,7 @@ Texas
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1687">Attending</button>
+<button class="toggle-attendance" data-session-id="1948">Attending</button>
 <div class="room" href="/maps/florida.png">
 Florida
 </div>
@@ -1196,7 +1196,7 @@ But not completely, not anymore!</p>
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1780">Attending</button>
+<button class="toggle-attendance" data-session-id="1949">Attending</button>
 <div class="room" href="/maps/georgia.png">
 Georgia
 </div>
@@ -1241,7 +1241,7 @@ Georgia
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1812">Attending</button>
+<button class="toggle-attendance" data-session-id="1950">Attending</button>
 <div class="room" href="/assets/maps/kansas-e3e36393598e011006a96e714a8fa4ee55b3ecb529e9ead3161fedb8080b0d69.png">
 Kansas
 </div>
@@ -1278,7 +1278,7 @@ Kansas
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1718">Attending</button>
+<button class="toggle-attendance" data-session-id="1951">Attending</button>
 <div class="room" href="/maps/maryland.png">
 Maryland
 </div>
@@ -1312,7 +1312,7 @@ Maryland
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1877">Attending</button>
+<button class="toggle-attendance" data-session-id="1952">Attending</button>
 <div class="room" href="/assets/maps/nebraska-49d4984d2bfbb6df6b8b63bb1a50c9850c6f189c514e578fe410d7b363983c19.png">
 Nebraska
 </div>
@@ -1391,7 +1391,7 @@ Nebraska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1798">Attending</button>
+<button class="toggle-attendance" data-session-id="1953">Attending</button>
 <div class="room" href="/maps/pennsylvania.png">
 Pennsylvania
 </div>
@@ -1429,7 +1429,7 @@ Pennsylvania
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1853">Attending</button>
+<button class="toggle-attendance" data-session-id="1954">Attending</button>
 <div class="room" href="/assets/maps/oklahoma-ea99590c9f3a9f655739e1ef7e8a7fde075723d0e86ea4b25e22b331095dc598.png">
 Oklahoma
 </div>
@@ -1485,7 +1485,7 @@ Oklahoma
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1734">Attending</button>
+<button class="toggle-attendance" data-session-id="1955">Attending</button>
 <div class="room" href="/assets/maps/theater-c3cd8c45a0ddcfb6a1c27286519a8e0a82b1ad41a260b696dd54ec033af8cae8.png">
 Theater
 </div>
@@ -1539,7 +1539,7 @@ Theater
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1834">Attending</button>
+<button class="toggle-attendance" data-session-id="1956">Attending</button>
 <div class="room" href="/maps/bde maka ska.png">
 Bde Maka Ska
 </div>
@@ -1571,7 +1571,7 @@ Bde Maka Ska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1703">Attending</button>
+<button class="toggle-attendance" data-session-id="1957">Attending</button>
 <div class="room" href="/assets/maps/harriet-351c66ad24cc4d8e427b31bbf421253a56d79005217eba39d47848f5a911b2e1.png">
 Harriet
 </div>
@@ -1601,7 +1601,7 @@ Harriet
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1793">Attending</button>
+<button class="toggle-attendance" data-session-id="1958">Attending</button>
 <div class="room" href="/assets/maps/minnetonka-98014d3f4a088257d7d188991288b4ff41dc7d57fe533e34b9ee498b20899a0a.png">
 Minnetonka
 </div>
@@ -1627,7 +1627,7 @@ I've served on the board of the Minnesota Hobby Beekeepers Association and spent
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1693">Attending</button>
+<button class="toggle-attendance" data-session-id="1959">Attending</button>
 <div class="room" href="/assets/maps/nokomis-f1f1a49a3bc322f035fb2a148caa615e96f67710c085358260a744bad290b630.png">
 Nokomis
 </div>
@@ -1659,7 +1659,7 @@ Nokomis
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1821">Attending</button>
+<button class="toggle-attendance" data-session-id="1960">Attending</button>
 <div class="room" href="/assets/maps/proverb-edison-58071be6ccdfe26120eaa014c74bc5cb8900ff8a9b28819690a4b4a83da0f1a1.png">
 Proverb-Edison
 </div>
@@ -1691,7 +1691,7 @@ Proverb-Edison
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1872">Attending</button>
+<button class="toggle-attendance" data-session-id="1961">Attending</button>
 <div class="room" href="/assets/maps/zeke landres-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Zeke Landres
 </div>
@@ -1749,7 +1749,7 @@ Bria Niewenhuis
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1847">Attending</button>
+<button class="toggle-attendance" data-session-id="1962">Attending</button>
 <div class="room" href="/assets/maps/challenge-1b287c04e25a6009ce6b283cacbead69b004e5d39c6cf72babc2f21afb4a5ddc.png">
 Challenge
 </div>
@@ -1783,7 +1783,7 @@ Challenge
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1845">Attending</button>
+<button class="toggle-attendance" data-session-id="1963">Attending</button>
 <div class="room" href="/assets/maps/learn-069f0b43bcb12d4540fc0eb267a709f2f39f94f9ff009840ac49fd85257e42fe.png">
 Learn
 </div>
@@ -1829,7 +1829,7 @@ Learn
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1747">Attending</button>
+<button class="toggle-attendance" data-session-id="1964">Attending</button>
 <div class="room" href="/assets/maps/discovery-92f75e9aeed097cdeac8a520d9ee89f12ba67aebdd8ad2cacf272120a1ddc523.png">
 Discovery
 </div>
@@ -1857,7 +1857,7 @@ Discovery
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1806">Attending</button>
+<button class="toggle-attendance" data-session-id="1893">Attending</button>
 <div class="room" href="/assets/maps/gandhi-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Gandhi
 </div>
@@ -1881,7 +1881,7 @@ Gandhi
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1851">Attending</button>
+<button class="toggle-attendance" data-session-id="1894">Attending</button>
 <div class="room" href="/assets/maps/stephen leacock-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Stephen Leacock
 </div>
@@ -1922,7 +1922,7 @@ Stephen Leacock
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1792">Attending</button>
+<button class="toggle-attendance" data-session-id="1895">Attending</button>
 <div class="room" href="/assets/maps/tackle-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Tackle
 </div>
@@ -1948,7 +1948,7 @@ Tackle
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1861">Attending</button>
+<button class="toggle-attendance" data-session-id="1896">Attending</button>
 <div class="room" href="/assets/maps/louis pasteur-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Louis Pasteur
 </div>
@@ -1980,7 +1980,7 @@ Louis Pasteur
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1860">Attending</button>
+<button class="toggle-attendance" data-session-id="1898">Attending</button>
 <div class="room" href="/maps/nevada (by caribou).png">
 Nevada (by Caribou)
 </div>
@@ -2032,7 +2032,7 @@ Nevada (by Caribou)
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1733">Attending</button>
+<button class="toggle-attendance" data-session-id="1899">Attending</button>
 <div class="room" href="/assets/maps/texas-4d1f883cdcb7279c2cc5d59109b55408649be62a031d9634807592006820cc2f.png">
 Texas
 </div>
@@ -2058,7 +2058,7 @@ Texas
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1807">Attending</button>
+<button class="toggle-attendance" data-session-id="1900">Attending</button>
 <div class="room" href="/maps/florida.png">
 Florida
 </div>
@@ -2095,7 +2095,7 @@ Florida
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1843">Attending</button>
+<button class="toggle-attendance" data-session-id="1901">Attending</button>
 <div class="room" href="/maps/georgia.png">
 Georgia
 </div>
@@ -2151,7 +2151,7 @@ Georgia
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1830">Attending</button>
+<button class="toggle-attendance" data-session-id="1902">Attending</button>
 <div class="room" href="/assets/maps/kansas-e3e36393598e011006a96e714a8fa4ee55b3ecb529e9ead3161fedb8080b0d69.png">
 Kansas
 </div>
@@ -2184,7 +2184,7 @@ Kansas
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1804">Attending</button>
+<button class="toggle-attendance" data-session-id="1903">Attending</button>
 <div class="room" href="/maps/maryland.png">
 Maryland
 </div>
@@ -2217,7 +2217,7 @@ Presented by the Tech Together Podcast</p>
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1782">Attending</button>
+<button class="toggle-attendance" data-session-id="1904">Attending</button>
 <div class="room" href="/assets/maps/nebraska-49d4984d2bfbb6df6b8b63bb1a50c9850c6f189c514e578fe410d7b363983c19.png">
 Nebraska
 </div>
@@ -2243,7 +2243,7 @@ Nebraska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1711">Attending</button>
+<button class="toggle-attendance" data-session-id="1905">Attending</button>
 <div class="room" href="/maps/pennsylvania.png">
 Pennsylvania
 </div>
@@ -2280,7 +2280,7 @@ Pennsylvania
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1715">Attending</button>
+<button class="toggle-attendance" data-session-id="1906">Attending</button>
 <div class="room" href="/assets/maps/oklahoma-ea99590c9f3a9f655739e1ef7e8a7fde075723d0e86ea4b25e22b331095dc598.png">
 Oklahoma
 </div>
@@ -2315,7 +2315,7 @@ Founder, Bantxr.</p>
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1720">Attending</button>
+<button class="toggle-attendance" data-session-id="1907">Attending</button>
 <div class="room" href="/assets/maps/theater-c3cd8c45a0ddcfb6a1c27286519a8e0a82b1ad41a260b696dd54ec033af8cae8.png">
 Theater
 </div>
@@ -2348,7 +2348,7 @@ Theater
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1716">Attending</button>
+<button class="toggle-attendance" data-session-id="1908">Attending</button>
 <div class="room" href="/maps/bde maka ska.png">
 Bde Maka Ska
 </div>
@@ -2380,7 +2380,7 @@ Bde Maka Ska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1739">Attending</button>
+<button class="toggle-attendance" data-session-id="1909">Attending</button>
 <div class="room" href="/assets/maps/harriet-351c66ad24cc4d8e427b31bbf421253a56d79005217eba39d47848f5a911b2e1.png">
 Harriet
 </div>
@@ -2416,7 +2416,7 @@ Harriet
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1784">Attending</button>
+<button class="toggle-attendance" data-session-id="1910">Attending</button>
 <div class="room" href="/assets/maps/minnetonka-98014d3f4a088257d7d188991288b4ff41dc7d57fe533e34b9ee498b20899a0a.png">
 Minnetonka
 </div>
@@ -2452,7 +2452,7 @@ Minnetonka
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1856">Attending</button>
+<button class="toggle-attendance" data-session-id="1911">Attending</button>
 <div class="room" href="/assets/maps/nokomis-f1f1a49a3bc322f035fb2a148caa615e96f67710c085358260a744bad290b630.png">
 Nokomis
 </div>
@@ -2497,7 +2497,7 @@ Nokomis
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1850">Attending</button>
+<button class="toggle-attendance" data-session-id="1912">Attending</button>
 <div class="room" href="/assets/maps/proverb-edison-58071be6ccdfe26120eaa014c74bc5cb8900ff8a9b28819690a4b4a83da0f1a1.png">
 Proverb-Edison
 </div>
@@ -2580,7 +2580,7 @@ Proverb-Edison
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1684">Attending</button>
+<button class="toggle-attendance" data-session-id="1913">Attending</button>
 <div class="room" href="/assets/maps/zeke landres-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Zeke Landres
 </div>
@@ -2630,7 +2630,7 @@ Zeke Landres
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1840">Attending</button>
+<button class="toggle-attendance" data-session-id="1914">Attending</button>
 <div class="room" href="/assets/maps/challenge-1b287c04e25a6009ce6b283cacbead69b004e5d39c6cf72babc2f21afb4a5ddc.png">
 Challenge
 </div>
@@ -2672,7 +2672,7 @@ Challenge
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1825">Attending</button>
+<button class="toggle-attendance" data-session-id="1915">Attending</button>
 <div class="room" href="/assets/maps/learn-069f0b43bcb12d4540fc0eb267a709f2f39f94f9ff009840ac49fd85257e42fe.png">
 Learn
 </div>
@@ -2710,7 +2710,7 @@ Learn
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1695">Attending</button>
+<button class="toggle-attendance" data-session-id="1916">Attending</button>
 <div class="room" href="/assets/maps/discovery-92f75e9aeed097cdeac8a520d9ee89f12ba67aebdd8ad2cacf272120a1ddc523.png">
 Discovery
 </div>
@@ -2750,7 +2750,7 @@ Discovery
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1805">Attending</button>
+<button class="toggle-attendance" data-session-id="1917">Attending</button>
 <div class="room" href="/assets/maps/gandhi-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Gandhi
 </div>
@@ -2790,7 +2790,7 @@ Led by Michelle Ament &amp; Shannon Seaver</p>
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1722">Attending</button>
+<button class="toggle-attendance" data-session-id="1918">Attending</button>
 <div class="room" href="/assets/maps/stephen leacock-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Stephen Leacock
 </div>
@@ -2816,7 +2816,7 @@ Stephen Leacock
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1737">Attending</button>
+<button class="toggle-attendance" data-session-id="1919">Attending</button>
 <div class="room" href="/assets/maps/tackle-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Tackle
 </div>
@@ -2842,7 +2842,7 @@ Tackle
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1814">Attending</button>
+<button class="toggle-attendance" data-session-id="1920">Attending</button>
 <div class="room" href="/assets/maps/louis pasteur-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Louis Pasteur
 </div>
@@ -2894,7 +2894,7 @@ Live Demos: Showcase how to use specific AI video tools to create content.</p>
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1881">Attending</button>
+<button class="toggle-attendance" data-session-id="1921">Attending</button>
 <div class="room" href="/maps/nevada (by caribou).png">
 Nevada (by Caribou)
 </div>
@@ -2965,7 +2965,7 @@ Listening on 146.520 MHz</p>
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1744">Attending</button>
+<button class="toggle-attendance" data-session-id="1922">Attending</button>
 <div class="room" href="/assets/maps/texas-4d1f883cdcb7279c2cc5d59109b55408649be62a031d9634807592006820cc2f.png">
 Texas
 </div>
@@ -3023,7 +3023,7 @@ Texas
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1885">Attending</button>
+<button class="toggle-attendance" data-session-id="1923">Attending</button>
 <div class="room" href="/maps/florida.png">
 Florida
 </div>
@@ -3049,7 +3049,7 @@ Florida
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1852">Attending</button>
+<button class="toggle-attendance" data-session-id="1924">Attending</button>
 <div class="room" href="/maps/georgia.png">
 Georgia
 </div>
@@ -3093,7 +3093,7 @@ Georgia
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1712">Attending</button>
+<button class="toggle-attendance" data-session-id="1925">Attending</button>
 <div class="room" href="/assets/maps/kansas-e3e36393598e011006a96e714a8fa4ee55b3ecb529e9ead3161fedb8080b0d69.png">
 Kansas
 </div>
@@ -3119,7 +3119,7 @@ Kansas
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1797">Attending</button>
+<button class="toggle-attendance" data-session-id="1927">Attending</button>
 <div class="room" href="/maps/maryland.png">
 Maryland
 </div>
@@ -3143,7 +3143,7 @@ Maryland
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1820">Attending</button>
+<button class="toggle-attendance" data-session-id="1928">Attending</button>
 <div class="room" href="/assets/maps/nebraska-49d4984d2bfbb6df6b8b63bb1a50c9850c6f189c514e578fe410d7b363983c19.png">
 Nebraska
 </div>
@@ -3193,7 +3193,7 @@ Nebraska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1878">Attending</button>
+<button class="toggle-attendance" data-session-id="1929">Attending</button>
 <div class="room" href="/maps/pennsylvania.png">
 Pennsylvania
 </div>
@@ -3239,7 +3239,7 @@ Pennsylvania
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1870">Attending</button>
+<button class="toggle-attendance" data-session-id="1930">Attending</button>
 <div class="room" href="/assets/maps/oklahoma-ea99590c9f3a9f655739e1ef7e8a7fde075723d0e86ea4b25e22b331095dc598.png">
 Oklahoma
 </div>
@@ -3297,7 +3297,7 @@ Email - <a href="https://web.archive.org/web/20251211060325/mailto:Gina@Flagship
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1888">Attending</button>
+<button class="toggle-attendance" data-session-id="1931">Attending</button>
 <h3 class="title">Lunch in Sandy&#39;s Place! 🍕</h3>
 <div class="presenters">
 <div class="presenter">Minnestar</div>
@@ -3332,7 +3332,7 @@ Email - <a href="https://web.archive.org/web/20251211060325/mailto:Gina@Flagship
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1889">Attending</button>
+<button class="toggle-attendance" data-session-id="1932">Attending</button>
 <h3 class="title">Meet Our Community Partners!</h3>
 <div class="presenters">
 <div class="presenter">Minnestar</div>
@@ -3434,7 +3434,7 @@ Email - <a href="https://web.archive.org/web/20251211060325/mailto:Gina@Flagship
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1701">Attending</button>
+<button class="toggle-attendance" data-session-id="1933">Attending</button>
 <div class="room" href="/assets/maps/theater-c3cd8c45a0ddcfb6a1c27286519a8e0a82b1ad41a260b696dd54ec033af8cae8.png">
 Theater
 </div>
@@ -3460,7 +3460,7 @@ Theater
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1740">Attending</button>
+<button class="toggle-attendance" data-session-id="1934">Attending</button>
 <div class="room" href="/maps/bde maka ska.png">
 Bde Maka Ska
 </div>
@@ -3490,7 +3490,7 @@ Bde Maka Ska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1746">Attending</button>
+<button class="toggle-attendance" data-session-id="1935">Attending</button>
 <div class="room" href="/assets/maps/harriet-351c66ad24cc4d8e427b31bbf421253a56d79005217eba39d47848f5a911b2e1.png">
 Harriet
 </div>
@@ -3520,7 +3520,7 @@ Harriet
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1841">Attending</button>
+<button class="toggle-attendance" data-session-id="1936">Attending</button>
 <div class="room" href="/assets/maps/minnetonka-98014d3f4a088257d7d188991288b4ff41dc7d57fe533e34b9ee498b20899a0a.png">
 Minnetonka
 </div>
@@ -3550,7 +3550,7 @@ My perspective goes far beyond simply CICD ideas and I explore the convergence o
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1794">Attending</button>
+<button class="toggle-attendance" data-session-id="1937">Attending</button>
 <div class="room" href="/assets/maps/nokomis-f1f1a49a3bc322f035fb2a148caa615e96f67710c085358260a744bad290b630.png">
 Nokomis
 </div>
@@ -3615,7 +3615,7 @@ Nokomis
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1884">Attending</button>
+<button class="toggle-attendance" data-session-id="1938">Attending</button>
 <div class="room" href="/assets/maps/proverb-edison-58071be6ccdfe26120eaa014c74bc5cb8900ff8a9b28819690a4b4a83da0f1a1.png">
 Proverb-Edison
 </div>
@@ -3650,7 +3650,7 @@ Join us for Lightning Talks, where anyone can have the mic for a few minutes to 
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1879">Attending</button>
+<button class="toggle-attendance" data-session-id="1939">Attending</button>
 <div class="room" href="/assets/maps/zeke landres-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Zeke Landres
 </div>
@@ -3696,7 +3696,7 @@ You’ll learn how to:
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1783">Attending</button>
+<button class="toggle-attendance" data-session-id="1940">Attending</button>
 <div class="room" href="/assets/maps/challenge-1b287c04e25a6009ce6b283cacbead69b004e5d39c6cf72babc2f21afb4a5ddc.png">
 Challenge
 </div>
@@ -3722,7 +3722,7 @@ Challenge
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1691">Attending</button>
+<button class="toggle-attendance" data-session-id="1941">Attending</button>
 <div class="room" href="/assets/maps/learn-069f0b43bcb12d4540fc0eb267a709f2f39f94f9ff009840ac49fd85257e42fe.png">
 Learn
 </div>
@@ -3788,7 +3788,7 @@ Learn
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1727">Attending</button>
+<button class="toggle-attendance" data-session-id="1942">Attending</button>
 <div class="room" href="/assets/maps/discovery-92f75e9aeed097cdeac8a520d9ee89f12ba67aebdd8ad2cacf272120a1ddc523.png">
 Discovery
 </div>
@@ -3850,7 +3850,7 @@ Discovery
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1875">Attending</button>
+<button class="toggle-attendance" data-session-id="1943">Attending</button>
 <div class="room" href="/assets/maps/gandhi-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Gandhi
 </div>
@@ -3878,7 +3878,7 @@ Gandhi
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1731">Attending</button>
+<button class="toggle-attendance" data-session-id="1944">Attending</button>
 <div class="room" href="/assets/maps/stephen leacock-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Stephen Leacock
 </div>
@@ -3902,7 +3902,7 @@ Stephen Leacock
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1738">Attending</button>
+<button class="toggle-attendance" data-session-id="1945">Attending</button>
 <div class="room" href="/assets/maps/tackle-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Tackle
 </div>
@@ -3931,7 +3931,7 @@ Tackle
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1704">Attending</button>
+<button class="toggle-attendance" data-session-id="1946">Attending</button>
 <div class="room" href="/assets/maps/louis pasteur-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Louis Pasteur
 </div>
@@ -3968,7 +3968,7 @@ Louis Pasteur
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1786">Attending</button>
+<button class="toggle-attendance" data-session-id="1947">Attending</button>
 <div class="room" href="/maps/nevada (by caribou).png">
 Nevada (by Caribou)
 </div>
@@ -3994,7 +3994,7 @@ Nevada (by Caribou)
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1694">Attending</button>
+<button class="toggle-attendance" data-session-id="1948">Attending</button>
 <div class="room" href="/assets/maps/texas-4d1f883cdcb7279c2cc5d59109b55408649be62a031d9634807592006820cc2f.png">
 Texas
 </div>
@@ -4037,7 +4037,7 @@ Speaker and Educator ​</p>
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1689">Attending</button>
+<button class="toggle-attendance" data-session-id="1949">Attending</button>
 <div class="room" href="/maps/florida.png">
 Florida
 </div>
@@ -4074,7 +4074,7 @@ Florida
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1726">Attending</button>
+<button class="toggle-attendance" data-session-id="1950">Attending</button>
 <div class="room" href="/maps/georgia.png">
 Georgia
 </div>
@@ -4108,7 +4108,7 @@ Georgia
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1685">Attending</button>
+<button class="toggle-attendance" data-session-id="1951">Attending</button>
 <div class="room" href="/assets/maps/kansas-e3e36393598e011006a96e714a8fa4ee55b3ecb529e9ead3161fedb8080b0d69.png">
 Kansas
 </div>
@@ -4132,7 +4132,7 @@ Kansas
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1787">Attending</button>
+<button class="toggle-attendance" data-session-id="1952">Attending</button>
 <div class="room" href="/maps/maryland.png">
 Maryland
 </div>
@@ -4162,7 +4162,7 @@ Maryland
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1838">Attending</button>
+<button class="toggle-attendance" data-session-id="1953">Attending</button>
 <div class="room" href="/assets/maps/nebraska-49d4984d2bfbb6df6b8b63bb1a50c9850c6f189c514e578fe410d7b363983c19.png">
 Nebraska
 </div>
@@ -4192,7 +4192,7 @@ Nebraska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1848">Attending</button>
+<button class="toggle-attendance" data-session-id="1954">Attending</button>
 <div class="room" href="/maps/pennsylvania.png">
 Pennsylvania
 </div>
@@ -4238,7 +4238,7 @@ Pennsylvania
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1732">Attending</button>
+<button class="toggle-attendance" data-session-id="1955">Attending</button>
 <div class="room" href="/assets/maps/theater-c3cd8c45a0ddcfb6a1c27286519a8e0a82b1ad41a260b696dd54ec033af8cae8.png">
 Theater
 </div>
@@ -4278,7 +4278,7 @@ Theater
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1809">Attending</button>
+<button class="toggle-attendance" data-session-id="1956">Attending</button>
 <div class="room" href="/maps/bde maka ska.png">
 Bde Maka Ska
 </div>
@@ -4308,7 +4308,7 @@ Bde Maka Ska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1730">Attending</button>
+<button class="toggle-attendance" data-session-id="1957">Attending</button>
 <div class="room" href="/assets/maps/harriet-351c66ad24cc4d8e427b31bbf421253a56d79005217eba39d47848f5a911b2e1.png">
 Harriet
 </div>
@@ -4337,7 +4337,7 @@ Harriet
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1854">Attending</button>
+<button class="toggle-attendance" data-session-id="1958">Attending</button>
 <div class="room" href="/assets/maps/minnetonka-98014d3f4a088257d7d188991288b4ff41dc7d57fe533e34b9ee498b20899a0a.png">
 Minnetonka
 </div>
@@ -4369,7 +4369,7 @@ Minnetonka
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1791">Attending</button>
+<button class="toggle-attendance" data-session-id="1959">Attending</button>
 <div class="room" href="/assets/maps/nokomis-f1f1a49a3bc322f035fb2a148caa615e96f67710c085358260a744bad290b630.png">
 Nokomis
 </div>
@@ -4405,7 +4405,7 @@ Nokomis
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1729">Attending</button>
+<button class="toggle-attendance" data-session-id="1960">Attending</button>
 <div class="room" href="/assets/maps/proverb-edison-58071be6ccdfe26120eaa014c74bc5cb8900ff8a9b28819690a4b4a83da0f1a1.png">
 Proverb-Edison
 </div>
@@ -4452,7 +4452,7 @@ Proverb-Edison
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1874">Attending</button>
+<button class="toggle-attendance" data-session-id="1961">Attending</button>
 <div class="room" href="/assets/maps/zeke landres-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Zeke Landres
 </div>
@@ -4501,7 +4501,7 @@ Zeke Landres
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1832">Attending</button>
+<button class="toggle-attendance" data-session-id="1962">Attending</button>
 <div class="room" href="/assets/maps/challenge-1b287c04e25a6009ce6b283cacbead69b004e5d39c6cf72babc2f21afb4a5ddc.png">
 Challenge
 </div>
@@ -4535,7 +4535,7 @@ Challenge
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1842">Attending</button>
+<button class="toggle-attendance" data-session-id="1963">Attending</button>
 <div class="room" href="/assets/maps/learn-069f0b43bcb12d4540fc0eb267a709f2f39f94f9ff009840ac49fd85257e42fe.png">
 Learn
 </div>
@@ -4570,7 +4570,7 @@ Learn
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1688">Attending</button>
+<button class="toggle-attendance" data-session-id="1964">Attending</button>
 <div class="room" href="/assets/maps/discovery-92f75e9aeed097cdeac8a520d9ee89f12ba67aebdd8ad2cacf272120a1ddc523.png">
 Discovery
 </div>
@@ -4607,7 +4607,7 @@ Discovery
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1799">Attending</button>
+<button class="toggle-attendance" data-session-id="1893">Attending</button>
 <div class="room" href="/assets/maps/gandhi-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Gandhi
 </div>
@@ -4666,7 +4666,7 @@ Gandhi
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1686">Attending</button>
+<button class="toggle-attendance" data-session-id="1894">Attending</button>
 <div class="room" href="/assets/maps/stephen leacock-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Stephen Leacock
 </div>
@@ -4701,7 +4701,7 @@ Stephen Leacock
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1699">Attending</button>
+<button class="toggle-attendance" data-session-id="1895">Attending</button>
 <div class="room" href="/assets/maps/tackle-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Tackle
 </div>
@@ -4742,7 +4742,7 @@ Tackle
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1855">Attending</button>
+<button class="toggle-attendance" data-session-id="1896">Attending</button>
 <div class="room" href="/assets/maps/louis pasteur-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Louis Pasteur
 </div>
@@ -4770,7 +4770,7 @@ Louis Pasteur
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1862">Attending</button>
+<button class="toggle-attendance" data-session-id="1898">Attending</button>
 <div class="room" href="/maps/nevada (by caribou).png">
 Nevada (by Caribou)
 </div>
@@ -4819,7 +4819,7 @@ Nevada (by Caribou)
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1868">Attending</button>
+<button class="toggle-attendance" data-session-id="1899">Attending</button>
 <div class="room" href="/assets/maps/texas-4d1f883cdcb7279c2cc5d59109b55408649be62a031d9634807592006820cc2f.png">
 Texas
 </div>
@@ -4865,7 +4865,7 @@ Texas
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1823">Attending</button>
+<button class="toggle-attendance" data-session-id="1900">Attending</button>
 <div class="room" href="/maps/florida.png">
 Florida
 </div>
@@ -4921,7 +4921,7 @@ Florida
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1697">Attending</button>
+<button class="toggle-attendance" data-session-id="1901">Attending</button>
 <div class="room" href="/maps/georgia.png">
 Georgia
 </div>
@@ -4945,7 +4945,7 @@ Georgia
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1690">Attending</button>
+<button class="toggle-attendance" data-session-id="1902">Attending</button>
 <div class="room" href="/assets/maps/kansas-e3e36393598e011006a96e714a8fa4ee55b3ecb529e9ead3161fedb8080b0d69.png">
 Kansas
 </div>
@@ -4987,7 +4987,7 @@ Kansas
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1837">Attending</button>
+<button class="toggle-attendance" data-session-id="1903">Attending</button>
 <div class="room" href="/maps/maryland.png">
 Maryland
 </div>
@@ -5023,7 +5023,7 @@ Maryland
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1815">Attending</button>
+<button class="toggle-attendance" data-session-id="1904">Attending</button>
 <div class="room" href="/assets/maps/nebraska-49d4984d2bfbb6df6b8b63bb1a50c9850c6f189c514e578fe410d7b363983c19.png">
 Nebraska
 </div>
@@ -5049,7 +5049,7 @@ Nebraska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1681">Attending</button>
+<button class="toggle-attendance" data-session-id="1905">Attending</button>
 <div class="room" href="/maps/pennsylvania.png">
 Pennsylvania
 </div>
@@ -5077,7 +5077,7 @@ Pennsylvania
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1882">Attending</button>
+<button class="toggle-attendance" data-session-id="1906">Attending</button>
 <div class="room" href="/assets/maps/oklahoma-ea99590c9f3a9f655739e1ef7e8a7fde075723d0e86ea4b25e22b331095dc598.png">
 Oklahoma
 </div>
@@ -5111,7 +5111,7 @@ Oklahoma
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1707">Attending</button>
+<button class="toggle-attendance" data-session-id="1907">Attending</button>
 <div class="room" href="/assets/maps/theater-c3cd8c45a0ddcfb6a1c27286519a8e0a82b1ad41a260b696dd54ec033af8cae8.png">
 Theater
 </div>
@@ -5143,7 +5143,7 @@ Theater
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1736">Attending</button>
+<button class="toggle-attendance" data-session-id="1908">Attending</button>
 <div class="room" href="/maps/bde maka ska.png">
 Bde Maka Ska
 </div>
@@ -5176,7 +5176,7 @@ Bde Maka Ska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1813">Attending</button>
+<button class="toggle-attendance" data-session-id="1909">Attending</button>
 <div class="room" href="/assets/maps/harriet-351c66ad24cc4d8e427b31bbf421253a56d79005217eba39d47848f5a911b2e1.png">
 Harriet
 </div>
@@ -5204,7 +5204,7 @@ Harriet
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1873">Attending</button>
+<button class="toggle-attendance" data-session-id="1910">Attending</button>
 <div class="room" href="/assets/maps/minnetonka-98014d3f4a088257d7d188991288b4ff41dc7d57fe533e34b9ee498b20899a0a.png">
 Minnetonka
 </div>
@@ -5252,7 +5252,7 @@ Minnetonka
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1796">Attending</button>
+<button class="toggle-attendance" data-session-id="1911">Attending</button>
 <div class="room" href="/assets/maps/nokomis-f1f1a49a3bc322f035fb2a148caa615e96f67710c085358260a744bad290b630.png">
 Nokomis
 </div>
@@ -5302,7 +5302,7 @@ Mentoring Sales People: Guiding and inspiring the next generation of sales talen
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1696">Attending</button>
+<button class="toggle-attendance" data-session-id="1912">Attending</button>
 <div class="room" href="/assets/maps/proverb-edison-58071be6ccdfe26120eaa014c74bc5cb8900ff8a9b28819690a4b4a83da0f1a1.png">
 Proverb-Edison
 </div>
@@ -5328,7 +5328,7 @@ Proverb-Edison
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1857">Attending</button>
+<button class="toggle-attendance" data-session-id="1913">Attending</button>
 <div class="room" href="/assets/maps/zeke landres-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Zeke Landres
 </div>
@@ -5365,7 +5365,7 @@ Zeke Landres
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1859">Attending</button>
+<button class="toggle-attendance" data-session-id="1914">Attending</button>
 <div class="room" href="/assets/maps/challenge-1b287c04e25a6009ce6b283cacbead69b004e5d39c6cf72babc2f21afb4a5ddc.png">
 Challenge
 </div>
@@ -5392,7 +5392,7 @@ Attendees will gain a nuanced understanding of the current state of LLM reasonin
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1833">Attending</button>
+<button class="toggle-attendance" data-session-id="1915">Attending</button>
 <div class="room" href="/assets/maps/learn-069f0b43bcb12d4540fc0eb267a709f2f39f94f9ff009840ac49fd85257e42fe.png">
 Learn
 </div>
@@ -5416,7 +5416,7 @@ Learn
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1816">Attending</button>
+<button class="toggle-attendance" data-session-id="1916">Attending</button>
 <div class="room" href="/assets/maps/discovery-92f75e9aeed097cdeac8a520d9ee89f12ba67aebdd8ad2cacf272120a1ddc523.png">
 Discovery
 </div>
@@ -5460,7 +5460,7 @@ Sara Williams is an experienced technology leader with over 18 years in web deve
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1865">Attending</button>
+<button class="toggle-attendance" data-session-id="1917">Attending</button>
 <div class="room" href="/assets/maps/gandhi-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Gandhi
 </div>
@@ -5492,7 +5492,7 @@ Gandhi
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1714">Attending</button>
+<button class="toggle-attendance" data-session-id="1918">Attending</button>
 <div class="room" href="/assets/maps/stephen leacock-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Stephen Leacock
 </div>
@@ -5524,7 +5524,7 @@ Stephen Leacock
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1827">Attending</button>
+<button class="toggle-attendance" data-session-id="1919">Attending</button>
 <div class="room" href="/assets/maps/tackle-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Tackle
 </div>
@@ -5550,7 +5550,7 @@ Tackle
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1785">Attending</button>
+<button class="toggle-attendance" data-session-id="1920">Attending</button>
 <div class="room" href="/assets/maps/louis pasteur-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Louis Pasteur
 </div>
@@ -5574,7 +5574,7 @@ Louis Pasteur
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1705">Attending</button>
+<button class="toggle-attendance" data-session-id="1921">Attending</button>
 <div class="room" href="/maps/nevada (by caribou).png">
 Nevada (by Caribou)
 </div>
@@ -5629,7 +5629,7 @@ Nevada (by Caribou)
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1745">Attending</button>
+<button class="toggle-attendance" data-session-id="1922">Attending</button>
 <div class="room" href="/assets/maps/texas-4d1f883cdcb7279c2cc5d59109b55408649be62a031d9634807592006820cc2f.png">
 Texas
 </div>
@@ -5659,7 +5659,7 @@ Texas
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1692">Attending</button>
+<button class="toggle-attendance" data-session-id="1923">Attending</button>
 <div class="room" href="/maps/florida.png">
 Florida
 </div>
@@ -5712,7 +5712,7 @@ Key topics we'll cover:
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1781">Attending</button>
+<button class="toggle-attendance" data-session-id="1924">Attending</button>
 <div class="room" href="/maps/georgia.png">
 Georgia
 </div>
@@ -5771,7 +5771,7 @@ Georgia
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1706">Attending</button>
+<button class="toggle-attendance" data-session-id="1925">Attending</button>
 <div class="room" href="/assets/maps/kansas-e3e36393598e011006a96e714a8fa4ee55b3ecb529e9ead3161fedb8080b0d69.png">
 Kansas
 </div>
@@ -5891,7 +5891,7 @@ Bachelor of Engineering in Computer Science &amp; Engineering, Government Colleg
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1795">Attending</button>
+<button class="toggle-attendance" data-session-id="1927">Attending</button>
 <div class="room" href="/maps/maryland.png">
 Maryland
 </div>
@@ -5929,7 +5929,7 @@ We will address challenges and risks in sales hiring and will also discuss the i
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1844">Attending</button>
+<button class="toggle-attendance" data-session-id="1928">Attending</button>
 <div class="room" href="/assets/maps/nebraska-49d4984d2bfbb6df6b8b63bb1a50c9850c6f189c514e578fe410d7b363983c19.png">
 Nebraska
 </div>
@@ -5968,7 +5968,7 @@ Nebraska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1713">Attending</button>
+<button class="toggle-attendance" data-session-id="1929">Attending</button>
 <div class="room" href="/maps/pennsylvania.png">
 Pennsylvania
 </div>
@@ -6014,7 +6014,7 @@ Published in the Microsoft App Store:
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1743">Attending</button>
+<button class="toggle-attendance" data-session-id="1930">Attending</button>
 <div class="room" href="/assets/maps/theater-c3cd8c45a0ddcfb6a1c27286519a8e0a82b1ad41a260b696dd54ec033af8cae8.png">
 Theater
 </div>
@@ -6074,7 +6074,7 @@ Theater
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1810">Attending</button>
+<button class="toggle-attendance" data-session-id="1931">Attending</button>
 <div class="room" href="/maps/bde maka ska.png">
 Bde Maka Ska
 </div>
@@ -6104,7 +6104,7 @@ Bde Maka Ska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1708">Attending</button>
+<button class="toggle-attendance" data-session-id="1932">Attending</button>
 <div class="room" href="/assets/maps/harriet-351c66ad24cc4d8e427b31bbf421253a56d79005217eba39d47848f5a911b2e1.png">
 Harriet
 </div>
@@ -6161,7 +6161,7 @@ Harriet
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1723">Attending</button>
+<button class="toggle-attendance" data-session-id="1933">Attending</button>
 <div class="room" href="/assets/maps/minnetonka-98014d3f4a088257d7d188991288b4ff41dc7d57fe533e34b9ee498b20899a0a.png">
 Minnetonka
 </div>
@@ -6310,7 +6310,7 @@ Founder of <a href="https://web.archive.org/web/20251211060325/https://caliburn.
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1710">Attending</button>
+<button class="toggle-attendance" data-session-id="1934">Attending</button>
 <div class="room" href="/assets/maps/nokomis-f1f1a49a3bc322f035fb2a148caa615e96f67710c085358260a744bad290b630.png">
 Nokomis
 </div>
@@ -6334,7 +6334,7 @@ Nokomis
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1682">Attending</button>
+<button class="toggle-attendance" data-session-id="1935">Attending</button>
 <div class="room" href="/assets/maps/proverb-edison-58071be6ccdfe26120eaa014c74bc5cb8900ff8a9b28819690a4b4a83da0f1a1.png">
 Proverb-Edison
 </div>
@@ -6362,7 +6362,7 @@ Proverb-Edison
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1811">Attending</button>
+<button class="toggle-attendance" data-session-id="1936">Attending</button>
 <div class="room" href="/assets/maps/zeke landres-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Zeke Landres
 </div>
@@ -6415,7 +6415,7 @@ Zeke Landres
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1808">Attending</button>
+<button class="toggle-attendance" data-session-id="1937">Attending</button>
 <div class="room" href="/assets/maps/challenge-1b287c04e25a6009ce6b283cacbead69b004e5d39c6cf72babc2f21afb4a5ddc.png">
 Challenge
 </div>
@@ -6441,7 +6441,7 @@ Challenge
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1725">Attending</button>
+<button class="toggle-attendance" data-session-id="1938">Attending</button>
 <div class="room" href="/assets/maps/learn-069f0b43bcb12d4540fc0eb267a709f2f39f94f9ff009840ac49fd85257e42fe.png">
 Learn
 </div>
@@ -6473,7 +6473,7 @@ Learn
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1880">Attending</button>
+<button class="toggle-attendance" data-session-id="1939">Attending</button>
 <div class="room" href="/assets/maps/discovery-92f75e9aeed097cdeac8a520d9ee89f12ba67aebdd8ad2cacf272120a1ddc523.png">
 Discovery
 </div>
@@ -6535,7 +6535,7 @@ Discovery
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1724">Attending</button>
+<button class="toggle-attendance" data-session-id="1940">Attending</button>
 <div class="room" href="/assets/maps/gandhi-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Gandhi
 </div>
@@ -6575,7 +6575,7 @@ Gandhi
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1735">Attending</button>
+<button class="toggle-attendance" data-session-id="1941">Attending</button>
 <div class="room" href="/assets/maps/stephen leacock-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Stephen Leacock
 </div>
@@ -6615,7 +6615,7 @@ Stephen Leacock
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1818">Attending</button>
+<button class="toggle-attendance" data-session-id="1942">Attending</button>
 <div class="room" href="/assets/maps/tackle-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Tackle
 </div>
@@ -6652,7 +6652,7 @@ Like, follow, subscribe, watch him @hahamasala on Instagram and YouTube.</p>
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1866">Attending</button>
+<button class="toggle-attendance" data-session-id="1943">Attending</button>
 <div class="room" href="/assets/maps/louis pasteur-ebf3ac268a9dae6accaa7503cdf2e7e70fd7b6c517170f358ded6a7e09229b0d.png">
 Louis Pasteur
 </div>
@@ -6691,7 +6691,7 @@ Because growth doesn’t come from staying safe—it comes from choosing differe
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1836">Attending</button>
+<button class="toggle-attendance" data-session-id="1944">Attending</button>
 <div class="room" href="/maps/nevada (by caribou).png">
 Nevada (by Caribou)
 </div>
@@ -6729,7 +6729,7 @@ Nevada (by Caribou)
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1802">Attending</button>
+<button class="toggle-attendance" data-session-id="1945">Attending</button>
 <div class="room" href="/assets/maps/texas-4d1f883cdcb7279c2cc5d59109b55408649be62a031d9634807592006820cc2f.png">
 Texas
 </div>
@@ -6759,7 +6759,7 @@ Texas
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1835">Attending</button>
+<button class="toggle-attendance" data-session-id="1946">Attending</button>
 <div class="room" href="/maps/florida.png">
 Florida
 </div>
@@ -6794,7 +6794,7 @@ Florida
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1864">Attending</button>
+<button class="toggle-attendance" data-session-id="1947">Attending</button>
 <div class="room" href="/maps/georgia.png">
 Georgia
 </div>
@@ -6852,7 +6852,7 @@ Georgia
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1858">Attending</button>
+<button class="toggle-attendance" data-session-id="1948">Attending</button>
 <div class="room" href="/assets/maps/kansas-e3e36393598e011006a96e714a8fa4ee55b3ecb529e9ead3161fedb8080b0d69.png">
 Kansas
 </div>
@@ -6881,7 +6881,7 @@ As a speaker, Eric Sirkin offers a unique blend of military leadership experienc
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1819">Attending</button>
+<button class="toggle-attendance" data-session-id="1949">Attending</button>
 <div class="room" href="/maps/maryland.png">
 Maryland
 </div>
@@ -6909,7 +6909,7 @@ Maryland
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1728">Attending</button>
+<button class="toggle-attendance" data-session-id="1950">Attending</button>
 <div class="room" href="/assets/maps/nebraska-49d4984d2bfbb6df6b8b63bb1a50c9850c6f189c514e578fe410d7b363983c19.png">
 Nebraska
 </div>
@@ -6941,7 +6941,7 @@ Nebraska
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1869">Attending</button>
+<button class="toggle-attendance" data-session-id="1951">Attending</button>
 <div class="room" href="/maps/pennsylvania.png">
 Pennsylvania
 </div>
@@ -6989,7 +6989,7 @@ Pennsylvania
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1892">Attending</button>
+<button class="toggle-attendance" data-session-id="1952">Attending</button>
 <h3 class="title">Second Annual Charles Edge Social Hour in Sandy&#39;s Place</h3>
 <div class="presenters">
 <div class="presenter">Minnestar</div>

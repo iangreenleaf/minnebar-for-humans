@@ -1,14 +1,14 @@
 import * as readline from 'node:readline';
 import fs from 'node:fs';
 
-const dataFile = "./src/pages/sessions.json";
+const dataFile = "./src/_data/sessions.json";
 const lists = [
   {"key": "1", "list": "ai"},
   {"key": "2", "list": "none"}
 ];
 
 const readFile = fs.readFileSync(dataFile);
-const sessionDetails = JSON.parse(readFile).sessions;
+const sessionDetails = JSON.parse(readFile);
 
 const rl = readline.createInterface({input: process.stdin, output: process.stdout});
 
@@ -46,7 +46,7 @@ for (const sessionDetail of sessionDetails) {
     sessionDetail["list"] = list['list'];
     break;
   }
-  fs.writeFileSync(dataFile, JSON.stringify({ sessions: sessionDetails }, null, 4));
+  fs.writeFileSync(dataFile, JSON.stringify(sessionDetails, null, 4));
 }
 
 rl.close();

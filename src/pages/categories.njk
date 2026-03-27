@@ -1,0 +1,11 @@
+---
+title: Categories
+permalink: /categories/index.html
+layout: page
+---
+
+<ul>
+  {% for category in categories %}
+    <li><a href="/categories/{{ category.id }}">{{ category.name }}</a></li>
+  {% endfor %}
+</ul>

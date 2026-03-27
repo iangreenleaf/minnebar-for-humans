@@ -1,0 +1,22 @@
+---
+layout: page
+pagination:
+  data: categories
+  size: 1
+  alias: category
+permalink: /categories/{{ category.id }}/
+eleventyComputed:
+    title: "Category: {{ category.name }}"
+---
+
+<ul>
+  {% for session in sessions %}
+    {% if session.list != "ai" and session.categories | select("eq", category.id) | first %}
+      <li>
+        <a href={{ session.url }}>
+          {{ session.title }}
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

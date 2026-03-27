@@ -4,6 +4,10 @@ export default {
       text: 'All sessions',
       url: '/sessions/'
     },
+    {
+      text: 'By Category',
+      url: '/categories/'
+    },
   ],
   bottom: [
   ]

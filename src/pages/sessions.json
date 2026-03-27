@@ -50,16 +50,6 @@
             "list": "none"
         },
         {
-            "url": "https://sessions.minnestar.org/sessions/1898",
-            "title": "Why Your Company's AI Adoption Isn’t Scaling (It’s Not Talent) ",
-            "description": "\n      Most teams are experimenting with AI, but what actually works isn’t spreading across the enterprise org.\nThis session explores why (it’s not for lack of tools or talent), and a simple format some teams are using to fix it. \nCome share what’s working and what’s stuck in your org.\n\n      \n    ",
-            "tags": [
-                "Intermediate",
-                "Emerging Tech"
-            ],
-            "list": "ai"
-        },
-        {
             "url": "https://sessions.minnestar.org/sessions/1899",
             "title": "Multiplayer Interactive Fiction on the Elixir VM ",
             "description": "\n      This session aims to answer the age-old question: \"What would happen if you mixed the modern Elixir programming language with interactive fiction in the style of Zork or 'Choose-your-own-adventure' stories?\"\n\nWhile it may seem an unlikely mashup, the actor-based model of Elixir combined with the non-linear workflows possible in the Ink scripting language for narrative fiction fit together to create an interesting, fun environment.\n\nA few things that may come out of this session include:\n\n\nA more humane alternative to forcing AI automation into flows that demand a human touch\nHow to design dynamic, complex, multiplayer entertainment experiences\nIncorporating complex consequences into non-linear workflow engines\nThe sheer fun of messing with storytelling while learning about the actor model of programming\n\n\nCome for the storytelling, stay for the drama of Actors with Inky scripts!\n\nRegarding topic level: Although we will be engaging with topics that are themselves extremely deep (narrative fiction, actor-based programming models), this session will aim to be accessible to a general audience.\n\n      \n    ",
@@ -399,16 +389,6 @@
                 "Startups",
                 "Careers",
                 "Marketing"
-            ],
-            "list": "none"
-        },
-        {
-            "url": "https://sessions.minnestar.org/sessions/1928",
-            "title": "☠️ How in-app browsers are killing your website and what to do about it. ",
-            "description": "\n      You've tested on every browser, every platform, every device — but lurking in every pocket is the dreaded in-app browser. Just waiting. Waiting for your users to click that link from Instagram, Facebook, or TikTok. This leads to ambiguous bugs and broken sites.\n\nLet's descend into this murky underworld together — and come out with your site intact.\n\n      \n    ",
-            "tags": [
-                "All levels",
-                "Development"
             ],
             "list": "none"
         },

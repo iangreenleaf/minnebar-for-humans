@@ -229,7 +229,7 @@
                 "Marketing",
                 "Other"
             ],
-            "list": "discussion"
+            "list": "ai"
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1913",
@@ -828,6 +828,34 @@
                 "Marketing"
             ],
             "list": "none"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1965",
+            "title": "(Cybersecurity) Warnings 😳 ",
+            "description": "\n      Let's talk about cybersecurity warnings! 😳 Security warnings - and many other computer warnings - are terrible, and there are so many examples...but why is that and does it really have to be that way? I'm lucky to have worked on a project to explain what makes a good cybersecurity warning for product designers, security professionals, and lawyers, and I can tell you that it doesn't!\n\nCome join us in mocking a gallery of bad security and not-security warnings, in screenshots and emoji. Along the way, we'll talk about the history of security and traditional product warnings, what we know about making good warnings, celebrate a (small) gallery of good warnings, and talk about how we can all get better!\n\n      \n    ",
+            "tags": [
+                "All levels",
+                "Development",
+                "Design",
+                "Product",
+                "Other"
+            ],
+            "list": "none"
+        },
+        {
+            "url": "https://sessions.minnestar.org/sessions/1966",
+            "title": "UNLOCKING PRODUCTIVITY: THE POWER OF AI TOOLS IN THE WORKPLACE V4 ",
+            "description": "\n      \"Remember last year when we were 'Ghibli-fying' photos and marveling at the first wave of AI agents? That was the rehearsal. This year, the curtain has officially stayed up, and the 'Magic' has turned into Muscle.\"\n\nThe Power of Autonomy & Context\n\nWe’ll kick off with the game-changers in Agentic AI: systems that don't just \"chat\" but independently solve problems. We’ll specifically dive into Google AI Studio and Gemini 2.5 Flash, showing how its massive context window can digest hours of video or thousands of documents in seconds to act as your ultimate research partner.\n\nThe 60+ Tool Transformation\n\nI’ll break down a curated list of over 60 industry-leading tools to replace your most tedious tasks:\nProductivity & Research: Mastering Perplexity, Grok 3, and Gamma for instant intelligence.\nContent Powerhouses: Using Kling, HeyGen, and VEO 3 for video, and Midjourney for elite design.\nThe Business Engine: Automating entire workflows with Make, Zapier, and Bardeen.\nSpecialized Agents: Deploying Seona AI for SEO and Otter/Fireflies to automate your meetings.\n\nBuilding Your Own \"Staff\"\n\nLearn how to use Agentic AI to create autonomous digital assistants that execute tasks. From Social Media Management with Tapilo and TweetHunter to Vibe Coding with Lovable and Cursor, you’ll see how to build a virtual department on a shoestring budget.\n\nThe Bottom Line This isn't just a list of \"cool apps.\" It’s a roadmap for Productivity 4.0. Whether you are a startup founder using Tome or an executive streamlining with Copilot, you’ll leave with a toolkit to transform your workday from \"busy\" to \"impactful.\n\n      \n    ",
+            "tags": [
+                "Beginner",
+                "Development",
+                "Startups",
+                "Emerging Tech",
+                "AI/ML",
+                "Product",
+                "Soft Skills"
+            ],
+            "list": "ai"
         }
     ]
 }

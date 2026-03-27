@@ -1,0 +1,244 @@
+[
+    {
+        "time": " 8:00 –  8:30",
+        "title": "Registration / Breakfast",
+        "sessions": []
+    },
+    {
+        "time": " 8:30 –  8:50",
+        "title": "Kickoff",
+        "sessions": []
+    },
+    {
+        "time": " 8:50 –  9:20",
+        "title": "Session 0",
+        "sessions": [
+            "https://sessions.minnestar.org/sessions/1887"
+        ]
+    },
+    {
+        "time": " 9:35 –  4:30",
+        "title": "All day",
+        "sessions": [
+            "https://sessions.minnestar.org/sessions/1886",
+            "https://sessions.minnestar.org/sessions/1891",
+            "https://sessions.minnestar.org/sessions/1801",
+            "https://sessions.minnestar.org/sessions/1890"
+        ]
+    },
+    {
+        "time": " 9:35 – 10:15",
+        "title": "Session 1",
+        "sessions": [
+            "https://sessions.minnestar.org/sessions/1709",
+            "https://sessions.minnestar.org/sessions/1883",
+            "https://sessions.minnestar.org/sessions/1863",
+            "https://sessions.minnestar.org/sessions/1719",
+            "https://sessions.minnestar.org/sessions/1800",
+            "https://sessions.minnestar.org/sessions/1829",
+            "https://sessions.minnestar.org/sessions/1700",
+            "https://sessions.minnestar.org/sessions/1790",
+            "https://sessions.minnestar.org/sessions/1876",
+            "https://sessions.minnestar.org/sessions/1817",
+            "https://sessions.minnestar.org/sessions/1824",
+            "https://sessions.minnestar.org/sessions/1846",
+            "https://sessions.minnestar.org/sessions/1831",
+            "https://sessions.minnestar.org/sessions/1867",
+            "https://sessions.minnestar.org/sessions/1826",
+            "https://sessions.minnestar.org/sessions/1788",
+            "https://sessions.minnestar.org/sessions/1687",
+            "https://sessions.minnestar.org/sessions/1780",
+            "https://sessions.minnestar.org/sessions/1812",
+            "https://sessions.minnestar.org/sessions/1718",
+            "https://sessions.minnestar.org/sessions/1877",
+            "https://sessions.minnestar.org/sessions/1798",
+            "https://sessions.minnestar.org/sessions/1853"
+        ]
+    },
+    {
+        "time": "10:30 – 11:10",
+        "title": "Session 2",
+        "sessions": [
+            "https://sessions.minnestar.org/sessions/1734",
+            "https://sessions.minnestar.org/sessions/1834",
+            "https://sessions.minnestar.org/sessions/1703",
+            "https://sessions.minnestar.org/sessions/1793",
+            "https://sessions.minnestar.org/sessions/1693",
+            "https://sessions.minnestar.org/sessions/1821",
+            "https://sessions.minnestar.org/sessions/1872",
+            "https://sessions.minnestar.org/sessions/1847",
+            "https://sessions.minnestar.org/sessions/1845",
+            "https://sessions.minnestar.org/sessions/1747",
+            "https://sessions.minnestar.org/sessions/1806",
+            "https://sessions.minnestar.org/sessions/1851",
+            "https://sessions.minnestar.org/sessions/1792",
+            "https://sessions.minnestar.org/sessions/1861",
+            "https://sessions.minnestar.org/sessions/1860",
+            "https://sessions.minnestar.org/sessions/1733",
+            "https://sessions.minnestar.org/sessions/1807",
+            "https://sessions.minnestar.org/sessions/1843",
+            "https://sessions.minnestar.org/sessions/1830",
+            "https://sessions.minnestar.org/sessions/1804",
+            "https://sessions.minnestar.org/sessions/1782",
+            "https://sessions.minnestar.org/sessions/1711",
+            "https://sessions.minnestar.org/sessions/1715"
+        ]
+    },
+    {
+        "time": "11:25 – 12:05",
+        "title": "Session 3",
+        "sessions": [
+            "https://sessions.minnestar.org/sessions/1720",
+            "https://sessions.minnestar.org/sessions/1716",
+            "https://sessions.minnestar.org/sessions/1739",
+            "https://sessions.minnestar.org/sessions/1784",
+            "https://sessions.minnestar.org/sessions/1856",
+            "https://sessions.minnestar.org/sessions/1850",
+            "https://sessions.minnestar.org/sessions/1684",
+            "https://sessions.minnestar.org/sessions/1840",
+            "https://sessions.minnestar.org/sessions/1825",
+            "https://sessions.minnestar.org/sessions/1695",
+            "https://sessions.minnestar.org/sessions/1805",
+            "https://sessions.minnestar.org/sessions/1722",
+            "https://sessions.minnestar.org/sessions/1737",
+            "https://sessions.minnestar.org/sessions/1814",
+            "https://sessions.minnestar.org/sessions/1881",
+            "https://sessions.minnestar.org/sessions/1744",
+            "https://sessions.minnestar.org/sessions/1885",
+            "https://sessions.minnestar.org/sessions/1852",
+            "https://sessions.minnestar.org/sessions/1712",
+            "https://sessions.minnestar.org/sessions/1797",
+            "https://sessions.minnestar.org/sessions/1820",
+            "https://sessions.minnestar.org/sessions/1878",
+            "https://sessions.minnestar.org/sessions/1870"
+        ]
+    },
+    {
+        "time": "12:05 –  1:05",
+        "title": "Lunch",
+        "sessions": [
+            "https://sessions.minnestar.org/sessions/1888",
+            "https://sessions.minnestar.org/sessions/1889"
+        ]
+    },
+    {
+        "time": " 1:05 –  1:45",
+        "title": "Session 4",
+        "sessions": [
+            "https://sessions.minnestar.org/sessions/1701",
+            "https://sessions.minnestar.org/sessions/1740",
+            "https://sessions.minnestar.org/sessions/1746",
+            "https://sessions.minnestar.org/sessions/1841",
+            "https://sessions.minnestar.org/sessions/1794",
+            "https://sessions.minnestar.org/sessions/1884",
+            "https://sessions.minnestar.org/sessions/1879",
+            "https://sessions.minnestar.org/sessions/1783",
+            "https://sessions.minnestar.org/sessions/1691",
+            "https://sessions.minnestar.org/sessions/1727",
+            "https://sessions.minnestar.org/sessions/1875",
+            "https://sessions.minnestar.org/sessions/1731",
+            "https://sessions.minnestar.org/sessions/1738",
+            "https://sessions.minnestar.org/sessions/1704",
+            "https://sessions.minnestar.org/sessions/1786",
+            "https://sessions.minnestar.org/sessions/1694",
+            "https://sessions.minnestar.org/sessions/1689",
+            "https://sessions.minnestar.org/sessions/1726",
+            "https://sessions.minnestar.org/sessions/1685",
+            "https://sessions.minnestar.org/sessions/1787",
+            "https://sessions.minnestar.org/sessions/1838",
+            "https://sessions.minnestar.org/sessions/1848"
+        ]
+    },
+    {
+        "time": " 2:00 –  2:40",
+        "title": "Session 5",
+        "sessions": [
+            "https://sessions.minnestar.org/sessions/1732",
+            "https://sessions.minnestar.org/sessions/1809",
+            "https://sessions.minnestar.org/sessions/1730",
+            "https://sessions.minnestar.org/sessions/1854",
+            "https://sessions.minnestar.org/sessions/1791",
+            "https://sessions.minnestar.org/sessions/1729",
+            "https://sessions.minnestar.org/sessions/1874",
+            "https://sessions.minnestar.org/sessions/1832",
+            "https://sessions.minnestar.org/sessions/1842",
+            "https://sessions.minnestar.org/sessions/1688",
+            "https://sessions.minnestar.org/sessions/1799",
+            "https://sessions.minnestar.org/sessions/1686",
+            "https://sessions.minnestar.org/sessions/1699",
+            "https://sessions.minnestar.org/sessions/1855",
+            "https://sessions.minnestar.org/sessions/1862",
+            "https://sessions.minnestar.org/sessions/1868",
+            "https://sessions.minnestar.org/sessions/1823",
+            "https://sessions.minnestar.org/sessions/1697",
+            "https://sessions.minnestar.org/sessions/1690",
+            "https://sessions.minnestar.org/sessions/1837",
+            "https://sessions.minnestar.org/sessions/1815",
+            "https://sessions.minnestar.org/sessions/1681",
+            "https://sessions.minnestar.org/sessions/1882"
+        ]
+    },
+    {
+        "time": " 2:55 –  3:35",
+        "title": "Session 6",
+        "sessions": [
+            "https://sessions.minnestar.org/sessions/1707",
+            "https://sessions.minnestar.org/sessions/1736",
+            "https://sessions.minnestar.org/sessions/1813",
+            "https://sessions.minnestar.org/sessions/1873",
+            "https://sessions.minnestar.org/sessions/1796",
+            "https://sessions.minnestar.org/sessions/1696",
+            "https://sessions.minnestar.org/sessions/1857",
+            "https://sessions.minnestar.org/sessions/1859",
+            "https://sessions.minnestar.org/sessions/1833",
+            "https://sessions.minnestar.org/sessions/1816",
+            "https://sessions.minnestar.org/sessions/1865",
+            "https://sessions.minnestar.org/sessions/1714",
+            "https://sessions.minnestar.org/sessions/1827",
+            "https://sessions.minnestar.org/sessions/1785",
+            "https://sessions.minnestar.org/sessions/1705",
+            "https://sessions.minnestar.org/sessions/1745",
+            "https://sessions.minnestar.org/sessions/1692",
+            "https://sessions.minnestar.org/sessions/1781",
+            "https://sessions.minnestar.org/sessions/1706",
+            "https://sessions.minnestar.org/sessions/1795",
+            "https://sessions.minnestar.org/sessions/1844",
+            "https://sessions.minnestar.org/sessions/1713"
+        ]
+    },
+    {
+        "time": " 3:50 –  4:30",
+        "title": "Session 7",
+        "sessions": [
+            "https://sessions.minnestar.org/sessions/1743",
+            "https://sessions.minnestar.org/sessions/1810",
+            "https://sessions.minnestar.org/sessions/1708",
+            "https://sessions.minnestar.org/sessions/1723",
+            "https://sessions.minnestar.org/sessions/1710",
+            "https://sessions.minnestar.org/sessions/1682",
+            "https://sessions.minnestar.org/sessions/1811",
+            "https://sessions.minnestar.org/sessions/1808",
+            "https://sessions.minnestar.org/sessions/1725",
+            "https://sessions.minnestar.org/sessions/1880",
+            "https://sessions.minnestar.org/sessions/1724",
+            "https://sessions.minnestar.org/sessions/1735",
+            "https://sessions.minnestar.org/sessions/1818",
+            "https://sessions.minnestar.org/sessions/1866",
+            "https://sessions.minnestar.org/sessions/1836",
+            "https://sessions.minnestar.org/sessions/1802",
+            "https://sessions.minnestar.org/sessions/1835",
+            "https://sessions.minnestar.org/sessions/1864",
+            "https://sessions.minnestar.org/sessions/1858",
+            "https://sessions.minnestar.org/sessions/1819",
+            "https://sessions.minnestar.org/sessions/1728",
+            "https://sessions.minnestar.org/sessions/1869"
+        ]
+    },
+    {
+        "time": " 4:30 –  6:30",
+        "title": "Social Hour",
+        "sessions": [
+            "https://sessions.minnestar.org/sessions/1892"
+        ]
+    }
+]

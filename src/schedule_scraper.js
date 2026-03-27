@@ -6,12 +6,15 @@ import {testHTMLData} from './schedule_test_data.js';
 const URL = "https://sessions.minnestar.org";
 const sessionUrlBase = "https://sessions.minnestar.org/sessions/";
 
-// Uncomment this when scraping the real live schedule
-// const scheduleReq = await axios.get(URL);
-// const $allSchedule = cheerio.load(scheduleReq.data);
-
-// Comment this when scraping the real live schedule
-const $ = cheerio.load(testHTMLData);
+let $;
+if (process.argv[2] === "test") {
+  console.log("using test data");
+  $ = cheerio.load(testHTMLData);
+} else {
+  console.log("using live data");
+  const scheduleReq = await axios.get(URL);
+  $ = cheerio.load(scheduleReq.data);
+}
 
 const timeslotElements = $("div.timeslot").toArray();
 const timeslots = [];

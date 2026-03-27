@@ -24,7 +24,9 @@
     "pa11y:serve": "ELEVENTY_ENV=test eleventy --serve --ignore-initial",
     "test:a11y": "npm run pa11y:build && (npm run pa11y:serve &) && sleep 5 && npm run pa11y:test",
     "scrape": "node ./src/scrape_minnebar.js",
-    "cli_tag": "node ./src/cli_tagging.js"
+    "cli_tag": "node ./src/cli_tagging.js",
+    "scrape_schedule_test": "node ./src/schedule_scraper.js test",
+    "scrape_schedule": "node ./src/schedule_scraper.js"
   },
   "keywords": [],
   "repository": {

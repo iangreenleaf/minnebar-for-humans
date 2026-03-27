@@ -14,12 +14,12 @@ const $allSession = cheerio.load(allSessionReq.data);
 
 // Reads all data already scraped in the past
 const readFile = fs.readFileSync(dataFile);
-const sessionDetails = JSON.parse(readFile).sessions;
+let sessionDetails = JSON.parse(readFile).sessions;
 
 // Scrapes pages detected as new
-const sessionAElements = $allSession("a[href^='/sessions/']:not([class])");
+const sessionAElements = $allSession("a[href^='/sessions/']:not([class])").toArray();
 
-for (const sessionA of sessionAElements.toArray().reverse()) {
+for (const sessionA of sessionAElements.reverse()) {
   const sessionUrl = `${baseURL}${sessionA.attribs['href']}`;
 
   // If page is already scraped, skip it
@@ -45,6 +45,17 @@ for (const sessionA of sessionAElements.toArray().reverse()) {
 
   sessionDetails.push({"url": sessionUrl, title, description, tags});
 }
+
+sessionDetails = sessionDetails.filter(function (session) {
+  const matchingATag = sessionAElements.find(function (aElement) {
+    return baseURL + aElement.attribs['href'] === session['url'];
+  });
+  if (matchingATag !== undefined)
+    return true;
+  // Session exists in json file, but did not exist in most recent scrape.
+  console.log(`Session "${session['title']}" was removed`);
+  return false;
+});
 
 // Saves updated sessions list
 fs.writeFileSync(dataFile, JSON.stringify({ sessions: sessionDetails }, null, 4));

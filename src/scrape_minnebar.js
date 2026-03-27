@@ -40,10 +40,16 @@ for (const sessionA of sessionAElements.reverse()) {
     tags.push($sessionPage(tagElement).text());
   }
 
+  const categories = [];
+  for (const categoryA of $sessionPage("ul.tags > li a.tag")) {
+    const matchdata = categoryA.attribs['href'].match(/\/categories\/([0-9]+)/);
+    if (matchdata) { categories.push(matchdata[1]) }
+  }
+
   $sessionPage(".session_description .tags").remove();
   const description = $sessionPage(".session_description").text();
 
-  sessionDetails.push({"url": sessionUrl, title, description, tags});
+  sessionDetails.push({"url": sessionUrl, title, description, tags, categories});
 }
 
 sessionDetails = sessionDetails.filter(function (session) {

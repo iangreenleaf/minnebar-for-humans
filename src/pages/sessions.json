@@ -11,7 +11,13 @@
                 "Wildcard",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "6",
+                "13",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1894",
@@ -23,7 +29,12 @@
                 "AI/ML",
                 "Marketing"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "4",
+                "7",
+                "12"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1895",
@@ -35,7 +46,12 @@
                 "Soft Skills",
                 "Careers"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "4",
+                "10",
+                "11"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1896",
@@ -47,7 +63,12 @@
                 "Emerging Tech",
                 "Design"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "4",
+                "6",
+                "1"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1899",
@@ -60,7 +81,13 @@
                 "Wildcard",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "7",
+                "13",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1900",
@@ -73,7 +100,13 @@
                 "AI/ML",
                 "Soft Skills"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "2",
+                "6",
+                "7",
+                "10"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1901",
@@ -83,7 +116,10 @@
                 "All levels",
                 "Soft Skills"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "10"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1902",
@@ -94,7 +130,11 @@
                 "Startups",
                 "AI/ML"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "4",
+                "7"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1903",
@@ -106,7 +146,12 @@
                 "Development",
                 "Wildcard"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "7",
+                "2",
+                "13"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1904",
@@ -117,7 +162,11 @@
                 "AI/ML",
                 "Wildcard"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "7",
+                "13"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1905",
@@ -130,7 +179,13 @@
                 "Design",
                 "Soft Skills"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "6",
+                "7",
+                "1",
+                "10"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1906",
@@ -142,7 +197,12 @@
                 "AI/ML",
                 "Other"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "2",
+                "7",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1907",
@@ -154,7 +214,12 @@
                 "Careers",
                 "Wildcard"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "10",
+                "11",
+                "13"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1908",
@@ -164,7 +229,10 @@
                 "Intermediate",
                 "Startups"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "4"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1909",
@@ -176,7 +244,12 @@
                 "Design",
                 "Marketing"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "4",
+                "1",
+                "12"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1910",
@@ -186,11 +259,14 @@
                 "All levels",
                 "Emerging Tech"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "6"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1911",
-            "title": "AI Told You So Again: How I Built a $1B Unfair Advantage — And So Can You (Meet OpenClaw) ",
+            "title": "AI Told You So Again: How I Built a $1B Unfair Advantage ... And So Can You (Meet OpenClaw) ",
             "description": "\n      Two years ago at Minnebar I said I could build a $1M business in 30 minutes using ChatGPT. You were skeptical. I did it anyway. \n\nCombat Candy now has half a million in seed capital, five-figure monthly sales, and a Shopify store so effective it makes even Chatgpt question free will.\n\nSo naturally, I raised the stakes. Because apparently I have something to prove. To you. Repeatedly.\n\nThis year I’m going to show you how a two-person supplement company is chasing $1B ... not because we’re delusional, but because we built something that makes the math actually work. \n\nIt’s called OpenClaw, and if you haven’t heard of it yet, you will because your LinkedIn feed is about to bombard you with it. \n\nOpenClaw is an open source multi-agent AI framework that’s quietly becoming one of the most powerful unfair advantages available to anyone with a MacMini and something to prove. I’ve deployed it across Combat Candy like a very ambitious, extremely underpaid intern army. \n\n\nIt runs our email marketing. \nIt optimizes our paid social spend. \nIt manages and grows our CRM. \nIt finds, inspires, and literally pays our affiliates. \n\n\nAnd that  genuinely is just the tip of the A-Iceberg.\n\nTwo people. One framework. Zero chill about what’s possible.\n\nI’ll show you exactly how I built it into our stack, what it’s doing right now, and how you can steal the whole playbook before you leave the room.\n\nBring your skepticism. I brought receipts. Again.\n\n      \n    ",
             "tags": [
                 "All levels",
@@ -201,11 +277,19 @@
                 "Marketing",
                 "Wildcard"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "2",
+                "4",
+                "6",
+                "7",
+                "12",
+                "13"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1912",
-            "title": "'Hal Where Are You? - An Artificial Intelligence Question' ",
+            "title": " Artificial Intelligence 1967, Yes '1967' ",
             "description": "\n      Remember '2001 a Space Odyssey'?  Where is AI going? A highly capable system simply needs to be indifferent to human survival to create fatal risks.  Could it Happen? Will it Happen?  You Be the Judge!   \n\nCould AI pose an existential risk by surpassing human intelligence, leading to an \"obsolescence regime\" where humanity cannot compete, or just not understanding how to deal with human emotions!? \n\nDoes AI benefit humanity by augmenting human capabilities, driving efficiencies, and solving complex problems across healthcare, sustainability, and daily life?\n\nAI offers significant benefits, yet experts emphasize the need for managing risks regarding ethical considerations, such as AI bias in decision-making and ensuring privacy.\n\nRisk or Benefits or Both? You be the Judge - It's worth a discussion!\n\n      \n    ",
             "tags": [
                 "All levels",
@@ -219,7 +303,18 @@
                 "Marketing",
                 "Other"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "2",
+                "4",
+                "6",
+                "7",
+                "9",
+                "13",
+                "1",
+                "12",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1913",
@@ -233,7 +328,14 @@
                 "Marketing",
                 "Wildcard"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "4",
+                "5",
+                "6",
+                "12",
+                "13"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1914",
@@ -244,7 +346,11 @@
                 "Development",
                 "AI/ML"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "2",
+                "7"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1915",
@@ -256,7 +362,12 @@
                 "Wildcard",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "4",
+                "13",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1916",
@@ -267,7 +378,11 @@
                 "AI/ML",
                 "Soft Skills"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "7",
+                "10"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1917",
@@ -278,7 +393,11 @@
                 "Startups",
                 "AI/ML"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "4",
+                "7"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1918",
@@ -291,7 +410,13 @@
                 "Community",
                 "Other"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "2",
+                "7",
+                "9",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1919",
@@ -303,7 +428,12 @@
                 "Emerging Tech",
                 "AI/ML"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "2",
+                "6",
+                "7"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1920",
@@ -316,7 +446,13 @@
                 "Design",
                 "Wildcard"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "6",
+                "1",
+                "13"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1921",
@@ -328,7 +464,12 @@
                 "Wildcard",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "13",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1922",
@@ -341,7 +482,13 @@
                 "Design",
                 "Product"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "4",
+                "1",
+                "8"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1923",
@@ -353,7 +500,12 @@
                 "Soft Skills",
                 "Community"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "13",
+                "10",
+                "9"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1924",
@@ -366,7 +518,13 @@
                 "Wildcard",
                 "Other"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "7",
+                "9",
+                "13",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1925",
@@ -378,7 +536,12 @@
                 "Startups",
                 "Product"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "4",
+                "8"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1927",
@@ -390,7 +553,12 @@
                 "Careers",
                 "Marketing"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "4",
+                "11",
+                "12"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1929",
@@ -402,7 +570,12 @@
                 "Soft Skills",
                 "Careers"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "7",
+                "10",
+                "11"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1930",
@@ -414,7 +587,12 @@
                 "Startups",
                 "Careers"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "4",
+                "11"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1931",
@@ -425,7 +603,11 @@
                 "Development",
                 "Design"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "1"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1932",
@@ -436,18 +618,26 @@
                 "Development",
                 "Emerging Tech"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "6"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1933",
-            "title": "Deep Reflection, Vulnerability, and Learning: How AI Can Unlock Your 5% ",
+            "title": "Deep Reflection, Vulnerability, and Learning: How AI Can Help Unlock Your 5% ",
             "description": "\n      Personal reflection requires something most of us avoid: honesty and vulnerability. Entrepreneurs’ Organization (EO) members are trained to reflect regularly on their work, family, and personal life experiences through the “5% Reflection” practice, but consistency and depth can be very hard.\n\nIn this session, you will learn about the EO 5% Reflection methodology and I'll demonstrate a custom GPT that helps guide deeper, more vulnerable thinking about your experiences.\n\nWe’ll explore:\n\n\nWhy meaningful reflection is uncomfortable – and why that matters\nHow prompts structured by AI can encourage more honest thinking\nA live demo of the custom GPT 5% Coach\nHow sharing your 5% reflection can benefit others through resonance\n\n\nThis will be part demo, part discussion. Come if you’re interested in thinking more clearly about your vulnerabilities, experiences, successes, and blind spots.\n\n      \n    ",
             "tags": [
                 "All levels",
                 "AI/ML",
                 "Soft Skills"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "7",
+                "10"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1934",
@@ -460,7 +650,13 @@
                 "Product",
                 "Careers"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "2",
+                "7",
+                "8",
+                "11"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1935",
@@ -472,7 +668,12 @@
                 "Wildcard",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "1",
+                "13",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1936",
@@ -485,7 +686,13 @@
                 "Soft Skills",
                 "Careers"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "7",
+                "9",
+                "10",
+                "11"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1937",
@@ -496,19 +703,28 @@
                 "Wildcard",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "13",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1938",
             "title": "The Truman Show: Reclaiming Self-hood When its Not in the Script ",
-            "description": "\n       I will detail concrete steps and tools I used to extricate myself from the claws of Big Tech. I enjoy storytelling and will share some amusing and somewhat disquieting anecdotes along the way (with screenshots ofc). \n\nWe are all living in our own version of the Truman show, dis-reality, embedded ads , Big Tech following us around the internet ---unprecedented data collection from our sleep cycles, taste in music, and even our heartbeat in real time. The Orwellian surveillance economy wrapped itself in convenience and clean minimalist aesthetic. Much like edelweiss and Truman's quaint home, our devices and interfaces looked harmless and happy to greet us-- \n\nFunny thing is, we didn't realize that google was actually googling us. \n\n You will encounter almost comical levels of friction when you assert your autonomy from these established platforms and reclaim your self-hood.  As Truman did when he breaks from his routine and boldy attempts to leave Seahaven.  The obvious guardrails  at the point of exit for these systems is  illustrative; \n\nCompliance is expected and entitlement to our lives has been normalized. Much like the director  in the film; Sam Altman, Mark Zuckerberg, Elon Musk see our lived experience and personal data as their asset - believing that grand visions somehow legitimize our disenfranchisement\n\nIn the face of all this its easy to become apathetic, believing we have passed a point of no return, or we are too small to make a difference. The truth is if you are big enough to be a target you're big enough to effect change.  We can begin again,  we can use non-extractive tools that respect our right to privacy, and we can build ethical ecosystems of our own. \n\nWe don't have to go it alone , we have communities like Minnestar, perhaps a writing club, a neighborhood garden---We need to value each other like never before---and like Truman we have to be willing to face the unfamiliar , abandon well worn paths and patterns, and bid a final farewell to the unblinking eye of big tech:\n\nGood Morning- and in case I don't see you, Good Afternoon , Good evening , and Goodnight.\n\n      \n    ",
+            "description": "\n       I will detail concrete steps and tools I used to extricate myself from the claws of Big Tech. I enjoy storytelling and will share some amusing and somewhat disquieting anecdotes along the way (with screenshots ofc). \n\nWe are all living in our own version of the Truman show, dis-reality, embedded ads , Big Tech following us around the internet ---unprecedented data collection from our sleep cycles, taste in music, and even our heartbeat in real time. The Orwellian surveillance economy wrapped itself in convenience and clean minimalist aesthetic. Much like edelweiss and Truman's quaint home, our devices and interfaces looked harmless and happy to greet us-- \n\nFunny thing is, we didn't realize that google was actually googling us. \n\n You will encounter almost comical levels of friction when you assert your autonomy from these established platforms and reclaim your self-hood.  As Truman did when he breaks from his routine and boldy attempts to leave Seahaven.  The obvious guardrails  at the point of exit for these systems is  illustrative; \n\nCompliance is expected and entitlement to our lives has been normalized. Much like the director  in the film; Sam Altman, Mark Zuckerberg, Elon Musk see our lived experience and personal data as their asset - believing that grand visions somehow legitimize disenfranchisement\n\nIn the face of all this its easy to become apathetic, believing we have passed a point of no return, or we are too small to make a difference. The truth is if you are big enough to be a target you're big enough to effect change.  We can begin again,  we can use non-extractive tools that respect our right to privacy, and we can build ethical ecosystems of our own. \n\nWe don't have to go it alone , we have communities like Minnestar, perhaps a writing club, a neighborhood garden---We need to value each other like never before---and like Truman we have to be willing to face the unfamiliar , abandon well worn paths and patterns, and bid a farewell to the unblinking eye of big tech:\n\nGood Morning- and in case I don't see you, Good Afternoon , Good evening , and Goodnight.\n\n      \n    ",
             "tags": [
                 "Beginner",
                 "AI/ML",
                 "Soft Skills",
                 "Wildcard"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "7",
+                "10",
+                "13"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1939",
@@ -520,7 +736,12 @@
                 "Community",
                 "Marketing"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "4",
+                "9",
+                "12"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1940",
@@ -530,7 +751,10 @@
                 "Intermediate",
                 "Startups"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "4"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1941",
@@ -545,7 +769,15 @@
                 "Design",
                 "Community"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "2",
+                "4",
+                "6",
+                "7",
+                "1",
+                "9"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1942",
@@ -557,7 +789,12 @@
                 "Product",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "8",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1943",
@@ -567,7 +804,10 @@
                 "All levels",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1944",
@@ -577,7 +817,10 @@
                 "All levels",
                 "Wildcard"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "13"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1945",
@@ -587,7 +830,10 @@
                 "Beginner",
                 "Wildcard"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "13"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1946",
@@ -597,7 +843,10 @@
                 "All levels",
                 "Community"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "9"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1947",
@@ -609,7 +858,12 @@
                 "Soft Skills",
                 "Careers"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "10",
+                "11"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1948",
@@ -623,12 +877,19 @@
                 "Soft Skills",
                 "Careers"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "1",
+                "9",
+                "10",
+                "11"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1949",
             "title": "Dr. BotLove or: How I Learned to Stop Worrying and Love the AI ",
-            "description": "\n      I’ll be blunt: AI is really cool, but also really, really dumb. It can build an app in an afternoon, design a VR videogame overnight, update your systems, and build an entire ETL system. It also can’t remember who you work for, has a habit of broadcasting your secure keys, and clutters your codebase with dozens of debug_duplicate.py files. \n\nAI is the best of the worst tools in our belt. It’s brilliant, it’s broken, and I use it every single day\n\nIn this session, we’re taking a frank look at where AI actually is right now, where it shines, and where it consistently falls apart. We will talk about the big topics of how to make it useful, where it shines and where it will consistently fall apart. Discussions will take into account goldfish memory, terrible assumptions and tendencies to go on “adventures”. We will focus on how the average user can leverage these tools safely and sanely without a dedicated dev team or a complex setup.\n\nWe will talk about how to integrate it into your work life without losing your mind (or your ability to think). Come learn how to interact with the bots recognizing they are like an overconfident, very smart, but completely chaotic junior dev.\n\nScope: This discussion will be focused on commercially available AI tools like Claude, ChatGPT, Gemini, and Copilot. I’m sure some of y’all have custom fixes for all these issues, but for this we’re focusing on the out-of-the-box bots were stuck with.\n\n      \n    ",
+            "description": "\n      I’ll be blunt: AI is really cool, but also really, really dumb. It can build an app in an afternoon, design a VR videogame overnight, update your systems, and build an entire ETL system. It also can’t remember who you work for, has a habit of broadcasting your secure keys, and clutters your codebase with dozens of debug_duplicate.py files. \n\nAI is the best of the worst tools in our belt. It’s brilliant, it’s broken, and I use it every single day\n\nIn this session, we’re taking a frank look at where AI actually is right now, where it shines, and where it consistently falls apart. The critical topics of how to make it useful, where it shines, where it just won't work, and ways to make it less obnoxious. How to accommodate goldfish memory, terrible assumptions and tendencies to go on “adventures”. Strategies the average user to leverage these tools safely and sanely without a dedicated dev team or a complex setup.\n\nThere are various ways to integrate it into your work life without losing your mind (or your ability to think). Come learn how to interact with the bots recognizing they are like an overconfident, very smart, but completely chaotic junior dev.\n\nScope: This discussion will be focused on commercially available AI tools like Claude, ChatGPT, Gemini, and Copilot. I’m sure some of y’all have custom fixes for all these issues, but for this we’re focusing on the out-of-the-box bots were stuck with.\n\n      \n    ",
             "tags": [
                 "Beginner",
                 "AI/ML",
@@ -636,7 +897,13 @@
                 "Soft Skills",
                 "Wildcard"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "7",
+                "8",
+                "10",
+                "13"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1950",
@@ -647,7 +914,11 @@
                 "Community",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "9",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1951",
@@ -660,7 +931,13 @@
                 "Community",
                 "Soft Skills"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "1",
+                "9",
+                "10"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1952",
@@ -670,7 +947,10 @@
                 "All levels",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1953",
@@ -682,7 +962,12 @@
                 "AI/ML",
                 "Other"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "4",
+                "7",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1954",
@@ -692,7 +977,10 @@
                 "Intermediate",
                 "Emerging Tech"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "6"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1955",
@@ -702,7 +990,10 @@
                 "Intermediate",
                 "AI/ML"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "7"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1956",
@@ -712,7 +1003,10 @@
                 "Intermediate",
                 "Wildcard"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "13"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1957",
@@ -725,7 +1019,13 @@
                 "Careers",
                 "Marketing"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "4",
+                "9",
+                "11",
+                "12"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1958",
@@ -737,7 +1037,12 @@
                 "Careers",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "10",
+                "11",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1959",
@@ -747,7 +1052,10 @@
                 "All levels",
                 "Startups"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "4"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1960",
@@ -759,7 +1067,12 @@
                 "Wildcard",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "1",
+                "13",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1961",
@@ -770,7 +1083,11 @@
                 "Development",
                 "Design"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "1"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1962",
@@ -783,7 +1100,13 @@
                 "Soft Skills",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "4",
+                "8",
+                "10",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1963",
@@ -794,7 +1117,11 @@
                 "Emerging Tech",
                 "AI/ML"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "6",
+                "7"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1964",
@@ -807,7 +1134,13 @@
                 "Design",
                 "Marketing"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "4",
+                "1",
+                "12"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1965",
@@ -820,7 +1153,13 @@
                 "Product",
                 "Other"
             ],
-            "list": "none"
+            "list": "none",
+            "categories": [
+                "2",
+                "1",
+                "8",
+                "5"
+            ]
         },
         {
             "url": "https://sessions.minnestar.org/sessions/1966",
@@ -835,7 +1174,15 @@
                 "Product",
                 "Soft Skills"
             ],
-            "list": "ai"
+            "list": "ai",
+            "categories": [
+                "2",
+                "4",
+                "6",
+                "7",
+                "8",
+                "10"
+            ]
         }
     ]
 }

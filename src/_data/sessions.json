@@ -1182,5 +1182,39 @@
             "8",
             "10"
         ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1967",
+        "title": "A weather station, plant monitors, buttons, and other smart home fun ",
+        "description": "\n      I gave a talk last year on a doorbell and kitchen dashboard project. I'll do a quick recap of those and how they're going.\n\nI have some more projects that I'd like to share, including a weather station I set up in my backyard and self-hosting the data.\n\nI have tried out some different houseplant monitors. I'll tell you how that's going.\n\nI've tried several of different buttons. We can talk about those too.\n\nLast year, the follow-up conversations I had with folks were so good, I kinda want to just run it back and do the same talk again, but there are also plenty of new things to talk about.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development"
+        ],
+        "categories": [
+            "2"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/1969",
+        "title": "Real World Speech Interfaces: What Builders Are Seeing ",
+        "description": "\n      Are you building with speech, or thinking about it? Let’s compare notes.\n\nSpeech interfaces (e.g. speech-to-text, text-to-speech) have become one of the most practical (and widespread) ways AI shows up in real products.\n\n2025 was the year of AI meeting note takers. Transcription apps are everywhere (and seemingly popped up out of nowhere).\n\n2026 is about dictation. WisprFlow and Willow are changing how we interact with computers. Prompting Claude from a keyboard is sooo 2025.\n\nYet, it feels like we’ve only scratched the surface of what these technologies can do. \n\nBuilding in the space? Let’s talk shop and make wild guesses on where this is headed.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML",
+            "Product"
+        ],
+        "categories": [
+            "2",
+            "4",
+            "6",
+            "7",
+            "8"
+        ],
+        "list": "ai"
     }
 ]

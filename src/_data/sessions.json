@@ -1233,5 +1233,43 @@
             "11"
         ],
         "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2003",
+        "title": "From Uncle Sam to Civic Tech: Rebuilding Civic Engagement for Gen Z Using Design Thinking ",
+        "description": "\n         For over 200 years, civic engagement and education in the U.S. have remained largely unchanged while Gen Z participation has declined. Today, more than 60% of eligible young adults do not vote, and many feel unprepared to engage in civic life.\n\n\nBut this is not a motivation problem; it is a design problem.\n\n  We continue to rely on messages like the Uncle Sam poster, “We want you,” without showing people what to do next or how to meaningfully get involved. And let’s be honest, most civic systems were not built with Gen Z in mind, and it shows. As a 16-year-old working in this space, I have spent the past few years researching youth civic engagement, working with communities across Minnesota, drafting legislation, and founding Spark Civics, a youth-led organization focused on building tech-enabled systems for civic participation.\n\n In this interactive session, we will explore how civic engagement can be rebuilt using design thinking and civic tech. We will apply product design, user experience, and behavioral science to create clear pathways, transforming awareness into action. I will demo a platform that guides users through personalized next steps, feedback loops, and real opportunities to engage. I’ll share lessons and insights from a Spark Civics camp where students turned ideas into real-world impact. Join this session to turn ideas into tech-powered impact and see what civic engagement looks like when it is actually designed to work.\n\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Emerging Tech",
+            "Design",
+            "Community"
+        ],
+        "categories": [
+            "6",
+            "1",
+            "9"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2004",
+        "title": "More... \"Diagrams to Get your $hit together\" ",
+        "description": "\n      Back by popular demand! ...FYI \"Computer Science\" used to be called \"Decision Science\". Save yourself hassles with better decisions. If you don't know what to do, try a diagram. Bring some scratch paper etc. if you want to work along.\n\n1- Consulting daily grind; What do people (customers) actually WANT from me?! \nSolve this with a User Story!  \"As a __, I want to _, So I can __.\" \n\nI'll walk you through the classic format, share a couple real world examples, and expand that into white boarding like a professional. After 13 years in the tech community, I still do this literally every single consulting call. \n\n2- Gird the loins of your mind; Iron clad communication for boundaries and positions.\n\"When you _, I feel _, what I wanted to feel is __. If you keep doing _, I will __.\"\n\nSometimes confusion is intentional. Cut through that bull$hit like butter. Know your own mind, and communicate it so clearly you can determine if the other person is acting in good faith. Plus, how to clear your mind in 5 minute with quick-and-dirty journaling. This one will fix like half of your interpersonal stuff, more if this stuff is brand new to you.\n\n3- Hard bull$hit like; Should I leave or should I stay?\nThis is not actually a binary decision, this goes in a 4-square box... Because inaction is still a choice. It will help you trick yourself into bravery.\n\nI'll show you how to map out the hard stuff, so you at least SEE what you are facing. Sometimes the possible outcomes can have VERY different weights and your choice gets simple. Sometimes it just gives you enough mental distance that you can work up the guts to do the needful thing. At very least, you name the monster.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Startups",
+            "Product",
+            "Soft Skills",
+            "Careers",
+            "Wildcard"
+        ],
+        "categories": [
+            "4",
+            "8",
+            "10",
+            "11",
+            "13"
+        ],
+        "list": "none"
     }
 ]

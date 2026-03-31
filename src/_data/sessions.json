@@ -1302,5 +1302,88 @@
             "12"
         ],
         "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2006",
+        "title": "Build A Bridge with Interactive Art ",
+        "description": "\n      Build a Bridge with Interactive Art\nHosted by Crayon Kelly\n\nStep beyond the velvet rope and into a space where the \"fourth wall\" of the gallery is stripped away. Build a Bridge with Interactive Art is an immersive session designed to explore how active public participation transforms a static piece of work into a living community narrative.\n\nLed by Kelly Anderson, founder of the Crayon Kelly Experience, this session dives into the mechanics of interactive art as a tool for connection. We will examine how blending traditional mediums—like melted crayons and acrylics—with digital painting and large-scale public installations can bridge the gap between artist and observer.\n\nWhat to Expect:\n\nThe Philosophy of Participation: Insights into shifting the artistic focus from \"look but don't touch\" to collaborative creation.\n\nCase Studies in Connection: A look at how mural festivals and live painting competitions (like Time Stamp Art) foster local identity and engagement.\n\nCreative Strategy: How to design experiences that encourage people to contribute their own stories to a shared visual space.\n\nWhether you are a creator looking to deepen your community impact or a strategist interested in the intersection of art and public engagement, join us to discover how we can use the canvas to build stronger, more vibrant bridges.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Startups",
+            "Design",
+            "Community",
+            "Marketing"
+        ],
+        "categories": [
+            "2",
+            "4",
+            "1",
+            "9",
+            "12"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2007",
+        "title": "Nothing Ventured, Nothing Gained: Defeating the Loneliness Epidemic! ",
+        "description": "\n      Why does making friends as an adult feel like a high-level boss battle we weren't prepared for? In a world that is more connected than ever, the Loneliness Epidemic is hitting harder than we like to admit.\n\nJoin me for a session as they open up about their own journey through the 'Friendship Desert'—the missed connections, the flakiness of modern life, and the struggle to find a party that actually stays together. This isn't just a lecture; it's a shared space for us to be honest about the effort it takes to stay connected.\n\nThrough 2000s-themed nostalgia, interactive Kahoot quiz, and Q&A we’ll explore our collective experiences with friendship. We’ll dive into what it means to be vulnerable in a 'surface-level' world and how a 'Nothing Ventured, Nothing Gained' mindset can break the cycle of isolation.\n\nIf you’re tired of 'solo-queuing' and ready to put in true effort for a permanent party, come join the conversation. Let's brave the unknown together! :D\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Community",
+            "Other"
+        ],
+        "categories": [
+            "9",
+            "5"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2008",
+        "title": "3D Printing: One step closer to the home replicator? ",
+        "description": "\n      For years, consumer 3D printing was the exclusive domain of the \"dedicated tinkerer\", a niche pursuit requiring a mix of engineering prowess, patience, and arcane technical knowledge. However, recent breakthroughs in hardware, software, and materials have stripped away the complexity, transforming 3D printers from temperamental experiments into accessible tools for the casual hobbyist, the home organizer, and the creative professional alike.\n\nSome suggest that the 3D printer is on its way to becoming a standard household appliance, as ubiquitous as the toaster or the microwave. But how close are we to that reality?\n\nIn this session, we will:\n\n*Look back at a brief history of 3D Printing from the \"RepRap\" movement to the mostly plug-and-play machines of today.\n\n*Learn how 3D Printing looks and feels today, including 3d model distribution methods, materials used, various technologies in play, and how it all works\n\n*Dive into the exciting advancements currently reshaping the space, including high-speed printing, toolchanging, multi-material capabilities, and the emergence of AI in the space\n\n*Identify some key roadblocks that could stifle innovation and prevent further development and adoption of 3D printing in the US and around the world\n\nAnd more! \n\nJoin us if you're curious about getting into 3D printing, or just want to learn more about what's going on!\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Emerging Tech",
+            "Wildcard",
+            "Other"
+        ],
+        "categories": [
+            "6",
+            "13",
+            "5"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2009",
+        "title": "Dual AI Architecture: On-Device Apple Intelligence Meets Claude's Cloud ",
+        "description": "\n      Apple's on-device AI is excellent at synthesis. Claude's cloud AI is excellent at analysis. The trick is connecting them without exposing patient data.\n\nI'm a solo founder who built HerDiabetes, a new category of diabetes management app designed for women, from concept to App Store in 6 months. The app connects menstrual cycle data with glucose patterns, something no other diabetes app does. Along the way I had to solve a hard problem: how do you use cloud AI in a health app without sending personal health information off the device?\n\nThe answer is a dual AI architecture. Apple Intelligence runs on-device, synthesizing raw health data into a clean, PHI-free narrative. Claude + PubMed MCP picks it up from there, delivering research-backed insights with real citations. The user stays in control at every step. Privacy isn't a constraint. It's the architecture.\n\nThis session includes a live demo of the working app and a walkthrough of the technical decisions behind it. I'll also cover the founder story, how a cold email to a diabetes tech conference led to three clinical advisors and an invitation to present at D-Data ExChange in June 2026.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Startups",
+            "AI/ML"
+        ],
+        "categories": [
+            "2",
+            "4",
+            "7"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2010",
+        "title": "Understanding Agentic Commerce 🤖🛒 ",
+        "description": "\n      Agentic commerce is the next shift in how we build online shopping experiences. Instead of users navigating flows, systems can now coordinate tasks like product discovery, cart building, and checkout across different platforms—initiated and fulfilled by agents on behalf of the user.\n\nThis talk breaks down what’s actually real today versus what’s still forming. We’ll walk through the landscape—commerce specs like ACP and UCP that are shaping how discovery and checkout work in these systems, alongside foundational pieces like MCP for tool access and A2A for agent coordination. We’ll ground it in what’s already working today: existing backend systems and APIs being orchestrated by agents to enable end-to-end shopping flows, and the emerging patterns.\n\nYou’ll get a clear picture of where things stand today and how all of this actually fits together—hopefully walking away with something useful you can apply, whether you’re building as a developer or thinking about it from a business strategy lens.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Emerging Tech"
+        ],
+        "categories": [
+            "6"
+        ],
+        "list": "ai"
     }
 ]

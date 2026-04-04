@@ -1980,7 +1980,7 @@ Louis Pasteur
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1898">Attending</button>
+<button class="toggle-attendance" data-session-id="2014">Attending</button>
 <div class="room" href="/maps/nevada (by caribou).png">
 Nevada (by Caribou)
 </div>
@@ -4770,7 +4770,7 @@ Louis Pasteur
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1898">Attending</button>
+<button class="toggle-attendance" data-session-id="2014">Attending</button>
 <div class="room" href="/maps/nevada (by caribou).png">
 Nevada (by Caribou)
 </div>

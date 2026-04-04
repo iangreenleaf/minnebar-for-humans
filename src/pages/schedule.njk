@@ -1,0 +1,19 @@
+---
+title: Schedule
+permalink: /schedule.html
+layout: page
+---
+
+{% for timeBlock in schedule %}
+  <div class="schedule-timeslot">
+    <div class="schedule-time">{{ timeBlock.time }}</div>
+    <div class="schedule-title">{{ timeBlock.title }}</div>
+    <div class="schedule-sessions">
+      {% for sessionUrl in timeBlock.sessions %}
+        {% set session = sessions | findAttr("url", sessionUrl) %}
+        <p>{{ sessionUrl }}</p>
+        <p>{{ session.title }}</p>
+      {% endfor %}
+    </div>
+  </div>
+{% endfor %}

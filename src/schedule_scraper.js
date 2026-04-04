@@ -34,4 +34,4 @@ for (const timeslotElement of timeslotElements) {
   timeslots.push({"time": timeslotTime, "title": timeslotTitle, "sessions": sessions});
 }
 
-fs.writeFileSync("./src/pages/schedule.json", JSON.stringify(timeslots, null, 4));
+fs.writeFileSync("./src/_data/schedule.json", JSON.stringify(timeslots, null, 4));

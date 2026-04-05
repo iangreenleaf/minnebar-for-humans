@@ -1476,5 +1476,364 @@
             "5"
         ],
         "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2016",
+        "title": "We Automate Real Business Problems (Live) ",
+        "description": "\n      FlowDevs Live-Build: Interactive Problem Solving\n\n\nBring your business bottlenecks. We will build the solutions live.\n\n\nIn this interactive session, FlowDevs engages directly with the audience to tackle real-world operational challenges. We ask attendees to share the specific inefficiencies they face in their businesses. From there, we select one or two prime examples and engineer clear, automated solutions on the spot.\n\nSession Format (40 Minutes)\n\n\n\n00:00 - 00:05 | Briefing: Explaining the interactive format and selecting audience challenges.\n\n00:05 - 00:35 | Live Build: Architecting a custom workflow, automation, AI agent, website, or app to solve the selected problem in real-time.\n\n00:35 - 00:40 | Wrap-up: Reviewing the solution and answering audience questions.\n\n\nExample Live-Build Scenarios\n\n\n\nAgentic Review Management: Using Make.com to create an automated workflow where an LLM agentically drafts responses to business reviews.\n\nAutomated Lead Generation: Configuring Codex or Claude to scrape the web and compile a CSV file of prospective leads.\n\nBusiness Card Digitization: Configuring Microsoft Power Automate to scan physical business cards and route the extracted data directly to SharePoint.\n\nDeep Research Prep: Using Gemini or OpenAI to conduct deep research tasks and compile background briefs on upcoming meeting attendees.\n\nRapid MVP Development: Building a functional Lovable MVP featuring a front-end form and a connected database.\n\nCareer Prep Automation: Scraping the web for specific job interview details and deploying Claude to generate tailored sample cover letters.\n\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML",
+            "Community",
+            "Marketing"
+        ],
+        "categories": [
+            "2",
+            "4",
+            "6",
+            "7",
+            "9",
+            "12"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2017",
+        "title": "What the Heck is a Qubit? ",
+        "description": "\n      What do people actually mean when they talk about quantum computing?  What could it possibly mean for a bit to be both zero and one simultaneously?  Or to just try all the answers at once and pick the best one?  What is being entangled?  Are we really on the verge of quantum-mediated alternate-history time-travel?  \n\nNo.  But a lot of the other strange things you might have heard about are real!  And you (yes, YOU) can already work with prototype machines today.  If you've ever wondered what it was like to work in our industry in the 1950s, when computing was brand new and nobody knew where it would end up, quantum computing can give you some of that - not with time travel, but just by being raw.\n\nThe basic ideas:  qubits, superposition, and entanglement, can be managed with high school algebra.  So we will do a little bit of that. \n\nWe will also briefly refresh (or initialize) your memory of basic bits and gates from classical computing, to orient us and make the similarities and differences clear.  And we will point to some online resources where you can build logic gates, play with quantum circuits, and explore more on your own.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Emerging Tech",
+            "Wildcard"
+        ],
+        "categories": [
+            "6",
+            "13"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2018",
+        "title": "Three Musicians, One Engineer: Building AI Systems for Musicians in Minneapolis ",
+        "description": "\n      The Premise\n\nAs engineers, we have a gift: we can build systems for which we are not \nthe intended users. \n\nMinneapolis has a rich musical culture. There are incredible jazz musicians \nand venues in this city, and there's a running joke about not being able \nto throw a rock without hitting an indie recording studio. Japan \nrevolutionized the world of music with smartphones. How can we do the same \nwith AI in Minneapolis? It's time we built locally: tools to discover local \nmusic, software written for our artists, systems that drive real growth for \nthe people making music here.\n\nThe Format\n\nI'm inviting three musicians working in different areas to sit down and \ntalk about the problems they face in their daily lives, and how we can \nmake their lives easier so they have more time to make music:\n\n\nAn educator\nA live performer\nA producer\n\n\nWhat We'll Cover\n\nDAW Accessibility. You can tell that designers weren't involved in \nbuilding tools like Logic Pro, Ableton, and Reaper. How do we make these \nsystems easier to use?\n\nGenerative AI & Ethics. Generative AI in music raises real questions. \nWe'll talk about existing software, what musicians like and don't like \nabout it, and where the ethical lines are. I explored some of this in my article, \"Much Ado About AI: An Artist, a Writer, a Musician, and an Engineer Walk Into a Debate.\"\n\nAI in Education. How can we use AI meaningfully in teaching music?\n\nLocal Music & Trends. What kind of music are Minneapolis musicians \nmaking and interested in making? Who are the stakeholders: who's making \nmusic, who's listening, who's going to live shows?\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Development",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML",
+            "Design",
+            "Wildcard",
+            "Other"
+        ],
+        "categories": [
+            "2",
+            "4",
+            "6",
+            "7",
+            "1",
+            "13",
+            "5"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2020",
+        "title": "Leave With Something You Made: Crop Art, Community & an Unlikely AI Assist ",
+        "description": "\n      This is a workshop about community, craft, and the unlikely places technology shows up. You'll leave with a hands-on introduction to crop art, a take-home magnetic piece, and the satisfaction of having contributed to a collective Minnebar anniversary project headed to the Minnesota State Fair. Along the way, we'll explore one unlikely AI use case that helps crop art newbies. The first 40 attendees will get a take-home project and supplies.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Community",
+            "Soft Skills",
+            "Wildcard"
+        ],
+        "categories": [
+            "9",
+            "10",
+            "13"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2021",
+        "title": "Your AI Is Not Special: Red Teaming Before You Become a Statistic ",
+        "description": "\n      Thankfully, AI features usually don't fail in fun, dramatic movie-villain ways. \n\nThey fail in boring, expensive, and embarrassing ways: bad outputs, bad decisions, unsafe actions, misplaced trust, and workflows that quietly do the wrong thing at scale.  \n\nThe failures come from biased data, unsafe tool access, overreliance on bad outputs, weak approval flows, and a lack of monitoring once the system ships  \n\nIn this session we'll look at common failure modes, how your model can be attacked, and why your internal Red Teaming needs to include the whole business.  This is half cautionary tale, half lab, and half builder’s playbook.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "AI/ML",
+            "Design",
+            "Product",
+            "Community",
+            "Wildcard"
+        ],
+        "categories": [
+            "7",
+            "1",
+            "8",
+            "9",
+            "13"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2022",
+        "title": "I Learned How to Tell Stories in This Building — Here's What Most Techies Miss ",
+        "description": "\n      I spent years at Best Buy headquarters learning how to make complex (often technical) strategy land with executives who had 90 seconds of attention and zero patience for jargon. That framework now drives every narrative I build for CIOs and startup founders — and it was never about slides. Even though they were good.\n\nMost leaders try to communicate strategy by adding more detail, more data, more evidence. That's backwards. The leaders who get funded, who get buy-in, who move organizations - they do something fundamentally different. They build narratives with stakes that motivate an audience to act.\n\nThis session breaks down the communication gap that kills good ideas. Why it happens, why smart people solve it the wrong way, and three specific moves you can apply immediately to make your ideas land with any audience. I'll use real examples from building executive narratives for CIOs at companies like Estée Lauder and Bacardi, and for founders raising capital. This is a talk, not a pitch. Come ready to argue with me about what actually works.\n\n      \n    ",
+        "tags": [
+            "Advanced",
+            "Startups",
+            "Soft Skills",
+            "Marketing"
+        ],
+        "categories": [
+            "4",
+            "10",
+            "12"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2023",
+        "title": "Design - AI Agents + Skills in Figma ",
+        "description": "\n      Let’s take a look together at using agents and skills in Figma! I will go through what is available in Figma and present a demo on how this can be used in a project.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "AI/ML",
+            "Design"
+        ],
+        "categories": [
+            "7",
+            "1"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2024",
+        "title": "Architecting Your Life OS: Applying Scaling Frameworks to Personal Growth ",
+        "description": "\n      You’ve built systems for your code, your products, and your companies—but is your life running on legacy software? Many high-performers treat their professional goals with rigorous engineering and their personal lives with hope and caffeine. The result is the bottleneck effect: burnout, fragile resilience, and lost vision.\n\nIn this session, we apply the principles of a Business Operating System (BOS) to the most important organization you lead: yourself. \n\nWe will explore how structured rhythms and visual tools create the focus and action steps to achieve your vision. Using frameworks from the world of scaling businesses, we will identify how to move from reactive living to intentional leadership across all areas of life.\n\nSession Takeaways -\n\nThe Personal Scorecard: Identify the 3–5 Metrics that prove your life is on track, moving from subjective feelings to objective data.\n\nThe 3-Year Picture Mapping: Craft a Vision Board (digital or physical) that serves as the User Interface for your Life OS, ensuring your daily sprints align with your long-term North Star.\n\nPersonal Meeting Rhythms: How to implement a weekly & annual resets to audit your energy, solve personal bottlenecks, and reduce decision fatigue.\n\nDelegate & Elevate: Use an energy-audit framework to identify tasks that drain your battery and create a plan to offload or optimize them.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Soft Skills"
+        ],
+        "categories": [
+            "10"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2025",
+        "title": "Project Vanguard - Veterans in (or interested in) Energy Networking opportunity ",
+        "description": "\n      If you are a Veteran, a Family Member of a Veteran, or Ally of Veterans, you are welcome to connect with Project Vanguard Fellow William Hossain (an Asset Manager of utility scale energy sites).\n\nCome see how you can join a growing local and national community of Veterans and supporters that are focused on protecting and growing the energy infrastructure of the US, as well as connecting Veterans to career opportunities in energy industry. \n\nThis will be a free-flowing session that could lead to expanding your network, discovering new opportunities, and learning about future events hosted by Project Vanguard - pending Happy Hour(s) to be sponsored!+\n\nlink\nlink\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Community",
+            "Careers",
+            "Other"
+        ],
+        "categories": [
+            "9",
+            "11",
+            "5"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2026",
+        "title": "From Founder to Marketing Department of One: What Actually Works When You're Doing It All ",
+        "description": "\n      Most founders become the marketing department by accident. One day you're building the product, the next you're writing ad copy, scheduling emails, analyzing data, and wondering why none of it is converting.\n\nThis session is for founders and small teams who are doing marketing without a marketing team - and want to stop guessing.\n\nI've run full-stack marketing solo for multiple businesses across e-commerce and service industries: Meta Ads at 10+ ROAS (industry average is 2-4x), email flows generating $20K+/week in revenue, and lead gen systems that run without the founder in the middle of every decision.\n\nWhat we'll cover:\n- The prioritization framework - what to build first when everything feels urgent and your budget isn't infinite\n- Where founders waste the most time and money - the three things that look like marketing but don't move revenue\n- What \"good enough\" actually looks like - how to know when to optimize vs. when to move on\n- The one metric that tells you if your marketing is working - before you've spent months figuring it out the hard way\n\nYou'll leave with a clear picture of where to focus next - whether you're pre-revenue, scaling, or just tired of marketing feeling like a black hole.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Startups",
+            "Marketing"
+        ],
+        "categories": [
+            "4",
+            "12"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2027",
+        "title": "Lowering Anxiety for Product & UX/UI Designers (or anyone!) -or- How Language and Perspective Shape Work Dynamics ",
+        "description": "\n      Ah, Product and UX/UI Designers - we love our work. We're protective of it and we take pride in it. So we can naturally get a little nervous to show off our creations (especially when we're new!) because we're so closely tied to our designs that any critique of our work feels like a critique of us!  But it doesn't have to be that way...\n\nWe can all feel anxiety when it comes to our design work, so the question is: how can we better separate ourselves from our work, and lower our anxiety? Whether you are new to design or a seasoned designer or maybe you just want to hear about how to help calm your own nervous system, this session is for you! We'll talk through how intentional language and reframing scenarios can help alleviate the pressure that we too often put upon ourselves. Presented by someone who is a Recovering Anxious Designer and has come out on the other side, this session will provide you with tips and tricks on how to take those situations that elevate your anxiety and turn them into scenarios that excite you! \n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Design",
+            "Soft Skills"
+        ],
+        "categories": [
+            "1",
+            "10"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2028",
+        "title": "UX Office Hours ",
+        "description": "\n      Do you crave feedback on your project/product/service/hobby/idea?\n\nStop by and chat with experts in UX, Product, Marketing, and much more. Topics are open and varied. We're here to provide feedback and answer questions. But be warned, we like to ask \"why\". You may be challenged to think differently. And we might even discuss unexpected solutions. This is your chance to get feedback or ask questions in a small conversational setting.\n\nIf you're asking, \"What might I get out of attending?\" Past UX office hours have touched on topics like:\n\n\nHow do I get my users to...?\nHelp me identify my audience\nWhat's the best way to get feedback on my product?\nDo I have product-market fit? If so, how do I know?\nWould you give me a UX review on my project?\nHow do I hire a good designer?\nI haven't identified competitors. Do I have a valid service?\nHow do I work with my engineering team?\nHow do I work with my design team?\n\n\nWhere to find us: The UX Office Hours will be staffed throughout the event. Find us in the B1 building near the \"living room\", in the pods (small rooms with tables/whiteboards), or nearby. Look for volunteers wearing orange mentor badges.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Startups",
+            "Design",
+            "Product",
+            "Soft Skills",
+            "Other"
+        ],
+        "categories": [
+            "4",
+            "1",
+            "8",
+            "10",
+            "5"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2029",
+        "title": "You’re Not Leading. You’re Reacting. ",
+        "description": "\n      Most teams think they have a strategy problem.\n\nThey don’t.\n\nThey’re reacting.\n\nReacting to pressure, shifting priorities, stakeholder noise, and the constant push to move faster. Over time, those reactions start to look like leadership—but they quietly drive misalignment, rework, and products that never quite deliver the outcomes teams expect.\n\nIn this session, we’ll explore why smart teams with the right tools, talent, and intentions still struggle to make progress—and how the way people and organizations operate under pressure shapes the way decisions get made and products get built.\n\nThis isn’t a session about frameworks or process. It’s about recognizing the patterns underneath them—and what changes when you start to see them clearly.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Product"
+        ],
+        "categories": [
+            "8"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2030",
+        "title": "Normalize Your Team: Working Genius IS the Primary Key ",
+        "description": "\n      Most technology organizations optimize their development pipelines, yet few remove the friction from how work moves through their people. Bad systems don't scale and if your human architecture isn't intentionally designed, even the best software architecture will suffer from stalled decisions. \n\nThis session unpacks the Working Genius framework as a relational schema for your team. We will identify the invisible bottlenecks between the first spark and final implementation, aligning your team’s natural energy with your release cadence to eliminate deployment friction.\n\nJoin us to learn how to debug your team dynamics and take home a framework to:\n𝗠𝗮𝗽 𝗦𝘆𝘀𝘁𝗲𝗺 𝗩𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀: Know where your personal and organizational blind spots are before you initiate a project, so you avoid the misfires that slow down execution.\n𝗗𝗲𝗳𝗶𝗻𝗲 𝗬𝗼𝘂𝗿 𝗗𝗲𝗽𝗲𝗻𝗱𝗲𝗻𝗰𝗶𝗲𝘀: Create clear ownership and intent to synchronize execution and eliminate the waste of rework and delay.\n𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗲 𝗧𝗵𝗿𝗼𝘂𝗴𝗵𝗽𝘂𝘁: Aligning roles to how people naturally think and contribute reduces burnout while increasing output and accountability.\n\nYou'll leave with a concrete mental model to stop relying on unstructured, high-friction collaboration, and start treating your team's dynamics with the same architectural rigor as your codebase.\n\nI am sharing this framework because it is the tool I used five years ago to re-engineer my own career. Making the transition from a W-2 employee to founding a business is never easy, but Working Genius made it possible.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Product",
+            "Soft Skills",
+            "Careers"
+        ],
+        "categories": [
+            "8",
+            "10",
+            "11"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2031",
+        "title": "From Demo to Deployment: Why Most AI Projects Never Make It to Reality ",
+        "description": "\n      Lessons from building real AI systems that survive beyond the hackathon.\n\nAI projects often shine in demos or hackathons, but most fail to survive the messy realities of real-world deployment. In this talk, I’ll share insights from building agentic AI systems that actually work beyond proof-of-concept. We’ll explore where AI projects typically break: data pipelines, infrastructure, human workflows, and deployment processes. More importantly, I’ll present a framework for designing AI systems that endure, including modular pipelines, human-in-the-loop design, and practical monitoring strategies. Attendees will leave with actionable lessons on bridging the gap between flashy demos and reliable, production-ready AI solutions. This session is targeted at developers, product builders, and anyone curious about what it really takes to make AI projects work in practice.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Startups",
+            "AI/ML",
+            "Product"
+        ],
+        "categories": [
+            "4",
+            "7",
+            "8"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2032",
+        "title": "Malicious Compliance: Fighting Bad AI Vibes with Security Practice ",
+        "description": "\n      AI, is either revered or detested in the tech space. It’s also not going anywhere, try as we might. So, how can we ensure that tech doesn’t become SaaSlop that's hacked to peices? How can people who ethically aren’t aligned with AI use navigate keeping their ethics as well as their paycheck when AI-OKRs come ‘round? And how is the security industry handling all this? \n\nAll these questions and more I hope to give thoughts, insights, and tips on. That way when the time comes, you have all the personal and technical tools to ensure that AI-tech doesn’t end in bad vibes. \n\n      \n    ",
+        "tags": [
+            "All levels",
+            "AI/ML"
+        ],
+        "categories": [
+            "7"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2033",
+        "title": "Future of Work in the Age of AI: Interior Design as a Case Study ",
+        "description": "\n      Two years ago, I wrote about the future of Interior Designers in the world of AI. \n\nNow that AI can design a room in seconds… did it actually happen?\n\nOr are we (me) missing something about how we actually buy? Let's talk about it + the future of work and commerce for all of us.\n\nhttps://katekuehl.medium.com/is-the-interior-designer-doomed-by-3d-generative-ai-aece2a92cc0d\n\nSession will include a talk and group discussion addressing/challenging: \n • AI can design anything, so why don’t we just buy it? \n • Why infinite options make decisions harder, not easier \n • Coordination and the meaning of labor\n • Why “Just Generate It Yourself” Doesn’t Work (Yet)\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Emerging Tech",
+            "AI/ML",
+            "Design",
+            "Product",
+            "Careers"
+        ],
+        "categories": [
+            "6",
+            "7",
+            "1",
+            "8",
+            "11"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2034",
+        "title": "Skill(.md)s, context engineering, and a way to take the garbage out ",
+        "description": "\n      SKILL.md files are a great way to export knowledge from one engineer to another. Think of them as training docs that someone can read, but if they don't want to, they can assign their assistant, or copilot, to read them and do the work. \n\nSharing knowledge (context) across larger engineering organizations that are engaged in agentic engineering (go ahead, call it vibe coding, but then we can't be friends), should make everyone more productive, until it doesn't. Done right, big win. Done wrong, failures may not be recognizable as such until well after you shipped what you thought was working code.\n\nIn this session, I'll cover:\n\n\ngeneral benefits of SKILL.md files, \nhow my teams are using SKILL.md files at Shipt to share context with one another\nCite an academic study measuring the effects of bad context on coding assistant outcomes\nTell you why I believe you should audit your context if you are not sure if your SKILL.md files might be conflicting\nShow a SKILL.md that checks other skill files (yo dawg, I heard you like SKILL.md files)\nTell you how you can do the same\nPlead with you to stop thinking of SKILL.md files a \"just markdown\"\n\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "AI/ML"
+        ],
+        "categories": [
+            "2",
+            "7"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2035",
+        "title": "Get finance to say YES to your idea: The other side of the dashboard ",
+        "description": "\n      You show up for community. Mutual aid, the march, the group chat that actually does something.\n\nBut at work, when you see a broken policy or a budget decision that hurts the people it's supposed to help, you accept it's just the way things are. It's not because you don't care. It's because you're good at the technical part, but no one ever taught you to make a case in the language the leadership understands.\n\nI'm a working accountant who came up through education, nonprofit, and community organizing before I ever touched a financial statement. I spent years watching leadership get it wrong while frontline workers already knew the answer. So I did something about it: I became the finance person. I graduated summa cum laude with degrees in business and accounting and minors in economics and finance.\n\nThis session is what I learned in the field, and how you can use it without sitting through a lecture on budgets.\n\nWe'll work through three moves that actually shift the conversation with finance and leadership. No manipulation; no selling out. No becoming someone you're not. You'll practice with real scenarios from tech, healthcare, and nonprofits. You'll leave with a one-page tool you can use Monday morning.\n\nConviction is necessary, but it's just the start. This is the rest of it.\n\nThis session is for people who do what's right out in the world and are ready to make it happen from a work laptop, too.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Community",
+            "Careers",
+            "Marketing"
+        ],
+        "categories": [
+            "9",
+            "11",
+            "12"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2036",
+        "title": "Data & Analytics in the Age of AI: Lessons from Healthcare Analytics ",
+        "description": "\n      AI is transforming work, and data & analytics is no exception. But beyond the headlines, what are companies actually doing with AI in their analytics workflows today?\n\nIn this session, we will start with a look at how organizations across industries are applying AI to existing analytics workflows: accelerating insight generation, automating reporting, enabling natural language data exploration, and more. We will ground this in real examples and observations from what is happening in practice.\n\nThen we will take a step deeper into why this is harder than it looks. AI powered analytics does not work without strong fundamentals such as clear data definitions, governed semantic layers, and high quality data. Without these, AI might not just underperform, but it can dangerously mislead.\n\nWe will use healthcare as a lens for these challenges, where the higher stakes make these issues unavoidable. How do you ensure privacy and security when AI interacts with sensitive data? How do you evaluate and trust AI generated outputs? What should AI be allowed to do and what it should not? How do you make the case for investment when the return is not always immediate?\n\nWhether you work in healthcare or any other industry, these lessons apply broadly. We will discuss what is working, what is not, and what data teams should be thinking about before diving in.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "AI/ML",
+            "Careers"
+        ],
+        "categories": [
+            "7",
+            "11"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2037",
+        "title": "You Are a Superhero. Let's Discover Your Superpower So You Can Use It for Greatness ",
+        "description": "\n      Your superpower is the unique expertise or characteristic that defines you. It’s what your colleagues, family, and friends recognize you for. Discovering your superpower helps you understand your strengths and build trusted relationships. When you know what you bring to the team, you can leverage your superpower when issues arise that require your unique talent. \n\nBy understanding and utilizing your and your team’s unique superpowers, you can unlock everyone's full potential. This leads to greater success in your endeavors. When people feel respected and valued for their skills, they bring their authentic selves and are motivated to do their best.  \n\nIn this session you will learn:\n- How to discover your superpower\n- What to do if your manager doesn't value or tries to suppress your unique gift\n- How to unleash your superpower to inspire the people around you\n- How to start seeing superpowers around you, to build the best teams\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Community",
+            "Soft Skills",
+            "Careers"
+        ],
+        "categories": [
+            "9",
+            "10",
+            "11"
+        ],
+        "list": "none"
     }
 ]

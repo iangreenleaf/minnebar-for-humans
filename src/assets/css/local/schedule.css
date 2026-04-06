@@ -28,13 +28,12 @@
 }
 
 .schd-session {
-    margin: 7px;
+    margin: 37px 19px;
 }
 
 .schd-session-title {
     font-size: 20px;
     font-weight: bold;
-    margin: 30px 12px;
 }
 
 .schd-room {
@@ -47,4 +46,9 @@
 
 .schd-session-header {
     cursor: pointer;
+}
+
+.schd-session-description {
+    font-size: 15px;
+    margin: 5px;
 }

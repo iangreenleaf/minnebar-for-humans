@@ -28,10 +28,10 @@ for (const timeslotElement of timeslotElements) {
     const dataElement = $(sessionElement).find("[data-session-id]")[0];
     const sessionID = dataElement.attribs['data-session-id'];
     const sessionURL = sessionUrlBase + sessionID;
-    
-    const room = $(sessionElement).find(".room").text();
 
-    sessions.push({"url": sessionURL, "room": room});
+    const room = $(sessionElement).find(".room").text().trim();
+
+    sessions.push({"url": sessionURL, "room": room, "id": sessionID});
   }
 
   timeslots.push({"time": timeslotTime, "title": timeslotTitle, "sessions": sessions});

@@ -39,7 +39,12 @@
 
 .schd-room {
     font-size: 20px;
-    /*display: inline;*/
     color: #7ac2db;
     float: right;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+
+.schd-session-header {
+    cursor: pointer;
 }

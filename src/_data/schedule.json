@@ -15,7 +15,8 @@
         "sessions": [
             {
                 "url": "https://sessions.minnestar.org/sessions/1927",
-                "room": ""
+                "room": "",
+                "id": "1927"
             }
         ]
     },
@@ -25,19 +26,23 @@
         "sessions": [
             {
                 "url": "https://sessions.minnestar.org/sessions/2015",
-                "room": ""
+                "room": "",
+                "id": "2015"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1929",
-                "room": ""
+                "room": "",
+                "id": "1929"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1930",
-                "room": ""
+                "room": "",
+                "id": "1930"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1931",
-                "room": ""
+                "room": "",
+                "id": "1931"
             }
         ]
     },
@@ -47,95 +52,118 @@
         "sessions": [
             {
                 "url": "https://sessions.minnestar.org/sessions/1932",
-                "room": "\nTheater\n"
+                "room": "Theater",
+                "id": "1932"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1933",
-                "room": "\nBde Maka Ska\n"
+                "room": "Bde Maka Ska",
+                "id": "1933"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1934",
-                "room": "\nHarriet\n"
+                "room": "Harriet",
+                "id": "1934"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1935",
-                "room": "\nMinnetonka\n"
+                "room": "Minnetonka",
+                "id": "1935"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1936",
-                "room": "\nNokomis\n"
+                "room": "Nokomis",
+                "id": "1936"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1937",
-                "room": "\nProverb-Edison\n"
+                "room": "Proverb-Edison",
+                "id": "1937"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1938",
-                "room": "\nZeke Landres\n"
+                "room": "Zeke Landres",
+                "id": "1938"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1939",
-                "room": "\nChallenge\n"
+                "room": "Challenge",
+                "id": "1939"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1940",
-                "room": "\nLearn\n"
+                "room": "Learn",
+                "id": "1940"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1941",
-                "room": "\nDiscovery\n"
+                "room": "Discovery",
+                "id": "1941"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1942",
-                "room": "\nGandhi\n"
+                "room": "Gandhi",
+                "id": "1942"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1943",
-                "room": "\nStephen Leacock\n"
+                "room": "Stephen Leacock",
+                "id": "1943"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1944",
-                "room": "\nTackle\n"
+                "room": "Tackle",
+                "id": "1944"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1945",
-                "room": "\nLouis Pasteur\n"
+                "room": "Louis Pasteur",
+                "id": "1945"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1946",
-                "room": "\nNevada (by Caribou)\n"
+                "room": "Nevada (by Caribou)",
+                "id": "1946"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1947",
-                "room": "\nTexas\n"
+                "room": "Texas",
+                "id": "1947"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1948",
-                "room": "\nFlorida\n"
+                "room": "Florida",
+                "id": "1948"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1949",
-                "room": "\nGeorgia\n"
+                "room": "Georgia",
+                "id": "1949"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1950",
-                "room": "\nKansas\n"
+                "room": "Kansas",
+                "id": "1950"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1951",
-                "room": "\nMaryland\n"
+                "room": "Maryland",
+                "id": "1951"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1952",
-                "room": "\nNebraska\n"
+                "room": "Nebraska",
+                "id": "1952"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1953",
-                "room": "\nPennsylvania\n"
+                "room": "Pennsylvania",
+                "id": "1953"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1954",
-                "room": "\nOklahoma\n"
+                "room": "Oklahoma",
+                "id": "1954"
             }
         ]
     },
@@ -145,95 +173,118 @@
         "sessions": [
             {
                 "url": "https://sessions.minnestar.org/sessions/1955",
-                "room": "\nTheater\n"
+                "room": "Theater",
+                "id": "1955"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1956",
-                "room": "\nBde Maka Ska\n"
+                "room": "Bde Maka Ska",
+                "id": "1956"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1957",
-                "room": "\nHarriet\n"
+                "room": "Harriet",
+                "id": "1957"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1958",
-                "room": "\nMinnetonka\n"
+                "room": "Minnetonka",
+                "id": "1958"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1959",
-                "room": "\nNokomis\n"
+                "room": "Nokomis",
+                "id": "1959"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1960",
-                "room": "\nProverb-Edison\n"
+                "room": "Proverb-Edison",
+                "id": "1960"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1961",
-                "room": "\nZeke Landres\n"
+                "room": "Zeke Landres",
+                "id": "1961"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1962",
-                "room": "\nChallenge\n"
+                "room": "Challenge",
+                "id": "1962"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1963",
-                "room": "\nLearn\n"
+                "room": "Learn",
+                "id": "1963"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1964",
-                "room": "\nDiscovery\n"
+                "room": "Discovery",
+                "id": "1964"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1893",
-                "room": "\nGandhi\n"
+                "room": "Gandhi",
+                "id": "1893"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1894",
-                "room": "\nStephen Leacock\n"
+                "room": "Stephen Leacock",
+                "id": "1894"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1895",
-                "room": "\nTackle\n"
+                "room": "Tackle",
+                "id": "1895"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1896",
-                "room": "\nLouis Pasteur\n"
+                "room": "Louis Pasteur",
+                "id": "1896"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/2014",
-                "room": "\nNevada (by Caribou)\n"
+                "room": "Nevada (by Caribou)",
+                "id": "2014"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1899",
-                "room": "\nTexas\n"
+                "room": "Texas",
+                "id": "1899"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1900",
-                "room": "\nFlorida\n"
+                "room": "Florida",
+                "id": "1900"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1901",
-                "room": "\nGeorgia\n"
+                "room": "Georgia",
+                "id": "1901"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1902",
-                "room": "\nKansas\n"
+                "room": "Kansas",
+                "id": "1902"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1903",
-                "room": "\nMaryland\n"
+                "room": "Maryland",
+                "id": "1903"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1904",
-                "room": "\nNebraska\n"
+                "room": "Nebraska",
+                "id": "1904"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1905",
-                "room": "\nPennsylvania\n"
+                "room": "Pennsylvania",
+                "id": "1905"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1906",
-                "room": "\nOklahoma\n"
+                "room": "Oklahoma",
+                "id": "1906"
             }
         ]
     },
@@ -243,95 +294,118 @@
         "sessions": [
             {
                 "url": "https://sessions.minnestar.org/sessions/1907",
-                "room": "\nTheater\n"
+                "room": "Theater",
+                "id": "1907"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1908",
-                "room": "\nBde Maka Ska\n"
+                "room": "Bde Maka Ska",
+                "id": "1908"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1909",
-                "room": "\nHarriet\n"
+                "room": "Harriet",
+                "id": "1909"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1910",
-                "room": "\nMinnetonka\n"
+                "room": "Minnetonka",
+                "id": "1910"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1911",
-                "room": "\nNokomis\n"
+                "room": "Nokomis",
+                "id": "1911"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1912",
-                "room": "\nProverb-Edison\n"
+                "room": "Proverb-Edison",
+                "id": "1912"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1913",
-                "room": "\nZeke Landres\n"
+                "room": "Zeke Landres",
+                "id": "1913"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1914",
-                "room": "\nChallenge\n"
+                "room": "Challenge",
+                "id": "1914"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1915",
-                "room": "\nLearn\n"
+                "room": "Learn",
+                "id": "1915"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1916",
-                "room": "\nDiscovery\n"
+                "room": "Discovery",
+                "id": "1916"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1917",
-                "room": "\nGandhi\n"
+                "room": "Gandhi",
+                "id": "1917"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1918",
-                "room": "\nStephen Leacock\n"
+                "room": "Stephen Leacock",
+                "id": "1918"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1919",
-                "room": "\nTackle\n"
+                "room": "Tackle",
+                "id": "1919"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1920",
-                "room": "\nLouis Pasteur\n"
+                "room": "Louis Pasteur",
+                "id": "1920"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1921",
-                "room": "\nNevada (by Caribou)\n"
+                "room": "Nevada (by Caribou)",
+                "id": "1921"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1922",
-                "room": "\nTexas\n"
+                "room": "Texas",
+                "id": "1922"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1923",
-                "room": "\nFlorida\n"
+                "room": "Florida",
+                "id": "1923"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1924",
-                "room": "\nGeorgia\n"
+                "room": "Georgia",
+                "id": "1924"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1925",
-                "room": "\nKansas\n"
+                "room": "Kansas",
+                "id": "1925"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1927",
-                "room": "\nMaryland\n"
+                "room": "Maryland",
+                "id": "1927"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/2015",
-                "room": "\nNebraska\n"
+                "room": "Nebraska",
+                "id": "2015"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1929",
-                "room": "\nPennsylvania\n"
+                "room": "Pennsylvania",
+                "id": "1929"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1930",
-                "room": "\nOklahoma\n"
+                "room": "Oklahoma",
+                "id": "1930"
             }
         ]
     },
@@ -341,11 +415,13 @@
         "sessions": [
             {
                 "url": "https://sessions.minnestar.org/sessions/1931",
-                "room": ""
+                "room": "",
+                "id": "1931"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1932",
-                "room": ""
+                "room": "",
+                "id": "1932"
             }
         ]
     },
@@ -355,91 +431,113 @@
         "sessions": [
             {
                 "url": "https://sessions.minnestar.org/sessions/1933",
-                "room": "\nTheater\n"
+                "room": "Theater",
+                "id": "1933"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1934",
-                "room": "\nBde Maka Ska\n"
+                "room": "Bde Maka Ska",
+                "id": "1934"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1935",
-                "room": "\nHarriet\n"
+                "room": "Harriet",
+                "id": "1935"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1936",
-                "room": "\nMinnetonka\n"
+                "room": "Minnetonka",
+                "id": "1936"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1937",
-                "room": "\nNokomis\n"
+                "room": "Nokomis",
+                "id": "1937"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1938",
-                "room": "\nProverb-Edison\n"
+                "room": "Proverb-Edison",
+                "id": "1938"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1939",
-                "room": "\nZeke Landres\n"
+                "room": "Zeke Landres",
+                "id": "1939"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1940",
-                "room": "\nChallenge\n"
+                "room": "Challenge",
+                "id": "1940"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1941",
-                "room": "\nLearn\n"
+                "room": "Learn",
+                "id": "1941"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1942",
-                "room": "\nDiscovery\n"
+                "room": "Discovery",
+                "id": "1942"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1943",
-                "room": "\nGandhi\n"
+                "room": "Gandhi",
+                "id": "1943"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1944",
-                "room": "\nStephen Leacock\n"
+                "room": "Stephen Leacock",
+                "id": "1944"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1945",
-                "room": "\nTackle\n"
+                "room": "Tackle",
+                "id": "1945"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1946",
-                "room": "\nLouis Pasteur\n"
+                "room": "Louis Pasteur",
+                "id": "1946"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1947",
-                "room": "\nNevada (by Caribou)\n"
+                "room": "Nevada (by Caribou)",
+                "id": "1947"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1948",
-                "room": "\nTexas\n"
+                "room": "Texas",
+                "id": "1948"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1949",
-                "room": "\nFlorida\n"
+                "room": "Florida",
+                "id": "1949"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1950",
-                "room": "\nGeorgia\n"
+                "room": "Georgia",
+                "id": "1950"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1951",
-                "room": "\nKansas\n"
+                "room": "Kansas",
+                "id": "1951"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1952",
-                "room": "\nMaryland\n"
+                "room": "Maryland",
+                "id": "1952"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1953",
-                "room": "\nNebraska\n"
+                "room": "Nebraska",
+                "id": "1953"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1954",
-                "room": "\nPennsylvania\n"
+                "room": "Pennsylvania",
+                "id": "1954"
             }
         ]
     },
@@ -449,95 +547,118 @@
         "sessions": [
             {
                 "url": "https://sessions.minnestar.org/sessions/1955",
-                "room": "\nTheater\n"
+                "room": "Theater",
+                "id": "1955"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1956",
-                "room": "\nBde Maka Ska\n"
+                "room": "Bde Maka Ska",
+                "id": "1956"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1957",
-                "room": "\nHarriet\n"
+                "room": "Harriet",
+                "id": "1957"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1958",
-                "room": "\nMinnetonka\n"
+                "room": "Minnetonka",
+                "id": "1958"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1959",
-                "room": "\nNokomis\n"
+                "room": "Nokomis",
+                "id": "1959"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1960",
-                "room": "\nProverb-Edison\n"
+                "room": "Proverb-Edison",
+                "id": "1960"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1961",
-                "room": "\nZeke Landres\n"
+                "room": "Zeke Landres",
+                "id": "1961"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1962",
-                "room": "\nChallenge\n"
+                "room": "Challenge",
+                "id": "1962"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1963",
-                "room": "\nLearn\n"
+                "room": "Learn",
+                "id": "1963"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1964",
-                "room": "\nDiscovery\n"
+                "room": "Discovery",
+                "id": "1964"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1893",
-                "room": "\nGandhi\n"
+                "room": "Gandhi",
+                "id": "1893"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1894",
-                "room": "\nStephen Leacock\n"
+                "room": "Stephen Leacock",
+                "id": "1894"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1895",
-                "room": "\nTackle\n"
+                "room": "Tackle",
+                "id": "1895"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1896",
-                "room": "\nLouis Pasteur\n"
+                "room": "Louis Pasteur",
+                "id": "1896"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/2014",
-                "room": "\nNevada (by Caribou)\n"
+                "room": "Nevada (by Caribou)",
+                "id": "2014"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1899",
-                "room": "\nTexas\n"
+                "room": "Texas",
+                "id": "1899"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1900",
-                "room": "\nFlorida\n"
+                "room": "Florida",
+                "id": "1900"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1901",
-                "room": "\nGeorgia\n"
+                "room": "Georgia",
+                "id": "1901"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1902",
-                "room": "\nKansas\n"
+                "room": "Kansas",
+                "id": "1902"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1903",
-                "room": "\nMaryland\n"
+                "room": "Maryland",
+                "id": "1903"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1904",
-                "room": "\nNebraska\n"
+                "room": "Nebraska",
+                "id": "1904"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1905",
-                "room": "\nPennsylvania\n"
+                "room": "Pennsylvania",
+                "id": "1905"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1906",
-                "room": "\nOklahoma\n"
+                "room": "Oklahoma",
+                "id": "1906"
             }
         ]
     },
@@ -547,91 +668,113 @@
         "sessions": [
             {
                 "url": "https://sessions.minnestar.org/sessions/1907",
-                "room": "\nTheater\n"
+                "room": "Theater",
+                "id": "1907"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1908",
-                "room": "\nBde Maka Ska\n"
+                "room": "Bde Maka Ska",
+                "id": "1908"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1909",
-                "room": "\nHarriet\n"
+                "room": "Harriet",
+                "id": "1909"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1910",
-                "room": "\nMinnetonka\n"
+                "room": "Minnetonka",
+                "id": "1910"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1911",
-                "room": "\nNokomis\n"
+                "room": "Nokomis",
+                "id": "1911"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1912",
-                "room": "\nProverb-Edison\n"
+                "room": "Proverb-Edison",
+                "id": "1912"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1913",
-                "room": "\nZeke Landres\n"
+                "room": "Zeke Landres",
+                "id": "1913"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1914",
-                "room": "\nChallenge\n"
+                "room": "Challenge",
+                "id": "1914"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1915",
-                "room": "\nLearn\n"
+                "room": "Learn",
+                "id": "1915"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1916",
-                "room": "\nDiscovery\n"
+                "room": "Discovery",
+                "id": "1916"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1917",
-                "room": "\nGandhi\n"
+                "room": "Gandhi",
+                "id": "1917"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1918",
-                "room": "\nStephen Leacock\n"
+                "room": "Stephen Leacock",
+                "id": "1918"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1919",
-                "room": "\nTackle\n"
+                "room": "Tackle",
+                "id": "1919"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1920",
-                "room": "\nLouis Pasteur\n"
+                "room": "Louis Pasteur",
+                "id": "1920"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1921",
-                "room": "\nNevada (by Caribou)\n"
+                "room": "Nevada (by Caribou)",
+                "id": "1921"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1922",
-                "room": "\nTexas\n"
+                "room": "Texas",
+                "id": "1922"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1923",
-                "room": "\nFlorida\n"
+                "room": "Florida",
+                "id": "1923"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1924",
-                "room": "\nGeorgia\n"
+                "room": "Georgia",
+                "id": "1924"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1925",
-                "room": "\nKansas\n"
+                "room": "Kansas",
+                "id": "1925"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1927",
-                "room": "\nMaryland\n"
+                "room": "Maryland",
+                "id": "1927"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/2015",
-                "room": "\nNebraska\n"
+                "room": "Nebraska",
+                "id": "2015"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1929",
-                "room": "\nPennsylvania\n"
+                "room": "Pennsylvania",
+                "id": "1929"
             }
         ]
     },
@@ -641,91 +784,113 @@
         "sessions": [
             {
                 "url": "https://sessions.minnestar.org/sessions/1930",
-                "room": "\nTheater\n"
+                "room": "Theater",
+                "id": "1930"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1931",
-                "room": "\nBde Maka Ska\n"
+                "room": "Bde Maka Ska",
+                "id": "1931"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1932",
-                "room": "\nHarriet\n"
+                "room": "Harriet",
+                "id": "1932"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1933",
-                "room": "\nMinnetonka\n"
+                "room": "Minnetonka",
+                "id": "1933"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1934",
-                "room": "\nNokomis\n"
+                "room": "Nokomis",
+                "id": "1934"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1935",
-                "room": "\nProverb-Edison\n"
+                "room": "Proverb-Edison",
+                "id": "1935"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1936",
-                "room": "\nZeke Landres\n"
+                "room": "Zeke Landres",
+                "id": "1936"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1937",
-                "room": "\nChallenge\n"
+                "room": "Challenge",
+                "id": "1937"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1938",
-                "room": "\nLearn\n"
+                "room": "Learn",
+                "id": "1938"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1939",
-                "room": "\nDiscovery\n"
+                "room": "Discovery",
+                "id": "1939"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1940",
-                "room": "\nGandhi\n"
+                "room": "Gandhi",
+                "id": "1940"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1941",
-                "room": "\nStephen Leacock\n"
+                "room": "Stephen Leacock",
+                "id": "1941"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1942",
-                "room": "\nTackle\n"
+                "room": "Tackle",
+                "id": "1942"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1943",
-                "room": "\nLouis Pasteur\n"
+                "room": "Louis Pasteur",
+                "id": "1943"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1944",
-                "room": "\nNevada (by Caribou)\n"
+                "room": "Nevada (by Caribou)",
+                "id": "1944"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1945",
-                "room": "\nTexas\n"
+                "room": "Texas",
+                "id": "1945"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1946",
-                "room": "\nFlorida\n"
+                "room": "Florida",
+                "id": "1946"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1947",
-                "room": "\nGeorgia\n"
+                "room": "Georgia",
+                "id": "1947"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1948",
-                "room": "\nKansas\n"
+                "room": "Kansas",
+                "id": "1948"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1949",
-                "room": "\nMaryland\n"
+                "room": "Maryland",
+                "id": "1949"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1950",
-                "room": "\nNebraska\n"
+                "room": "Nebraska",
+                "id": "1950"
             },
             {
                 "url": "https://sessions.minnestar.org/sessions/1951",
-                "room": "\nPennsylvania\n"
+                "room": "Pennsylvania",
+                "id": "1951"
             }
         ]
     },
@@ -735,7 +900,8 @@
         "sessions": [
             {
                 "url": "https://sessions.minnestar.org/sessions/1952",
-                "room": ""
+                "room": "",
+                "id": "1952"
             }
         ]
     }

@@ -14,11 +14,11 @@ layout: base
       {% for schdSessionEntry in timeBlock.sessions %}
         {% set session = sessions | findAttr("url", schdSessionEntry["url"]) %}
         <div class="schd-session">
-          <div class="schd-session-header">
+          <div class="schd-session-header" onclick="headerClick({{ schdSessionEntry["id"] }})">
             <div class="schd-room">{{ schdSessionEntry["room"] }}</div>
             <div class="schd-session-title">{{ session.title }}</div>
           </div>
-          <div class="schd-session-description" style="display: none">
+          <div class="schd-session-description" style="display: none" data-session-id="{{ schdSessionEntry["id"] }}">
             <p>{{ session.description | trim | nl2br }}</p>
           </div>
         </div>
@@ -26,6 +26,16 @@ layout: base
     </div>
   </div>
 {% endfor %}
+
+<script>
+  function headerClick(sessionId) {
+    const descriptionElement = document.querySelector(`[data-session-id='${sessionId}']`);
+    if (descriptionElement.style.display === "none")
+      descriptionElement.style.display = "block";
+    else
+      descriptionElement.style.display = "none";
+  }
+</script>
 
 {%- css "local" -%}
   {%- include 'css/schedule.css' -%}

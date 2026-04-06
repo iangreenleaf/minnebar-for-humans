@@ -1,13 +1,15 @@
 ---
 title: Schedule
 permalink: /schedule.html
-layout: page
+layout: base
 ---
 
 {% for timeBlock in schedule %}
   <div class="schd-timeslot">
-    <div class="schd-time">{{ timeBlock.time }}</div>
-    <div class="schd-title">{{ timeBlock.title }}</div>
+    <div class="schd-timeslot-header">
+      <div class="schd-time">{{ timeBlock.time }}</div>
+      <div class="schd-title">{{ timeBlock.title }}</div>
+    </div>
     <div class="schd-sessions">
       {% for sessionUrl in timeBlock.sessions %}
         {% set session = sessions | findAttr("url", sessionUrl) %}
@@ -28,3 +30,7 @@ layout: page
     </div>
   </div>
 {% endfor %}
+
+{%- css "local" -%}
+  {%- include 'css/schedule.css' -%}
+{%- endcss -%}

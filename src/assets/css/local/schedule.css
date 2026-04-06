@@ -52,3 +52,10 @@
     font-size: 15px;
     margin: 5px;
 }
+
+@media (width <= 800px) {
+    .schd-sessions {
+        display: grid;
+        grid-template-columns: 100%;
+    }
+}

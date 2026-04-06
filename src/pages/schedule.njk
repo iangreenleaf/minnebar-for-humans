@@ -19,7 +19,7 @@ layout: base
             <div class="schd-session-title">{{ session.title }}</div>
           </div>
           <div class="schd-session-description" style="display: none" data-session-id="{{ schdSessionEntry["id"] }}">
-            <p>{{ session.description | trim | nl2br }}</p>
+            <p>{{ session.description | trim | escape | nl2br | safe }}</p>
           </div>
         </div>
       {% endfor %}

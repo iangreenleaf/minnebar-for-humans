@@ -34,5 +34,12 @@
 .schd-session-title {
     font-size: 20px;
     font-weight: bold;
-    padding: 30px 12px;
+    margin: 30px 12px;
+}
+
+.schd-room {
+    font-size: 20px;
+    /*display: inline;*/
+    color: #7ac2db;
+    float: right;
 }

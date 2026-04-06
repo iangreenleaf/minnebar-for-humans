@@ -9,6 +9,7 @@
 .schd-timeslot-header {
     background-color: #434688;
     padding: 15px;
+    font-size: 30px;
 }
 
 .schd-time {
@@ -21,3 +22,17 @@
     margin-left: 10px;
 }
 
+.schd-sessions {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.schd-session {
+    margin: 7px;
+}
+
+.schd-session-title {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 30px 12px;
+}

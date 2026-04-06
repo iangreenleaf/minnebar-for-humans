@@ -288,7 +288,7 @@ to mark your favorite sessions
 <div class="column">
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1928">Attending</button>
+<button class="toggle-attendance" data-session-id="2015">Attending</button>
 <h3 class="title">Mega Minne Multi Indie Mini Arcade</h3>
 <div class="presenters">
 <div class="presenter">Minnestar</div>
@@ -1980,7 +1980,7 @@ Louis Pasteur
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1898">Attending</button>
+<button class="toggle-attendance" data-session-id="2014">Attending</button>
 <div class="room" href="/maps/nevada (by caribou).png">
 Nevada (by Caribou)
 </div>
@@ -3143,7 +3143,7 @@ Maryland
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1928">Attending</button>
+<button class="toggle-attendance" data-session-id="2015">Attending</button>
 <div class="room" href="/assets/maps/nebraska-49d4984d2bfbb6df6b8b63bb1a50c9850c6f189c514e578fe410d7b363983c19.png">
 Nebraska
 </div>
@@ -4770,7 +4770,7 @@ Louis Pasteur
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1898">Attending</button>
+<button class="toggle-attendance" data-session-id="2014">Attending</button>
 <div class="room" href="/maps/nevada (by caribou).png">
 Nevada (by Caribou)
 </div>
@@ -5929,7 +5929,7 @@ We will address challenges and risks in sales hiring and will also discuss the i
 </div>
 <div class="session">
 <div class="header">
-<button class="toggle-attendance" data-session-id="1928">Attending</button>
+<button class="toggle-attendance" data-session-id="2015">Attending</button>
 <div class="room" href="/assets/maps/nebraska-49d4984d2bfbb6df6b8b63bb1a50c9850c6f189c514e578fe410d7b363983c19.png">
 Nebraska
 </div>

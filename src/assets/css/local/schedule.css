@@ -1,0 +1,23 @@
+#main {
+    font-family: Verdana, sans-serif;
+}
+
+.schd-timeslot {
+    margin: 0;
+}
+
+.schd-timeslot-header {
+    background-color: #434688;
+    padding: 15px;
+}
+
+.schd-time {
+    display: inline;
+    font-weight: bold;
+}
+
+.schd-title {
+    display: inline;
+    margin-left: 10px;
+}
+

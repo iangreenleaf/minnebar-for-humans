@@ -2063,5 +2063,103 @@
             "12"
         ],
         "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2052",
+        "title": "Play Well With Others: Creativity Through Collaboration ",
+        "description": "\n      For the past 20+ years, I've found myself leading collaborative projects. To me, the best outcomes often come from combining unusual topics and bringing together people from a variety of backgrounds. This approach has led to the creation of new communities (such as the Playful Learning Lab, Educator Show and Tell, and PlayLine), new products (ranging from Squishy Circuits to OK Go Sandbox), and new ways of working (for me and for my clients.) \n\nIn this session we'll explore:\n-How to find new collaborators (even if you're an introvert!)\n-Advice for the framing of collaborations (hint: don't leave them open ended- have a goal!)\n-Playful approaches to ideation\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Design",
+            "Product",
+            "Community",
+            "Soft Skills"
+        ],
+        "categories": [
+            "1",
+            "8",
+            "9",
+            "10"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2053",
+        "title": "AI Is Becoming Infrastructure: Why Context Engineering and Platforms Will Define the Next Decade ",
+        "description": "\n      Everyone is talking about models, prompts, and agents.\n\nThat’s not where the real shift is happening.\n\nAI is rapidly becoming infrastructure; embedded into how software is built, how decisions are made, and how companies operate. But most teams are still treating it like a tool, and that’s why so many AI initiatives stall out.\n\nIn this session, we’ll cut through the hype and focus on what actually matters:\n\n\nWhy AI projects get stuck between demo and production\nWhy model choice matters less than you think—and context matters more\nWhat “context engineering” really is (and why it’s becoming a core discipline)\nHow companies are quietly becoming AI platform builders, often without realizing it\n\n\nThis is a mental model reset.\n\nIf you’re a builder, leader, or just trying to make sense of where AI is headed, this session will give you a clearer picture of what’s actually changing and what to do about it.\n\nCome ready to challenge assumptions, ask questions, and share what you’re seeing.\n\n      \n    ",
+        "tags": [
+            "Advanced",
+            "Development",
+            "Emerging Tech",
+            "AI/ML"
+        ],
+        "categories": [
+            "2",
+            "6",
+            "7"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2054",
+        "title": "Secure AI Agents from Development to Runtime  ",
+        "description": "\n      The Distance Between \"Hello World\" and \"Secure-at-Scale\"\n A developer spins up an AI agent, gives it access to a database, and suddenly magic happens. It’s writing emails, taking actions, and automating the enterprise. It looks flawless. It feels like the future.\n\nI’m here to talk about why that magic often breaks the moment it hits a production firewall.\n\nAs a practitioner leading GCP architecture, I spend a lot of time thinking about the distance between a \"smart\" agent and a \"secure\" one. The gap isn't usually the LLM's intelligence; it’s the Decision Architecture we build around it. \n\nIn this session, we’re moving past the AI hype to look at the actual scars of building secure agentic workflows. We will move through the lifecycle of an agent, from the initial development sandbox to a governed, enterprise runtime.\n\nWhat we will explore together:\n\nThe Development Gap: Why \"Prompt Engineering\" isn't a security strategy and how we build supply chain trust for models.\nThe Runtime Reality: Encoding enterprise \"values\" into technical guardrails using GCP’s security suite.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "AI/ML"
+        ],
+        "categories": [
+            "7"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2055",
+        "title": "Pricing Office Hours: How (and How Much) Should You Charge. ",
+        "description": "\n      Not sure how much your new product or service is worth to your customers.\n\nSwing by and we'll run some napkin math and rules of thumb on your specific product.\n\nLeave with some tools and techniques to tweak as you go.\n\n      \n    ",
+        "tags": [
+            "Advanced",
+            "Startups",
+            "Product",
+            "Marketing"
+        ],
+        "categories": [
+            "4",
+            "8",
+            "12"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2056",
+        "title": "Lessons learned building LAIC: Life Time’s AI Concierge ",
+        "description": "\n      At Life Time, we set out to build something more ambitious than a support chatbot. LAIC — the Life Time AI Companion — is a concierge available to every member. It answers questions about clubs, classes, and programming, but it also does things: building custom workouts, drafting training programs, providing nutrition guidance, and scheduling classes on a member's behalf.\n\nGetting to “cool demo” is easy with AI. Getting to something members rely on has required smart investment, experimentation, and tenacity in an environment where the tools and models you are using this month didn’t exist last month. This talk with cover our approach, and lessons learned for others to apply when building AI products.\n\nWe'll cover:\nEngaging the business in AI build-outs. How we get domain leaders to help shape the product.\nHow AI is changing how we build product. New tools and models means figuring which are the best levers to the solution. We’ll cover what we’ve tried and what’s working.\nWhich Model is Best? (Answer: all of them). Learn what we’ve learned about leveraging the ever changing landscape of LLM models.\n\nIf you're building an AI product inside an established company, come for the war stories, leave with ideas for your playbook.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Emerging Tech",
+            "AI/ML",
+            "Product"
+        ],
+        "categories": [
+            "6",
+            "7",
+            "8"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2057",
+        "title": "Why Your Third COO Just Quit (And Why Recruiting Won't Fix It) ",
+        "description": "\n      You've cycled through three COOs in four years. Each one looked perfect on paper. Each one left you doing the same strategic work you were desperate to hand off.\n\nMaybe the problem isn't them. Maybe it's how you're finding them.\n\nHere's what's actually happening: You're not looking for a Chief Operating Officer. You're looking for a Second-in-Command. Someone who's energized by the work that drains you. Who sees systems where you see chaos. Who thrives on execution while you focus on vision.\n\nBut here's the problem: Recruiters optimize for qualifications. Résumés. Keywords. Experience.\n\nAnd the #1 factor in whether a CEO/COO relationship actually works? It's not any of those things. It's the relationship itself.\n\nYou can't recruit your way into a relationship.\n\nIn this session, we'll walk through what Seconds actually are (hint: it's an identity, not a job title), why traditional hiring fails at finding them, and what a matchmaking approach looks like for bringing on the person who can actually propel your vision forward. You'll leave knowing whether you're ready to delegate, what you actually need in a Second, and how to find them without posting another job description that attracts 200 wrong candidates.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Startups",
+            "Careers"
+        ],
+        "categories": [
+            "4",
+            "11"
+        ],
+        "list": "none"
     }
 ]

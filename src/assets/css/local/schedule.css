@@ -8,7 +8,7 @@
 
 .schd-timeslot-header {
     background-color: #434688;
-    padding: 15px;
+    padding: 15px 30px;
     font-size: 30px;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .schd-session {
-    margin: 37px 23px;
+    margin: 23px 37px;
 }
 
 .schd-session-title {
@@ -41,7 +41,7 @@
     color: #7ac2db;
     float: right;
     margin-top: 5px;
-    margin-left: 3px;
+    margin-left: 6px;
 }
 
 .schd-session-header {
@@ -49,7 +49,7 @@
 }
 
 .schd-session-description {
-    font-size: 15px;
+    font-size: 18px;
     margin: 5px;
 }
 

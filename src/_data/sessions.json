@@ -2161,5 +2161,75 @@
             "11"
         ],
         "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2058",
+        "title": "Train AI To Be Your Employee ",
+        "description": "\n      Training an agent is surprisingly similar to training a real person.\n\nBoth come with their own abilities, but you need to teach them to do things in ways specialized to your business. AI systems call these \"Skills,\" but they're essentially documentation of how to perform specialized tasks.\n\nIn this presentation, I will show how I trained an AI to perform a time-consuming administrative role that would be impractical for a human to do.\n\nThe agent works for a home maintenance company and researches and enters customized maintenance plans for homes. I will discuss the nuances of training, including task guidance, guardrails, and continuous learning.\n\nThe first step is a human, who goes into the home and takes pictures of each appliance's nameplate, and then uploads those images to a folder.\n\nFrom there, the AI agent handles the rest:\n\n\nIdentifies the manufacturer, brand, manufacture date, and appliance type.\nQueries the federal recall database to ensure there aren't active recalls for the appliance.\nDownloads the appliance manual and reads through it to determine customized maintenance tasks.\nFinds all filters for the appliance along with direct links to order replacements online.\nEnters all that information into a server database.\n\n\nThis information is used by customers and technicians in web and mobile applications.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Emerging Tech",
+            "AI/ML",
+            "Careers"
+        ],
+        "categories": [
+            "6",
+            "7",
+            "11"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2059",
+        "title": "Decoding Your Equity Compensation: Stock Options & RSUs with AMA ",
+        "description": "\n      Do you work at a startup and receive stock as part of your compensation? Or are you at a big tech company and receive RSUs each year? These stock compensation programs can be complicated and have tax consequences that aren't always clear.\n\nI’ve met so many people who have exercised their options or sold some RSUs and then received a huge tax bill they weren’t expecting. Some good planning up front could have reduced that tax bill and prepared you to pay it before you got that April surprise.\n\nIn this session, we’ll cover the most common equity types, how they work, and how they’re taxed. From there, we’ll have time for you to ask any questions about equity compensation and personal finance.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Careers"
+        ],
+        "categories": [
+            "11"
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2060",
+        "title": "Make your first video game with \"just enough\" AI ",
+        "description": "\n      Have you always wanted to design a game but you don't know how to get started? Maybe you did get started and were quickly overwhelmed? Or you're already a full-time developer, so you don't want to spend your free time writing code? Good news! You can use AI to lay the technical foundation, so you can skip ahead to the fun part!\n\nI used Claude Code to build a shoot-em-up prototype in 24 hours. It was functional, but not very fun. Since then I've been hand-tuning the gameplay, level design, art assets and music. Let AI do the heavy lifting that it's good at (frameworks, physics, online scoring systems, etc.) so you can focus on making something that's unique and enjoyable for humans to play... and empower yourself so you're not reliant on an LLM.\n\nThis session will be about 1/2 presentation and 1/2 Q&A and discussion. I'll share specific examples from my conversations & codebase, and offer advice on:\n* Pros and cons of starting with AI code -- is this approach right for you?\n* What to consider before even writing your first prompt \n* Surprising \"gotchas\" to watch out for \n* When to use AI, and when to get your hands dirty\n* How to use AI as a coach to reduce your dependency on it\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Development",
+            "AI/ML",
+            "Design",
+            "Soft Skills"
+        ],
+        "categories": [
+            "2",
+            "7",
+            "1",
+            "10"
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2061",
+        "title": "The Unreasonable Effectiveness of LLMs at Creating Broken Systems ",
+        "description": "\n      Large Language Models are remarkably effective at generating code, tests, and even entire system designs. They’re also remarkably effective at creating systems that no one fully understands.\n\nAs engineering velocity increases, so does intellectual entropy. Add in the variance introduced by AI-assisted development, and teams fall into volatility traps: systems that appear to improve rapidly while quietly increasing risk.\n\nDrawing from real-world edge and hardware systems, we’ll explore why correctness is not a property of code, but of the system as a whole. We’ll also examine how AI can either amplify entropy or reduce it, depending on whether it’s used to generate decisions or enforce constraints.\n\nWho should attend: Engineers, architects, and technical leaders building real systems. Beyond that, anyone else living in a world where things are moving faster, but getting harder to reason about, debug, or trust.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML",
+            "Design"
+        ],
+        "categories": [
+            "2",
+            "4",
+            "6",
+            "7",
+            "1"
+        ],
+        "list": "ai"
     }
 ]

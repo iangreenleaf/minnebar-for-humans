@@ -8,6 +8,15 @@ const baseURL = "https://sessions.minnestar.org";
 const dataFile = "./src/_data/sessions.json";
 const requestDelayTime = 3000;  // Delay between http requests, in ms
 
+let update;
+if (process.argv[2] === "update") {
+  console.log("Running full update");
+  update = true;
+} else {
+  console.log("Only scraping newest sessions");
+  update = false;
+}
+
 // Handles fetching all sessions page
 const allSessionReq = await axios.get(allSessions);
 const $allSession = cheerio.load(allSessionReq.data);
@@ -16,18 +25,27 @@ const $allSession = cheerio.load(allSessionReq.data);
 const readFile = fs.readFileSync(dataFile);
 let sessionDetails = JSON.parse(readFile);
 
-// Scrapes pages detected as new
-const sessionAElements = $allSession("a[href^='/sessions/']:not([class])").toArray();
 
+//
+// Controls which URLS are scraped
+//
+const sessionAElements = $allSession("a[href^='/sessions/']:not([class])").toArray();
+const sessionUrls = [];
 for (const sessionA of sessionAElements.reverse()) {
   const sessionUrl = `${baseURL}${sessionA.attribs['href']}`;
-
   // If page is already scraped, skip it
-  if (sessionDetails.some(session => session.url === sessionUrl)) {
+  if (!update && sessionDetails.some(session => session.url === sessionUrl)) {
     console.log(`Skipping ${sessionUrl}: already fetched`);
     continue;
   }
+  sessionUrls.push(sessionUrl);
+}
 
+
+//
+// Scrapes the URLS
+//
+for (const sessionUrl of sessionUrls) {
   await new Promise(resolve => setTimeout(resolve, requestDelayTime));
   console.log(`Fetching ${sessionUrl}...`);
   const sessionPageReq = await axios.get(sessionUrl);
@@ -49,9 +67,27 @@ for (const sessionA of sessionAElements.reverse()) {
   $sessionPage(".session_description .tags").remove();
   const description = $sessionPage(".session_description").text();
 
-  sessionDetails.push({"url": sessionUrl, title, description, tags, categories});
+  const participantElements = $sessionPage("#participants > li").toArray();
+  const participants = [];
+  for (const participantElement of participantElements) {
+    const participantName = $sessionPage(participantElement).text().trim();
+    const participantA = $sessionPage(participantElement).find("a")[0];
+    const participantUrl = participantA.attribs['href'];
+    participants.push({"name": participantName, "url": participantUrl});
+  }
+
+  const session = {"url": sessionUrl, title, description, tags, categories, participants};
+
+  const duplicateIndex = sessionDetails.findIndex(session => session["url"] === sessionUrl);
+  if (duplicateIndex === -1)
+    sessionDetails.push(session);
+  else
+    Object.assign(sessionDetails[duplicateIndex], session);
 }
 
+//
+// Removes sessions that no longer exist
+//
 sessionDetails = sessionDetails.filter(function (session) {
   const matchingATag = sessionAElements.find(function (aElement) {
     return baseURL + aElement.attribs['href'] === session['url'];

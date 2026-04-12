@@ -8,6 +8,15 @@ const baseURL = "https://sessions.minnestar.org";
 const dataFile = "./src/_data/sessions.json";
 const requestDelayTime = 3000;  // Delay between http requests, in ms
 
+let update;
+if (process.argv[2] === "update") {
+  console.log("Running full update");
+  update = true;
+} else {
+  console.log("Only scraping newest sessions");
+  update = false;
+}
+
 // Handles fetching all sessions page
 const allSessionReq = await axios.get(allSessions);
 const $allSession = cheerio.load(allSessionReq.data);
@@ -25,7 +34,7 @@ const sessionUrls = [];
 for (const sessionA of sessionAElements.reverse()) {
   const sessionUrl = `${baseURL}${sessionA.attribs['href']}`;
   // If page is already scraped, skip it
-  if (sessionDetails.some(session => session.url === sessionUrl)) {
+  if (!update && sessionDetails.some(session => session.url === sessionUrl)) {
     console.log(`Skipping ${sessionUrl}: already fetched`);
     continue;
   }
@@ -58,7 +67,13 @@ for (const sessionUrl of sessionUrls) {
   $sessionPage(".session_description .tags").remove();
   const description = $sessionPage(".session_description").text();
 
-  sessionDetails.push({"url": sessionUrl, title, description, tags, categories});
+  const session = {"url": sessionUrl, title, description, tags, categories};
+
+  const duplicateIndex = sessionDetails.findIndex(session => session["url"] === sessionUrl);
+  if (duplicateIndex === -1)
+    sessionDetails.push(session);
+  else
+    Object.assign(sessionDetails[duplicateIndex], session);
 }
 
 //

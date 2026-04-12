@@ -67,7 +67,16 @@ for (const sessionUrl of sessionUrls) {
   $sessionPage(".session_description .tags").remove();
   const description = $sessionPage(".session_description").text();
 
-  const session = {"url": sessionUrl, title, description, tags, categories};
+  const participantElements = $sessionPage("#participants > li").toArray();
+  const participants = [];
+  for (const participantElement of participantElements) {
+    const participantName = $sessionPage(participantElement).text().trim();
+    const participantA = $sessionPage(participantElement).find("a")[0];
+    const participantUrl = participantA.attribs['href'];
+    participants.push({"name": participantName, "url": participantUrl});
+  }
+
+  const session = {"url": sessionUrl, title, description, tags, categories, participants};
 
   const duplicateIndex = sessionDetails.findIndex(session => session["url"] === sessionUrl);
   if (duplicateIndex === -1)

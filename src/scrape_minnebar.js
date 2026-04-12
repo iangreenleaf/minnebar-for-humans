@@ -16,18 +16,19 @@ const $allSession = cheerio.load(allSessionReq.data);
 const readFile = fs.readFileSync(dataFile);
 let sessionDetails = JSON.parse(readFile);
 
-// Scrapes pages detected as new
 const sessionAElements = $allSession("a[href^='/sessions/']:not([class])").toArray();
-
+const sessionUrls = [];
 for (const sessionA of sessionAElements.reverse()) {
   const sessionUrl = `${baseURL}${sessionA.attribs['href']}`;
-
   // If page is already scraped, skip it
   if (sessionDetails.some(session => session.url === sessionUrl)) {
     console.log(`Skipping ${sessionUrl}: already fetched`);
     continue;
   }
+  sessionUrls.push(sessionUrl);
+}
 
+for (const sessionUrl of sessionUrls) {
   await new Promise(resolve => setTimeout(resolve, requestDelayTime));
   console.log(`Fetching ${sessionUrl}...`);
   const sessionPageReq = await axios.get(sessionUrl);

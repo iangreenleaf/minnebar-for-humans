@@ -16,6 +16,10 @@ const $allSession = cheerio.load(allSessionReq.data);
 const readFile = fs.readFileSync(dataFile);
 let sessionDetails = JSON.parse(readFile);
 
+
+//
+// Controls which URLS are scraped
+//
 const sessionAElements = $allSession("a[href^='/sessions/']:not([class])").toArray();
 const sessionUrls = [];
 for (const sessionA of sessionAElements.reverse()) {
@@ -28,6 +32,10 @@ for (const sessionA of sessionAElements.reverse()) {
   sessionUrls.push(sessionUrl);
 }
 
+
+//
+// Scrapes the URLS
+//
 for (const sessionUrl of sessionUrls) {
   await new Promise(resolve => setTimeout(resolve, requestDelayTime));
   console.log(`Fetching ${sessionUrl}...`);
@@ -53,6 +61,9 @@ for (const sessionUrl of sessionUrls) {
   sessionDetails.push({"url": sessionUrl, title, description, tags, categories});
 }
 
+//
+// Removes sessions that no longer exist
+//
 sessionDetails = sessionDetails.filter(function (session) {
   const matchingATag = sessionAElements.find(function (aElement) {
     return baseURL + aElement.attribs['href'] === session['url'];

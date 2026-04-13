@@ -35,6 +35,10 @@
                 "url": "/participants/366"
             },
             {
+                "name": "Alex Wohlhueter",
+                "url": "/participants/1976"
+            },
+            {
                 "name": "Peter Clark",
                 "url": "/participants/2004"
             },
@@ -45,6 +49,10 @@
             {
                 "name": "Bruce Adelsman",
                 "url": "/participants/4808"
+            },
+            {
+                "name": "Chase Peterson",
+                "url": "/participants/4866"
             },
             {
                 "name": "Todd Harper",
@@ -110,6 +118,10 @@
                 "url": "/participants/2644"
             },
             {
+                "name": "Edward Bertsch",
+                "url": "/participants/2665"
+            },
+            {
                 "name": "Thomas Harren",
                 "url": "/participants/3520"
             },
@@ -140,6 +152,14 @@
             {
                 "name": "Drea LeMaster",
                 "url": "/participants/6244"
+            },
+            {
+                "name": "Daniel Nelson",
+                "url": "/participants/6319"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
             },
             {
                 "name": "Jackson M Tomlinson",
@@ -174,6 +194,10 @@
                 "url": "/participants/6873"
             },
             {
+                "name": "Kelly Anderson",
+                "url": "/participants/6882"
+            },
+            {
                 "name": "Meredith Clause",
                 "url": "/participants/6899"
             },
@@ -184,6 +208,10 @@
             {
                 "name": "Cheemoua Andy Xiong",
                 "url": "/participants/6973"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -207,6 +235,10 @@
             {
                 "name": "Casey Helbling",
                 "url": "/participants/8"
+            },
+            {
+                "name": "Jaim Zuber",
+                "url": "/participants/17"
             },
             {
                 "name": "Katie Kodes",
@@ -251,6 +283,10 @@
             {
                 "name": "Aniruddha Ghosh",
                 "url": "/participants/6911"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -314,6 +350,10 @@
             {
                 "name": "Drea LeMaster",
                 "url": "/participants/6244"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
             },
             {
                 "name": "Jaylyn Dawson",
@@ -434,6 +474,10 @@
                 "url": "/participants/490"
             },
             {
+                "name": "Alex Wohlhueter",
+                "url": "/participants/1976"
+            },
+            {
                 "name": "Aniruddha Ghosh",
                 "url": "/participants/6911"
             }
@@ -459,6 +503,10 @@
             {
                 "name": "Paul DeBettignies",
                 "url": "/participants/208"
+            },
+            {
+                "name": "Robert O'Keefe",
+                "url": "/participants/278"
             },
             {
                 "name": "Tamil Kadir Rajavel",
@@ -517,12 +565,20 @@
                 "url": "/participants/6268"
             },
             {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
                 "name": "Jamie Ryan",
                 "url": "/participants/6802"
             },
             {
                 "name": "Mike Lasnier",
                 "url": "/participants/6966"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -552,6 +608,10 @@
             {
                 "name": "Robert Boedigheimer",
                 "url": "/participants/3712"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
             },
             {
                 "name": "Trevor Ausen",
@@ -687,12 +747,20 @@
                 "url": "/participants/6151"
             },
             {
+                "name": "Carina Paton",
+                "url": "/participants/6169"
+            },
+            {
                 "name": "Alex Frescoln",
                 "url": "/participants/6313"
             },
             {
                 "name": "Kaitlin Strand",
                 "url": "/participants/6330"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
             },
             {
                 "name": "Kyle Nelson",
@@ -833,6 +901,10 @@
                 "url": "/participants/6458"
             },
             {
+                "name": "Chris Barber",
+                "url": "/participants/6514"
+            },
+            {
                 "name": "Kyle Nelson",
                 "url": "/participants/6515"
             },
@@ -866,6 +938,10 @@
             {
                 "name": "Mark Gritter",
                 "url": "/participants/12"
+            },
+            {
+                "name": "Jaim Zuber",
+                "url": "/participants/17"
             },
             {
                 "name": "Ben Damman",
@@ -1074,6 +1150,10 @@
         ],
         "participants": [
             {
+                "name": "Ben Damman",
+                "url": "/participants/35"
+            },
+            {
                 "name": "Brian Maddy",
                 "url": "/participants/490"
             },
@@ -1084,6 +1164,14 @@
             {
                 "name": "Senthil Kumaran",
                 "url": "/participants/1247"
+            },
+            {
+                "name": "Alex Wohlhueter",
+                "url": "/participants/1976"
+            },
+            {
+                "name": "Edward Bertsch",
+                "url": "/participants/2665"
             },
             {
                 "name": "Ahnaf Prio",
@@ -1114,8 +1202,16 @@
                 "url": "/participants/6151"
             },
             {
+                "name": "Carina Paton",
+                "url": "/participants/6169"
+            },
+            {
                 "name": "Mel Bernstein",
                 "url": "/participants/6261"
+            },
+            {
+                "name": "Alex Frescoln",
+                "url": "/participants/6313"
             },
             {
                 "name": "Daniel Nelson",
@@ -1132,6 +1228,10 @@
             {
                 "name": "Katie Sandquist",
                 "url": "/participants/6900"
+            },
+            {
+                "name": "Andrew bentley",
+                "url": "/participants/6979"
             }
         ]
     },
@@ -1169,6 +1269,10 @@
             {
                 "name": "Paul DeBettignies",
                 "url": "/participants/208"
+            },
+            {
+                "name": "Robert O'Keefe",
+                "url": "/participants/278"
             },
             {
                 "name": "Brian Maddy",
@@ -1382,6 +1486,14 @@
                 "url": "/participants/917"
             },
             {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
+                "name": "Alex Wohlhueter",
+                "url": "/participants/1976"
+            },
+            {
                 "name": "Matt H",
                 "url": "/participants/4743"
             },
@@ -1396,6 +1508,10 @@
             {
                 "name": "Sara Williams",
                 "url": "/participants/6151"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
             },
             {
                 "name": "Ryan Wold",
@@ -1439,6 +1555,10 @@
             {
                 "name": "Rick Ellis",
                 "url": "/participants/2899"
+            },
+            {
+                "name": "Tyler Dane",
+                "url": "/participants/4387"
             },
             {
                 "name": "Cherie Lemer",
@@ -1530,6 +1650,14 @@
                 "url": "/participants/6254"
             },
             {
+                "name": "Gilberto Ojeda",
+                "url": "/participants/6424"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
                 "name": "Ryan Wold",
                 "url": "/participants/6798"
             },
@@ -1540,6 +1668,10 @@
             {
                 "name": "Aniruddha Ghosh",
                 "url": "/participants/6911"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -1746,6 +1878,10 @@
             {
                 "name": "Brian Maddy",
                 "url": "/participants/490"
+            },
+            {
+                "name": "Alex Wohlhueter",
+                "url": "/participants/1976"
             },
             {
                 "name": "Peter Clark",
@@ -2091,10 +2227,6 @@
                 "url": "/participants/2598"
             },
             {
-                "name": "Edward Bertsch",
-                "url": "/participants/2665"
-            },
-            {
                 "name": "Sharyn Morrow",
                 "url": "/participants/3381"
             },
@@ -2129,6 +2261,14 @@
             {
                 "name": "Mel Bernstein",
                 "url": "/participants/6261"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
             },
             {
                 "name": "Trixy Heller",
@@ -2182,6 +2322,10 @@
             {
                 "name": "Vaish Sagar",
                 "url": "/participants/6147"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
             },
             {
                 "name": "Aziza El-Liwaru",
@@ -2656,6 +2800,10 @@
                 "url": "/participants/1972"
             },
             {
+                "name": "Alex Wohlhueter",
+                "url": "/participants/1976"
+            },
+            {
                 "name": "Brian Mitchell",
                 "url": "/participants/1978"
             },
@@ -2786,6 +2934,10 @@
             {
                 "name": "Cheemoua Andy Xiong",
                 "url": "/participants/6973"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -3053,6 +3205,10 @@
             {
                 "name": "Katie Sandquist",
                 "url": "/participants/6900"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -3086,6 +3242,10 @@
             {
                 "name": "Brian Maddy",
                 "url": "/participants/490"
+            },
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
             },
             {
                 "name": "Phil Ensminger",
@@ -3249,6 +3409,10 @@
             {
                 "name": "Megan Tegeder",
                 "url": "/participants/6268"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
             },
             {
                 "name": "Jamie Ryan",
@@ -3532,6 +3696,10 @@
                 "url": "/participants/6253"
             },
             {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
                 "name": "Brent Anderson",
                 "url": "/participants/6790"
             }
@@ -3565,6 +3733,10 @@
             {
                 "name": "Kelly Heikkila",
                 "url": "/participants/3288"
+            },
+            {
+                "name": "Grant Udstrand",
+                "url": "/participants/6007"
             },
             {
                 "name": "Cameron MacDonald",
@@ -3658,6 +3830,10 @@
                 "url": "/participants/6244"
             },
             {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
                 "name": "Jamie Ryan",
                 "url": "/participants/6802"
             },
@@ -3676,6 +3852,10 @@
             {
                 "name": "Katie Sandquist",
                 "url": "/participants/6900"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -3777,6 +3957,10 @@
             {
                 "name": "Karl Ness",
                 "url": "/participants/6955"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -3800,6 +3984,10 @@
             {
                 "name": "Benjamin Ortega",
                 "url": "/participants/693"
+            },
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
             },
             {
                 "name": "Phil Ensminger",
@@ -3884,6 +4072,10 @@
         ],
         "participants": [
             {
+                "name": "Jaim Zuber",
+                "url": "/participants/17"
+            },
+            {
                 "name": "Dan Lew",
                 "url": "/participants/156"
             },
@@ -3924,6 +4116,10 @@
                 "url": "/participants/6026"
             },
             {
+                "name": "Carina Paton",
+                "url": "/participants/6169"
+            },
+            {
                 "name": "Megan Tegeder",
                 "url": "/participants/6268"
             },
@@ -3942,6 +4138,10 @@
             {
                 "name": "Zachary",
                 "url": "/participants/6835"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -3973,6 +4173,14 @@
             {
                 "name": "Benjamin Ortega",
                 "url": "/participants/693"
+            },
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
+                "name": "Alex Wohlhueter",
+                "url": "/participants/1976"
             },
             {
                 "name": "Kevin Behrens",
@@ -4009,6 +4217,10 @@
             {
                 "name": "Megan Tegeder",
                 "url": "/participants/6268"
+            },
+            {
+                "name": "Gilberto Ojeda",
+                "url": "/participants/6424"
             },
             {
                 "name": "Aziza El-Liwaru",
@@ -4096,6 +4308,10 @@
             {
                 "name": "Josh Benner",
                 "url": "/participants/6888"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -4129,6 +4345,10 @@
                 "url": "/participants/917"
             },
             {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
                 "name": "Michelle Smeby",
                 "url": "/participants/2948"
             },
@@ -4155,6 +4375,10 @@
             {
                 "name": "Trevor Ausen",
                 "url": "/participants/6873"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -4218,6 +4442,10 @@
             {
                 "name": "Vaish Sagar",
                 "url": "/participants/6147"
+            },
+            {
+                "name": "Carina Paton",
+                "url": "/participants/6169"
             },
             {
                 "name": "Brent Anderson",
@@ -4342,6 +4570,10 @@
                 "url": "/participants/6147"
             },
             {
+                "name": "Carina Paton",
+                "url": "/participants/6169"
+            },
+            {
                 "name": "Mel Bernstein",
                 "url": "/participants/6261"
             },
@@ -4383,6 +4615,10 @@
                 "url": "/participants/105"
             },
             {
+                "name": "Sam Grumdahl",
+                "url": "/participants/406"
+            },
+            {
                 "name": "Benjamin Ortega",
                 "url": "/participants/693"
             },
@@ -4415,12 +4651,24 @@
                 "url": "/participants/6130"
             },
             {
+                "name": "Carina Paton",
+                "url": "/participants/6169"
+            },
+            {
                 "name": "Mel Bernstein",
                 "url": "/participants/6261"
             },
             {
                 "name": "Megan Tegeder",
                 "url": "/participants/6268"
+            },
+            {
+                "name": "Gilberto Ojeda",
+                "url": "/participants/6424"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
             },
             {
                 "name": "Kyle Nelson",
@@ -4603,6 +4851,10 @@
                 "url": "/participants/8"
             },
             {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
                 "name": "Eve Poeschl",
                 "url": "/participants/2182"
             },
@@ -4725,6 +4977,10 @@
             {
                 "name": "Katie Sandquist",
                 "url": "/participants/6900"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -4748,6 +5004,10 @@
             {
                 "name": "Benjamin Ortega",
                 "url": "/participants/693"
+            },
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
             },
             {
                 "name": "Phil Ensminger",
@@ -4782,6 +5042,10 @@
                 "url": "/participants/6319"
             },
             {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
                 "name": "Mitch Bliven",
                 "url": "/participants/6788"
             },
@@ -4792,6 +5056,14 @@
             {
                 "name": "Katie Sandquist",
                 "url": "/participants/6900"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -4873,6 +5145,10 @@
                 "url": "/participants/6788"
             },
             {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
+            },
+            {
                 "name": "Trixy Heller",
                 "url": "/participants/6880"
             },
@@ -4936,6 +5212,10 @@
                 "url": "/participants/1793"
             },
             {
+                "name": "Alex Wohlhueter",
+                "url": "/participants/1976"
+            },
+            {
                 "name": "Eve Poeschl",
                 "url": "/participants/2182"
             },
@@ -4976,12 +5256,20 @@
                 "url": "/participants/6261"
             },
             {
+                "name": "Gilberto Ojeda",
+                "url": "/participants/6424"
+            },
+            {
                 "name": "Aziza El-Liwaru",
                 "url": "/participants/6810"
             },
             {
                 "name": "Benjamin Schatz",
                 "url": "/participants/6818"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -5007,6 +5295,10 @@
             {
                 "name": "Chip Pedersen",
                 "url": "/participants/906"
+            },
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
             },
             {
                 "name": "Brian Mitchell",
@@ -5061,12 +5353,20 @@
                 "url": "/participants/6029"
             },
             {
+                "name": "Carina Paton",
+                "url": "/participants/6169"
+            },
+            {
                 "name": "Drea LeMaster",
                 "url": "/participants/6244"
             },
             {
                 "name": "Megan Tegeder",
                 "url": "/participants/6268"
+            },
+            {
+                "name": "Gilberto Ojeda",
+                "url": "/participants/6424"
             },
             {
                 "name": "Paul Carroll",
@@ -5106,8 +5406,16 @@
                 "url": "/participants/693"
             },
             {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
                 "name": "Phil Ensminger",
                 "url": "/participants/1740"
+            },
+            {
+                "name": "Jesse Sutherland",
+                "url": "/participants/3831"
             },
             {
                 "name": "Cherie Lemer",
@@ -5174,8 +5482,8 @@
     },
     {
         "url": "https://sessions.minnestar.org/sessions/1964",
-        "title": "Problem to Publish in Microsoft Dynamics 365 ",
-        "description": "\n      See an Example of Microsoft Dynamics 365 being edited and published live\n\n      \n    ",
+        "title": "DefineTheBox Prioritize Solutions to Risk ",
+        "description": "\n      When the list of Risks Change, much like changing a Prompt to AI changes the Outputs. Changing the list of requirements changes the plans to implement.\n\nThis Session will show the use of Microsoft Dynamics 365 Enterprise software and customizations used to update spreadsheets and document generation from database artifacts.\n\nStop copying and pasting Excel Living Documentation and use Microsoft Dynamics 365 for Document Generation.\n\n      \n    ",
         "tags": [
             "Intermediate",
             "Development",
@@ -5299,6 +5607,10 @@
             {
                 "name": "Daniel Nelson",
                 "url": "/participants/6319"
+            },
+            {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
             }
         ]
     },
@@ -5328,6 +5640,10 @@
             {
                 "name": "Brian Maddy",
                 "url": "/participants/490"
+            },
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
             },
             {
                 "name": "Cherie Lemer",
@@ -5385,6 +5701,10 @@
                 "url": "/participants/1972"
             },
             {
+                "name": "Alex Wohlhueter",
+                "url": "/participants/1976"
+            },
+            {
                 "name": "Edward Bertsch",
                 "url": "/participants/2665"
             },
@@ -5411,6 +5731,10 @@
             {
                 "name": "Bruce Adelsman",
                 "url": "/participants/4808"
+            },
+            {
+                "name": "Chase Peterson",
+                "url": "/participants/4866"
             },
             {
                 "name": "Todd Harper",
@@ -5492,6 +5816,10 @@
                 "url": "/participants/1972"
             },
             {
+                "name": "DeLonn Crosby",
+                "url": "/participants/3109"
+            },
+            {
                 "name": "Kelly Heikkila",
                 "url": "/participants/3288"
             },
@@ -5506,6 +5834,10 @@
             {
                 "name": "Vaish Sagar",
                 "url": "/participants/6147"
+            },
+            {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
             },
             {
                 "name": "Katie Sandquist",
@@ -5543,8 +5875,16 @@
                 "url": "/participants/5454"
             },
             {
+                "name": "Carina Paton",
+                "url": "/participants/6169"
+            },
+            {
                 "name": "Daniel Nelson",
                 "url": "/participants/6319"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
             },
             {
                 "name": "Trevor Ausen",
@@ -5557,6 +5897,14 @@
             {
                 "name": "Marta Daehn",
                 "url": "/participants/6903"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -5602,6 +5950,10 @@
                 "url": "/participants/6261"
             },
             {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
                 "name": "Jamie Ryan",
                 "url": "/participants/6802"
             },
@@ -5612,6 +5964,10 @@
             {
                 "name": "Walter Ethan Lick Eagle",
                 "url": "/participants/6891"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -5641,12 +5997,20 @@
                 "url": "/participants/35"
             },
             {
+                "name": "Sam Grumdahl",
+                "url": "/participants/406"
+            },
+            {
                 "name": "Brian Maddy",
                 "url": "/participants/490"
             },
             {
                 "name": "Benjamin Ortega",
                 "url": "/participants/693"
+            },
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
             },
             {
                 "name": "David Duccini",
@@ -5707,6 +6071,10 @@
             {
                 "name": "Cheemoua Andy Xiong",
                 "url": "/participants/6973"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -5742,12 +6110,24 @@
         "list": "ai",
         "participants": [
             {
+                "name": "Robert O'Keefe",
+                "url": "/participants/278"
+            },
+            {
                 "name": "Megan Tegeder",
                 "url": "/participants/6268"
             },
             {
                 "name": "Daniel Nelson",
                 "url": "/participants/6319"
+            },
+            {
+                "name": "Gilberto Ojeda",
+                "url": "/participants/6424"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
             },
             {
                 "name": "Josh Benner",
@@ -5937,59 +6317,20 @@
                 "url": "/participants/6026"
             },
             {
+                "name": "Gilberto Ojeda",
+                "url": "/participants/6424"
+            },
+            {
                 "name": "Jaylyn Dawson",
                 "url": "/participants/6513"
             },
             {
                 "name": "David Solberg",
                 "url": "/participants/6953"
-            }
-        ]
-    },
-    {
-        "url": "https://sessions.minnestar.org/sessions/2009",
-        "title": "Dual AI Architecture: On-Device Apple Intelligence Meets Claude's Cloud ",
-        "description": "\n      Apple's on-device AI is excellent at synthesis. Claude's cloud AI is excellent at analysis. The trick is connecting them without exposing patient data.\n\nI'm a solo founder who built HerDiabetes, a new category of diabetes management app designed for women, from concept to App Store in 6 months. The app connects menstrual cycle data with glucose patterns, something no other diabetes app does. Along the way I had to solve a hard problem: how do you use cloud AI in a health app without sending personal health information off the device?\n\nThe answer is a dual AI architecture. Apple Intelligence runs on-device, synthesizing raw health data into a clean, PHI-free narrative. Claude + PubMed MCP picks it up from there, delivering research-backed insights with real citations. The user stays in control at every step. Privacy isn't a constraint. It's the architecture.\n\nThis session includes a live demo of the working app and a walkthrough of the technical decisions behind it. I'll also cover the founder story, how a cold email to a diabetes tech conference led to three clinical advisors and an invitation to present at D-Data ExChange in June 2026.\n\n      \n    ",
-        "tags": [
-            "All levels",
-            "Development",
-            "Startups",
-            "AI/ML"
-        ],
-        "categories": [
-            "2",
-            "4",
-            "7"
-        ],
-        "list": "ai",
-        "participants": [
-            {
-                "name": "Ben Damman",
-                "url": "/participants/35"
             },
             {
-                "name": "Brian Maddy",
-                "url": "/participants/490"
-            },
-            {
-                "name": "Vaish Sagar",
-                "url": "/participants/6147"
-            },
-            {
-                "name": "Riley Gerszewski",
-                "url": "/participants/6884"
-            },
-            {
-                "name": "Josh Benner",
-                "url": "/participants/6888"
-            },
-            {
-                "name": "Aniruddha Ghosh",
-                "url": "/participants/6911"
-            },
-            {
-                "name": "David Solberg",
-                "url": "/participants/6953"
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -6019,12 +6360,20 @@
                 "url": "/participants/4465"
             },
             {
+                "name": "Gilberto Ojeda",
+                "url": "/participants/6424"
+            },
+            {
                 "name": "Josh Benner",
                 "url": "/participants/6888"
             },
             {
                 "name": "Aniruddha Ghosh",
                 "url": "/participants/6911"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -6076,6 +6425,10 @@
             {
                 "name": "Chip Pedersen",
                 "url": "/participants/906"
+            },
+            {
+                "name": "Ben Leadholm",
+                "url": "/participants/1057"
             },
             {
                 "name": "Kevin Behrens",
@@ -6157,6 +6510,10 @@
             {
                 "name": "Katie Sandquist",
                 "url": "/participants/6900"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -6182,12 +6539,28 @@
         "list": "none",
         "participants": [
             {
+                "name": "Sam Grumdahl",
+                "url": "/participants/406"
+            },
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
                 "name": "Matt Bischoff",
                 "url": "/participants/1552"
             },
             {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
                 "name": "Jaylyn Dawson",
                 "url": "/participants/6513"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -6259,6 +6632,14 @@
                 "url": "/participants/5603"
             },
             {
+                "name": "Carina Paton",
+                "url": "/participants/6169"
+            },
+            {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
+            },
+            {
                 "name": "Benjamin Schatz",
                 "url": "/participants/6818"
             },
@@ -6269,6 +6650,10 @@
             {
                 "name": "Katie Sandquist",
                 "url": "/participants/6900"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -6311,24 +6696,24 @@
     },
     {
         "url": "https://sessions.minnestar.org/sessions/2016",
-        "title": "We Automate Real Business Problems (Live) ",
-        "description": "\n      FlowDevs Live-Build: Interactive Problem Solving\n\n\nBring your business bottlenecks. We will build the solutions live.\n\n\nIn this interactive session, FlowDevs engages directly with the audience to tackle real-world operational challenges. We ask attendees to share the specific inefficiencies they face in their businesses. From there, we select one or two prime examples and engineer clear, automated solutions on the spot.\n\nSession Format (40 Minutes)\n\n\n\n00:00 - 00:05 | Briefing: Explaining the interactive format and selecting audience challenges.\n\n00:05 - 00:35 | Live Build: Architecting a custom workflow, automation, AI agent, website, or app to solve the selected problem in real-time.\n\n00:35 - 00:40 | Wrap-up: Reviewing the solution and answering audience questions.\n\n\nExample Live-Build Scenarios\n\n\n\nAgentic Review Management: Using Make.com to create an automated workflow where an LLM agentically drafts responses to business reviews.\n\nAutomated Lead Generation: Configuring Codex or Claude to scrape the web and compile a CSV file of prospective leads.\n\nBusiness Card Digitization: Configuring Microsoft Power Automate to scan physical business cards and route the extracted data directly to SharePoint.\n\nDeep Research Prep: Using Gemini or OpenAI to conduct deep research tasks and compile background briefs on upcoming meeting attendees.\n\nRapid MVP Development: Building a functional Lovable MVP featuring a front-end form and a connected database.\n\nCareer Prep Automation: Scraping the web for specific job interview details and deploying Claude to generate tailored sample cover letters.\n\n\n      \n    ",
+        "title": "We Automate Your \"Real\" Workflows (Live) ",
+        "description": "\n      \nBring your business (or other technological) bottlenecks. We will build the solutions live with you. (using AI or not depending on the wifi ;)\nWe are Microsoft partners and know OpenAI(Codex/Agent Mode)/Microsoft Copilot, Power Platform, Webflow, Lovable, Supabase, Github, and likely more I'm forggeting right now. We can as a group figure it out we can automate it!\n\n\nIn this interactive session, FlowDevs engages directly with the audience to tackle real-world operational challenges. We ask attendees to share the specific inefficiencies they face in their businesses. From there, we select one or two prime examples and engineer clear, automated solutions on the spot. \n\nSession Format (40 Minutes)\n\n\n\n00:00 - 00:05 | Briefing: Explaining the interactive format and selecting audience challenges.\n\n00:05 - 00:35 | Live Build: Architecting a custom workflow, automation, AI agent, website, or app to solve the selected problem in real-time.\n\n00:35 - 00:40 | Wrap-up: Reviewing the solution and answering audience questions.\n\n\nExample Live-Build Scenarios\n\n\n\nBusiness Card Digitization: Configuring Microsoft Power Automate to scan physical business cards and route the extracted data directly to SharePoint.\n\nAgentic Review Management: Using Make.com to create an automated workflow where an LLM agentically drafts responses to business reviews.\n\nAutomated Lead Generation: Configuring Codex or Claude to scrape the web and compile a CSV file of prospective leads.\n\nDeep Research Prep: Using Gemini or OpenAI to conduct deep research tasks and compile background briefs on upcoming meeting attendees.\n\nRapid MVP Development: Building a functional Lovable MVP featuring a front-end form and a connected database.\n\nCareer Prep Automation: Scraping the web for specific job interview details and deploying Claude to generate tailored sample cover letters.\n\n\n      \n    ",
         "tags": [
             "Intermediate",
-            "Development",
             "Startups",
             "Emerging Tech",
             "AI/ML",
-            "Community",
-            "Marketing"
+            "Marketing",
+            "Soft Skills",
+            "Careers"
         ],
         "categories": [
-            "2",
             "4",
             "6",
             "7",
-            "9",
-            "12"
+            "12",
+            "10",
+            "11"
         ],
         "list": "ai",
         "participants": [
@@ -6343,6 +6728,10 @@
             {
                 "name": "Micah Jacobson",
                 "url": "/participants/5466"
+            },
+            {
+                "name": "Carina Paton",
+                "url": "/participants/6169"
             },
             {
                 "name": "Justin Trantham",
@@ -6461,6 +6850,10 @@
         "list": "ai",
         "participants": [
             {
+                "name": "Jaim Zuber",
+                "url": "/participants/17"
+            },
+            {
                 "name": "Thomas Harren",
                 "url": "/participants/3520"
             },
@@ -6524,6 +6917,10 @@
                 "url": "/participants/5603"
             },
             {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
+            },
+            {
                 "name": "Marta Daehn",
                 "url": "/participants/6903"
             }
@@ -6553,6 +6950,14 @@
             {
                 "name": "Ben Damman",
                 "url": "/participants/35"
+            },
+            {
+                "name": "Robert O'Keefe",
+                "url": "/participants/278"
+            },
+            {
+                "name": "Sam Grumdahl",
+                "url": "/participants/406"
             },
             {
                 "name": "Kelly Heitz",
@@ -6610,6 +7015,10 @@
                 "url": "/participants/1972"
             },
             {
+                "name": "Alex Wohlhueter",
+                "url": "/participants/1976"
+            },
+            {
                 "name": "Edward Bertsch",
                 "url": "/participants/2665"
             },
@@ -6638,12 +7047,20 @@
                 "url": "/participants/6261"
             },
             {
+                "name": "Justin Trantham",
+                "url": "/participants/6262"
+            },
+            {
                 "name": "Megan Tegeder",
                 "url": "/participants/6268"
             },
             {
                 "name": "AnnMarie Thomas",
                 "url": "/participants/6423"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
             },
             {
                 "name": "Jaylyn Dawson",
@@ -6668,6 +7085,14 @@
             {
                 "name": "Katie Sandquist",
                 "url": "/participants/6900"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -6723,6 +7148,10 @@
                 "url": "/participants/6268"
             },
             {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
                 "name": "Jaylyn Dawson",
                 "url": "/participants/6513"
             },
@@ -6754,6 +7183,10 @@
                 "url": "/participants/35"
             },
             {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
                 "name": "Edward Bertsch",
                 "url": "/participants/2665"
             },
@@ -6772,6 +7205,10 @@
             {
                 "name": "Katie Sandquist",
                 "url": "/participants/6900"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -6863,6 +7300,10 @@
         "list": "none",
         "participants": [
             {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
                 "name": "Norman Orstad",
                 "url": "/participants/3358"
             },
@@ -6937,6 +7378,10 @@
                 "url": "/participants/151"
             },
             {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
                 "name": "Michelle Smeby",
                 "url": "/participants/2948"
             },
@@ -6967,6 +7412,14 @@
             {
                 "name": "Mitch Bliven",
                 "url": "/participants/6788"
+            },
+            {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -7127,6 +7580,10 @@
             {
                 "name": "Aniruddha Ghosh",
                 "url": "/participants/6911"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -7148,6 +7605,10 @@
             {
                 "name": "Casey Helbling",
                 "url": "/participants/8"
+            },
+            {
+                "name": "Sam Grumdahl",
+                "url": "/participants/406"
             },
             {
                 "name": "Matt Decuir",
@@ -7217,8 +7678,16 @@
                 "url": "/participants/6513"
             },
             {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
+            },
+            {
                 "name": "Aniruddha Ghosh",
                 "url": "/participants/6911"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -7260,6 +7729,10 @@
             {
                 "name": "Aniruddha Ghosh",
                 "url": "/participants/6911"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -7307,6 +7780,10 @@
             {
                 "name": "Samantha Young",
                 "url": "/participants/6828"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -7332,6 +7809,10 @@
                 "url": "/participants/4789"
             },
             {
+                "name": "Grant Udstrand",
+                "url": "/participants/6007"
+            },
+            {
                 "name": "Alex Frescoln",
                 "url": "/participants/6313"
             },
@@ -7346,6 +7827,10 @@
             {
                 "name": "Jamie Ryan",
                 "url": "/participants/6802"
+            },
+            {
+                "name": "Todd Taylor",
+                "url": "/participants/6821"
             }
         ]
     },
@@ -7454,6 +7939,10 @@
             {
                 "name": "Mitch Bliven",
                 "url": "/participants/6788"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -7508,16 +7997,40 @@
         "list": "none",
         "participants": [
             {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
                 "name": "Michelle Smeby",
                 "url": "/participants/2948"
+            },
+            {
+                "name": "Levi McCormick",
+                "url": "/participants/3070"
             },
             {
                 "name": "Micah Jacobson",
                 "url": "/participants/5466"
             },
             {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
+            },
+            {
                 "name": "Aniruddha Ghosh",
                 "url": "/participants/6911"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -7559,8 +8072,16 @@
                 "url": "/participants/3520"
             },
             {
+                "name": "Grant Udstrand",
+                "url": "/participants/6007"
+            },
+            {
                 "name": "Jaylyn Dawson",
                 "url": "/participants/6513"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -7594,6 +8115,10 @@
             {
                 "name": "Trevor Ausen",
                 "url": "/participants/6873"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -7612,6 +8137,10 @@
         ],
         "list": "none",
         "participants": [
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
             {
                 "name": "Edward Bertsch",
                 "url": "/participants/2665"
@@ -7635,6 +8164,10 @@
             {
                 "name": "Tyler Moen",
                 "url": "/participants/6936"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -7656,8 +8189,24 @@
         "list": "none",
         "participants": [
             {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
                 "name": "Thomas Harren",
                 "url": "/participants/3520"
+            },
+            {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -7677,8 +8226,20 @@
         "list": "none",
         "participants": [
             {
+                "name": "Mark Gritter",
+                "url": "/participants/12"
+            },
+            {
                 "name": "Dan Lew",
                 "url": "/participants/156"
+            },
+            {
+                "name": "Sam Grumdahl",
+                "url": "/participants/406"
+            },
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
             },
             {
                 "name": "Thomas Harren",
@@ -7695,6 +8256,10 @@
             {
                 "name": "Megan Tegeder",
                 "url": "/participants/6268"
+            },
+            {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
             },
             {
                 "name": "Mike Lasnier",
@@ -7717,6 +8282,10 @@
         ],
         "list": "ai",
         "participants": [
+            {
+                "name": "Ben Damman",
+                "url": "/participants/35"
+            },
             {
                 "name": "Ian Bicking",
                 "url": "/participants/366"
@@ -7794,6 +8363,10 @@
                 "url": "/participants/366"
             },
             {
+                "name": "Edward Bertsch",
+                "url": "/participants/2665"
+            },
+            {
                 "name": "DeLonn Crosby",
                 "url": "/participants/3109"
             },
@@ -7802,8 +8375,20 @@
                 "url": "/participants/4789"
             },
             {
+                "name": "Bruce Adelsman",
+                "url": "/participants/4808"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
                 "name": "Aniruddha Ghosh",
                 "url": "/participants/6911"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -7824,6 +8409,10 @@
         ],
         "list": "ai",
         "participants": [
+            {
+                "name": "Levi McCormick",
+                "url": "/participants/3070"
+            },
             {
                 "name": "Karl Ness",
                 "url": "/participants/6955"
@@ -7874,12 +8463,24 @@
                 "url": "/participants/6423"
             },
             {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
                 "name": "Walter Ethan Lick Eagle",
                 "url": "/participants/6891"
             },
             {
                 "name": "Mike Lasnier",
                 "url": "/participants/6966"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
+            },
+            {
+                "name": "Dave Elliston",
+                "url": "/participants/6988"
             }
         ]
     },
@@ -7900,6 +8501,14 @@
         ],
         "list": "ai",
         "participants": [
+            {
+                "name": "Ben Damman",
+                "url": "/participants/35"
+            },
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
             {
                 "name": "Lyndon Carlson",
                 "url": "/participants/6181"
@@ -7950,10 +8559,6 @@
                 "url": "/participants/917"
             },
             {
-                "name": "Edward Bertsch",
-                "url": "/participants/2665"
-            },
-            {
                 "name": "Tom Benbow",
                 "url": "/participants/4366"
             },
@@ -7964,6 +8569,14 @@
             {
                 "name": "John Benninghoff",
                 "url": "/participants/5523"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
             }
         ]
     },
@@ -7984,6 +8597,10 @@
         ],
         "list": "ai",
         "participants": [
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
             {
                 "name": "Sonia Merten",
                 "url": "/participants/4383"
@@ -8026,6 +8643,10 @@
         "list": "none",
         "participants": [
             {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
+            },
+            {
                 "name": "Samantha Young",
                 "url": "/participants/6828"
             }
@@ -8066,7 +8687,12 @@
             "11"
         ],
         "list": "none",
-        "participants": []
+        "participants": [
+            {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
+            }
+        ]
     },
     {
         "url": "https://sessions.minnestar.org/sessions/2060",
@@ -8094,6 +8720,18 @@
             {
                 "name": "Daniel Nelson",
                 "url": "/participants/6319"
+            },
+            {
+                "name": "Kyle Kettler",
+                "url": "/participants/6372"
+            },
+            {
+                "name": "Chris Barber",
+                "url": "/participants/6514"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
             }
         ]
     },
@@ -8121,7 +8759,208 @@
             {
                 "name": "Grant Udstrand",
                 "url": "/participants/6007"
+            },
+            {
+                "name": "Kyle Kettler",
+                "url": "/participants/6372"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
+            },
+            {
+                "name": "Andrew bentley",
+                "url": "/participants/6979"
+            },
+            {
+                "name": "John Evans",
+                "url": "/participants/6992"
             }
         ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2062",
+        "title": "Stop Fighting the LLM: Mental Models for Fast, Frustration-Free App Building ",
+        "description": "\n      I've built a lot of software with LLMs over the past year. Some of it went great. Some of it turned into five prompts of debugging hallucinated code while I questioned every life choice that brought me to that moment. For most people, the biggest bottleneck is the expectations they bring with them. Specifically, it's the mental models we bring to the work.\n\nIn this session I'll share the frameworks I've landed on for actually shipping apps with LLMs, not just generating code and hoping for the best. We'll talk about how to treat an LLM like a tireless intern instead of a magic wand, how to recognize and escape context collapse before your project goes sideways, and the specific tooling and workflows that bridge the gap between a raw prompt and something you can actually deploy.\n\nIf \"vibecoding\" hasn't been working for you, or if you're an experienced engineer who keeps getting stuck in loops with AI, this talk is for you. You'll leave with a repeatable approach to designing, prompting, and shipping real software without the frustration.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Development",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML",
+            "Product"
+        ],
+        "categories": [
+            "2",
+            "4",
+            "6",
+            "7",
+            "8"
+        ],
+        "participants": [],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2063",
+        "title": "Dirt, Data, and Distance: Lessons from Building Ag Tech in the Midwest ",
+        "description": "\n      Precision agriculture combines on-field sensors, satellite imagery, and climate data to help growers understand and respond to changes in their crops and environments before problems show themselves. In the Midwest, a region defined by its agricultural roots, the technology to modernize these operations exist, but adoption has been slow. \n\nIn this talk, I'll share what I've learned building technology for both indoor and outdoor agriculture: what's working, what isn't, and where the real opportunities lie. From on-field connectivity solutions to emerging tools that are finally starting to close the gap between growers and the technology built to serve them.\n\nAbout me: My name is Aditya and I've been out in the field, in greenhouses, and in nurseries throughout the last 4 years. With my background in computer engineering, my North Star is to simply make technology useful for those who bring so much value to us in the form of food, from the farm to the fork. I own a startup for pest management that eliminates Japanese Beetles, and run another project with the aim to use on-field sensor units to capture valuable data that farmers need. \n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Startups",
+            "Emerging Tech"
+        ],
+        "categories": [
+            "4",
+            "6"
+        ],
+        "participants": [
+            {
+                "name": "Bruce Adelsman",
+                "url": "/participants/4808"
+            },
+            {
+                "name": "Grant Udstrand",
+                "url": "/participants/6007"
+            },
+            {
+                "name": "Andrew Fraser",
+                "url": "/participants/6367"
+            },
+            {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
+            },
+            {
+                "name": "Todd Taylor",
+                "url": "/participants/6821"
+            },
+            {
+                "name": "Aditya Prabhu",
+                "url": "/participants/6982"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2064",
+        "title": "The Future of GSD - AI Conversational Task Management ",
+        "description": "\n      AI Operations Hub Demo\n\nSee how a single AI-powered conversation can replace your standup, your task board, and your meeting notes all at once. \n\nIn this live demo, we'll walk through an AI operations hub built for a startup that turns natural conversation into structured work: checking in, assigning tasks, extracting action items from meetings, and tracking weekly progress — all through chat.\n\nWhat You'll See Live\n\n\nConversational AI Work Assistant\nA tool-calling assistant that manages tasks, check-ins, and priorities in real time\nAutomatic Meeting Extraction\nPowered by Read.ai webhook integration — watch a meeting turn into actionable parking lot items with zero manual effort\nCustomizable AI Extraction Prompt\nControl how the AI interprets and structures your meeting outputs\nWeekly Timeline View\nVisualize team task distribution at a glance\n\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML",
+            "Product"
+        ],
+        "categories": [
+            "2",
+            "4",
+            "6",
+            "7",
+            "8"
+        ],
+        "participants": [
+            {
+                "name": "Matt Pacyga",
+                "url": "/participants/159"
+            },
+            {
+                "name": "Sam Grumdahl",
+                "url": "/participants/406"
+            },
+            {
+                "name": "Eve Poeschl",
+                "url": "/participants/2182"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2065",
+        "title": "How AI can help bring balance to our souls instead of taking that balance away ",
+        "description": "\n      Hi Folks,\n\nI wanted to showcase a passion project I have been working on because of an increasing growth in interest in temperamental analysis I wanted to create a project that puts that knowledge then says lets use that understanding to grow ourselves into a greater state of harmony and increase our magnanimity and not use temperament and personality analysis as a way to justify fixed non conducive habits.\n\nThank you,\nAbdirahman Ali\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML"
+        ],
+        "categories": [
+            "4",
+            "6",
+            "7"
+        ],
+        "participants": [
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
+                "name": "Tina",
+                "url": "/participants/6463"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2066",
+        "title": "🔥😌 Calm in the Chaos: Real-World Incident Management (and the Stuff We Don’t Talk About) ",
+        "description": "\n      Let’s be honest—incident management isn’t just about dashboards, severity levels, and status updates. It’s about people. It’s about pressure. And sometimes… it’s about quietly wondering if everything is falling apart (including you).\n\nIn this session, we’ll go beyond theory and into the real world of incident response—where communication gets messy, decisions aren’t imperfect, and the difference between chaos and control often comes down to how we show up in the moment.\n\nThrough real-world scenarios (names and minor details changed to protect the privacy of those involved), we’ll break down what actually works during high-severity incidents—how to create calm, structure, and clarity when everything feels urgent.\n\nWe’ll also go where many talks don’t: the uncomfortable parts. The missteps. The failures. The moments where things didn’t go as planned—and what we learned from them.\n\nYou’ll walk away with practical approaches to:\n    • Leading incidents with confidence and clarity\n    • Running and participating in truly blameless postmortems\n    • Using premortems and proactive strategies to prevent incidents before they happen\n    • Influencing a culture of reliability—even when priorities compete\n\nAnd because growth doesn’t stop at work, we’ll briefly explore how these same practices—reflection, ownership, and learning—can be applied to our personal lives, including navigating career setbacks with intention and clarity.\n\nThis session is interactive—come ready to reflect, share your own experiences, and learn from others. Because the most valuable lessons in incident management don’t come from slides… they come from the stories we’re willing to tell.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Wildcard",
+            "Development",
+            "Soft Skills",
+            "Careers"
+        ],
+        "categories": [
+            "13",
+            "2",
+            "10",
+            "11"
+        ],
+        "participants": [
+            {
+                "name": "Sam Grumdahl",
+                "url": "/participants/406"
+            },
+            {
+                "name": "Sara Heitkamp",
+                "url": "/participants/1282"
+            },
+            {
+                "name": "John Benninghoff",
+                "url": "/participants/5523"
+            },
+            {
+                "name": "Jamie Ryan",
+                "url": "/participants/6802"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2067",
+        "title": "Building on Purpose ",
+        "description": "\n      Fourteen years ago, engineer Bret Victor gave his viral Inventing on Principle talk, in which he shared his radical beliefs on the importance of humane design. To Bret, creating tools with fast feedback is deeper than a design principle — it’s a moral imperative. He believed it was wrong to make things with unnecessary delays. His work on the iPad, a new programming language, and an experimental research lab attest to the purity of this mission. Regardless of whether you share Bret’s beliefs, his authenticity is indisputable. He’s given up status, predictability, and wealth in pursuit of a more humane digital world.\n\nHow many of us quietly envy this level of commitment?\n\nEvery modern engineer has the power to create anything they can imagine. Yet we’re so eager to trade our power for security, to use our skills to build a reality that we don’t resonate with. \n\nIt’s understandable why we sign up for the safe 9-5: there aren’t any other alternatives for engineers.\n\nWrong.\n\nIn this talk, I’ll present a collage of foundational principles that are sturdy enough to build a life upon, along with an archetype that has already lived this way. Here’s a sample:\n\n\nPrinciple, Bret Victor.\nSecurity, Cal Newport.\nGoals, Satya Nadella.\nFun, Linus Torvalds.\nCraft, DHH.\nPower, Elon.\nAttention, Fireship.\nFaith, me.\n\n\nMy goal isn’t to pitch you on one principle. Instead, it’s to show that there are many substantive ways to structure life as an engineer. Like system architects reviewing design docs, we’ll take a sober look at the tradeoffs of each. By the end, you’ll have a menu of options and more clarity about which might be right for you. \n\nThis talk is for builders who\n\n\nare unfulfilled in their role but don’t like their alternatives\nknow what they really want to do but are too afraid to act\nhave very little to show for their hard work\n\n\nRECOMMENDED: Bring pen and paper. We’ll spend 10 minutes creating our own life maps. It’ll hit better if you draw it by hand. \n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Soft Skills",
+            "Careers",
+            "Wildcard"
+        ],
+        "categories": [
+            "10",
+            "11",
+            "13"
+        ],
+        "participants": [
+            {
+                "name": "Tyler Dane",
+                "url": "/participants/4387"
+            }
+        ],
+        "list": "none"
     }
 ]

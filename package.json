@@ -27,7 +27,8 @@
     "scrape_update": "node ./src/scrape_minnebar.js update",
     "cli_tag": "node ./src/cli_tagging.js",
     "scrape_schedule_test": "node ./src/schedule_scraper.js test",
-    "scrape_schedule": "node ./src/schedule_scraper.js"
+    "scrape_schedule": "node ./src/schedule_scraper.js",
+    "compile_stats": "node ./src/compile_stats.js"
   },
   "keywords": [],
   "repository": {

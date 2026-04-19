@@ -1,0 +1,108 @@
+{
+    "overall": {
+        "aiSessions": 69,
+        "nonAiSessions": 92,
+        "aiVotes": 600,
+        "nonAiVotes": 1364,
+        "avgAi": 8.695652173913043,
+        "avgNonAi": 14.826086956521738
+    },
+    "byCategory": {
+        "1": {
+            "aiSessions": 12,
+            "nonAiSessions": 22,
+            "aiVotes": 160,
+            "nonAiVotes": 340,
+            "avgAi": 13.333333333333334,
+            "avgNonAi": 15.454545454545455
+        },
+        "2": {
+            "aiSessions": 28,
+            "nonAiSessions": 28,
+            "aiVotes": 288,
+            "nonAiVotes": 510,
+            "avgAi": 10.285714285714286,
+            "avgNonAi": 18.214285714285715
+        },
+        "4": {
+            "aiSessions": 24,
+            "nonAiSessions": 31,
+            "aiVotes": 232,
+            "nonAiVotes": 486,
+            "avgAi": 9.666666666666666,
+            "avgNonAi": 15.67741935483871
+        },
+        "5": {
+            "aiSessions": 10,
+            "nonAiSessions": 23,
+            "aiVotes": 77,
+            "nonAiVotes": 330,
+            "avgAi": 7.7,
+            "avgNonAi": 14.347826086956522
+        },
+        "6": {
+            "aiSessions": 25,
+            "nonAiSessions": 13,
+            "aiVotes": 260,
+            "nonAiVotes": 260,
+            "avgAi": 10.4,
+            "avgNonAi": 20
+        },
+        "7": {
+            "aiSessions": 64,
+            "nonAiSessions": 2,
+            "aiVotes": 575,
+            "nonAiVotes": 14,
+            "avgAi": 8.984375,
+            "avgNonAi": 7
+        },
+        "8": {
+            "aiSessions": 13,
+            "nonAiSessions": 13,
+            "aiVotes": 126,
+            "nonAiVotes": 194,
+            "avgAi": 9.692307692307692,
+            "avgNonAi": 14.923076923076923
+        },
+        "9": {
+            "aiSessions": 9,
+            "nonAiSessions": 18,
+            "aiVotes": 99,
+            "nonAiVotes": 209,
+            "avgAi": 11,
+            "avgNonAi": 11.61111111111111
+        },
+        "10": {
+            "aiSessions": 17,
+            "nonAiSessions": 28,
+            "aiVotes": 168,
+            "nonAiVotes": 352,
+            "avgAi": 9.882352941176471,
+            "avgNonAi": 12.571428571428571
+        },
+        "11": {
+            "aiSessions": 14,
+            "nonAiSessions": 25,
+            "aiVotes": 114,
+            "nonAiVotes": 329,
+            "avgAi": 8.142857142857142,
+            "avgNonAi": 13.16
+        },
+        "12": {
+            "aiSessions": 9,
+            "nonAiSessions": 16,
+            "aiVotes": 113,
+            "nonAiVotes": 173,
+            "avgAi": 12.555555555555555,
+            "avgNonAi": 10.8125
+        },
+        "13": {
+            "aiSessions": 13,
+            "nonAiSessions": 22,
+            "aiVotes": 109,
+            "nonAiVotes": 413,
+            "avgAi": 8.384615384615385,
+            "avgNonAi": 18.772727272727273
+        }
+    }
+}

@@ -38,9 +38,13 @@ for (const session of sessionDetails) {
 
 overallCounter["avgAi"] = overallCounter["aiVotes"] / overallCounter["aiSessions"];
 overallCounter["avgNonAi"] = overallCounter["nonAiVotes"] / overallCounter["nonAiSessions"];
+overallCounter["ppVotesAi"] = overallCounter["aiVotes"] / (overallCounter["aiVotes"] + overallCounter["nonAiVotes"])
+overallCounter["ppAvgAi"] = overallCounter["avgAi"] / (overallCounter["avgAi"] + overallCounter["avgNonAi"])
 for (const [id ,category] of Object.entries(categoryCounter)) {
   category["avgAi"] = category["aiVotes"] / category["aiSessions"];
   category["avgNonAi"] = category["nonAiVotes"] / category["nonAiSessions"];
+  category["ppVotesAi"] = category["aiVotes"] / (category["aiVotes"] + category["nonAiVotes"])
+  category["ppAvgAi"] = category["avgAi"] / (category["avgAi"] + category["avgNonAi"])
 }
 
 const outData = {"overall": overallCounter, "byCategory": categoryCounter};

@@ -5,7 +5,9 @@
         "aiVotes": 600,
         "nonAiVotes": 1364,
         "avgAi": 8.695652173913043,
-        "avgNonAi": 14.826086956521738
+        "avgNonAi": 14.826086956521738,
+        "ppVotesAi": 0.3054989816700611,
+        "ppAvgAi": 0.36968576709796674
     },
     "byCategory": {
         "1": {
@@ -14,7 +16,9 @@
             "aiVotes": 160,
             "nonAiVotes": 340,
             "avgAi": 13.333333333333334,
-            "avgNonAi": 15.454545454545455
+            "avgNonAi": 15.454545454545455,
+            "ppVotesAi": 0.32,
+            "ppAvgAi": 0.4631578947368421
         },
         "2": {
             "aiSessions": 28,
@@ -22,7 +26,9 @@
             "aiVotes": 288,
             "nonAiVotes": 510,
             "avgAi": 10.285714285714286,
-            "avgNonAi": 18.214285714285715
+            "avgNonAi": 18.214285714285715,
+            "ppVotesAi": 0.3609022556390977,
+            "ppAvgAi": 0.3609022556390978
         },
         "4": {
             "aiSessions": 24,
@@ -30,7 +36,9 @@
             "aiVotes": 232,
             "nonAiVotes": 486,
             "avgAi": 9.666666666666666,
-            "avgNonAi": 15.67741935483871
+            "avgNonAi": 15.67741935483871,
+            "ppVotesAi": 0.3231197771587744,
+            "ppAvgAi": 0.381417055579126
         },
         "5": {
             "aiSessions": 10,
@@ -38,7 +46,9 @@
             "aiVotes": 77,
             "nonAiVotes": 330,
             "avgAi": 7.7,
-            "avgNonAi": 14.347826086956522
+            "avgNonAi": 14.347826086956522,
+            "ppVotesAi": 0.1891891891891892,
+            "ppAvgAi": 0.3492407809110629
         },
         "6": {
             "aiSessions": 25,
@@ -46,7 +56,9 @@
             "aiVotes": 260,
             "nonAiVotes": 260,
             "avgAi": 10.4,
-            "avgNonAi": 20
+            "avgNonAi": 20,
+            "ppVotesAi": 0.5,
+            "ppAvgAi": 0.34210526315789475
         },
         "7": {
             "aiSessions": 64,
@@ -54,7 +66,9 @@
             "aiVotes": 575,
             "nonAiVotes": 14,
             "avgAi": 8.984375,
-            "avgNonAi": 7
+            "avgNonAi": 7,
+            "ppVotesAi": 0.9762308998302207,
+            "ppAvgAi": 0.5620723362658846
         },
         "8": {
             "aiSessions": 13,
@@ -62,7 +76,9 @@
             "aiVotes": 126,
             "nonAiVotes": 194,
             "avgAi": 9.692307692307692,
-            "avgNonAi": 14.923076923076923
+            "avgNonAi": 14.923076923076923,
+            "ppVotesAi": 0.39375,
+            "ppAvgAi": 0.39375
         },
         "9": {
             "aiSessions": 9,
@@ -70,7 +86,9 @@
             "aiVotes": 99,
             "nonAiVotes": 209,
             "avgAi": 11,
-            "avgNonAi": 11.61111111111111
+            "avgNonAi": 11.61111111111111,
+            "ppVotesAi": 0.32142857142857145,
+            "ppAvgAi": 0.4864864864864865
         },
         "10": {
             "aiSessions": 17,
@@ -78,7 +96,9 @@
             "aiVotes": 168,
             "nonAiVotes": 352,
             "avgAi": 9.882352941176471,
-            "avgNonAi": 12.571428571428571
+            "avgNonAi": 12.571428571428571,
+            "ppVotesAi": 0.3230769230769231,
+            "ppAvgAi": 0.44011976047904194
         },
         "11": {
             "aiSessions": 14,
@@ -86,7 +106,9 @@
             "aiVotes": 114,
             "nonAiVotes": 329,
             "avgAi": 8.142857142857142,
-            "avgNonAi": 13.16
+            "avgNonAi": 13.16,
+            "ppVotesAi": 0.25733634311512416,
+            "ppAvgAi": 0.38224248927038623
         },
         "12": {
             "aiSessions": 9,
@@ -94,7 +116,9 @@
             "aiVotes": 113,
             "nonAiVotes": 173,
             "avgAi": 12.555555555555555,
-            "avgNonAi": 10.8125
+            "avgNonAi": 10.8125,
+            "ppVotesAi": 0.3951048951048951,
+            "ppAvgAi": 0.537295690936107
         },
         "13": {
             "aiSessions": 13,
@@ -102,7 +126,9 @@
             "aiVotes": 109,
             "nonAiVotes": 413,
             "avgAi": 8.384615384615385,
-            "avgNonAi": 18.772727272727273
+            "avgNonAi": 18.772727272727273,
+            "ppVotesAi": 0.20881226053639848,
+            "ppAvgAi": 0.3087421140723574
         }
     }
 }

@@ -34,21 +34,21 @@
     height: 100%;
     background-color: green;
     color: white;
-    text-align: right;
     border-radius: 5px 0 0 5px;
 }
 
 .stats-bar-green > span {
-    padding-right: 15px;
+    padding-left: 15px;
 }
 
 .stats-bar-red {
     height: 100%;
     background-color: red;
     color: white;
+    text-align: right;
     border-radius: 0 5px 5px 0;
 }
 
 .stats-bar-red > span {
-    padding-left: 15px;
+    padding-right: 15px;
 }

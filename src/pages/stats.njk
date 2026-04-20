@@ -8,21 +8,21 @@ layout: base
   <h1>Stats</h1>
   <div class="stat">
     <div class="stats-numbers">
-      <div class="total-ai">
-        <h2>{{ stats["overall"]["aiSessions"] }}</h2>
-        <span class="number-label">AI Sessions</span>
-      </div>
       <div class="total-non-ai">
         <h2>{{ stats["overall"]["nonAiSessions"] }}</h2>
         <span class="number-label">Non-AI Sessions</span>
       </div>
+      <div class="total-ai">
+        <h2>{{ stats["overall"]["aiSessions"] }}</h2>
+        <span class="number-label">AI Sessions</span>
+      </div>
     </div>
     <div class="stats-bar">
-      <div class="stats-bar-red" style="width: {{ stats["overall"]["ppSessionsAi"] }}%">
-        <span>{{ stats["overall"]["ppSessionsAi"] | round }}%</span>
-      </div>
       <div class="stats-bar-green" style="width: {{ 100 - stats["overall"]["ppSessionsAi"] }}%">
         <span>{{ (100 - stats["overall"]["ppSessionsAi"]) | round }}%</span>
+      </div>
+      <div class="stats-bar-red" style="width: {{ stats["overall"]["ppSessionsAi"] }}%">
+        <span>{{ stats["overall"]["ppSessionsAi"] | round }}%</span>
       </div>
     </div>
   </div>

@@ -1,0 +1,24 @@
+<h1>test</h1>
+
+{% macro bigBar(greenNum, greenLabel, redNum, redLabel, redPP) %}
+<div class="stat">
+  <div class="stats-numbers">
+    <div class="total-green">
+      <h2>{{ greenNum }}</h2>
+      <span class="number-label">{{ greenLabel }}</span>
+    </div>
+    <div class="total-red">
+      <h2>{{ redNum }}</h2>
+      <span class="number-label">{{ redLabel }}</span>
+    </div>
+  </div>
+  <div class="stats-bar">
+    <div class="stats-bar-green" style="width: {{ 100 - redPP }}%">
+      <span>{{ (100 - redPP) | round }}%</span>
+    </div>
+    <div class="stats-bar-red" style="width: {{ redPP }}%">
+      <span>{{ redPP | round }}%</span>
+    </div>
+  </div>
+</div>
+{% endmacro %}

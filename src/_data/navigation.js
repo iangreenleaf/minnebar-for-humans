@@ -8,6 +8,10 @@ export default {
       text: 'By category',
       url: '/categories/'
     },
+    {
+      text: "Stats",
+      url: "/stats/"
+    }
   ],
   bottom: [
   ]

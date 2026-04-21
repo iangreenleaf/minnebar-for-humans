@@ -11,6 +11,7 @@ sections:
     open: false
 ---
 {% set groupedSessions = sessions | groupby("list") %}
+{% set categoriesById = categories | toObject("id") %}
 
 <p>
   Be sure to visit the official site and mark yourself as interested in any sessions that catch your eye.
@@ -31,11 +32,29 @@ sections:
               {{ session.title }}
             </a>
           </p>
-          <p style="font-size: var(--size-step-min-1); color: var(--color-text-accent);">
+          <p class="cluster gutter-xs-s" style="font-size: var(--size-step-min-1); color: var(--color-text-accent);">
             {% set comma = joiner() %}
             {% for speaker in session.speakers -%}
               {{ comma() }} {{ speaker.speakerName }}
             {%- endfor %}
+            {% for categoryId in session.categories %}
+              <a
+                class="button"
+                data-small-button
+                style="
+                  text-transform: none;
+                  --button-font-size: var(--size-step-min-2);
+                  --button-bg: var(--color-bg-accent);
+                  --button-color: var(--color-text-accent);
+                  --button-border-color: var(--color-bg-accent-2);
+                  --button-hover-bg: var(--color-secondary);
+                  --button-hover-color: var(--color-text);
+                "
+                href="/categories/{{ categoryId }}/"
+              >
+                {{ categoriesById[categoryId].name }}
+              </a>
+            {% endfor %}
           </p>
         </li>
       {% endfor %}

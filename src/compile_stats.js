@@ -17,6 +17,10 @@ for (const category of categories) {
 const overallCounter = {"aiSessions": 0, "nonAiSessions": 0, "aiVotes": 0, "nonAiVotes": 0};
 
 for (const session of sessionDetails) {
+  if (!("list" in session)) {
+    console.log(`${session['url']} is untagged, skipping it's count in stats update.`);
+    continue;
+  }
   if (session["list"] === "ai") {
     overallCounter["aiSessions"] += 1;
     overallCounter["aiVotes"] += session["participants"].length;

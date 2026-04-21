@@ -6,7 +6,7 @@ pagination:
   alias: category
 permalink: /categories/{{ category.id }}/
 eleventyComputed:
-    title: "Category: {{ category.name }}"
+    title: "Category: {{ category.name | safe }}"
 ---
 
 <h3>AI talks excluded</h3>

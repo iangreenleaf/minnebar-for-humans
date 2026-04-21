@@ -7628,61 +7628,6 @@
         ]
     },
     {
-        "url": "https://sessions.minnestar.org/sessions/2012",
-        "title": "Vibe Coding Roadshow #6 - Specification-based Agentic Coding ",
-        "description": "\n      The Vibe Coding Roadshow brings AI-powered companion programming down to Earth in a forty-minute live coding demonstration. \n\nUsing GitHub Copilot and the latest GPT models, the Roadshow illustrates how to reduce the barrier of entry to existing projects or to build new ones from scratch. By bringing critical thinking, inspiration, and well-defined guardrails, one can build and deploy one's amazing ideas in mere minutes. In this live coding demonstration, the presenter will build an application from scratch in an unfamiliar programming language and deploy it to Azure infrastructure.\n\nThe goal of this session is to provide valuable insights into the use of AI-powered coding agents. By setting a specific goal, developing a small web application such as the game of checkers, the presenter will demonstrate prompt engineering and collaboration with GitHub Copilot to build the application while learning a novel programming language. Deployment to an Azure App Service will allow attendees to experience an option for displaying their ideas to the world.\n\nAttendees should expect to learn about:\n- Prompt engineering\n- Guardrails for agentic programming companions\n- Application infrastructure-as-code deployment\n\n      \n    ",
-        "tags": [
-            "Beginner",
-            "Development",
-            "AI/ML"
-        ],
-        "categories": [
-            "2",
-            "7"
-        ],
-        "list": "ai",
-        "participants": [
-            {
-                "name": "Brian Maddy",
-                "url": "/participants/490"
-            },
-            {
-                "name": "Daniel Barnes",
-                "url": "/participants/2837"
-            },
-            {
-                "name": "DeLonn Crosby",
-                "url": "/participants/3109"
-            },
-            {
-                "name": "Bruce Adelsman",
-                "url": "/participants/4808"
-            },
-            {
-                "name": "Alex Frescoln",
-                "url": "/participants/6313"
-            },
-            {
-                "name": "Carter Kindley",
-                "url": "/participants/6887"
-            },
-            {
-                "name": "Katie Sandquist",
-                "url": "/participants/6900"
-            },
-            {
-                "name": "Ben Goffman",
-                "url": "/participants/6987"
-            }
-        ],
-        "speakers": [
-            {
-                "speakerName": "Carter Kindley",
-                "speakerBio": "Carter is a Minneapolis native and grew up in and around the University of Minnesota. An avid outdoorsperson growing up, he went off to Bates College in Maine to pursue a degree in Geology. After graduating, he returned to Minnesota at first to pursue a graduate degree and then to develop a career as a systems administrator and network engineer. Spending eight years in Oregon working with small businesses, he developed a passion for automation and high availability even in simple environments. \nAt the University of Minnesota, Carter scrum coaches the central Office of Information Technology's Hosted Platforms team. The team is responsible for the fleet of managed Windows Server and Linux virtual machines for the institution, as well as its underlying virtualization infrastructure. As an engineer on that team, he pushes automation and DevOps practices to deliver better experiences for IT partners across the institution, allowing them to better support the University's mission across the state.\nAt home, Carter has two adorable dogs and a loving partner. Together as a family, they enjoy outdoor activities including canoeing, skiing, running, and peaceful walks in the beautiful parks of the Twin Cities.\nConnect with me on LinkedIn!\n"
-            }
-        ]
-    },
-    {
         "url": "https://sessions.minnestar.org/sessions/2013",
         "title": "How To Talk With Your Team About Best Practices (a new way of efficiently discussing and prioritizing the best practices that matter most to your team) ",
         "description": "\n      The conversation around best practices can be ... complicated. There is always more that your technical team could be doing to follow best practices. Resources are always limited, and there are always legitimate competing business priorities for the team to consider. Prioritizing the best practices that matter to your team can be like comparing apples to oranges.\n\nThe best teams have discussions including both business and technical members around which best practices to adopt and why, but those conversations are as difficult as they are vital. Let's talk about how we might make those conversations work better! In this session, I'll present a new approach for tackling these conversations. \n\n      \n    ",
@@ -11050,26 +10995,6 @@
         ]
     },
     {
-        "url": "https://sessions.minnestar.org/sessions/2068",
-        "title": "AI wrote code, now what? ",
-        "description": "\n      AI tools can now scaffold a working frontend in under a minute. I use them every day as a UI engineer — and they're genuinely impressive. But here's what nobody's talking about: the code ships, and then the problems start. Accessibility gaps. Brand inconsistencies. Interactions that technically work but feel completely wrong to the user. \n\nTrust signals that AI just doesn't think about. In this session I'll share what I've learned from working in the middle of this shift — where AI generates and humans decide. We'll talk about what agent-generated code gets wrong, how to develop \"interface judgment\" (knowing when to accept, when to steer, and when to throw it out), and why the UI engineer's role is actually getting more important, not less. \n\nThis isn't a talk about AI replacing engineers. It's a practical, honest conversation about what the job looks like right now — from someone doing it.\n\n      \n    ",
-        "tags": [
-            "All levels",
-            "AI/ML"
-        ],
-        "categories": [
-            "7"
-        ],
-        "participants": [],
-        "speakers": [
-            {
-                "speakerName": "Sai Vineela",
-                "speakerBio": "This person hasn't yet added a bio.\n"
-            }
-        ],
-        "list": "ai"
-    },
-    {
         "url": "https://sessions.minnestar.org/sessions/2069",
         "title": "Exploring Five Things Orgs Often Miss When Working with Test Automation Frameworks ",
         "description": "\n      Nearly every software development organization grapples with issues working with test automation frameworks that challenge the viability of the frameworks themselves as software tooling automating the gathering of data and feedback reflective of current functional state. Not only does the tool not work for problems the org intended it for; it also presents its own issues that now require \n\nI've actually been called in by couple different organizations to diagnose and suggest fixes for issues that fit this description after they become entrenched, as well as to build replacement tooling. Interestingly, a lot of these issues seem to take on common forms, they seem to result from common trade-offs made developing and maintaining tooling for automated testing, and it seems like they might also align with a common vision for what the organizations are trying to accomplish with testing.\n\nMore often than not, it seems like these organizations have simply missed opportunities to avoid these issues proactively. If anybody involved in the development and maintenance of testing tooling understood what it seems like organizations are missing, it seems like they might also know what to look for, so as to avoid the issues that seem to result from them proactively.\n\nThis presentation will navigate What it seems like they are missing, as well as the Who, Where, How, and Why that often seem involved.\n\n      \n    ",
@@ -11635,41 +11560,6 @@
         "list": "ai"
     },
     {
-        "url": "https://sessions.minnestar.org/sessions/2087",
-        "title": "Building Enterprise-Scale RAG Chatbots Using Azure AI Foundry ",
-        "description": "\n      This session provides a practical, end‑to‑end deep dive into building enterprise‑grade Retrieval Augmented Generation (RAG) systems using Microsoft Azure AI Foundry. Drawing from real‑world implementations—including a production RAG chatbot serving 22,000+ global users—the session walks participants through the complete lifecycle of creating scalable, secure, and high‑accuracy RAG solutions tailored for industry.\n\nWe begin by breaking down the RAG architecture: document ingestion using Azure Document Intelligence, adaptive chunking strategies, embedding generation, and vector indexing with Azure AI Search. The session then explores how user queries are transformed into embeddings, how retrieval pipelines work, and how Azure OpenAI models inside AI Foundry generate grounded, contextual responses.\n\nUsing visuals from the included architecture diagram, attendees learn best practices for chunk sizes, metadata, hybrid search, reranking, prompt design, and governance (RBAC, encryption, audit logging).\nReal‑world examples from agriculture, manufacturing, financial services, and healthcare show how organizations use RAG for maintenance assistants, compliance bots, crop advisory tools, customer service, workflow documentation, and more. Performance benchmarks—such as 95% retrieval accuracy, sub‑2‑second responses, and 40%–60% cost reduction—demonstrate measurable business impact.\n\nThe session concludes with an interactive discussion on emerging trends—multi‑modal RAG, knowledge graphs, and real‑time streaming—and how Azure AI Foundry’s roadmap supports the next generation of enterprise AI.\n\nThis is a highly actionable, architecture‑focused session designed for leaders, engineers, and practitioners looking to implement RAG at scale with Microsoft technologies.\n\n      \n    ",
-        "tags": [
-            "Intermediate",
-            "Development",
-            "AI/ML"
-        ],
-        "categories": [
-            "2",
-            "7"
-        ],
-        "participants": [
-            {
-                "name": "Mark Norgren",
-                "url": "/participants/459"
-            },
-            {
-                "name": "Michael Arulfo",
-                "url": "/participants/6822"
-            },
-            {
-                "name": "Mehul K Bhuva",
-                "url": "/participants/7016"
-            }
-        ],
-        "speakers": [
-            {
-                "speakerName": "Mehul K Bhuva",
-                "speakerBio": "I’m an Data & AI Platform Engineer with 22+ years of experience building and modernizing enterprise solutions using Databricks, Azure AI Foundry, .NET Core, Azure Functions, Azure Data Factory, Blazor, Angular and SharePoint. My work spans metadata driven ETL frameworks, cloud modernization initiatives, and production grade AI systems that deliver real business value at scale.\nI’m the creator of SharePointFix.com, a technical blog with 1M+ views, and I run the SharePointFix Facebook community with 1,000+ members. My community contributions include technical publications on SQL Server Central, Kobai, and multiple peer reviewed journals, along with conference speaking and mentoring 50+ developers across Azure, AI, and .NET technologies.\nI was nominated to be a Microsoft Azure Developer Influencer (MADI) by Microsoft, recognizing my leadership and impact in driving Azure and AI adoption within the developer community.\nI’m passionate about sharing real world AI practices, collaborating with industry leaders, and helping teams accelerate digital transformation through modern data and AI platforms.\n"
-            }
-        ],
-        "list": "ai"
-    },
-    {
         "url": "https://sessions.minnestar.org/sessions/2088",
         "title": "Don’t Train the User: Designing Behavior Systems for Chaotic Environments ",
         "description": "\n      Dog parks are one of the few public spaces with zero behavioral infrastructure—and predictable conflict points.\n\nInstead of blaming “bad dogs” or “irresponsible owners,” what if we designed simple, visible systems that guide human behavior at the exact moments pressure builds?\n\nIn this session, we’ll break down one real-world scenario (dog park gate entry) and explore how small design signals—timing, spacing, movement—can reduce friction before it escalates.\n\nIf you work in product, UX, or systems design, this is a live case study in shaping behavior without rules, enforcement, or training.\n\n      \n    ",
@@ -11928,5 +11818,1516 @@
             }
         ],
         "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2096",
+        "title": "AI Sucks ☯️ ",
+        "description": "\n      It's undeniable how truly amazing modern AI is, and in 2026, we’ve only scratched the surface of AI’s true potential. \n\nClearly AI has some incredible, life-changing, and far-reaching use cases, given virtually every other presentation here at Minnebar20 is about AI.\n\nAt the same time, it’s being overprescribed as the end all be all solution to everything, from replacing 80% of the workers at your company with AI, to your own personal AI Jesus for only $1.99 (per minute)!\n\nBut AI sucks at a lot of things, and we need to talk about it.\n\nThis talk has a few simple goals, which are to demonstrate:\n  - real life examples of what AI sucks at, from silly to scary\n  - ways to discuss tradeoffs of AI without being entirely “doom and gloom”\n  - actionable things you can do to contribute to a less sucky AI experience  \n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Emerging Tech",
+            "AI/ML",
+            "Community",
+            "Soft Skills"
+        ],
+        "categories": [
+            "6",
+            "7",
+            "9",
+            "10"
+        ],
+        "participants": [
+            {
+                "name": "Alec Rippberger",
+                "url": "/participants/295"
+            },
+            {
+                "name": "Sam Grumdahl",
+                "url": "/participants/406"
+            },
+            {
+                "name": "Sean Weiser",
+                "url": "/participants/731"
+            },
+            {
+                "name": "Mathias Rechtzigel",
+                "url": "/participants/1392"
+            },
+            {
+                "name": "Brian Mitchell",
+                "url": "/participants/1978"
+            },
+            {
+                "name": "Eve Poeschl",
+                "url": "/participants/2182"
+            },
+            {
+                "name": "Shalanah Dawson",
+                "url": "/participants/2973"
+            },
+            {
+                "name": "Kisha Delain",
+                "url": "/participants/3421"
+            },
+            {
+                "name": "Tim Bornholdt",
+                "url": "/participants/4433"
+            },
+            {
+                "name": "Nick Krantz",
+                "url": "/participants/4688"
+            },
+            {
+                "name": "Tyler Thingelstad",
+                "url": "/participants/4726"
+            },
+            {
+                "name": "Chris Wodicka",
+                "url": "/participants/5384"
+            },
+            {
+                "name": "Misha Hawthorn",
+                "url": "/participants/5436"
+            },
+            {
+                "name": "Andrew Rahn",
+                "url": "/participants/5441"
+            },
+            {
+                "name": "John Benninghoff",
+                "url": "/participants/5523"
+            },
+            {
+                "name": "Andrew VanderLeest",
+                "url": "/participants/5544"
+            },
+            {
+                "name": "Jarin Schmidt",
+                "url": "/participants/6029"
+            },
+            {
+                "name": "Lara Lesar",
+                "url": "/participants/6253"
+            },
+            {
+                "name": "Tyler Perkins",
+                "url": "/participants/6961"
+            },
+            {
+                "name": "Sergio Najera-Feito",
+                "url": "/participants/7012"
+            },
+            {
+                "name": "Nadir Doctor",
+                "url": "/participants/7039"
+            },
+            {
+                "name": "Victoria nf",
+                "url": "/participants/7040"
+            },
+            {
+                "name": "Miguel Urena",
+                "url": "/participants/7061"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Sergio Najera-Feito",
+                "speakerBio": "  - Nerd\n  - Enjoyer of human beings\n  - Co-creator of Pericle: Gathering Darkness\n"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2097",
+        "title": "What’s a Second, and why do they matter? ",
+        "description": "\n      The people who are “The Glue” of your teams, hiding in plain sight\n\nVisionary, Founder, Dreamer, Idea Generator, you already know what we call the people in the spotlight… but in every high-performing team, near every “Visionary” who actually delivers, there’s someone (or several of them) keeping everyone moving in alignment, and forward, together. You've probably worked alongside one. You might even be one.\n\nWhat makes these people extraordinary is WHO they are, which they bring to every role they’re in. So while some organizations have “Second in Command” titles that attempt to call for this kind of person, like COO, Chief of Staff, President, or Integrator, those are job titles, and you can put any kind of person into any job.\n\nNot understanding who Seconds are means you often lose what holds your organization together without knowing how or why, but when you DO understand them, you unlock partnerships so effective they change what's possible.\nIn this session, we will name the identity of Secondness, separate Identity from Roles, and give every person in the room a new lens for building teams that actually execute.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Soft Skills",
+            "Careers"
+        ],
+        "categories": [
+            "10",
+            "11"
+        ],
+        "participants": [
+            {
+                "name": "Ryan Schafer",
+                "url": "/participants/6985"
+            },
+            {
+                "name": "Nadir Doctor",
+                "url": "/participants/7039"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Ryan Schafer",
+                "speakerBio": "Ryan is a healthcare operations and transformation leader with 25+ years of experience making large, complicated organizations actually work better. He's spent his career in the space where People, Process, and Technology collide — building strategies that look great on paper and implementing them in the real world. With a background spanning consulting, health plan operations, and interim executive leadership, Ryan has a particular passion for the role of the second-in-command: the COOs, Chiefs of Staff, and integrators who quietly hold organizations together and make bold visions actually happen. A pragmatist at heart, he's known for brokering alignment, breaking big transformational efforts into steps that don't terrify people, and leading teams that deliver measurable results. He's also based in Minnesota, which means he shows up to things like this.\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2098",
+        "title": "The Startup Was a Financial Success. I Am Not Building It That Way Again. ",
+        "description": "\n      In 2007, my wife and I started Creed Interactive in our basement with a mortgage to cover, a lot of hustle, and no certainty it would become anything lasting. Over 15 years, we grew it exponentially and we built a strong business where we ultimately exited successfully to Delta Dental Insurance.\n\nBy most measures, it worked. We created opportunities and achieved the goals we set out to reach. But starting over today, I am not building my next start up the same way again.\n\nIn this talk, I’ll share what actually drove the company’s success: how we found the right markets, hired people who could grow with the business, used retainer work to reduce volatility, learned to say no to bad-fit projects, and got clearer about profitability and focus. I’ll also talk about the less visible lessons: the joy of building with your spouse, the emotional cost of growth, and why a successful exit can still leave you rethinking how you want to build.\n\nIn my next start up, I am changing my definition of what is worth building. I am creating something different and finding a new method on how quickly truth should surface, and what I’m no longer willing to trade for growth. This next company will follow a very different logic. I’ll end by sharing the shifts I’m making now, and why a successful first run can be the very thing that makes you question the whole playbook.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Startups",
+            "Careers",
+            "Marketing"
+        ],
+        "categories": [
+            "4",
+            "11",
+            "12"
+        ],
+        "participants": [
+            {
+                "name": "Matt Decuir",
+                "url": "/participants/917"
+            },
+            {
+                "name": "Misha Hawthorn",
+                "url": "/participants/5436"
+            },
+            {
+                "name": "John Peacock",
+                "url": "/participants/7038"
+            },
+            {
+                "name": "Nadir Doctor",
+                "url": "/participants/7039"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Jonathan Anderstrom",
+                "speakerBio": "Jonathan Anderstrom is a veteran founder and thought leader dedicated to bridging the gap between cutting-edge technology and real-world business growth. After co-founding, scaling, and successfully exiting his first business, Jonathan is currently launching a new startup. A passionate advocate for the local innovation ecosystem, Jonathan combines his deep expertise in software development with a philosophical, purpose-driven approach to help the next generation of founders build, scale, and succeed. [https://www.linkedin.com/in/anderstrom/]\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2099",
+        "title": "Building Elite Teams - Forgotten Lessons from the Ranger Battalion ",
+        "description": "\n      Given the complexities of our future environments, leaders will not be able to respond to these complexities effectively.  The future will rely on Elite teams able to take risks and make decisions quickly and in alignment with the organization's goals.  \n\nMany leaders believe they have a \"talent\" problem, but the truth is usually an \"operating\" problem. After a wake-up call in a downtown pizza place, Craig Vosper realized that the leadership principles he learned in the 2nd Ranger Battalion were the exact tools missing from his corporate strategy. He had become the bottleneck—and his team was waiting for him to lead, not manage.\n\nIn this high-impact session, Craig shares the framework for developing Elite Teams that are win, are proactive, adaptable, and have each other's backs. You will walk away with a tactical toolkit to:\nE - Empower your Team: Ensure the desire to win outweighs the fear of failure.\nL - Lead your people: Give them a clear path to winning. \nI - Inspire Greatness: Lead your team daily as Greatness isn't an event; it's a daily cadence.\nT - Team over heroes: Heroes can save the day, but teams win the war. \nE - Excellence as purpose: Make being excellent at what you do your purpose.\n\nLeadership isn't a natural gift; it is a trained discipline. Whether you are an overwhelmed leader or one seeking to grow your organization, join Craig to learn how to build teams that win, even when you’re not in the room.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Soft Skills",
+            "Careers"
+        ],
+        "categories": [
+            "10",
+            "11"
+        ],
+        "participants": [
+            {
+                "name": "Michelle Smeby",
+                "url": "/participants/2948"
+            },
+            {
+                "name": "Nadir Doctor",
+                "url": "/participants/7039"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Craig Vosper",
+                "speakerBio": "Craig Vosper is a seasoned technology executive and leadership expert who specializes in building disciplined, high-performing teams that bridge the gap between complex technology and business value. A graduate of West Point and a former Platoon Leader in the 2nd Ranger Battalion, \nCraig’s leadership philosophy was forged in high-stakes environments where he learned that \"Elite\" is not a title, but a standard you earn every day. In his previous role, Craig oversaw the execution of up to 100 projects annually, maintaining a 99% delivery success rate and a 98% client retention rate. By translating military principles like Commander’s Intent and the Backbriefs into actionable corporate strategies, \nCraig helps leaders stop being the bottleneck and start building proactive, adaptable teams that win.\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2100",
+        "title": "10x'ing Myself and My Team: Leading With Agents, Not Just Using Them ",
+        "description": "\n      Most AI productivity talks focus on one person doing one thing faster. What happens when you're responsible for a whole team and you start weaving agents into how everyone works?\n\nThat's where I've been for the last six months. Turning meeting notes into Jira stories. Automating compliance checks. Building tools that work for engineers, QA, product, scrum masters, analytics, and non-technical team members alike. The pattern is always the same, find the thing you do over and over, teach an agent how you do it, and get that time back.\n\nI'll share how I built the tooling, standardized it across roles, and what happened when people started managing workflows instead of just executing them.\n\nThis isn't about replacing anyone. It's about giving every person on your team leverage they didn't have before. I'll be honest, the job looks different now. People on my team don't just execute tasks anymore. They orchestrate, review, and decide what ships. If you're a leader trying to scale your team's impact, or someone in a hands-on role wondering why your day suddenly feels different, this is what's working for us right now.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "AI/ML",
+            "Product",
+            "Careers"
+        ],
+        "categories": [
+            "2",
+            "7",
+            "8",
+            "11"
+        ],
+        "participants": [
+            {
+                "name": "Sam Grumdahl",
+                "url": "/participants/406"
+            },
+            {
+                "name": "Kathy Comfort",
+                "url": "/participants/5556"
+            },
+            {
+                "name": "John Peacock",
+                "url": "/participants/7038"
+            },
+            {
+                "name": "Nadir Doctor",
+                "url": "/participants/7039"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Andy Ganoe",
+                "speakerBio": "Andy Ganoe is a leader and technologist serving as Director of Technical Operations overseeing engineering, DevOps, and compliance. He loves to play with technology and build with AI, and has been focused on turning that into something practical, building tools, standardizing patterns, and getting everyone from engineers to non-technical team members working alongside agents.\n"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2101",
+        "title": "Leverage Your Experience: How to Land Your First Advisory Role ",
+        "description": "\n      You have hard-earned skills and functional expertise that early-stage founders, younger professionals, and industry newcomers desperately need. Yet, many experienced professionals hesitate to step into advisory roles due to perceived barriers around time commitments, corporate optics, or simply knowing where to start. This session will break down those barriers and provide a practical roadmap for securing and succeeding in your first board or advisory position.\n\nIf you are worried about the corporate optics, rest assured: your boss is not going to fire you. A quick look at their LinkedIn profile will likely reveal that they advise multiple people and companies themselves. Furthermore, advisory work is highly flexible. A commitment of just a few focused hours a month can be incredibly impactful for a growing startup and entirely manageable alongside your main career.\n\nWhat You’ll Walk Away With:\n\n• A Specific Personal Template: A ready-to-use framework to help you package your corporate expertise into a highly sought-after advisory asset.\n\n• A Network Outreach Plan: A specific, easy-to-follow plan to re-engage six people who have helped you along your career path, turning warm contacts into advisory conversations.\n\n• Accelerated Day-Job Performance: Fresh perspectives and innovative approaches that directly improve your performance and decision-making in your primary role.\n\n• Agile Solutions: Exposure to new tools, templates, and operational playbooks that work better, faster, and cheaper in younger, fast-moving companies.\n\nAbout the Speaker:\n\nLoran Gutt is currently balancing a rewarding day job as SVP Strategy and Corp Dev at Bazaarvoice with paid board and advisory roles across six companies, serving on the Board of Directors for Shipsi, acting as a CEO strategy advisor for Wunderkind, and several earlier-stage companies, while driving exponential revenue growth, executing transformational M&A, and delivering exceptional financial turnarounds and outsized returns (up to 6x ROIC) for top private equity-backed software and enterprise companies.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Soft Skills",
+            "Careers"
+        ],
+        "categories": [
+            "10",
+            "11"
+        ],
+        "participants": [
+            {
+                "name": "Grant Chandler",
+                "url": "/participants/2050"
+            },
+            {
+                "name": "John Benninghoff",
+                "url": "/participants/5523"
+            },
+            {
+                "name": "Kathy Comfort",
+                "url": "/participants/5556"
+            },
+            {
+                "name": "Zeiter Farah",
+                "url": "/participants/6241"
+            },
+            {
+                "name": "Daniel Nelson",
+                "url": "/participants/6319"
+            },
+            {
+                "name": "Nadir Doctor",
+                "url": "/participants/7039"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Loran Gutt",
+                "speakerBio": "Long-time Minnesotan, husband, father.  Interested in eCommerce technology.  Ex-ShopNBC and 3M.  Lead Strategy and Corp Dev for 4x PE firms at THL, Thoma Bravo, Vista and Marlin.\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2102",
+        "title": "Influence Through Alignment: Technology Enablement in a Matrixed Organization ",
+        "description": "\n      Overview\nIn a matrixed organization, outcomes often depend less on authority and more on the ability to align priorities, clarify ownership, and keep decisions moving. This session offers a practical approach to technology initiatives that strengthens influence through alignment across multiple platforms and cross-functional stakeholders.  The focus is on the mechanics of cross-functional leadership: how to align stakeholders around a shared definition of value, clarify decision rights (“who decides what”) to reduce ambiguity, and establish an operating cadence that keeps decisions moving and removes roadblocks.  Attendees will learn how to use prioritization criteria to shift conversations from opinions to tradeoffs, and how to create influence through clear communication, a champion network, and well-defined value measures.\n\nLearning goals\n  •  Build alignment early and sustain it through delivery\n  •  Establish a shared definition of value so teams optimize and prioritize established outcomes\n  •  Prevent “shadow priorities” by centralizing intake and maintaining clear priorities visible\n  •  Define ownership for exceptions, escalation paths, and dependencies\n\nExpected Outcomes\nAttendees will leave with a practical approach which can be applied immediately to lead technology initiatives across teams in a matrixed environment by using alignment mechanisms such as shared value definitions, explicit prioritization, clear decision rights to accelerate decisions and reduce rework.\n\nWhat key takeaways will the attendees gain?\n  •  A practical approach to leading technology initiatives across teams in a matrixed organization using alignment as the primary lever\n  •  Techniques to build alignment early, maintain it through delivery, and keep decisions moving by establishing ownership and decision rights\n  •  A method for creating a shared definition of value so teams optimize and prioritize for the same outcomes\n  •  An intake and prioritization approach that keeps priorities visible, reduces shadow priorities, and shifts conversations from opinions to tradeoffs\n  •  Sustain momentum through clear exception ownership, escalation paths, cross-team dependencies, and creating influence through communication, champions, and value measures\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Product",
+            "Soft Skills",
+            "Careers"
+        ],
+        "categories": [
+            "8",
+            "10",
+            "11"
+        ],
+        "participants": [
+            {
+                "name": "Nadir Doctor",
+                "url": "/participants/7039"
+            },
+            {
+                "name": "Meghan Gencev",
+                "url": "/participants/7048"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Ben Wadsworth",
+                "speakerBio": "Technology enablement leader focused on platform ownership, roadmaps, and scalable execution across customer and order workflows. Helping teams align priorities, accelerate decisions, and deliver with clear accountability. Current projects are centered around automation, process improvement, AI, analytics, and product roadmaps, with an emphasis on practical solutions that drive adoption and measurable value.\n\nLinkedIn Profile\n\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2103",
+        "title": "Migration Engineering: Automating Security & Tech Stack Upgrades ",
+        "description": "\n      What keeps you up at night? Last year, 26,000 vulnerabilities were discovered - 10% of them exploited by malicious actors, wreaking havoc on real victims. Even more concerning, 88% of these attacks happened within the first 6 days of discovery. The threat window is closing fast, and patching vulnerabilities the traditional way isn’t cutting it. It’s time to automate. In this session, we’ll explore how Open Source tools GitHub’s Dependabot, GitHub Actions, and OpenRewrite can automate your security and tech stack upgrades - slashing response times, reducing risk, and enabling continuous improvement. You’ll walk away with practical strategies for integrating these technologies into your workflow to stay ahead of your teams tech debt snowball.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Development",
+            "Emerging Tech"
+        ],
+        "categories": [
+            "2",
+            "6"
+        ],
+        "participants": [
+            {
+                "name": "Nadir Doctor",
+                "url": "/participants/7039"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Brad Broulik",
+                "speakerBio": "Brad Broulik is an author, trainer, speaker, tech lead, and supervisor specializing in technical leadership, career development and innovation at HealthPartners.\nLinks:\n- LinkedIn\n- Blog\n- GitHub\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2104",
+        "title": "Government’s in the Room. Go. ",
+        "description": "\n      I am a state employee leading a statewide AI planning project focused on human-centered outcomes. One person. Just me. So I need all of you — my army of beautiful, slightly feral, truth-telling humans.\n\nBring your hot takes. Tell me what we’re getting wrong. Tell me what you’d do if you were in charge. Bring your most unhinged proposals — we might just find gold in there. Tell me my ideas suck. I have thick skin and I genuinely need to know.\n\nI will respond honestly, even when the honest answer is “I don’t know.” I’m not here to defend the government — I wouldn’t even know where to start.\n\nThis will be messy. That’s the point. But it’s also genuinely valuable — because I have this tiny, now-or-never window to shape how Minnesota responds to AI, and I am not about to waste it. So if you’ve ever wanted to say something to the government and have someone listen and give a damn, this is your 40 minutes.\n\nSay something. Say anything. No ego. No filter. No guaranteed outcome. No wrong answers. No holding back.\n\nLet’s see what happens.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Community",
+            "Other",
+            "AI/ML",
+            "Design",
+            "Careers",
+            "Wildcard"
+        ],
+        "categories": [
+            "9",
+            "5",
+            "7",
+            "1",
+            "11",
+            "13"
+        ],
+        "participants": [
+            {
+                "name": "Dan Lew",
+                "url": "/participants/156"
+            },
+            {
+                "name": "Martin Grider",
+                "url": "/participants/423"
+            },
+            {
+                "name": "Paul Cantrell",
+                "url": "/participants/678"
+            },
+            {
+                "name": "Justin Cardinal",
+                "url": "/participants/702"
+            },
+            {
+                "name": "Mathias Rechtzigel",
+                "url": "/participants/1392"
+            },
+            {
+                "name": "Eryn O'Neil",
+                "url": "/participants/1792"
+            },
+            {
+                "name": "Alex Wohlhueter",
+                "url": "/participants/1976"
+            },
+            {
+                "name": "Eve Poeschl",
+                "url": "/participants/2182"
+            },
+            {
+                "name": "Kevin Behrens",
+                "url": "/participants/2613"
+            },
+            {
+                "name": "Kisha Delain",
+                "url": "/participants/3421"
+            },
+            {
+                "name": "Tim Bornholdt",
+                "url": "/participants/4433"
+            },
+            {
+                "name": "Matt Meshulam",
+                "url": "/participants/4672"
+            },
+            {
+                "name": "Misha Hawthorn",
+                "url": "/participants/5436"
+            },
+            {
+                "name": "Andrew Rahn",
+                "url": "/participants/5441"
+            },
+            {
+                "name": "John Benninghoff",
+                "url": "/participants/5523"
+            },
+            {
+                "name": "Zoe Copoulos",
+                "url": "/participants/6254"
+            },
+            {
+                "name": "Sergio Najera-Feito",
+                "url": "/participants/7012"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Peiyu Phua",
+                "speakerBio": "I am a statewide planner at Minnesota Management and Budget who somehow ended up leading the state’s human-centered AI planning efforts. I have no backup. I am not scared. (I am a little scared.)\nI am not a technologist. I am not a lawyer. I am not a lobbyist. I am one person with a notebook, a lot of questions, and resources that are… let’s say… government-sized.\nConnect with me on LinkedIn — especially if you’re already brewing something to say.​​​​​​​​​​​​​​​​\n"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2105",
+        "title": "Catan, Clean Energy, and Code: Can You Prove That Wind Farm Actually Generated Electricity? ",
+        "description": "\n      Every time a company claims it's \"100% powered by renewable energy,\" or a product says it's \"made with clean energy,\" we all assume that statement traces back to a wind turbine or solar panel that actually produced the electricity. But... who actually checks?\n\nThis session digs into the hidden system behind clean energy claims — Renewable Energy Certificates (RECs), the registries that issue and track them, and why verifying generation claims is harder (and more interesting) than it sounds. We'll start with the trust problem, then walk through what it actually takes to validate a claim using real-world data.\n\nAlong the way we'll:\n* Peek inside the strange world of US energy infrastructure: 3,000+ utilities, 50 state regulatory schemes, several registries, and a federal dataset that still starts in CSVs and dBase\n* Reconstruct missing power plant data using 20+ years of free public datasets\n* Use physics models and real satellite weather data to estimate what a generator should have produced\n* Compare modeled vs. reported generation and ask: does this claim hold up?\n* Show how it all turns into an API (with a quick peek at code)\n\nWe'll also touch on how richer data unlocks new kinds of claims — like energy tied to pollinator-friendly solar — and why that matters for the next phase of the energy transition.\n\nExpect a mix of storytelling, consumer-friendly examples (yes, Catan), light audience participation with fun rewards, and practical lessons on working with messy public data. No energy background required. If you like uncovering hidden systems — or just a new way to think about \"trust, but verify\" — you'll fit right in.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Emerging Tech",
+            "Product",
+            "Marketing"
+        ],
+        "categories": [
+            "2",
+            "6",
+            "8",
+            "12"
+        ],
+        "participants": [
+            {
+                "name": "Gary Leatherman",
+                "url": "/participants/128"
+            },
+            {
+                "name": "Dan Lew",
+                "url": "/participants/156"
+            },
+            {
+                "name": "Paul Cantrell",
+                "url": "/participants/678"
+            },
+            {
+                "name": "Eve Poeschl",
+                "url": "/participants/2182"
+            },
+            {
+                "name": "Kisha Delain",
+                "url": "/participants/3421"
+            },
+            {
+                "name": "Tom Benbow",
+                "url": "/participants/4366"
+            },
+            {
+                "name": "Tim Bornholdt",
+                "url": "/participants/4433"
+            },
+            {
+                "name": "Cameron MacDonald",
+                "url": "/participants/6026"
+            },
+            {
+                "name": "Robert Brown",
+                "url": "/participants/6188"
+            },
+            {
+                "name": "Daniel Nelson",
+                "url": "/participants/6319"
+            },
+            {
+                "name": "John Peacock",
+                "url": "/participants/7038"
+            },
+            {
+                "name": "Nadir Doctor",
+                "url": "/participants/7039"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Rob Davis",
+                "speakerBio": "Rob Davis tells the stories of pioneering people, ideas, and organizations and helps accelerate the nation’s transition to use of clean and renewable energy. Davis’ work has been covered in National Geographic, the New York Times, Wall Street Journal, Huffington Post, Martha Stewart, and Wired; referenced in the 25th anniversary edition of Trivial Pursuit; and included in the permanent collection of the Smithsonian’s National Museum of American History. Previously, Davis helped emerging artists reach national audiences, launched technology start-ups, and created the international crowdsourced campaign celebrating version 1.0 of the Firefox web browser. \nDavis is a two-time recipient of the Teresa Du Bois Exline Award for Best Practices in Communications and Marketing and a graduate of Macalester College\n"
+            },
+            {
+                "speakerName": "John Peacock",
+                "speakerBio": "CIO and CTO at CleanCounts, a non-profit that is North America's largest renewable energy registry. Still pulling PR's with code though. \n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2106",
+        "title": "Fire up yourself and your teams with Snowflake usage ",
+        "description": "\n      Discuss salient helpful features available with Snowflake and highlights of my work experience during the recent years \n\nhttps://en.wikipedia.org/wiki/Snowflake_Inc.\n\nNadir Doctor is a Snowflake Data Super Hero and also actively works with Microsoft SQL Server and PostgreSQL databases - both on-prem and in the cloud [https://www.linkedin.com/in/nadirdoctor/]\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "AI/ML"
+        ],
+        "categories": [
+            "7"
+        ],
+        "participants": [
+            {
+                "name": "Nadir Doctor",
+                "url": "/participants/7039"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Nadir Doctor",
+                "speakerBio": "Nadir Doctor is a Snowflake Data Super Hero and also actively works with Microsoft SQL Server and PostgreSQL databases - both on-prem and in the cloud.\nhttps://www.linkedin.com/in/nadirdoctor/\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2107",
+        "title": "PolitiClaw: building a local-first political co-pilot with OpenClaw 🦞 ",
+        "description": "\n      OpenClaw is an open-source agent framework. It moves the AI paradigm from \"chatbot\" to something that runs in the background, remembers what you've told it, and acts on a schedule. It also has a plugin ecosystem, allowing you to expand base functionality or build your own tools. \n\nI'll start with a quick tour of OpenClaw for folks who haven't seen it: gateway, tools, skills, cron, memory. Then the plugin SDK: What definePluginEntry actually does; How to register tools the agent can call; How to ship skills as Markdown files a user can override without touching your code.\n\nThen PolitiClaw: an OpenClaw plugin I've been working on. It watches federal legislation, scores reps against stances a user has declared, and drafts outreach letters that can be pasted into an email client.\n\nNo OpenClaw experience needed. A little TypeScript helps but isn't required.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "AI/ML",
+            "Community"
+        ],
+        "categories": [
+            "2",
+            "7",
+            "9"
+        ],
+        "participants": [
+            {
+                "name": "Sean Weiser",
+                "url": "/participants/731"
+            },
+            {
+                "name": "Shalanah Dawson",
+                "url": "/participants/2973"
+            },
+            {
+                "name": "Chris Fry",
+                "url": "/participants/3901"
+            },
+            {
+                "name": "Nick Krantz",
+                "url": "/participants/4688"
+            },
+            {
+                "name": "Chris Wodicka",
+                "url": "/participants/5384"
+            },
+            {
+                "name": "Tyler Perkins",
+                "url": "/participants/6961"
+            },
+            {
+                "name": "Sergio Najera-Feito",
+                "url": "/participants/7012"
+            },
+            {
+                "name": "Steven Bertsch",
+                "url": "/participants/7021"
+            },
+            {
+                "name": "Nadir Doctor",
+                "url": "/participants/7039"
+            },
+            {
+                "name": "Miguel Urena",
+                "url": "/participants/7061"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Alec Rippberger",
+                "speakerBio": "Alec Rippberger is a web software developer with a passion for creating and deconstructing digital systems. He's currently helping to build amazing digital products at Livefront.\nLinks:\n\nGitHub\nTwitter: @alecrippberger\n\n"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2108",
+        "title": "What tech lessons should we learn from the ICE invasion? ",
+        "description": "\n      This year put the Twin Cities at the forefront of international attention — and not because of the large number of AI talks we managed to squeeze into our local unconference. We are the site of a disaster; we are (we're told) a city of heroes. We just lived through something whose memory will outlive all of us. We should reflect on it.\n\nComing from personal experience on the ground in South Minneapolis, in the thick of it, this talk will share lessons about technology: how it helps us, how it fails to help us, how it hurts us. These are lessons about fighting authoritarianism. They are also general lessons about product design, about security, about our human aspirations, about risk, about triage, about ethical computing — lessons we already knew, or should have known, but that are now thrown into sharp relief by the clear light only crisis can bring.\n\nAfter the talk portion, time allowing, there will be a period of scaffolded small group discussion and idea sharing for those who wish to participate.\n\nThis session is a tech-focused counterpart to The Part You Didn’t See.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Product",
+            "Wildcard"
+        ],
+        "categories": [
+            "2",
+            "8",
+            "13"
+        ],
+        "participants": [
+            {
+                "name": "Mark Gritter",
+                "url": "/participants/12"
+            },
+            {
+                "name": "Jaim Zuber",
+                "url": "/participants/17"
+            },
+            {
+                "name": "Gary Leatherman",
+                "url": "/participants/128"
+            },
+            {
+                "name": "Dan Lew",
+                "url": "/participants/156"
+            },
+            {
+                "name": "Jeff Lin",
+                "url": "/participants/182"
+            },
+            {
+                "name": "Sam Grumdahl",
+                "url": "/participants/406"
+            },
+            {
+                "name": "Martin Grider",
+                "url": "/participants/423"
+            },
+            {
+                "name": "Justin Cardinal",
+                "url": "/participants/702"
+            },
+            {
+                "name": "Sean Weiser",
+                "url": "/participants/731"
+            },
+            {
+                "name": "Matt Decuir",
+                "url": "/participants/917"
+            },
+            {
+                "name": "Eryn O'Neil",
+                "url": "/participants/1792"
+            },
+            {
+                "name": "Ian Young",
+                "url": "/participants/1793"
+            },
+            {
+                "name": "Eve Poeschl",
+                "url": "/participants/2182"
+            },
+            {
+                "name": "Kevin Behrens",
+                "url": "/participants/2613"
+            },
+            {
+                "name": "Matt Pennig",
+                "url": "/participants/2628"
+            },
+            {
+                "name": "Kisha Delain",
+                "url": "/participants/3421"
+            },
+            {
+                "name": "Tom Benbow",
+                "url": "/participants/4366"
+            },
+            {
+                "name": "Rogers George",
+                "url": "/participants/4395"
+            },
+            {
+                "name": "Matt Meshulam",
+                "url": "/participants/4672"
+            },
+            {
+                "name": "Misha Hawthorn",
+                "url": "/participants/5436"
+            },
+            {
+                "name": "Andrew Rahn",
+                "url": "/participants/5441"
+            },
+            {
+                "name": "John Benninghoff",
+                "url": "/participants/5523"
+            },
+            {
+                "name": "Cameron MacDonald",
+                "url": "/participants/6026"
+            },
+            {
+                "name": "Zoe Copoulos",
+                "url": "/participants/6254"
+            },
+            {
+                "name": "Jon Wilson",
+                "url": "/participants/6267"
+            },
+            {
+                "name": "AnnMarie Thomas",
+                "url": "/participants/6423"
+            },
+            {
+                "name": "Paul Carroll",
+                "url": "/participants/6820"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
+            },
+            {
+                "name": "Sergio Najera-Feito",
+                "url": "/participants/7012"
+            },
+            {
+                "name": "Matt Pettis",
+                "url": "/participants/7046"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Paul Cantrell",
+                "speakerBio": "Paul fell in love with programming at first sight on an Apple ][+ and never looked back. He teaches computer science at Macalester College and is a freelance software developer (often with the fine folks at Bust Out).\nLiving a secret double life as a classically trained composer and pianist, he brings a musician's passion for aesthetics and nuanced detail to the craft of writing software, thus making his bio sound all fancy.\nLinks:\n\nPersonal site\nMastodon\n\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2109",
+        "title": "Service to Software: Turn Your \"How-To\" into a Monetized Micro-App ",
+        "description": "\n      Learn how to package your expertise into digital solutions that generate recurring revenue streams, attract better clients, and give you the breathing room you deserve.\n\nYou'll walk away with a clear plan and actionable framework to:\n\n\n📦 Package your expertise into digital solutions clients can access immediately\n💰 Build multiple revenue streams from the work you've already perfected\n🎯 Attract the right clients—the ones ready to invest and succeed\n\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Development",
+            "Startups",
+            "AI/ML",
+            "Product",
+            "Marketing"
+        ],
+        "categories": [
+            "2",
+            "4",
+            "7",
+            "8",
+            "12"
+        ],
+        "participants": [
+            {
+                "name": "Grant Chandler",
+                "url": "/participants/2050"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Marlaina Love",
+                "speakerBio": "Marlaina is the Founder and CEO of The Diamond Resilience, a creative tech studio developing infrastructure for alternative career pathways in technology. Since launch, she has helped over 60 professionals turn their expertise into digital solutions that generate $500 to $1,000 or more in monthly recurring revenue. Her mission is to equip talented individuals with the tools, mentorship, and community needed to monetize their existing knowledge.\nWith experience as a corporate Project and Program Management consultant leading global teams in supply chain, medical devices, autonomous vehicles, and retail, Marlaina understands both corporate challenges and the untapped creative potential of professionals. She now channels her experience and expertise into developing the infrastructure that supports a resilient workforce, enabling professionals to build independent, self-sustaining careers in an AI-powered, digital-first economy.\nLinks:\n\nLinkedIn\nWebsite\n\n"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2111",
+        "title": "The AI Native SDLC: Idea to Ticket to Working Code, Live ",
+        "description": "\n      I've been putting together a workflow that uses Claude Code Plugins, a custom docs MCP server, and the Linear MCP to take an idea from rough sketch to work items that are actually ready to build, and then from tickets into working code. This talk is a live walkthrough of that.\n\nI'll start with a brand new idea (nothing rehearsed) and take it through the whole flow in front of you. A PM-style prototype turning into scoped Linear tickets, Claude Code picking those tickets up, and doing the implementation work. Along the way I'll compare each step to how the same thing would play out in a more traditional flow, since that's where the value becomes obvious.\n\nThe stack:\n\n\n\nClaude Code Plugins for role-specific workflows, so the PM step, the engineering step, and the review step each have their own purpose-built experience\n\nA custom docs MCP server that gives every agent the same grounding in product context, architecture, and team conventions\n\nThe Linear MCP so the output lands as real work items, not yet another tool your team has to remember to check\n\n\nIf you're a PM trying to hand engineering better-formed ideas, an engineer tired of untangling half-baked tickets, or a founder looking to cut down on handoffs between idea and code, I think you'll get something out of this one.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Development",
+            "AI/ML"
+        ],
+        "categories": [
+            "2",
+            "7"
+        ],
+        "participants": [
+            {
+                "name": "Michael Halagan",
+                "url": "/participants/3572"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Michael Halagan",
+                "speakerBio": "Mike Halagan is the founder and CEO of Local AI, a Twin Cities consulting firm that helps companies put AI to work in production. He's spent the last 15+ years building ML and AI systems, starting as a bioinformatics scientist at Be The Match working on bone marrow donor-recipient matching, then moving through data science, engineering, and leadership roles at C.H. Robinson where he eventually led 50+ engineers across five teams. The dynamic pricing engine his teams shipped became a recurring talking point on quarterly earnings calls.\nThese days he spends most of his time embedded with client engineering teams, designing and shipping LLM and agent-based systems on AWS Bedrock AgentCore and Azure Agent Service. Recent work has included customer-facing chatbots, underwriting agents, compliance automation, and end-to-end MLOps platforms for clients in healthcare, insurance, retail, and logistics. \nBased in Maple Grove. M.S. in Biomedical Informatics & Computational Biology from the University of Minnesota.\nLinkedIn\n"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2112",
+        "title": "Mouth to MIDI in 11 Milliseconds: A Live Beatbox Drum Engine I Built on Nights and Weekends ",
+        "description": "\n      Lots of AI sessions this year are about text. This one is about your mouth.\n\nBeastBox is a real-time beatbox-to-MIDI engine I've been building on nights and weekends. You make a kick-drum sound. 11 milliseconds later, a real kick drum hits. Snare, hi-hat? Same thing. No quantization, no lag you can feel, no cloud round-trip. Just a microphone, a tiny CNN, and a lot of C++ behind the curtain.\n\nWhat you'll see, live on stage:\n\n\nI'll beatbox a full drum pattern and you'll hear it come back as a real drum kit in real time\nThe visualizer shows the onset detector firing and the CNN's class probabilities updating hit by hit\nA guided tour of the architecture: an ONNX model trained in PyTorch, a native JUCE audio engine, cross-platform native code, and a Flutter UI bridged in with a lock-free ring buffer\nWhat breaks, what surprised me, what I'd do differently\nThe specific tricks that got end-to-end latency under 20ms (typically 9 to 11) on a laptop CPU\n\n\nBeastBox is a personal passion project, not a pitch. I want feedback from a room of builders, especially people who care about DSP, on-device ML, or real-time systems. If you've ever wanted to beatbox a whole drum kit into existence, or if you just want to see what it takes to run an extremely low-latency neural net inside an audio-thread budget, come hang out.\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "Emerging Tech",
+            "AI/ML",
+            "Wildcard"
+        ],
+        "categories": [
+            "2",
+            "6",
+            "7",
+            "13"
+        ],
+        "participants": [
+            {
+                "name": "Mark Gritter",
+                "url": "/participants/12"
+            },
+            {
+                "name": "Paul Cantrell",
+                "url": "/participants/678"
+            },
+            {
+                "name": "Tim Bornholdt",
+                "url": "/participants/4433"
+            },
+            {
+                "name": "Cameron MacDonald",
+                "url": "/participants/6026"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Sean Hobin",
+                "speakerBio": "This person hasn't yet added a bio.\n"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2113",
+        "title": "How AI Shapes Human Judgment: Confidence, Trust, and Over‑Reliance Across Three Original Studies (As a High Schooler) ",
+        "description": "\n      This session presents findings from three original research studies examining how humans interact with AI — and how AI interacts with us. Across topics including LLM confidence calibration, AI‑generated phishing, and the effects of AI explanations on trust, this talk explores a central question: How does AI influence human judgment, accuracy, and over‑reliance?\n\nI’m a high school student at Mounds View High School and very new to presenting at events like Minnebar, so this session is designed to be especially accessible, fast‑paced, and easy to follow. Despite being early in my research journey, I’ve spent the past year studying how people trust (and sometimes over‑trust) AI systems — and I’ll be sharing what surprised me most.\n\nYou’ll learn, as the results of my 3 papers reported:\n\nHow often large language models are confidently wrong, and why self‑reported confidence fails as a reliability signal\n\nWhy AI‑generated phishing emails are harder to detect — and why people are more confident when they’re wrong\n\nHow explanations (simple or detailed) increase trust and over‑reliance, even when the AI is incorrect\n\nWhat these findings mean for cybersecurity, education, and everyday AI use\n\nWhether you’re an AI researcher, developer, educator, or just curious about how humans and AI influence each other, you’ll walk away with a clearer understanding of the risks and opportunities in our rapidly evolving AI ecosystem.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Emerging Tech",
+            "AI/ML",
+            "Wildcard"
+        ],
+        "categories": [
+            "6",
+            "7",
+            "13"
+        ],
+        "participants": [],
+        "speakers": [
+            {
+                "speakerName": "Shiven Kharidehal",
+                "speakerBio": "This person hasn't yet added a bio.\n"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2114",
+        "title": "Research at the Speed of AI: What Works, What Breaks, and What Still Needs You ",
+        "description": "\n      Karpathy's AutoResearch ran 700 experiments while he slept. It works because the objective is locked: one metric, lower is better, don't touch the evaluation function. Most research doesn't start there. Deciding what to measure, whether your benchmark is even valid, what a result means: that's the part that still requires a human. This talk is about that part.\n\nI built a stateful AI research assistant to help me run an enterprise knowledge graph project: can organizational KG signals (reporting chains, projects, meeting attendance) help LLM agents resolve ambiguous people references in enterprise conversations? Think \"set up a meeting with the data scientist on the Atlas project\" when three people hold that role, two of whom changed positions last quarter. We built a synthetic org, generated a benchmark, ran experiments across three models and six retrieval conditions.\n\nHere's what I learned the hard way.\n\nThe assistant has knowledge boundaries it won't volunteer. Infrastructure failures can corrupt results silently. Design flaws in your data go unquestioned if you don't ask. Confident-sounding write-ups can outrun what the numbers actually support. And fast-generated code works until you need to defend it.\n\nThese aren't reasons to stop. They're reasons to develop practices: specify behavior before you ask for implementation, verify outputs against raw sources rather than summaries, make \"why did you do it this way?\" a standing question, and treat the first draft narrative as a starting point, not a conclusion.\n\nI'll walk through the failure modes concretely, show what the collaboration actually looked like, and share what moved the needle on both speed and rigor.\n\nFormat: Story + examples + Q&A\n\n      \n    ",
+        "tags": [
+            "Advanced",
+            "Development",
+            "AI/ML"
+        ],
+        "categories": [
+            "2",
+            "7"
+        ],
+        "participants": [
+            {
+                "name": "Sam Grumdahl",
+                "url": "/participants/406"
+            },
+            {
+                "name": "Trevor Wagner",
+                "url": "/participants/6004"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Frank Schilder",
+                "speakerBio": "Frank Schilder is a senior principal scientist at Thomson Reuters Labs, specializing in AI and machine learning. He holds a Ph.D. in Cognitive Science from the University of Edinburgh and previously taught at the University of Hamburg, Germany.\n"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2115",
+        "title": "Why is tech sexist? A farming perspective  ",
+        "description": "\n      Embark with me on a journey back in time to a place I'm sure you've been dying to explore: the early to mid-1900s rural Midwest. Stick with me now. With our time machine, we will be able to observe a change in agriculture that would go on to fundamentally shape our nation's health, environment, and political climate, to name just a few. At the center of the transition: technology and women. \n\nI believe this frequently forgotten and quite surprising history can provide a unique perspective on gender inequity in the tech industry, both past and present. As we rapidly enter a new era of technology, this story also raises the stakes of engaging with the ever-so-complicated question: Why is tech sexist?\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Emerging Tech",
+            "Community",
+            "Wildcard",
+            "Other"
+        ],
+        "categories": [
+            "6",
+            "9",
+            "13",
+            "5"
+        ],
+        "participants": [
+            {
+                "name": "Paul Cantrell",
+                "url": "/participants/678"
+            },
+            {
+                "name": "Kisha Delain",
+                "url": "/participants/3421"
+            },
+            {
+                "name": "Misha Hawthorn",
+                "url": "/participants/5436"
+            },
+            {
+                "name": "Cameron MacDonald",
+                "url": "/participants/6026"
+            },
+            {
+                "name": "Jon Wilson",
+                "url": "/participants/6267"
+            },
+            {
+                "name": "Shree Pandey",
+                "url": "/participants/6815"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Emily Rhoades",
+                "speakerBio": "I am a farm manager who studied computer science and gender studies. For me, the fun lies in the interdisciplinary.\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2116",
+        "title": "Hormuz Strait, Panama Canal etc - Alternate paths for smooth transport of essential items & brief introduction of my 2026 innocentive challenges’ solutions  ",
+        "description": "\n      Draft…..\n\nI like to select just 'Community' also in the 'Categories' in general sense\n\nThis year I already worked on 4 or 5 challenges so far. \n\nAnd continuing to add LinkedIn posts with some as detail as following.\n\nI thought I will share in Minnestar - Minnebar\n\nhttps://www.linkedin.com/posts/activity-7438624586079924224-iq85?utm_source=share&utm_medium=member_ios&rcm=ACoAAADO9HABIxdp2GHv_xRAeJ5ixT1-QM0WuSU\n\nExxonMobil\n     https://www.innocentive.com/challenges/innovative-liquid-cooling-solutions-for-data-centers/\n\n [id]: https://www.innocentive.com/challenges/novel-markets-and-breakthrough-applications-for-vistamaxx-performance-polymers/\n\n\nUnited States Steel Corporation (U. S. Steel)\n\n https://www.innocentive.com/challenges/eliminating-deep-seepage-from-a-tailings-storage-facility/\n\n\nDiversey\n\n https://www.innocentive.com/challenges/novel-approaches-to-handling-microplastic-containing-waste-from-building-care-products/\n\n\nStellantis\n\nhttps://www.innocentive.com/challenges/seeking-solutions-to-convert-bio-oil-for-valuable-automotive-applications/\n\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Development",
+            "Startups",
+            "Emerging Tech",
+            "Design",
+            "Product",
+            "Soft Skills",
+            "Careers",
+            "Marketing",
+            "AI/ML"
+        ],
+        "categories": [
+            "2",
+            "4",
+            "6",
+            "1",
+            "8",
+            "10",
+            "11",
+            "12",
+            "7"
+        ],
+        "participants": [
+            {
+                "name": "Niraikalai Vijay",
+                "url": "/participants/5306"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Niraikalai Vijay",
+                "speakerBio": "Niraikalai Vijay (Software Engineer - Currently working in Home Depot - Sales Associate - Race Track)\nhttps://www.linkedin.com/in/niraikalai-vijay-b546604/\nHighly qualified software engineering professional both by work experience (with concentration on data structures & algorithms/automation) & education (with concentration on both hardware/operating systems/microprocessors/computer networking/data structures & algorithms/circuit theory/pulse techniques/engineering design/robotics/image processing etc, along with beginner level Retail work experience)\nOrganizations I worked/I am currently working\nHyVee (Retail) - Current, Veritas Technologies (Xoriant Software Engineer Contractor), AutoZone (Retail), Analog Devices (Software Engineer), Bell Atlantic (Current Verizon) - Software Engineer consultant, IBM (Atlas Software Technologies - Software Engineer sub-contractor), Tata Consultancy Services (Software Engineer), Government College of Technology (Teaching Assistant), Kumaraguru College Of Technology (Associate Lecturer)\nAccomplishments\nWazoku Crowd – Nexus - Detecting Reinforced Autoclaved Aerated Concrete (RAAC) in Building Structures           Submitted – 11/7/23 & Moved Evaluation stage 2 11/10/23 - Got selected 3/28/24 - Currently Wazoku - Nexus looking for interested Seekers and/or industry partners for my solution titled 'SEM (Semicoductor) and/or Tuning Fork - MEMS Vibration (Physics Sound) based Sensor Solution'\nCONFERENCE PRESENTATIONS\n    ANALOG DEVICES, 2011 General Technical Conference – Presented Demo on following topic.    (March 2011)\n              Data Analysis Applications/Content Management System/Web Application Framework\n   ANALOG DEVICES, 2010 General Technical Conference   – Presented Demo on following topic.     (April 2010)\n              DATABASE: For Development of Data Analysis Application\nABSTRACT SUBMISSIONS\n   Abstracts submission for 2012 ADI General Technical Conference\n• Data Analysis Application – For Semiconductor Engineers\n• Cloud Computing/Centralized management of heterogeneous databases \n• Innovation Ideas\n==================================\nEDUCATION\nMasters in Computer Science & Engineering, Government College of Technology, Bharathiar University, Coimbatore, Tamil Nadu, India (1991 - 1992) - \nBachelor of Engineering in Computer Science & Engineering, Government College of Technology, Bharathiar University, Coimbatore, Tamil Nadu, India (1986 – 1990)\n==================================\nList of contests/challenges for which I have submitted abstract/reviewed/being reviewed/won and organizer looking for seekers/industry partners.\nhttps://www.linkedin.com/posts/activity-7185690843075248128-zQQg?utm_source=share&utm_medium=member_desktop\nLinks:\n\nGitHub\nTwitter: @g5zEugkV\n\n"
+            }
+        ]
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2117",
+        "title": "Well Dontcha Know: The National Center for Autonomous Technologies is in Northern Minnesota ",
+        "description": "\n      Yep, you betcha! Seven years ago, The National Center for Autonomous Technologies (NCAT) was founded in Thief River Falls, Minnesota through the National Science Foundation’s Advanced Technological Education (NSF ATE) program. \n\nThe NSF ATE program has been funding innovation at two-year colleges for over 25 years focusing on the education of technicians for the high-technology fields that drive our nation’s economy. \n\nAs the first national ATE center in autonomous technologies, NCAT's is nurturing the technical workforce of tomorrow in the following domains:\n\n\n\nAir (Uncrewed Aircraft Systems)\n\nLand (Self-Driving Vehicles)\n\nSea (Uncrewed Maritime Systems)\n\n\nCome learn more about how NCAT is accelerating autonomous innovation – aligning talent and funding with emerging tech – all from way up north here in Minnesota.  \n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Emerging Tech",
+            "AI/ML",
+            "Careers"
+        ],
+        "categories": [
+            "6",
+            "7",
+            "11"
+        ],
+        "participants": [],
+        "speakers": [
+            {
+                "speakerName": "Marty Wetherall",
+                "speakerBio": "Girl Dad, Entrepreneur, co-founder of esports management platform LeagueOS (Twins Techstars '22), leading comms for the National Center for Autonomous Technologies (NCAT).\nLinks:\n\nInsta/X/Bluesky: @mcw719\nLinkedIn\nLeagueOS\nNCAT\n\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2118",
+        "title": "The Minnebar Scavenger Hunt: Powered by AI & Tape ",
+        "description": "\n      I wanted to create a live, QR-based scavenger hunt for Minnebar, but I didn't want to touch the web stack myself. As a data scientist, I’m comfortable with data but a stranger to hosting and UI.\n\nIn this session, I’ll walk you through how I used AI to architect the entire project—from selecting a free database to deciding on a hosting platform—all through a collaborative Q&A. Then, I’ll show how I used GitHub Copilot to turn those plans into functional code, iterating through the build until it was live.\n\nThe best part? The hunt is active right now! Come hear how AI slashed the \"idea-to-deployment\" time from weeks to hours, then grab the first clue and start playing.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Development",
+            "Wildcard"
+        ],
+        "categories": [
+            "2",
+            "13"
+        ],
+        "participants": [
+            {
+                "name": "Daniel Nelson",
+                "url": "/participants/6319"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Alice Smiddy",
+                "speakerBio": "Alice Smiddy is a lead data scientist with experience designing and deploying machine learning systems in messy, real‑world environments. Her work focuses on data, experimentation, and human‑centered problem solving. Outside of work, her play centers on entertaining her almost‑4‑year‑old — from building scavenger hunts to attempting to foster a love of science via baking soda volcanoes and cornstarch slime. At Minnebar, she’s combining her tech chops with her toddler‑engagement skills in the name of structured chaos and fun.\nLinks:\n- LinkedIn\n"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2119",
+        "title": "Shared Intelligence for Humans and AI Agents: How Engram Built Our Company Brain ",
+        "description": "\n      Jensen Huang famously runs Nvidia with 60+ direct reports and skips 1-on-1s by giving everyone equal access to information and reasoning. It sounds brilliant... until you try it in a fast-moving startup or with dozens of AI agents and suddenly everyone (and every agent) is drowning in lost context, hallucinations, parallel drift, and rediscovered problems.\n\nAt our fintech startup Easy we solved this by building Engram, our shared intelligence layer and living Company Brain. Engram automatically ingests everything and turns it into a rich, self-organizing collective memory for both our team and our AI agents.\n\nThe result? A 28x productivity boost.\n\nIn this session we’ll show exactly how Engram works: the five-layer memory stack, mycelium-inspired self-organization, provenance chains for trustworthy autonomy, and the always-on Curator that surfaces business patterns. You’ll see real examples of how it turns session amnesia into shared superintelligence, and we’ll walk through how to set it up yourself (it’s open source and runs in a handful of commands).\n\nWhether you’re running agents in a startup or just want to stop re-explaining the same decisions, you’ll leave with practical steps to implement collective memory in your own operations.\n\nLinks for the program/notes:\nGitHub → https://github.com/itseasyco/engram\n\n      \n    ",
+        "tags": [
+            "Intermediate",
+            "Development",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML"
+        ],
+        "categories": [
+            "2",
+            "4",
+            "6",
+            "7"
+        ],
+        "participants": [],
+        "speakers": [
+            {
+                "speakerName": "Niko LeMieux",
+                "speakerBio": "This person hasn't yet added a bio.\n"
+            },
+            {
+                "speakerName": "Andrew Fisher",
+                "speakerBio": "This person hasn't yet added a bio.\n"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2120",
+        "title": "Solar and Battery Storage: What the process of getting a microgrid looks like. ",
+        "description": "\n      Are you thinking about getting a microgrid with solar photovoltaic (PV) and battery energy storage (ESS)? \n\nIn this session, I will talk about essential items to consider while choosing a solar PV and ESS. I will also share what it takes to keep a system functioning for a long time and get the most out of it. \n\nDiscussion topics:\n*General overview of PV and ESS \n*Project process \n*System sizing \n*Equipment \n*Interaction with utilities and government entities \n*Balancing cost and system size \n*Typical electrical diagrams \n*DIY vs professional install \n*System monitoring and maintenance \n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Emerging Tech",
+            "Other"
+        ],
+        "categories": [
+            "6",
+            "5"
+        ],
+        "participants": [
+            {
+                "name": "Grant Chandler",
+                "url": "/participants/2050"
+            },
+            {
+                "name": "Kisha Delain",
+                "url": "/participants/3421"
+            },
+            {
+                "name": "Misha Hawthorn",
+                "url": "/participants/5436"
+            },
+            {
+                "name": "Zeiter Farah",
+                "url": "/participants/6241"
+            },
+            {
+                "name": "Daniel Nelson",
+                "url": "/participants/6319"
+            },
+            {
+                "name": "Shree Pandey",
+                "url": "/participants/6815"
+            },
+            {
+                "name": "Sergio Najera-Feito",
+                "url": "/participants/7012"
+            },
+            {
+                "name": "John Peacock",
+                "url": "/participants/7038"
+            },
+            {
+                "name": "Joelle Pandey",
+                "url": "/participants/7064"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Shree Pandey",
+                "speakerBio": "This person hasn't yet added a bio.\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2121",
+        "title": "🥳 Landing you First Software Engineering Job 101 (You vs AI) ",
+        "description": "\n      The Great story of landing your first software engineering job isn’t one you'll keep to yourself. It’s a defining moment—one you’ll retell for decades, maybe even pass down (haha, it's that important!). This story of yours deserves our full and immediate attention.\n\n\n\nIn this talk, I’ll share my path to my first major fintech role—graduating with a Computer Science degree at the height of AI layoffs, when the path forward was anything but clear.\n\nI did not have the luxury of leaving it to chance so naturally, I tried EVERYTHING.\n Not * casually.* But deliberately - \ntreating the job hunt like:\n\n\na system to be studied, tested, and refined.\n\n\nSomewhere between joining every meetup I could find and handing out resumes at every tech conferences, something clicked:\n\n\nYou don’t just live your “great story”—you write it in real time.\n\n\n\n\nWhat This Talk Is (And Isn’t):\n\nI won’t ask you to grind through LeetCode-style questions—you’re probably already doing that.\n\nInstead, we’ll focus on what actually moves the needle across three fronts:\n\n\nBuilding real value and capacity\nCrafting a clear personal narrative\nEngaging with the world with curiosity\n\n\nWe’ll move past the obsession with the “perfect resume”\nand focus on building a portfolio and a story that connect.\n\nBecause today, it’s not just about skill.\nIt’s about how clearly you can communicate:\n- what you’ve built\n- what you’ve learned\n- and why it matters  \n\nNo fluff. No recycled advice. Just what works—and how to start shaping the story you’re already in. \n\nLet's work on it together.\nSee you there!\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Development",
+            "Startups",
+            "Careers"
+        ],
+        "categories": [
+            "2",
+            "4",
+            "11"
+        ],
+        "participants": [
+            {
+                "name": "Daniel Nelson",
+                "url": "/participants/6319"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Fuad Jeet",
+                "speakerBio": "I like building systems at scale—from research applications at the University of Minnesota to finance production systems handling millions of transactions per second.\nI also like lifting heavy things (275lb bench-press included!).\n\nLinkedin\n\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2122",
+        "title": "Join our quest to throw a ring into a volcano ",
+        "description": "\n      The Dark Lords of Tech are nearing completion of their mission: to seize all the world's wealth and power. Their plan's one flaw: it depends on controlling all of our data. Enter the Atmosphere. We are a group of builders, designers, dreamers, hobbits and elves forging the tools of our liberation. In this session, we'll demo the App Wizard — an open source tool that helps anyone scaffold a personal app on the AT Protocol (the one behind Bluesky). Bring a laptop to build alongside us, or just a notebook to sketch ideas.\n\nJoin us. (Oh, the ring? That part was just a metaphor.)\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Community"
+        ],
+        "categories": [
+            "9"
+        ],
+        "participants": [
+            {
+                "name": "Misha Hawthorn",
+                "url": "/participants/5436"
+            },
+            {
+                "name": "John Benninghoff",
+                "url": "/participants/5523"
+            },
+            {
+                "name": "Cameron MacDonald",
+                "url": "/participants/6026"
+            },
+            {
+                "name": "Emily Rhoades",
+                "url": "/participants/6443"
+            },
+            {
+                "name": "Sergio Najera-Feito",
+                "url": "/participants/7012"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Jon Wilson",
+                "speakerBio": "Jon Wilson is a web developer who has consulted on projects for 3M and IBM, and currently works with Mayo Clinic. His passion is decentralizing the web so that everyone can help create our technological future and share in its rewards.\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2123",
+        "title": "The Work That Holds Teams Together: Stop Blaming the Person. Fix the System. ",
+        "description": "\n      When something breaks on a team, we almost always blame a person. The one who didn't document because there was no single place to put it. The one who dropped the ball because nobody told them they were holding it. The one who's been figuring it out as they go because nobody wrote down how any of this works.\n\nBut team failures aren't only people problems. They're operational problems. That work lives in a Slack thread from eight months ago, in a shared drive nobody governs, in a process people follow because they've always done it that way — or in the head of the one person everyone knows to ask. And nobody owns any of it.\n\nThis session names that work and introduces SEEN — a framework for operating teams where nothing critical is hidden:\n\n\n\nS — Spaces: Shared tools and spaces that are governed, maintained, and owned\n\nE — Exchanges: Handoffs between people and roles that are explicit, designed, and acknowledged\n\nE — Expectations: Processes, norms, and institutional knowledge that are visible and challengeable\n\nN — Network: Decisions, context, and feedback that reliably reach the people who need them\n\n\nCome ready to recognize your team in the patterns. Leave with a practical audit you can run Monday and language to talk about the invisible work that's been slowing you down.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Product",
+            "Soft Skills",
+            "Careers",
+            "Wildcard"
+        ],
+        "categories": [
+            "8",
+            "10",
+            "11",
+            "13"
+        ],
+        "participants": [
+            {
+                "name": "Ben Damman",
+                "url": "/participants/35"
+            },
+            {
+                "name": "Eryn O'Neil",
+                "url": "/participants/1792"
+            },
+            {
+                "name": "Grant Chandler",
+                "url": "/participants/2050"
+            },
+            {
+                "name": "Kathy Comfort",
+                "url": "/participants/5556"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Meghan Gencev",
+                "speakerBio": "Meghan Gencev is the founder of Spark Pattern, a strategic consulting practice focused on digital strategy, experience design, and operations. With nearly 20 years of experience — including the last decade leading digital strategy, project management, and client accounts at leading agencies — she's spent her career at the intersection of strategy and execution. That means she's also inherited enough broken handoffs, ungoverned shared drives, and processes nobody actually follows to know exactly what this talk is about.\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2124",
+        "title": "Editing Photos On Your Phone with No Apps ",
+        "description": "\n      You have a phone. You have photos. Have you ever tried editing your photos on your phone... and just got frustrated? \n\nThis session is for you if:\n\n\nYou have experienced this frustration and gave up\nYou didn't even know there were editing tools available\nYou are experienced photographer but found the little sliders on the phone fiddly and gave up after approximately 68 seconds of fiddling \n\n\n(That last one was me! I had a fair amount of experience editing digital photos when I got my first phone with a \"real\" camera, and the default editing experience drove me up the wall.)\n\nIn this session, I'll be covering:\n\n\nA meta-method for learning how to use photo editing software\nFilters! What they are, how they work, why only three of them are any good\nEvery single photo adjustment slider on an iPhone and what they are used for (If you have an Android phone, your sliders are mostly exactly the same but, depending on the Android version and phone, you may be missing sliders or have extra ones)\nHDR (High Dynamic Range) and how it fools you into thinking your photos are better than they are\nA general workflow for editing photos\nAny questions you might have\n\n\nAt the end of this session, you'll know more about photo editing, especially on phones. And hopefully you'll have a few new guidelines and tricks up your sleeve when you take a photo of something and it just looks a bit blah.\n\n      \n    ",
+        "tags": [
+            "Beginner",
+            "Design",
+            "Other"
+        ],
+        "categories": [
+            "1",
+            "5"
+        ],
+        "participants": [
+            {
+                "name": "Edward Bertsch",
+                "url": "/participants/2665"
+            },
+            {
+                "name": "Todd Harper",
+                "url": "/participants/5345"
+            },
+            {
+                "name": "Kathy Comfort",
+                "url": "/participants/5556"
+            },
+            {
+                "name": "Chloe Larson",
+                "url": "/participants/5603"
+            },
+            {
+                "name": "Cameron MacDonald",
+                "url": "/participants/6026"
+            },
+            {
+                "name": "Matt",
+                "url": "/participants/6948"
+            },
+            {
+                "name": "Ben Goffman",
+                "url": "/participants/6987"
+            },
+            {
+                "name": "Joe Kruger",
+                "url": "/participants/7065"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "John Wilson",
+                "speakerBio": "John Wilson is a long time photographer, mostly of his own kids. Although he still uses a digital fancy-pants camera, and even shoots the occasional roll of film, he often finds himself taking a picture with the only camera available (the phone). In his day job, he's a Senior Software Engineer, in his extremely limited free time, he likes to design and build synthesizers, and paint with watercolors (although usually not both at the same time)\nLinks:\n\nPersonal site\nMastodon\nYoutube\n\n"
+            }
+        ],
+        "list": "none"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2125",
+        "title": "AI Films Are Real. Here's How I Use LLMs, Diffusion Models & Voice AI to Build an End-to-End Film Pipeline ",
+        "description": "\n      AI-generated films and AI-assisted films aren't a future concept — they're happening right now, and I'm making them.\n\nIn this session, I'll pull back the curtain on the exact pipeline I use to produce cinematic AI films from scratch — no camera, no crew, no studio. Just a prompt, the right AI tools chained together, and a story worth telling.\n\nI'll walk through every stage live — writing the script, generating scenes, cloning voices, composing music, and cutting the final edit. You'll leave with a repeatable, real-world pipeline you can start using the same day.\n\n      \n    ",
+        "tags": [
+            "Advanced",
+            "Startups",
+            "Emerging Tech",
+            "AI/ML",
+            "Design",
+            "Careers",
+            "Other"
+        ],
+        "categories": [
+            "4",
+            "6",
+            "7",
+            "1",
+            "11",
+            "5"
+        ],
+        "participants": [],
+        "speakers": [
+            {
+                "speakerName": "Venkata Sai Praneeth Sirigiri",
+                "speakerBio": "Venkata Sai Praneeth Sirigiri is the Founder, CEO & Principal AI Engineer of sAIcube LLC, a Minnesota-based AI company building multimodal AI applications across digital media, education, and software. He turns AI research into real products — including SchoolBooks AI (an AI-powered textbook generation platform) and saiemo (an AI-native OTT platform streaming fully AI-generated films and series). From LLM integration to diffusion model pipelines, Praneeth builds end-to-end AI systems and shares that knowledge through hands-on workshops and sessions.\nSAICUBE WEBSITE\nSCHOOLBOOKS AI WEBSITE\nSAIEMO WEBSITE\n"
+            }
+        ],
+        "list": "ai"
+    },
+    {
+        "url": "https://sessions.minnestar.org/sessions/2126",
+        "title": "The Part You Didn't See: A Collective Account of Operation Metro Surge ",
+        "description": "\n      All of us lived it. No one saw all of it. Operation Metro Surge was too large, too fast, and too deliberately decentralized for any single person to have witnessed the whole thing. But collectively, we did. This session is an attempt to build a collective context, drawing on local and national reporting and firsthand testimony, and to make sense of what it revealed. \n\nThe community response that emerged wasn't spontaneous. It built upon community and technical infrastructure that was created over months and years, by non-profit groups and local organizers who saw what was coming before most of us were paying attention. By understanding how we got through the previous crisis, we can see where things stand now: what's continued, what's evolved, and how the tools that got us through that can get us through the next.\n\n      \n    ",
+        "tags": [
+            "All levels",
+            "Community",
+            "Wildcard"
+        ],
+        "categories": [
+            "9",
+            "13"
+        ],
+        "participants": [
+            {
+                "name": "Mark Gritter",
+                "url": "/participants/12"
+            },
+            {
+                "name": "Jaim Zuber",
+                "url": "/participants/17"
+            },
+            {
+                "name": "Ben Damman",
+                "url": "/participants/35"
+            },
+            {
+                "name": "Gary Leatherman",
+                "url": "/participants/128"
+            },
+            {
+                "name": "Dan Lew",
+                "url": "/participants/156"
+            },
+            {
+                "name": "Paul Cantrell",
+                "url": "/participants/678"
+            },
+            {
+                "name": "Matt Decuir",
+                "url": "/participants/917"
+            },
+            {
+                "name": "Eryn O'Neil",
+                "url": "/participants/1792"
+            },
+            {
+                "name": "Ian Young",
+                "url": "/participants/1793"
+            },
+            {
+                "name": "Grant Chandler",
+                "url": "/participants/2050"
+            },
+            {
+                "name": "Eve Poeschl",
+                "url": "/participants/2182"
+            },
+            {
+                "name": "Shalanah Dawson",
+                "url": "/participants/2973"
+            },
+            {
+                "name": "Jarvis Yang",
+                "url": "/participants/3409"
+            },
+            {
+                "name": "Kisha Delain",
+                "url": "/participants/3421"
+            },
+            {
+                "name": "Tim Bornholdt",
+                "url": "/participants/4433"
+            },
+            {
+                "name": "Matt Meshulam",
+                "url": "/participants/4672"
+            },
+            {
+                "name": "Nathan Miller",
+                "url": "/participants/4789"
+            },
+            {
+                "name": "Todd Harper",
+                "url": "/participants/5345"
+            },
+            {
+                "name": "Misha Hawthorn",
+                "url": "/participants/5436"
+            },
+            {
+                "name": "Andrew Rahn",
+                "url": "/participants/5441"
+            },
+            {
+                "name": "John Benninghoff",
+                "url": "/participants/5523"
+            },
+            {
+                "name": "Cameron MacDonald",
+                "url": "/participants/6026"
+            },
+            {
+                "name": "Zoe Copoulos",
+                "url": "/participants/6254"
+            },
+            {
+                "name": "Jon Wilson",
+                "url": "/participants/6267"
+            },
+            {
+                "name": "Emily Rhoades",
+                "url": "/participants/6443"
+            },
+            {
+                "name": "Sergio Najera-Feito",
+                "url": "/participants/7012"
+            },
+            {
+                "name": "Matt Pettis",
+                "url": "/participants/7046"
+            }
+        ],
+        "speakers": [
+            {
+                "speakerName": "Eryn O'Neil",
+                "speakerBio": "Eryn is an engineering manager, most recently at Trello, and a longtime member of the Twin Cities tech community. She spoke at tech conferences nationally and internationally for years before her kids had other ideas. She has been a Minneapolis election judge since 2016 and opinionated for much longer than that.\n"
+            }
+        ],
+        "list": "none"
     }
 ]

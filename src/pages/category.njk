@@ -8,6 +8,7 @@ permalink: /categories/{{ category.id }}/
 eleventyComputed:
     title: "Category: {{ category.name }}"
 ---
+{% set categoriesById = categories | toObject("id") %}
 
 <h3>AI talks excluded</h3>
 
@@ -15,9 +16,7 @@ eleventyComputed:
   {% for session in sessions %}
     {% if session.list != "ai" and session.categories | select("eq", category.id) | first %}
       <li>
-        <a href={{ session.url }}>
-          {{ session.title }}
-        </a>
+          {% include 'partials/session-list-entry.njk' %}
       </li>
     {% endif %}
   {% endfor %}

@@ -9,6 +9,10 @@ const sessionDetails = JSON.parse(readFile);
 const categoriesReadFile = fs.readFileSync(categoriesFile);
 const categories = JSON.parse(categoriesReadFile);
 
+//
+// Compiles the main ai vs non-ai stats
+//
+
 const categoryCounter = {}
 for (const category of categories) {
   const categoryId = category["id"];
@@ -53,6 +57,26 @@ for (const [id ,category] of Object.entries(categoryCounter)) {
   category["ppSessionsAi"] = category["aiSessions"] / (category["nonAiSessions"] + category["aiSessions"]) * 100;
 }
 
-const outData = {"overall": overallCounter, "byCategory": categoryCounter};
 
+
+//
+// Compiles the per-user stats
+//
+const participantVotes = {};
+
+for (const session of sessionDetails) {
+  const sessionId = session["url"];
+  for (const participant of session["participants"]) {
+    const participantId = participant["url"];
+    if (!(participantId in participantVotes))
+      participantVotes[participantId] = [];
+    participantVotes[participantId].push(sessionId);
+  }
+}
+
+//
+// Writes the stats data to the output file
+//
+
+const outData = {"overall": overallCounter, "byCategory": categoryCounter, "participantVotes": participantVotes};
 fs.writeFileSync(outFile, JSON.stringify(outData, null, 4));

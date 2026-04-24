@@ -15,16 +15,18 @@ window.addEventListener("load", (e) => {
       .id((d) => d["url"])
       .links(stats["connections"])
       .strength((d) => {
-        console.log(d);
         return d["count"] / 5;
       })
     )
-    .force("charge", d3.forceManyBody().strength(-300))
+    .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2).strength(1))
     .force("collide", d3
       .forceCollide()
-      .radius(5)
+      .radius((d) => {
+        return d["participants"].length;
+      })
     )
+    .tick(1200)
     .on("tick", ticked);
 
   const node = svg
@@ -34,7 +36,9 @@ window.addEventListener("load", (e) => {
     .data(sessions)
     .enter()
     .append("circle")
-    .attr("r", 5)
+    .attr("r", (d) => {
+      return d["participants"].length;
+    })
     .attr("fill", (d) => {
       return "orange";
     })

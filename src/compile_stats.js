@@ -75,8 +75,28 @@ for (const session of sessionDetails) {
 }
 
 //
+// Compiles connections between sessions based on per user stats
+//
+const connections = [];
+for (const [participant, votes] of Object.entries(participantVotes)) {
+  for (const [index, vote] of Object.entries(votes)) {
+    const nextVotes = votes.slice(parseInt(index) + 1);
+    for (const nextVote of nextVotes) {
+      let connection = connections.find((connection) => {
+        return connection["source"] === vote && connection["target"] === nextVote ||
+          connection["source"] === nextVote && connection["target"] === vote
+      });
+      if (!connection) {
+        connection = {"source": vote, "target": nextVote, "count": 0}
+        connections.push(connection);
+      }
+      connection["count"]++;
+    }
+  }
+}
+
+//
 // Writes the stats data to the output file
 //
-
-const outData = {"overall": overallCounter, "byCategory": categoryCounter, "participantVotes": participantVotes};
+const outData = {"overall": overallCounter, "byCategory": categoryCounter, connections};
 fs.writeFileSync(outFile, JSON.stringify(outData, null, 4));

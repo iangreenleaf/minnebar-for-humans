@@ -40,9 +40,13 @@ window.addEventListener("load", (e) => {
       return d["participants"].length;
     })
     .attr("fill", (d) => {
-      return "orange";
+      const list = d["list"];
+      if (list === "ai")
+        return "blue";
+      if (list === "none")
+        return "green";
+      return "yellow";
     })
-    .attr("stroke", "yellow");
 
   function ticked() {
     node

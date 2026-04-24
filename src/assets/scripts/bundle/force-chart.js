@@ -4,7 +4,6 @@ import sessions from "../../../_data/sessions.json";
 
 window.addEventListener("load", (e) => {
   const svg = d3.select("#forces");
-  svg.style("background", "red");
   const width = 960;
   const height = 600;
 
@@ -42,13 +41,14 @@ window.addEventListener("load", (e) => {
     .attr("fill", (d) => {
       const list = d["list"];
       if (list === "ai")
-        return "blue";
+        return "red";
       if (list === "none")
         return "green";
       return "yellow";
     })
 
   function ticked() {
+    console.log("ticked")
     node
       .attr("cx", (d) => {
         return d.x;

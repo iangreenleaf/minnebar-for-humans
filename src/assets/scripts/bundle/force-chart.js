@@ -12,13 +12,19 @@ window.addEventListener("load", (e) => {
     .forceSimulation(sessions)
     .force("link", d3
       .forceLink()
-      .id((d) => {
-        return d["url"]
-      })
+      .id((d) => d["url"])
       .links(stats["connections"])
+      .strength((d) => {
+        console.log(d);
+        return d["count"] / 5;
+      })
     )
-    .force("charge", d3.forceManyBody().strength(-30))
-    .force("center", d3.forceCenter(width / 2, height / 2))
+    .force("charge", d3.forceManyBody().strength(-300))
+    .force("center", d3.forceCenter(width / 2, height / 2).strength(1))
+    .force("collide", d3
+      .forceCollide()
+      .radius(5)
+    )
     .on("tick", ticked);
 
   const node = svg

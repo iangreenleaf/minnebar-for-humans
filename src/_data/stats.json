@@ -149,11 +149,9 @@
             "https://sessions.minnestar.org/sessions/1893",
             "https://sessions.minnestar.org/sessions/1895",
             "https://sessions.minnestar.org/sessions/1903",
-            "https://sessions.minnestar.org/sessions/1906",
             "https://sessions.minnestar.org/sessions/1908",
             "https://sessions.minnestar.org/sessions/1909",
             "https://sessions.minnestar.org/sessions/1911",
-            "https://sessions.minnestar.org/sessions/1912",
             "https://sessions.minnestar.org/sessions/1916",
             "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1924",
@@ -172,7 +170,6 @@
             "https://sessions.minnestar.org/sessions/1893",
             "https://sessions.minnestar.org/sessions/1894",
             "https://sessions.minnestar.org/sessions/1899",
-            "https://sessions.minnestar.org/sessions/1906",
             "https://sessions.minnestar.org/sessions/1908",
             "https://sessions.minnestar.org/sessions/1910",
             "https://sessions.minnestar.org/sessions/1913",
@@ -193,6 +190,7 @@
             "https://sessions.minnestar.org/sessions/1940",
             "https://sessions.minnestar.org/sessions/1949",
             "https://sessions.minnestar.org/sessions/1953",
+            "https://sessions.minnestar.org/sessions/1956",
             "https://sessions.minnestar.org/sessions/1959",
             "https://sessions.minnestar.org/sessions/1960",
             "https://sessions.minnestar.org/sessions/1961",
@@ -210,6 +208,8 @@
             "https://sessions.minnestar.org/sessions/2038",
             "https://sessions.minnestar.org/sessions/2048",
             "https://sessions.minnestar.org/sessions/2053",
+            "https://sessions.minnestar.org/sessions/2074",
+            "https://sessions.minnestar.org/sessions/2089",
             "https://sessions.minnestar.org/sessions/2123",
             "https://sessions.minnestar.org/sessions/2126"
         ],
@@ -232,8 +232,7 @@
             "https://sessions.minnestar.org/sessions/2011",
             "https://sessions.minnestar.org/sessions/2014",
             "https://sessions.minnestar.org/sessions/2017",
-            "https://sessions.minnestar.org/sessions/2061",
-            "https://sessions.minnestar.org/sessions/2091"
+            "https://sessions.minnestar.org/sessions/2061"
         ],
         "/participants/366": [
             "https://sessions.minnestar.org/sessions/1893",
@@ -246,12 +245,79 @@
             "https://sessions.minnestar.org/sessions/1953",
             "https://sessions.minnestar.org/sessions/1969",
             "https://sessions.minnestar.org/sessions/2014",
+            "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2018",
             "https://sessions.minnestar.org/sessions/2020",
             "https://sessions.minnestar.org/sessions/2037",
             "https://sessions.minnestar.org/sessions/2048",
             "https://sessions.minnestar.org/sessions/2050",
             "https://sessions.minnestar.org/sessions/2058",
-            "https://sessions.minnestar.org/sessions/2060"
+            "https://sessions.minnestar.org/sessions/2060",
+            "https://sessions.minnestar.org/sessions/2067",
+            "https://sessions.minnestar.org/sessions/2071",
+            "https://sessions.minnestar.org/sessions/2073",
+            "https://sessions.minnestar.org/sessions/2081",
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2095",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2100",
+            "https://sessions.minnestar.org/sessions/2107",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2118",
+            "https://sessions.minnestar.org/sessions/2122",
+            "https://sessions.minnestar.org/sessions/2125",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/1735": [
+            "https://sessions.minnestar.org/sessions/1893",
+            "https://sessions.minnestar.org/sessions/1918",
+            "https://sessions.minnestar.org/sessions/1937",
+            "https://sessions.minnestar.org/sessions/1967",
+            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2015",
+            "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2040",
+            "https://sessions.minnestar.org/sessions/2103",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2106",
+            "https://sessions.minnestar.org/sessions/2117"
+        ],
+        "/participants/1792": [
+            "https://sessions.minnestar.org/sessions/1893",
+            "https://sessions.minnestar.org/sessions/1895",
+            "https://sessions.minnestar.org/sessions/1899",
+            "https://sessions.minnestar.org/sessions/1900",
+            "https://sessions.minnestar.org/sessions/1903",
+            "https://sessions.minnestar.org/sessions/1905",
+            "https://sessions.minnestar.org/sessions/1915",
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1923",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1935",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/1951",
+            "https://sessions.minnestar.org/sessions/1958",
+            "https://sessions.minnestar.org/sessions/1962",
+            "https://sessions.minnestar.org/sessions/1965",
+            "https://sessions.minnestar.org/sessions/1969",
+            "https://sessions.minnestar.org/sessions/2014",
+            "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2020",
+            "https://sessions.minnestar.org/sessions/2022",
+            "https://sessions.minnestar.org/sessions/2028",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2076",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2080",
+            "https://sessions.minnestar.org/sessions/2095",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2098",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2123",
+            "https://sessions.minnestar.org/sessions/2124"
         ],
         "/participants/1976": [
             "https://sessions.minnestar.org/sessions/1893",
@@ -260,11 +326,15 @@
             "https://sessions.minnestar.org/sessions/1914",
             "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1942",
             "https://sessions.minnestar.org/sessions/1945",
             "https://sessions.minnestar.org/sessions/1960",
+            "https://sessions.minnestar.org/sessions/1961",
             "https://sessions.minnestar.org/sessions/1967",
             "https://sessions.minnestar.org/sessions/2022",
-            "https://sessions.minnestar.org/sessions/2104"
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/2004": [
             "https://sessions.minnestar.org/sessions/1893",
@@ -277,6 +347,45 @@
             "https://sessions.minnestar.org/sessions/1939",
             "https://sessions.minnestar.org/sessions/1940",
             "https://sessions.minnestar.org/sessions/1946"
+        ],
+        "/participants/3421": [
+            "https://sessions.minnestar.org/sessions/1893",
+            "https://sessions.minnestar.org/sessions/1923",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1934",
+            "https://sessions.minnestar.org/sessions/1935",
+            "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/1948",
+            "https://sessions.minnestar.org/sessions/1950",
+            "https://sessions.minnestar.org/sessions/1951",
+            "https://sessions.minnestar.org/sessions/1960",
+            "https://sessions.minnestar.org/sessions/1962",
+            "https://sessions.minnestar.org/sessions/1965",
+            "https://sessions.minnestar.org/sessions/1967",
+            "https://sessions.minnestar.org/sessions/2003",
+            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2014",
+            "https://sessions.minnestar.org/sessions/2021",
+            "https://sessions.minnestar.org/sessions/2022",
+            "https://sessions.minnestar.org/sessions/2023",
+            "https://sessions.minnestar.org/sessions/2032",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2063",
+            "https://sessions.minnestar.org/sessions/2066",
+            "https://sessions.minnestar.org/sessions/2073",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2082",
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2095",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2105",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2120",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/3712": [
             "https://sessions.minnestar.org/sessions/1893",
@@ -294,19 +403,22 @@
             "https://sessions.minnestar.org/sessions/1932",
             "https://sessions.minnestar.org/sessions/1936",
             "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1949",
             "https://sessions.minnestar.org/sessions/1953",
             "https://sessions.minnestar.org/sessions/1954",
             "https://sessions.minnestar.org/sessions/1967",
             "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2023",
             "https://sessions.minnestar.org/sessions/2033",
             "https://sessions.minnestar.org/sessions/2034",
             "https://sessions.minnestar.org/sessions/2050",
-            "https://sessions.minnestar.org/sessions/2063"
+            "https://sessions.minnestar.org/sessions/2063",
+            "https://sessions.minnestar.org/sessions/2090",
+            "https://sessions.minnestar.org/sessions/2120"
         ],
         "/participants/4866": [
             "https://sessions.minnestar.org/sessions/1893",
             "https://sessions.minnestar.org/sessions/1899",
-            "https://sessions.minnestar.org/sessions/1906",
             "https://sessions.minnestar.org/sessions/1959",
             "https://sessions.minnestar.org/sessions/1967",
             "https://sessions.minnestar.org/sessions/2002",
@@ -314,6 +426,21 @@
             "https://sessions.minnestar.org/sessions/2008",
             "https://sessions.minnestar.org/sessions/2021",
             "https://sessions.minnestar.org/sessions/2024"
+        ],
+        "/participants/4977": [
+            "https://sessions.minnestar.org/sessions/1893",
+            "https://sessions.minnestar.org/sessions/1918",
+            "https://sessions.minnestar.org/sessions/1923",
+            "https://sessions.minnestar.org/sessions/1927",
+            "https://sessions.minnestar.org/sessions/1931",
+            "https://sessions.minnestar.org/sessions/1951",
+            "https://sessions.minnestar.org/sessions/2014",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2117",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/5345": [
             "https://sessions.minnestar.org/sessions/1893",
@@ -344,14 +471,36 @@
             "https://sessions.minnestar.org/sessions/2016",
             "https://sessions.minnestar.org/sessions/2021",
             "https://sessions.minnestar.org/sessions/2039",
+            "https://sessions.minnestar.org/sessions/2045",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2049",
+            "https://sessions.minnestar.org/sessions/2061",
             "https://sessions.minnestar.org/sessions/2124",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/5441": [
+            "https://sessions.minnestar.org/sessions/1893",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1927",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1937",
+            "https://sessions.minnestar.org/sessions/1948",
+            "https://sessions.minnestar.org/sessions/1956",
+            "https://sessions.minnestar.org/sessions/1960",
+            "https://sessions.minnestar.org/sessions/1969",
+            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2061",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2108",
             "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/5466": [
             "https://sessions.minnestar.org/sessions/1893",
             "https://sessions.minnestar.org/sessions/1896",
             "https://sessions.minnestar.org/sessions/1905",
-            "https://sessions.minnestar.org/sessions/1906",
             "https://sessions.minnestar.org/sessions/1907",
             "https://sessions.minnestar.org/sessions/1925",
             "https://sessions.minnestar.org/sessions/1941",
@@ -372,7 +521,6 @@
             "https://sessions.minnestar.org/sessions/1893",
             "https://sessions.minnestar.org/sessions/1895",
             "https://sessions.minnestar.org/sessions/1899",
-            "https://sessions.minnestar.org/sessions/1901",
             "https://sessions.minnestar.org/sessions/1914",
             "https://sessions.minnestar.org/sessions/1919",
             "https://sessions.minnestar.org/sessions/1922",
@@ -396,6 +544,7 @@
             "https://sessions.minnestar.org/sessions/2047",
             "https://sessions.minnestar.org/sessions/2055",
             "https://sessions.minnestar.org/sessions/2066",
+            "https://sessions.minnestar.org/sessions/2079",
             "https://sessions.minnestar.org/sessions/2096",
             "https://sessions.minnestar.org/sessions/2101",
             "https://sessions.minnestar.org/sessions/2104",
@@ -406,7 +555,6 @@
         "/participants/6026": [
             "https://sessions.minnestar.org/sessions/1893",
             "https://sessions.minnestar.org/sessions/1899",
-            "https://sessions.minnestar.org/sessions/1901",
             "https://sessions.minnestar.org/sessions/1907",
             "https://sessions.minnestar.org/sessions/1910",
             "https://sessions.minnestar.org/sessions/1915",
@@ -455,6 +603,34 @@
             "https://sessions.minnestar.org/sessions/2124",
             "https://sessions.minnestar.org/sessions/2126"
         ],
+        "/participants/6166": [
+            "https://sessions.minnestar.org/sessions/1893",
+            "https://sessions.minnestar.org/sessions/1899",
+            "https://sessions.minnestar.org/sessions/1902",
+            "https://sessions.minnestar.org/sessions/1909",
+            "https://sessions.minnestar.org/sessions/1911",
+            "https://sessions.minnestar.org/sessions/1915",
+            "https://sessions.minnestar.org/sessions/1922",
+            "https://sessions.minnestar.org/sessions/1942",
+            "https://sessions.minnestar.org/sessions/1949",
+            "https://sessions.minnestar.org/sessions/1957",
+            "https://sessions.minnestar.org/sessions/1959",
+            "https://sessions.minnestar.org/sessions/1966",
+            "https://sessions.minnestar.org/sessions/1967",
+            "https://sessions.minnestar.org/sessions/2004",
+            "https://sessions.minnestar.org/sessions/2018",
+            "https://sessions.minnestar.org/sessions/2021",
+            "https://sessions.minnestar.org/sessions/2031",
+            "https://sessions.minnestar.org/sessions/2043",
+            "https://sessions.minnestar.org/sessions/2050",
+            "https://sessions.minnestar.org/sessions/2051",
+            "https://sessions.minnestar.org/sessions/2056",
+            "https://sessions.minnestar.org/sessions/2058",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2084",
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2094"
+        ],
         "/participants/6254": [
             "https://sessions.minnestar.org/sessions/1893",
             "https://sessions.minnestar.org/sessions/1916",
@@ -479,7 +655,8 @@
             "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1960",
             "https://sessions.minnestar.org/sessions/2017",
-            "https://sessions.minnestar.org/sessions/2034"
+            "https://sessions.minnestar.org/sessions/2034",
+            "https://sessions.minnestar.org/sessions/2089"
         ],
         "/participants/6789": [
             "https://sessions.minnestar.org/sessions/1893",
@@ -488,7 +665,6 @@
         ],
         "/participants/6888": [
             "https://sessions.minnestar.org/sessions/1893",
-            "https://sessions.minnestar.org/sessions/1906",
             "https://sessions.minnestar.org/sessions/1918",
             "https://sessions.minnestar.org/sessions/1925",
             "https://sessions.minnestar.org/sessions/1930",
@@ -502,12 +678,30 @@
             "https://sessions.minnestar.org/sessions/2005",
             "https://sessions.minnestar.org/sessions/2010"
         ],
+        "/participants/6948": [
+            "https://sessions.minnestar.org/sessions/1893",
+            "https://sessions.minnestar.org/sessions/1915",
+            "https://sessions.minnestar.org/sessions/1953",
+            "https://sessions.minnestar.org/sessions/2006",
+            "https://sessions.minnestar.org/sessions/2008",
+            "https://sessions.minnestar.org/sessions/2045",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2124"
+        ],
+        "/participants/7078": [
+            "https://sessions.minnestar.org/sessions/1893",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1951",
+            "https://sessions.minnestar.org/sessions/1965",
+            "https://sessions.minnestar.org/sessions/2020",
+            "https://sessions.minnestar.org/sessions/2076",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2108"
+        ],
         "/participants/74": [
             "https://sessions.minnestar.org/sessions/1894",
-            "https://sessions.minnestar.org/sessions/1901",
             "https://sessions.minnestar.org/sessions/1904",
-            "https://sessions.minnestar.org/sessions/1911",
-            "https://sessions.minnestar.org/sessions/1912"
+            "https://sessions.minnestar.org/sessions/1911"
         ],
         "/participants/151": [
             "https://sessions.minnestar.org/sessions/1894",
@@ -534,8 +728,8 @@
             "https://sessions.minnestar.org/sessions/2022",
             "https://sessions.minnestar.org/sessions/2030",
             "https://sessions.minnestar.org/sessions/2034",
-            "https://sessions.minnestar.org/sessions/2080",
-            "https://sessions.minnestar.org/sessions/2091"
+            "https://sessions.minnestar.org/sessions/2065",
+            "https://sessions.minnestar.org/sessions/2080"
         ],
         "/participants/2050": [
             "https://sessions.minnestar.org/sessions/1894",
@@ -550,7 +744,9 @@
             "https://sessions.minnestar.org/sessions/1927",
             "https://sessions.minnestar.org/sessions/1935",
             "https://sessions.minnestar.org/sessions/1942",
+            "https://sessions.minnestar.org/sessions/1944",
             "https://sessions.minnestar.org/sessions/1947",
+            "https://sessions.minnestar.org/sessions/1957",
             "https://sessions.minnestar.org/sessions/1958",
             "https://sessions.minnestar.org/sessions/1962",
             "https://sessions.minnestar.org/sessions/1967",
@@ -558,6 +754,7 @@
             "https://sessions.minnestar.org/sessions/2004",
             "https://sessions.minnestar.org/sessions/2005",
             "https://sessions.minnestar.org/sessions/2013",
+            "https://sessions.minnestar.org/sessions/2022",
             "https://sessions.minnestar.org/sessions/2024",
             "https://sessions.minnestar.org/sessions/2026",
             "https://sessions.minnestar.org/sessions/2027",
@@ -567,6 +764,8 @@
             "https://sessions.minnestar.org/sessions/2037",
             "https://sessions.minnestar.org/sessions/2038",
             "https://sessions.minnestar.org/sessions/2040",
+            "https://sessions.minnestar.org/sessions/2044",
+            "https://sessions.minnestar.org/sessions/2045",
             "https://sessions.minnestar.org/sessions/2046",
             "https://sessions.minnestar.org/sessions/2047",
             "https://sessions.minnestar.org/sessions/2049",
@@ -578,13 +777,66 @@
             "https://sessions.minnestar.org/sessions/2063",
             "https://sessions.minnestar.org/sessions/2066",
             "https://sessions.minnestar.org/sessions/2067",
+            "https://sessions.minnestar.org/sessions/2072",
             "https://sessions.minnestar.org/sessions/2073",
             "https://sessions.minnestar.org/sessions/2074",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2092",
             "https://sessions.minnestar.org/sessions/2101",
             "https://sessions.minnestar.org/sessions/2109",
             "https://sessions.minnestar.org/sessions/2120",
             "https://sessions.minnestar.org/sessions/2123",
             "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/2291": [
+            "https://sessions.minnestar.org/sessions/1894",
+            "https://sessions.minnestar.org/sessions/1896",
+            "https://sessions.minnestar.org/sessions/1902",
+            "https://sessions.minnestar.org/sessions/1905",
+            "https://sessions.minnestar.org/sessions/1908",
+            "https://sessions.minnestar.org/sessions/1911",
+            "https://sessions.minnestar.org/sessions/1913",
+            "https://sessions.minnestar.org/sessions/1915",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1927",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1933",
+            "https://sessions.minnestar.org/sessions/1934",
+            "https://sessions.minnestar.org/sessions/1936",
+            "https://sessions.minnestar.org/sessions/1943",
+            "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1945",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/2002",
+            "https://sessions.minnestar.org/sessions/2004",
+            "https://sessions.minnestar.org/sessions/2006",
+            "https://sessions.minnestar.org/sessions/2020",
+            "https://sessions.minnestar.org/sessions/2046",
+            "https://sessions.minnestar.org/sessions/2058",
+            "https://sessions.minnestar.org/sessions/2060",
+            "https://sessions.minnestar.org/sessions/2062",
+            "https://sessions.minnestar.org/sessions/2098",
+            "https://sessions.minnestar.org/sessions/2100",
+            "https://sessions.minnestar.org/sessions/2101",
+            "https://sessions.minnestar.org/sessions/2109",
+            "https://sessions.minnestar.org/sessions/2118"
+        ],
+        "/participants/2549": [
+            "https://sessions.minnestar.org/sessions/1894",
+            "https://sessions.minnestar.org/sessions/1907",
+            "https://sessions.minnestar.org/sessions/1921",
+            "https://sessions.minnestar.org/sessions/1936",
+            "https://sessions.minnestar.org/sessions/1937",
+            "https://sessions.minnestar.org/sessions/1941",
+            "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1948",
+            "https://sessions.minnestar.org/sessions/1950",
+            "https://sessions.minnestar.org/sessions/1951",
+            "https://sessions.minnestar.org/sessions/2037",
+            "https://sessions.minnestar.org/sessions/2040",
+            "https://sessions.minnestar.org/sessions/2060",
+            "https://sessions.minnestar.org/sessions/2073",
+            "https://sessions.minnestar.org/sessions/2089"
         ],
         "/participants/2644": [
             "https://sessions.minnestar.org/sessions/1894",
@@ -638,6 +890,7 @@
             "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1954",
             "https://sessions.minnestar.org/sessions/1966",
+            "https://sessions.minnestar.org/sessions/1969",
             "https://sessions.minnestar.org/sessions/2016",
             "https://sessions.minnestar.org/sessions/2018",
             "https://sessions.minnestar.org/sessions/2033",
@@ -646,7 +899,6 @@
         "/participants/3409": [
             "https://sessions.minnestar.org/sessions/1894",
             "https://sessions.minnestar.org/sessions/1895",
-            "https://sessions.minnestar.org/sessions/1906",
             "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1925",
             "https://sessions.minnestar.org/sessions/1927",
@@ -676,7 +928,6 @@
         ],
         "/participants/4394": [
             "https://sessions.minnestar.org/sessions/1894",
-            "https://sessions.minnestar.org/sessions/1901",
             "https://sessions.minnestar.org/sessions/1910",
             "https://sessions.minnestar.org/sessions/1913",
             "https://sessions.minnestar.org/sessions/1915",
@@ -711,9 +962,67 @@
             "https://sessions.minnestar.org/sessions/2055",
             "https://sessions.minnestar.org/sessions/2066"
         ],
+        "/participants/4495": [
+            "https://sessions.minnestar.org/sessions/1894",
+            "https://sessions.minnestar.org/sessions/1903",
+            "https://sessions.minnestar.org/sessions/1915",
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1924",
+            "https://sessions.minnestar.org/sessions/1927",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1945",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/1947",
+            "https://sessions.minnestar.org/sessions/1948",
+            "https://sessions.minnestar.org/sessions/1949",
+            "https://sessions.minnestar.org/sessions/1953",
+            "https://sessions.minnestar.org/sessions/1957",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/2006",
+            "https://sessions.minnestar.org/sessions/2013",
+            "https://sessions.minnestar.org/sessions/2014",
+            "https://sessions.minnestar.org/sessions/2016",
+            "https://sessions.minnestar.org/sessions/2022",
+            "https://sessions.minnestar.org/sessions/2029",
+            "https://sessions.minnestar.org/sessions/2032",
+            "https://sessions.minnestar.org/sessions/2037",
+            "https://sessions.minnestar.org/sessions/2042",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2069",
+            "https://sessions.minnestar.org/sessions/2078",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2080",
+            "https://sessions.minnestar.org/sessions/2081",
+            "https://sessions.minnestar.org/sessions/2090",
+            "https://sessions.minnestar.org/sessions/2100",
+            "https://sessions.minnestar.org/sessions/2101",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2120"
+        ],
+        "/participants/4944": [
+            "https://sessions.minnestar.org/sessions/1894",
+            "https://sessions.minnestar.org/sessions/1895",
+            "https://sessions.minnestar.org/sessions/1911",
+            "https://sessions.minnestar.org/sessions/1914",
+            "https://sessions.minnestar.org/sessions/1921",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1927",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1963",
+            "https://sessions.minnestar.org/sessions/2054",
+            "https://sessions.minnestar.org/sessions/2062",
+            "https://sessions.minnestar.org/sessions/2066",
+            "https://sessions.minnestar.org/sessions/2086",
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
         "/participants/4982": [
             "https://sessions.minnestar.org/sessions/1894",
-            "https://sessions.minnestar.org/sessions/1906",
             "https://sessions.minnestar.org/sessions/1929",
             "https://sessions.minnestar.org/sessions/1935",
             "https://sessions.minnestar.org/sessions/1962",
@@ -721,7 +1030,6 @@
         ],
         "/participants/5384": [
             "https://sessions.minnestar.org/sessions/1894",
-            "https://sessions.minnestar.org/sessions/1901",
             "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1923",
             "https://sessions.minnestar.org/sessions/1932",
@@ -737,6 +1045,39 @@
             "https://sessions.minnestar.org/sessions/2083",
             "https://sessions.minnestar.org/sessions/2096",
             "https://sessions.minnestar.org/sessions/2107"
+        ],
+        "/participants/5556": [
+            "https://sessions.minnestar.org/sessions/1894",
+            "https://sessions.minnestar.org/sessions/1896",
+            "https://sessions.minnestar.org/sessions/1907",
+            "https://sessions.minnestar.org/sessions/1916",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1941",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/1969",
+            "https://sessions.minnestar.org/sessions/2002",
+            "https://sessions.minnestar.org/sessions/2008",
+            "https://sessions.minnestar.org/sessions/2016",
+            "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2020",
+            "https://sessions.minnestar.org/sessions/2030",
+            "https://sessions.minnestar.org/sessions/2033",
+            "https://sessions.minnestar.org/sessions/2034",
+            "https://sessions.minnestar.org/sessions/2037",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2050",
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2055",
+            "https://sessions.minnestar.org/sessions/2058",
+            "https://sessions.minnestar.org/sessions/2074",
+            "https://sessions.minnestar.org/sessions/2078",
+            "https://sessions.minnestar.org/sessions/2084",
+            "https://sessions.minnestar.org/sessions/2092",
+            "https://sessions.minnestar.org/sessions/2100",
+            "https://sessions.minnestar.org/sessions/2101",
+            "https://sessions.minnestar.org/sessions/2123",
+            "https://sessions.minnestar.org/sessions/2124"
         ],
         "/participants/5571": [
             "https://sessions.minnestar.org/sessions/1894",
@@ -764,10 +1105,14 @@
             "https://sessions.minnestar.org/sessions/2069",
             "https://sessions.minnestar.org/sessions/2114"
         ],
+        "/participants/6038": [
+            "https://sessions.minnestar.org/sessions/1894",
+            "https://sessions.minnestar.org/sessions/1896",
+            "https://sessions.minnestar.org/sessions/1911"
+        ],
         "/participants/6147": [
             "https://sessions.minnestar.org/sessions/1894",
             "https://sessions.minnestar.org/sessions/1895",
-            "https://sessions.minnestar.org/sessions/1901",
             "https://sessions.minnestar.org/sessions/1918",
             "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1922",
@@ -794,6 +1139,11 @@
             "https://sessions.minnestar.org/sessions/2011",
             "https://sessions.minnestar.org/sessions/2017",
             "https://sessions.minnestar.org/sessions/2018"
+        ],
+        "/participants/6188": [
+            "https://sessions.minnestar.org/sessions/1894",
+            "https://sessions.minnestar.org/sessions/2080",
+            "https://sessions.minnestar.org/sessions/2105"
         ],
         "/participants/6244": [
             "https://sessions.minnestar.org/sessions/1894",
@@ -834,16 +1184,62 @@
             "https://sessions.minnestar.org/sessions/2037",
             "https://sessions.minnestar.org/sessions/2052",
             "https://sessions.minnestar.org/sessions/2060",
+            "https://sessions.minnestar.org/sessions/2079",
             "https://sessions.minnestar.org/sessions/2101",
             "https://sessions.minnestar.org/sessions/2105",
             "https://sessions.minnestar.org/sessions/2118",
             "https://sessions.minnestar.org/sessions/2120",
             "https://sessions.minnestar.org/sessions/2121"
         ],
+        "/participants/6385": [
+            "https://sessions.minnestar.org/sessions/1894",
+            "https://sessions.minnestar.org/sessions/1899",
+            "https://sessions.minnestar.org/sessions/1904",
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1924",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1939",
+            "https://sessions.minnestar.org/sessions/1940",
+            "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/2002",
+            "https://sessions.minnestar.org/sessions/2003",
+            "https://sessions.minnestar.org/sessions/2007",
+            "https://sessions.minnestar.org/sessions/2033",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2055",
+            "https://sessions.minnestar.org/sessions/2065",
+            "https://sessions.minnestar.org/sessions/2067",
+            "https://sessions.minnestar.org/sessions/2074",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2105",
+            "https://sessions.minnestar.org/sessions/2107",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2117",
+            "https://sessions.minnestar.org/sessions/2120",
+            "https://sessions.minnestar.org/sessions/2122",
+            "https://sessions.minnestar.org/sessions/2123"
+        ],
+        "/participants/6423": [
+            "https://sessions.minnestar.org/sessions/1894",
+            "https://sessions.minnestar.org/sessions/1899",
+            "https://sessions.minnestar.org/sessions/1908",
+            "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1948",
+            "https://sessions.minnestar.org/sessions/2021",
+            "https://sessions.minnestar.org/sessions/2022",
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2074",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2127"
+        ],
         "/participants/6463": [
             "https://sessions.minnestar.org/sessions/1894",
             "https://sessions.minnestar.org/sessions/1896",
-            "https://sessions.minnestar.org/sessions/1901",
             "https://sessions.minnestar.org/sessions/1902",
             "https://sessions.minnestar.org/sessions/1905",
             "https://sessions.minnestar.org/sessions/1914",
@@ -867,6 +1263,9 @@
             "https://sessions.minnestar.org/sessions/2061",
             "https://sessions.minnestar.org/sessions/2065"
         ],
+        "/participants/6480": [
+            "https://sessions.minnestar.org/sessions/1894"
+        ],
         "/participants/6798": [
             "https://sessions.minnestar.org/sessions/1894",
             "https://sessions.minnestar.org/sessions/1910",
@@ -881,7 +1280,6 @@
         "/participants/6802": [
             "https://sessions.minnestar.org/sessions/1894",
             "https://sessions.minnestar.org/sessions/1895",
-            "https://sessions.minnestar.org/sessions/1901",
             "https://sessions.minnestar.org/sessions/1908",
             "https://sessions.minnestar.org/sessions/1909",
             "https://sessions.minnestar.org/sessions/1915",
@@ -920,22 +1318,25 @@
             "https://sessions.minnestar.org/sessions/2057",
             "https://sessions.minnestar.org/sessions/2059",
             "https://sessions.minnestar.org/sessions/2063",
-            "https://sessions.minnestar.org/sessions/2066"
+            "https://sessions.minnestar.org/sessions/2066",
+            "https://sessions.minnestar.org/sessions/2072",
+            "https://sessions.minnestar.org/sessions/2074",
+            "https://sessions.minnestar.org/sessions/2088",
+            "https://sessions.minnestar.org/sessions/2092",
+            "https://sessions.minnestar.org/sessions/2095",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/6809": [
             "https://sessions.minnestar.org/sessions/1894",
             "https://sessions.minnestar.org/sessions/1905",
             "https://sessions.minnestar.org/sessions/1936",
-            "https://sessions.minnestar.org/sessions/1963",
-            "https://sessions.minnestar.org/sessions/2018",
-            "https://sessions.minnestar.org/sessions/2027"
+            "https://sessions.minnestar.org/sessions/1963"
         ],
         "/participants/6810": [
             "https://sessions.minnestar.org/sessions/1894",
             "https://sessions.minnestar.org/sessions/1896",
             "https://sessions.minnestar.org/sessions/1908",
             "https://sessions.minnestar.org/sessions/1911",
-            "https://sessions.minnestar.org/sessions/1912",
             "https://sessions.minnestar.org/sessions/1913",
             "https://sessions.minnestar.org/sessions/1915",
             "https://sessions.minnestar.org/sessions/1920",
@@ -989,7 +1390,6 @@
             "https://sessions.minnestar.org/sessions/1908",
             "https://sessions.minnestar.org/sessions/1909",
             "https://sessions.minnestar.org/sessions/1911",
-            "https://sessions.minnestar.org/sessions/1912",
             "https://sessions.minnestar.org/sessions/1921",
             "https://sessions.minnestar.org/sessions/1930",
             "https://sessions.minnestar.org/sessions/1966",
@@ -1001,7 +1401,6 @@
         "/participants/6988": [
             "https://sessions.minnestar.org/sessions/1894",
             "https://sessions.minnestar.org/sessions/1895",
-            "https://sessions.minnestar.org/sessions/1901",
             "https://sessions.minnestar.org/sessions/1930",
             "https://sessions.minnestar.org/sessions/1941",
             "https://sessions.minnestar.org/sessions/1946",
@@ -1026,16 +1425,47 @@
             "https://sessions.minnestar.org/sessions/1953",
             "https://sessions.minnestar.org/sessions/1955",
             "https://sessions.minnestar.org/sessions/2038",
-            "https://sessions.minnestar.org/sessions/2062",
-            "https://sessions.minnestar.org/sessions/2070"
+            "https://sessions.minnestar.org/sessions/2062"
         ],
         "/participants/7004": [
             "https://sessions.minnestar.org/sessions/1894",
+            "https://sessions.minnestar.org/sessions/1932",
             "https://sessions.minnestar.org/sessions/1943",
             "https://sessions.minnestar.org/sessions/1945",
             "https://sessions.minnestar.org/sessions/1950",
             "https://sessions.minnestar.org/sessions/1958",
-            "https://sessions.minnestar.org/sessions/2079"
+            "https://sessions.minnestar.org/sessions/2020",
+            "https://sessions.minnestar.org/sessions/2042",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2080",
+            "https://sessions.minnestar.org/sessions/2093",
+            "https://sessions.minnestar.org/sessions/2118",
+            "https://sessions.minnestar.org/sessions/2124"
+        ],
+        "/participants/7036": [
+            "https://sessions.minnestar.org/sessions/1894",
+            "https://sessions.minnestar.org/sessions/1937",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/1955",
+            "https://sessions.minnestar.org/sessions/2029",
+            "https://sessions.minnestar.org/sessions/2039",
+            "https://sessions.minnestar.org/sessions/2042",
+            "https://sessions.minnestar.org/sessions/2076",
+            "https://sessions.minnestar.org/sessions/2095"
+        ],
+        "/participants/7037": [
+            "https://sessions.minnestar.org/sessions/1894",
+            "https://sessions.minnestar.org/sessions/1910",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1948",
+            "https://sessions.minnestar.org/sessions/2014",
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2058",
+            "https://sessions.minnestar.org/sessions/2092",
+            "https://sessions.minnestar.org/sessions/2105",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2124",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/17": [
             "https://sessions.minnestar.org/sessions/1895",
@@ -1051,6 +1481,19 @@
             "https://sessions.minnestar.org/sessions/2108",
             "https://sessions.minnestar.org/sessions/2126"
         ],
+        "/participants/1190": [
+            "https://sessions.minnestar.org/sessions/1895",
+            "https://sessions.minnestar.org/sessions/1907",
+            "https://sessions.minnestar.org/sessions/1915",
+            "https://sessions.minnestar.org/sessions/1921",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2018",
+            "https://sessions.minnestar.org/sessions/2037",
+            "https://sessions.minnestar.org/sessions/2040",
+            "https://sessions.minnestar.org/sessions/2049"
+        ],
         "/participants/2382": [
             "https://sessions.minnestar.org/sessions/1895",
             "https://sessions.minnestar.org/sessions/1896",
@@ -1061,7 +1504,98 @@
             "https://sessions.minnestar.org/sessions/1919",
             "https://sessions.minnestar.org/sessions/1924",
             "https://sessions.minnestar.org/sessions/1929",
-            "https://sessions.minnestar.org/sessions/1931"
+            "https://sessions.minnestar.org/sessions/1931",
+            "https://sessions.minnestar.org/sessions/1942",
+            "https://sessions.minnestar.org/sessions/1950",
+            "https://sessions.minnestar.org/sessions/1958",
+            "https://sessions.minnestar.org/sessions/1965",
+            "https://sessions.minnestar.org/sessions/2022",
+            "https://sessions.minnestar.org/sessions/2026",
+            "https://sessions.minnestar.org/sessions/2027",
+            "https://sessions.minnestar.org/sessions/2028",
+            "https://sessions.minnestar.org/sessions/2051",
+            "https://sessions.minnestar.org/sessions/2055",
+            "https://sessions.minnestar.org/sessions/2063",
+            "https://sessions.minnestar.org/sessions/2073",
+            "https://sessions.minnestar.org/sessions/2082",
+            "https://sessions.minnestar.org/sessions/2092",
+            "https://sessions.minnestar.org/sessions/2095",
+            "https://sessions.minnestar.org/sessions/2097",
+            "https://sessions.minnestar.org/sessions/2101",
+            "https://sessions.minnestar.org/sessions/2103",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2124",
+            "https://sessions.minnestar.org/sessions/2125",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/2968": [
+            "https://sessions.minnestar.org/sessions/1895",
+            "https://sessions.minnestar.org/sessions/1904",
+            "https://sessions.minnestar.org/sessions/1914",
+            "https://sessions.minnestar.org/sessions/1918",
+            "https://sessions.minnestar.org/sessions/1922",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1931",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1936",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/2004",
+            "https://sessions.minnestar.org/sessions/2033",
+            "https://sessions.minnestar.org/sessions/2036",
+            "https://sessions.minnestar.org/sessions/2037",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2058",
+            "https://sessions.minnestar.org/sessions/2069",
+            "https://sessions.minnestar.org/sessions/2086",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2098",
+            "https://sessions.minnestar.org/sessions/2099",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2111",
+            "https://sessions.minnestar.org/sessions/2112",
+            "https://sessions.minnestar.org/sessions/2114",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2123"
+        ],
+        "/participants/4828": [
+            "https://sessions.minnestar.org/sessions/1895",
+            "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2105",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2117",
+            "https://sessions.minnestar.org/sessions/2118",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/5436": [
+            "https://sessions.minnestar.org/sessions/1895",
+            "https://sessions.minnestar.org/sessions/1919",
+            "https://sessions.minnestar.org/sessions/1923",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1927",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1937",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/1956",
+            "https://sessions.minnestar.org/sessions/1965",
+            "https://sessions.minnestar.org/sessions/1969",
+            "https://sessions.minnestar.org/sessions/2004",
+            "https://sessions.minnestar.org/sessions/2034",
+            "https://sessions.minnestar.org/sessions/2082",
+            "https://sessions.minnestar.org/sessions/2088",
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2098",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2120",
+            "https://sessions.minnestar.org/sessions/2122",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/6151": [
             "https://sessions.minnestar.org/sessions/1895",
@@ -1085,6 +1619,39 @@
             "https://sessions.minnestar.org/sessions/1940",
             "https://sessions.minnestar.org/sessions/1941"
         ],
+        "/participants/6362": [
+            "https://sessions.minnestar.org/sessions/1895",
+            "https://sessions.minnestar.org/sessions/1902",
+            "https://sessions.minnestar.org/sessions/1910",
+            "https://sessions.minnestar.org/sessions/1918",
+            "https://sessions.minnestar.org/sessions/1924",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/1948",
+            "https://sessions.minnestar.org/sessions/1950",
+            "https://sessions.minnestar.org/sessions/1952",
+            "https://sessions.minnestar.org/sessions/1957",
+            "https://sessions.minnestar.org/sessions/1963",
+            "https://sessions.minnestar.org/sessions/1965",
+            "https://sessions.minnestar.org/sessions/1966",
+            "https://sessions.minnestar.org/sessions/1967",
+            "https://sessions.minnestar.org/sessions/2005",
+            "https://sessions.minnestar.org/sessions/2006",
+            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2018",
+            "https://sessions.minnestar.org/sessions/2020",
+            "https://sessions.minnestar.org/sessions/2042",
+            "https://sessions.minnestar.org/sessions/2065",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2080",
+            "https://sessions.minnestar.org/sessions/2081",
+            "https://sessions.minnestar.org/sessions/2092",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2121",
+            "https://sessions.minnestar.org/sessions/2122",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
         "/participants/6818": [
             "https://sessions.minnestar.org/sessions/1895",
             "https://sessions.minnestar.org/sessions/1896",
@@ -1104,9 +1671,7 @@
         "/participants/6911": [
             "https://sessions.minnestar.org/sessions/1895",
             "https://sessions.minnestar.org/sessions/1900",
-            "https://sessions.minnestar.org/sessions/1906",
             "https://sessions.minnestar.org/sessions/1911",
-            "https://sessions.minnestar.org/sessions/1912",
             "https://sessions.minnestar.org/sessions/1916",
             "https://sessions.minnestar.org/sessions/1917",
             "https://sessions.minnestar.org/sessions/1919",
@@ -1135,7 +1700,25 @@
             "https://sessions.minnestar.org/sessions/1896",
             "https://sessions.minnestar.org/sessions/1908",
             "https://sessions.minnestar.org/sessions/1910",
-            "https://sessions.minnestar.org/sessions/1953"
+            "https://sessions.minnestar.org/sessions/1953",
+            "https://sessions.minnestar.org/sessions/2039",
+            "https://sessions.minnestar.org/sessions/2084",
+            "https://sessions.minnestar.org/sessions/2101"
+        ],
+        "/participants/2969": [
+            "https://sessions.minnestar.org/sessions/1896",
+            "https://sessions.minnestar.org/sessions/1905",
+            "https://sessions.minnestar.org/sessions/1907",
+            "https://sessions.minnestar.org/sessions/1921",
+            "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1957",
+            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2042",
+            "https://sessions.minnestar.org/sessions/2044",
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2060",
+            "https://sessions.minnestar.org/sessions/2066",
+            "https://sessions.minnestar.org/sessions/2092"
         ],
         "/participants/2973": [
             "https://sessions.minnestar.org/sessions/1896",
@@ -1150,6 +1733,7 @@
             "https://sessions.minnestar.org/sessions/1956",
             "https://sessions.minnestar.org/sessions/1960",
             "https://sessions.minnestar.org/sessions/2023",
+            "https://sessions.minnestar.org/sessions/2043",
             "https://sessions.minnestar.org/sessions/2096",
             "https://sessions.minnestar.org/sessions/2107",
             "https://sessions.minnestar.org/sessions/2126"
@@ -1172,7 +1756,6 @@
         ],
         "/participants/6130": [
             "https://sessions.minnestar.org/sessions/1896",
-            "https://sessions.minnestar.org/sessions/1901",
             "https://sessions.minnestar.org/sessions/1915",
             "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1923",
@@ -1265,6 +1848,7 @@
             "https://sessions.minnestar.org/sessions/1969",
             "https://sessions.minnestar.org/sessions/2040",
             "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2105",
             "https://sessions.minnestar.org/sessions/2108",
             "https://sessions.minnestar.org/sessions/2112",
             "https://sessions.minnestar.org/sessions/2126"
@@ -1280,7 +1864,6 @@
             "https://sessions.minnestar.org/sessions/1899",
             "https://sessions.minnestar.org/sessions/1900",
             "https://sessions.minnestar.org/sessions/1903",
-            "https://sessions.minnestar.org/sessions/1906",
             "https://sessions.minnestar.org/sessions/1910",
             "https://sessions.minnestar.org/sessions/1911",
             "https://sessions.minnestar.org/sessions/1920",
@@ -1307,6 +1890,41 @@
             "https://sessions.minnestar.org/sessions/2033",
             "https://sessions.minnestar.org/sessions/2040"
         ],
+        "/participants/678": [
+            "https://sessions.minnestar.org/sessions/1899",
+            "https://sessions.minnestar.org/sessions/1921",
+            "https://sessions.minnestar.org/sessions/1923",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1935",
+            "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1956",
+            "https://sessions.minnestar.org/sessions/1960",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/2006",
+            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2095",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2105",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2112",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/1793": [
+            "https://sessions.minnestar.org/sessions/1899",
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1937",
+            "https://sessions.minnestar.org/sessions/1956",
+            "https://sessions.minnestar.org/sessions/1960",
+            "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
         "/participants/1910": [
             "https://sessions.minnestar.org/sessions/1899",
             "https://sessions.minnestar.org/sessions/1908",
@@ -1316,31 +1934,39 @@
         ],
         "/participants/3381": [
             "https://sessions.minnestar.org/sessions/1899",
-            "https://sessions.minnestar.org/sessions/1901",
             "https://sessions.minnestar.org/sessions/1923",
+            "https://sessions.minnestar.org/sessions/1925",
             "https://sessions.minnestar.org/sessions/1927",
             "https://sessions.minnestar.org/sessions/1930",
             "https://sessions.minnestar.org/sessions/1935",
             "https://sessions.minnestar.org/sessions/1937",
             "https://sessions.minnestar.org/sessions/1951",
-            "https://sessions.minnestar.org/sessions/1967"
+            "https://sessions.minnestar.org/sessions/1967",
+            "https://sessions.minnestar.org/sessions/1969",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
-        "/participants/6423": [
+        "/participants/6267": [
             "https://sessions.minnestar.org/sessions/1899",
-            "https://sessions.minnestar.org/sessions/1908",
-            "https://sessions.minnestar.org/sessions/2021",
-            "https://sessions.minnestar.org/sessions/2022",
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1927",
+            "https://sessions.minnestar.org/sessions/1941",
             "https://sessions.minnestar.org/sessions/2052",
-            "https://sessions.minnestar.org/sessions/2108"
+            "https://sessions.minnestar.org/sessions/2078",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/6960": [
             "https://sessions.minnestar.org/sessions/1899",
             "https://sessions.minnestar.org/sessions/2011",
             "https://sessions.minnestar.org/sessions/2014",
             "https://sessions.minnestar.org/sessions/2034",
+            "https://sessions.minnestar.org/sessions/2039",
             "https://sessions.minnestar.org/sessions/2048",
             "https://sessions.minnestar.org/sessions/2049",
-            "https://sessions.minnestar.org/sessions/2051"
+            "https://sessions.minnestar.org/sessions/2051",
+            "https://sessions.minnestar.org/sessions/2064"
         ],
         "/participants/7014": [
             "https://sessions.minnestar.org/sessions/1899",
@@ -1358,7 +1984,6 @@
         "/participants/459": [
             "https://sessions.minnestar.org/sessions/1900",
             "https://sessions.minnestar.org/sessions/1903",
-            "https://sessions.minnestar.org/sessions/1906",
             "https://sessions.minnestar.org/sessions/1911",
             "https://sessions.minnestar.org/sessions/1919",
             "https://sessions.minnestar.org/sessions/1965",
@@ -1370,27 +1995,7 @@
             "https://sessions.minnestar.org/sessions/2053",
             "https://sessions.minnestar.org/sessions/2061"
         ],
-        "/participants/208": [
-            "https://sessions.minnestar.org/sessions/1901",
-            "https://sessions.minnestar.org/sessions/1908",
-            "https://sessions.minnestar.org/sessions/1911",
-            "https://sessions.minnestar.org/sessions/1915",
-            "https://sessions.minnestar.org/sessions/1930",
-            "https://sessions.minnestar.org/sessions/1944",
-            "https://sessions.minnestar.org/sessions/1957",
-            "https://sessions.minnestar.org/sessions/2058",
-            "https://sessions.minnestar.org/sessions/2079",
-            "https://sessions.minnestar.org/sessions/2080",
-            "https://sessions.minnestar.org/sessions/2081"
-        ],
-        "/participants/278": [
-            "https://sessions.minnestar.org/sessions/1901",
-            "https://sessions.minnestar.org/sessions/1911",
-            "https://sessions.minnestar.org/sessions/2005",
-            "https://sessions.minnestar.org/sessions/2021"
-        ],
         "/participants/1478": [
-            "https://sessions.minnestar.org/sessions/1901",
             "https://sessions.minnestar.org/sessions/1902",
             "https://sessions.minnestar.org/sessions/1908",
             "https://sessions.minnestar.org/sessions/1909",
@@ -1402,147 +2007,90 @@
             "https://sessions.minnestar.org/sessions/1930",
             "https://sessions.minnestar.org/sessions/1940"
         ],
-        "/participants/4390": [
-            "https://sessions.minnestar.org/sessions/1901",
-            "https://sessions.minnestar.org/sessions/1910",
-            "https://sessions.minnestar.org/sessions/1912",
-            "https://sessions.minnestar.org/sessions/1916",
-            "https://sessions.minnestar.org/sessions/1918",
-            "https://sessions.minnestar.org/sessions/1920",
-            "https://sessions.minnestar.org/sessions/1935",
-            "https://sessions.minnestar.org/sessions/1949",
-            "https://sessions.minnestar.org/sessions/1954",
-            "https://sessions.minnestar.org/sessions/1957",
-            "https://sessions.minnestar.org/sessions/2014",
-            "https://sessions.minnestar.org/sessions/2017",
-            "https://sessions.minnestar.org/sessions/2018"
-        ],
-        "/participants/4672": [
-            "https://sessions.minnestar.org/sessions/1901",
-            "https://sessions.minnestar.org/sessions/1920",
-            "https://sessions.minnestar.org/sessions/1925",
-            "https://sessions.minnestar.org/sessions/1930",
-            "https://sessions.minnestar.org/sessions/1935",
-            "https://sessions.minnestar.org/sessions/1942",
-            "https://sessions.minnestar.org/sessions/1960",
-            "https://sessions.minnestar.org/sessions/1961",
-            "https://sessions.minnestar.org/sessions/1965",
-            "https://sessions.minnestar.org/sessions/2022",
-            "https://sessions.minnestar.org/sessions/2063",
-            "https://sessions.minnestar.org/sessions/2104",
-            "https://sessions.minnestar.org/sessions/2108",
-            "https://sessions.minnestar.org/sessions/2126"
-        ],
-        "/participants/4733": [
-            "https://sessions.minnestar.org/sessions/1901",
-            "https://sessions.minnestar.org/sessions/1907",
-            "https://sessions.minnestar.org/sessions/1910",
-            "https://sessions.minnestar.org/sessions/1930",
-            "https://sessions.minnestar.org/sessions/1935",
-            "https://sessions.minnestar.org/sessions/1937",
-            "https://sessions.minnestar.org/sessions/1942",
-            "https://sessions.minnestar.org/sessions/1944",
-            "https://sessions.minnestar.org/sessions/1945",
-            "https://sessions.minnestar.org/sessions/1951",
-            "https://sessions.minnestar.org/sessions/2011"
-        ],
-        "/participants/5603": [
-            "https://sessions.minnestar.org/sessions/1901",
-            "https://sessions.minnestar.org/sessions/1933",
-            "https://sessions.minnestar.org/sessions/1941",
-            "https://sessions.minnestar.org/sessions/1949",
-            "https://sessions.minnestar.org/sessions/1955",
-            "https://sessions.minnestar.org/sessions/1958",
-            "https://sessions.minnestar.org/sessions/2014",
-            "https://sessions.minnestar.org/sessions/2020",
-            "https://sessions.minnestar.org/sessions/2036",
-            "https://sessions.minnestar.org/sessions/2052",
-            "https://sessions.minnestar.org/sessions/2124"
-        ],
-        "/participants/5997": [
-            "https://sessions.minnestar.org/sessions/1901"
-        ],
-        "/participants/6268": [
-            "https://sessions.minnestar.org/sessions/1901",
-            "https://sessions.minnestar.org/sessions/1907",
-            "https://sessions.minnestar.org/sessions/1920",
-            "https://sessions.minnestar.org/sessions/1921",
-            "https://sessions.minnestar.org/sessions/1922",
-            "https://sessions.minnestar.org/sessions/1935",
-            "https://sessions.minnestar.org/sessions/1944",
-            "https://sessions.minnestar.org/sessions/1945",
-            "https://sessions.minnestar.org/sessions/1951",
-            "https://sessions.minnestar.org/sessions/1959",
-            "https://sessions.minnestar.org/sessions/1961",
-            "https://sessions.minnestar.org/sessions/2004",
-            "https://sessions.minnestar.org/sessions/2005",
-            "https://sessions.minnestar.org/sessions/2006",
-            "https://sessions.minnestar.org/sessions/2022",
-            "https://sessions.minnestar.org/sessions/2023",
-            "https://sessions.minnestar.org/sessions/2036",
-            "https://sessions.minnestar.org/sessions/2047"
-        ],
-        "/participants/6966": [
-            "https://sessions.minnestar.org/sessions/1901",
-            "https://sessions.minnestar.org/sessions/2047",
-            "https://sessions.minnestar.org/sessions/2052"
-        ],
-        "/participants/7011": [
-            "https://sessions.minnestar.org/sessions/1901",
+        "/participants/6189": [
+            "https://sessions.minnestar.org/sessions/1902",
             "https://sessions.minnestar.org/sessions/1905",
-            "https://sessions.minnestar.org/sessions/1909",
-            "https://sessions.minnestar.org/sessions/1914",
-            "https://sessions.minnestar.org/sessions/1915",
-            "https://sessions.minnestar.org/sessions/1916",
-            "https://sessions.minnestar.org/sessions/1923",
+            "https://sessions.minnestar.org/sessions/1910",
+            "https://sessions.minnestar.org/sessions/1911",
+            "https://sessions.minnestar.org/sessions/1917",
+            "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1927",
-            "https://sessions.minnestar.org/sessions/1932",
-            "https://sessions.minnestar.org/sessions/1933",
-            "https://sessions.minnestar.org/sessions/1940",
-            "https://sessions.minnestar.org/sessions/1941",
-            "https://sessions.minnestar.org/sessions/1945",
-            "https://sessions.minnestar.org/sessions/1948",
-            "https://sessions.minnestar.org/sessions/1950",
-            "https://sessions.minnestar.org/sessions/1951",
-            "https://sessions.minnestar.org/sessions/2002",
-            "https://sessions.minnestar.org/sessions/2005",
-            "https://sessions.minnestar.org/sessions/2015",
+            "https://sessions.minnestar.org/sessions/1967",
+            "https://sessions.minnestar.org/sessions/2007",
+            "https://sessions.minnestar.org/sessions/2014",
             "https://sessions.minnestar.org/sessions/2016",
-            "https://sessions.minnestar.org/sessions/2020",
+            "https://sessions.minnestar.org/sessions/2022",
             "https://sessions.minnestar.org/sessions/2024",
             "https://sessions.minnestar.org/sessions/2026",
-            "https://sessions.minnestar.org/sessions/2032",
             "https://sessions.minnestar.org/sessions/2033",
-            "https://sessions.minnestar.org/sessions/2036",
-            "https://sessions.minnestar.org/sessions/2039",
-            "https://sessions.minnestar.org/sessions/2046",
-            "https://sessions.minnestar.org/sessions/2049",
+            "https://sessions.minnestar.org/sessions/2034",
+            "https://sessions.minnestar.org/sessions/2048",
             "https://sessions.minnestar.org/sessions/2050",
-            "https://sessions.minnestar.org/sessions/2051",
-            "https://sessions.minnestar.org/sessions/2053",
-            "https://sessions.minnestar.org/sessions/2056",
-            "https://sessions.minnestar.org/sessions/2058",
-            "https://sessions.minnestar.org/sessions/2064",
-            "https://sessions.minnestar.org/sessions/2070",
-            "https://sessions.minnestar.org/sessions/2076",
-            "https://sessions.minnestar.org/sessions/2081",
-            "https://sessions.minnestar.org/sessions/2086"
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2055",
+            "https://sessions.minnestar.org/sessions/2071",
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2100",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2105",
+            "https://sessions.minnestar.org/sessions/2107",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2122",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/128": [
             "https://sessions.minnestar.org/sessions/1903",
+            "https://sessions.minnestar.org/sessions/1910",
             "https://sessions.minnestar.org/sessions/1918",
             "https://sessions.minnestar.org/sessions/1919",
             "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1923",
             "https://sessions.minnestar.org/sessions/1924",
             "https://sessions.minnestar.org/sessions/1925",
             "https://sessions.minnestar.org/sessions/1929",
+            "https://sessions.minnestar.org/sessions/1930",
             "https://sessions.minnestar.org/sessions/1932",
             "https://sessions.minnestar.org/sessions/1935",
             "https://sessions.minnestar.org/sessions/1937",
+            "https://sessions.minnestar.org/sessions/1945",
+            "https://sessions.minnestar.org/sessions/1951",
             "https://sessions.minnestar.org/sessions/1960",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/2006",
+            "https://sessions.minnestar.org/sessions/2008",
+            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2096",
             "https://sessions.minnestar.org/sessions/2105",
             "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2117",
+            "https://sessions.minnestar.org/sessions/2120",
             "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/406": [
+            "https://sessions.minnestar.org/sessions/1903",
+            "https://sessions.minnestar.org/sessions/1918",
+            "https://sessions.minnestar.org/sessions/1936",
+            "https://sessions.minnestar.org/sessions/1947",
+            "https://sessions.minnestar.org/sessions/1951",
+            "https://sessions.minnestar.org/sessions/1965",
+            "https://sessions.minnestar.org/sessions/2004",
+            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2013",
+            "https://sessions.minnestar.org/sessions/2020",
+            "https://sessions.minnestar.org/sessions/2021",
+            "https://sessions.minnestar.org/sessions/2022",
+            "https://sessions.minnestar.org/sessions/2029",
+            "https://sessions.minnestar.org/sessions/2034",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2064",
+            "https://sessions.minnestar.org/sessions/2066",
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2094",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2100",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2114"
         ],
         "/participants/453": [
             "https://sessions.minnestar.org/sessions/1903",
@@ -1561,12 +2109,18 @@
             "https://sessions.minnestar.org/sessions/1949",
             "https://sessions.minnestar.org/sessions/1965",
             "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2095",
             "https://sessions.minnestar.org/sessions/2104",
             "https://sessions.minnestar.org/sessions/2108"
         ],
+        "/participants/4965": [
+            "https://sessions.minnestar.org/sessions/1903",
+            "https://sessions.minnestar.org/sessions/1916",
+            "https://sessions.minnestar.org/sessions/2048",
+            "https://sessions.minnestar.org/sessions/2050"
+        ],
         "/participants/6953": [
             "https://sessions.minnestar.org/sessions/1903",
-            "https://sessions.minnestar.org/sessions/1906",
             "https://sessions.minnestar.org/sessions/1925",
             "https://sessions.minnestar.org/sessions/2008",
             "https://sessions.minnestar.org/sessions/2048"
@@ -1576,7 +2130,12 @@
             "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1925",
             "https://sessions.minnestar.org/sessions/1945",
-            "https://sessions.minnestar.org/sessions/1952"
+            "https://sessions.minnestar.org/sessions/1952",
+            "https://sessions.minnestar.org/sessions/2008",
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2093",
+            "https://sessions.minnestar.org/sessions/2095",
+            "https://sessions.minnestar.org/sessions/2118"
         ],
         "/participants/906": [
             "https://sessions.minnestar.org/sessions/1905",
@@ -1584,6 +2143,15 @@
             "https://sessions.minnestar.org/sessions/1961",
             "https://sessions.minnestar.org/sessions/2011",
             "https://sessions.minnestar.org/sessions/2040"
+        ],
+        "/participants/5526": [
+            "https://sessions.minnestar.org/sessions/1905",
+            "https://sessions.minnestar.org/sessions/2050",
+            "https://sessions.minnestar.org/sessions/2058",
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2125",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/5563": [
             "https://sessions.minnestar.org/sessions/1905",
@@ -1593,6 +2161,14 @@
             "https://sessions.minnestar.org/sessions/1936",
             "https://sessions.minnestar.org/sessions/1941",
             "https://sessions.minnestar.org/sessions/1942"
+        ],
+        "/participants/6003": [
+            "https://sessions.minnestar.org/sessions/1905",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1936",
+            "https://sessions.minnestar.org/sessions/2002",
+            "https://sessions.minnestar.org/sessions/2033",
+            "https://sessions.minnestar.org/sessions/2038"
         ],
         "/participants/6164": [
             "https://sessions.minnestar.org/sessions/1905",
@@ -1608,7 +2184,8 @@
             "https://sessions.minnestar.org/sessions/2039",
             "https://sessions.minnestar.org/sessions/2057",
             "https://sessions.minnestar.org/sessions/2063",
-            "https://sessions.minnestar.org/sessions/2064"
+            "https://sessions.minnestar.org/sessions/2064",
+            "https://sessions.minnestar.org/sessions/2072"
         ],
         "/participants/6169": [
             "https://sessions.minnestar.org/sessions/1905",
@@ -1649,7 +2226,12 @@
             "https://sessions.minnestar.org/sessions/1936",
             "https://sessions.minnestar.org/sessions/1941",
             "https://sessions.minnestar.org/sessions/1959",
-            "https://sessions.minnestar.org/sessions/2038"
+            "https://sessions.minnestar.org/sessions/2038",
+            "https://sessions.minnestar.org/sessions/2064",
+            "https://sessions.minnestar.org/sessions/2074",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2080",
+            "https://sessions.minnestar.org/sessions/2095"
         ],
         "/participants/6515": [
             "https://sessions.minnestar.org/sessions/1905",
@@ -1664,45 +2246,69 @@
             "https://sessions.minnestar.org/sessions/2041",
             "https://sessions.minnestar.org/sessions/2045"
         ],
-        "/participants/3288": [
-            "https://sessions.minnestar.org/sessions/1906",
-            "https://sessions.minnestar.org/sessions/1907",
-            "https://sessions.minnestar.org/sessions/1908",
-            "https://sessions.minnestar.org/sessions/1910",
-            "https://sessions.minnestar.org/sessions/1920",
-            "https://sessions.minnestar.org/sessions/1921",
-            "https://sessions.minnestar.org/sessions/1939",
-            "https://sessions.minnestar.org/sessions/1945",
-            "https://sessions.minnestar.org/sessions/1946",
-            "https://sessions.minnestar.org/sessions/1953",
-            "https://sessions.minnestar.org/sessions/1959",
-            "https://sessions.minnestar.org/sessions/1960",
-            "https://sessions.minnestar.org/sessions/1961",
-            "https://sessions.minnestar.org/sessions/1967",
-            "https://sessions.minnestar.org/sessions/1969",
-            "https://sessions.minnestar.org/sessions/2003",
-            "https://sessions.minnestar.org/sessions/2008",
-            "https://sessions.minnestar.org/sessions/2017",
-            "https://sessions.minnestar.org/sessions/2091"
-        ],
-        "/participants/6261": [
-            "https://sessions.minnestar.org/sessions/1906",
-            "https://sessions.minnestar.org/sessions/1910",
-            "https://sessions.minnestar.org/sessions/1920",
+        "/participants/7011": [
+            "https://sessions.minnestar.org/sessions/1905",
+            "https://sessions.minnestar.org/sessions/1909",
+            "https://sessions.minnestar.org/sessions/1914",
+            "https://sessions.minnestar.org/sessions/1915",
+            "https://sessions.minnestar.org/sessions/1916",
             "https://sessions.minnestar.org/sessions/1923",
-            "https://sessions.minnestar.org/sessions/1925",
-            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1927",
+            "https://sessions.minnestar.org/sessions/1932",
             "https://sessions.minnestar.org/sessions/1933",
-            "https://sessions.minnestar.org/sessions/1935",
+            "https://sessions.minnestar.org/sessions/1940",
             "https://sessions.minnestar.org/sessions/1941",
-            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/1945",
+            "https://sessions.minnestar.org/sessions/1948",
             "https://sessions.minnestar.org/sessions/1950",
             "https://sessions.minnestar.org/sessions/1951",
-            "https://sessions.minnestar.org/sessions/1960",
-            "https://sessions.minnestar.org/sessions/2003",
-            "https://sessions.minnestar.org/sessions/2018",
+            "https://sessions.minnestar.org/sessions/2002",
+            "https://sessions.minnestar.org/sessions/2005",
+            "https://sessions.minnestar.org/sessions/2015",
+            "https://sessions.minnestar.org/sessions/2016",
+            "https://sessions.minnestar.org/sessions/2020",
+            "https://sessions.minnestar.org/sessions/2024",
+            "https://sessions.minnestar.org/sessions/2026",
+            "https://sessions.minnestar.org/sessions/2032",
+            "https://sessions.minnestar.org/sessions/2033",
+            "https://sessions.minnestar.org/sessions/2036",
+            "https://sessions.minnestar.org/sessions/2039",
+            "https://sessions.minnestar.org/sessions/2046",
+            "https://sessions.minnestar.org/sessions/2049",
+            "https://sessions.minnestar.org/sessions/2050",
+            "https://sessions.minnestar.org/sessions/2051",
+            "https://sessions.minnestar.org/sessions/2053",
+            "https://sessions.minnestar.org/sessions/2056",
+            "https://sessions.minnestar.org/sessions/2058",
+            "https://sessions.minnestar.org/sessions/2064",
+            "https://sessions.minnestar.org/sessions/2076",
+            "https://sessions.minnestar.org/sessions/2081",
+            "https://sessions.minnestar.org/sessions/2086"
+        ],
+        "/participants/7021": [
+            "https://sessions.minnestar.org/sessions/1905",
+            "https://sessions.minnestar.org/sessions/1911",
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1937",
+            "https://sessions.minnestar.org/sessions/1945",
+            "https://sessions.minnestar.org/sessions/1952",
+            "https://sessions.minnestar.org/sessions/1966",
+            "https://sessions.minnestar.org/sessions/2004",
+            "https://sessions.minnestar.org/sessions/2008",
+            "https://sessions.minnestar.org/sessions/2011",
             "https://sessions.minnestar.org/sessions/2022",
-            "https://sessions.minnestar.org/sessions/2023"
+            "https://sessions.minnestar.org/sessions/2024",
+            "https://sessions.minnestar.org/sessions/2034",
+            "https://sessions.minnestar.org/sessions/2040",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2048",
+            "https://sessions.minnestar.org/sessions/2050",
+            "https://sessions.minnestar.org/sessions/2064",
+            "https://sessions.minnestar.org/sessions/2066",
+            "https://sessions.minnestar.org/sessions/2107"
         ],
         "/participants/750": [
             "https://sessions.minnestar.org/sessions/1907",
@@ -1720,15 +2326,28 @@
             "https://sessions.minnestar.org/sessions/2073",
             "https://sessions.minnestar.org/sessions/2079",
             "https://sessions.minnestar.org/sessions/2080",
-            "https://sessions.minnestar.org/sessions/2089"
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2124"
         ],
-        "/participants/2549": [
+        "/participants/3288": [
             "https://sessions.minnestar.org/sessions/1907",
-            "https://sessions.minnestar.org/sessions/1936",
-            "https://sessions.minnestar.org/sessions/1937",
-            "https://sessions.minnestar.org/sessions/1941",
-            "https://sessions.minnestar.org/sessions/1948",
-            "https://sessions.minnestar.org/sessions/1950"
+            "https://sessions.minnestar.org/sessions/1908",
+            "https://sessions.minnestar.org/sessions/1910",
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1921",
+            "https://sessions.minnestar.org/sessions/1939",
+            "https://sessions.minnestar.org/sessions/1945",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/1953",
+            "https://sessions.minnestar.org/sessions/1959",
+            "https://sessions.minnestar.org/sessions/1960",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/1967",
+            "https://sessions.minnestar.org/sessions/1969",
+            "https://sessions.minnestar.org/sessions/2003",
+            "https://sessions.minnestar.org/sessions/2008",
+            "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2076"
         ],
         "/participants/4189": [
             "https://sessions.minnestar.org/sessions/1907",
@@ -1745,18 +2364,49 @@
             "https://sessions.minnestar.org/sessions/1969",
             "https://sessions.minnestar.org/sessions/2004"
         ],
-        "/participants/5556": [
+        "/participants/4733": [
             "https://sessions.minnestar.org/sessions/1907",
-            "https://sessions.minnestar.org/sessions/1941",
-            "https://sessions.minnestar.org/sessions/2002",
-            "https://sessions.minnestar.org/sessions/2016",
-            "https://sessions.minnestar.org/sessions/2050",
+            "https://sessions.minnestar.org/sessions/1910",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1935",
+            "https://sessions.minnestar.org/sessions/1937",
+            "https://sessions.minnestar.org/sessions/1942",
+            "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1945",
+            "https://sessions.minnestar.org/sessions/1951",
+            "https://sessions.minnestar.org/sessions/2011"
+        ],
+        "/participants/6146": [
+            "https://sessions.minnestar.org/sessions/1907",
+            "https://sessions.minnestar.org/sessions/1927",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1939",
+            "https://sessions.minnestar.org/sessions/1953",
+            "https://sessions.minnestar.org/sessions/2067",
             "https://sessions.minnestar.org/sessions/2074",
-            "https://sessions.minnestar.org/sessions/2078",
-            "https://sessions.minnestar.org/sessions/2100",
-            "https://sessions.minnestar.org/sessions/2101",
-            "https://sessions.minnestar.org/sessions/2123",
-            "https://sessions.minnestar.org/sessions/2124"
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2090",
+            "https://sessions.minnestar.org/sessions/2095",
+            "https://sessions.minnestar.org/sessions/2114"
+        ],
+        "/participants/6268": [
+            "https://sessions.minnestar.org/sessions/1907",
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1921",
+            "https://sessions.minnestar.org/sessions/1922",
+            "https://sessions.minnestar.org/sessions/1935",
+            "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1945",
+            "https://sessions.minnestar.org/sessions/1951",
+            "https://sessions.minnestar.org/sessions/1959",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/2004",
+            "https://sessions.minnestar.org/sessions/2005",
+            "https://sessions.minnestar.org/sessions/2006",
+            "https://sessions.minnestar.org/sessions/2022",
+            "https://sessions.minnestar.org/sessions/2023",
+            "https://sessions.minnestar.org/sessions/2036",
+            "https://sessions.minnestar.org/sessions/2047"
         ],
         "/participants/6458": [
             "https://sessions.minnestar.org/sessions/1907",
@@ -1777,24 +2427,34 @@
         ],
         "/participants/156": [
             "https://sessions.minnestar.org/sessions/1908",
-            "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1921",
             "https://sessions.minnestar.org/sessions/1925",
             "https://sessions.minnestar.org/sessions/1930",
             "https://sessions.minnestar.org/sessions/1935",
             "https://sessions.minnestar.org/sessions/1937",
-            "https://sessions.minnestar.org/sessions/1944",
             "https://sessions.minnestar.org/sessions/1956",
             "https://sessions.minnestar.org/sessions/2011",
             "https://sessions.minnestar.org/sessions/2040",
             "https://sessions.minnestar.org/sessions/2041",
-            "https://sessions.minnestar.org/sessions/2047",
             "https://sessions.minnestar.org/sessions/2079",
             "https://sessions.minnestar.org/sessions/2083",
+            "https://sessions.minnestar.org/sessions/2095",
             "https://sessions.minnestar.org/sessions/2104",
             "https://sessions.minnestar.org/sessions/2105",
             "https://sessions.minnestar.org/sessions/2108",
             "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/208": [
+            "https://sessions.minnestar.org/sessions/1908",
+            "https://sessions.minnestar.org/sessions/1911",
+            "https://sessions.minnestar.org/sessions/1915",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1957",
+            "https://sessions.minnestar.org/sessions/2058",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2080",
+            "https://sessions.minnestar.org/sessions/2081"
         ],
         "/participants/1060": [
             "https://sessions.minnestar.org/sessions/1908",
@@ -1859,7 +2519,8 @@
             "https://sessions.minnestar.org/sessions/1935",
             "https://sessions.minnestar.org/sessions/1960",
             "https://sessions.minnestar.org/sessions/1967",
-            "https://sessions.minnestar.org/sessions/2061"
+            "https://sessions.minnestar.org/sessions/2061",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/4707": [
             "https://sessions.minnestar.org/sessions/1908",
@@ -1887,6 +2548,30 @@
         "/participants/6213": [
             "https://sessions.minnestar.org/sessions/1908"
         ],
+        "/participants/6241": [
+            "https://sessions.minnestar.org/sessions/1908",
+            "https://sessions.minnestar.org/sessions/1939",
+            "https://sessions.minnestar.org/sessions/1940",
+            "https://sessions.minnestar.org/sessions/1953",
+            "https://sessions.minnestar.org/sessions/1962",
+            "https://sessions.minnestar.org/sessions/2038",
+            "https://sessions.minnestar.org/sessions/2043",
+            "https://sessions.minnestar.org/sessions/2074",
+            "https://sessions.minnestar.org/sessions/2101",
+            "https://sessions.minnestar.org/sessions/2120"
+        ],
+        "/participants/6443": [
+            "https://sessions.minnestar.org/sessions/1908",
+            "https://sessions.minnestar.org/sessions/2122",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/6811": [
+            "https://sessions.minnestar.org/sessions/1908",
+            "https://sessions.minnestar.org/sessions/1939",
+            "https://sessions.minnestar.org/sessions/2038",
+            "https://sessions.minnestar.org/sessions/2057",
+            "https://sessions.minnestar.org/sessions/2098"
+        ],
         "/participants/6817": [
             "https://sessions.minnestar.org/sessions/1908",
             "https://sessions.minnestar.org/sessions/1919",
@@ -1899,12 +2584,17 @@
         ],
         "/participants/6821": [
             "https://sessions.minnestar.org/sessions/1908",
+            "https://sessions.minnestar.org/sessions/1910",
             "https://sessions.minnestar.org/sessions/1913",
             "https://sessions.minnestar.org/sessions/1927",
             "https://sessions.minnestar.org/sessions/1953",
             "https://sessions.minnestar.org/sessions/2026",
             "https://sessions.minnestar.org/sessions/2038",
-            "https://sessions.minnestar.org/sessions/2063"
+            "https://sessions.minnestar.org/sessions/2063",
+            "https://sessions.minnestar.org/sessions/2074",
+            "https://sessions.minnestar.org/sessions/2090",
+            "https://sessions.minnestar.org/sessions/2092",
+            "https://sessions.minnestar.org/sessions/2093"
         ],
         "/participants/6993": [
             "https://sessions.minnestar.org/sessions/1908",
@@ -1929,8 +2619,9 @@
         ],
         "/participants/2899": [
             "https://sessions.minnestar.org/sessions/1909",
-            "https://sessions.minnestar.org/sessions/1915",
-            "https://sessions.minnestar.org/sessions/1930"
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/2092",
+            "https://sessions.minnestar.org/sessions/2125"
         ],
         "/participants/5387": [
             "https://sessions.minnestar.org/sessions/1909",
@@ -1941,17 +2632,87 @@
         ],
         "/participants/6793": [
             "https://sessions.minnestar.org/sessions/1909",
-            "https://sessions.minnestar.org/sessions/1922"
+            "https://sessions.minnestar.org/sessions/1922",
+            "https://sessions.minnestar.org/sessions/2120"
         ],
         "/participants/6815": [
             "https://sessions.minnestar.org/sessions/1909",
+            "https://sessions.minnestar.org/sessions/2017",
             "https://sessions.minnestar.org/sessions/2115",
-            "https://sessions.minnestar.org/sessions/2120"
+            "https://sessions.minnestar.org/sessions/2120",
+            "https://sessions.minnestar.org/sessions/2124"
+        ],
+        "/participants/563": [
+            "https://sessions.minnestar.org/sessions/1910",
+            "https://sessions.minnestar.org/sessions/1911",
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1941",
+            "https://sessions.minnestar.org/sessions/1953",
+            "https://sessions.minnestar.org/sessions/1965",
+            "https://sessions.minnestar.org/sessions/1969",
+            "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2032",
+            "https://sessions.minnestar.org/sessions/2036",
+            "https://sessions.minnestar.org/sessions/2040",
+            "https://sessions.minnestar.org/sessions/2046",
+            "https://sessions.minnestar.org/sessions/2051",
+            "https://sessions.minnestar.org/sessions/2063",
+            "https://sessions.minnestar.org/sessions/2083",
+            "https://sessions.minnestar.org/sessions/2090",
+            "https://sessions.minnestar.org/sessions/2092"
         ],
         "/participants/2908": [
             "https://sessions.minnestar.org/sessions/1910",
             "https://sessions.minnestar.org/sessions/1929",
             "https://sessions.minnestar.org/sessions/2010"
+        ],
+        "/participants/4390": [
+            "https://sessions.minnestar.org/sessions/1910",
+            "https://sessions.minnestar.org/sessions/1916",
+            "https://sessions.minnestar.org/sessions/1918",
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1935",
+            "https://sessions.minnestar.org/sessions/1949",
+            "https://sessions.minnestar.org/sessions/1954",
+            "https://sessions.minnestar.org/sessions/1957",
+            "https://sessions.minnestar.org/sessions/2014",
+            "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2018"
+        ],
+        "/participants/5306": [
+            "https://sessions.minnestar.org/sessions/1910",
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/2016",
+            "https://sessions.minnestar.org/sessions/2036",
+            "https://sessions.minnestar.org/sessions/2049",
+            "https://sessions.minnestar.org/sessions/2069",
+            "https://sessions.minnestar.org/sessions/2083",
+            "https://sessions.minnestar.org/sessions/2103",
+            "https://sessions.minnestar.org/sessions/2105",
+            "https://sessions.minnestar.org/sessions/2106",
+            "https://sessions.minnestar.org/sessions/2111",
+            "https://sessions.minnestar.org/sessions/2117",
+            "https://sessions.minnestar.org/sessions/2120"
+        ],
+        "/participants/6261": [
+            "https://sessions.minnestar.org/sessions/1910",
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1923",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1933",
+            "https://sessions.minnestar.org/sessions/1935",
+            "https://sessions.minnestar.org/sessions/1941",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/1950",
+            "https://sessions.minnestar.org/sessions/1951",
+            "https://sessions.minnestar.org/sessions/1960",
+            "https://sessions.minnestar.org/sessions/2003",
+            "https://sessions.minnestar.org/sessions/2018",
+            "https://sessions.minnestar.org/sessions/2022",
+            "https://sessions.minnestar.org/sessions/2023"
         ],
         "/participants/6900": [
             "https://sessions.minnestar.org/sessions/1910",
@@ -1978,6 +2739,51 @@
             "https://sessions.minnestar.org/sessions/1910",
             "https://sessions.minnestar.org/sessions/2061"
         ],
+        "/participants/7050": [
+            "https://sessions.minnestar.org/sessions/1910",
+            "https://sessions.minnestar.org/sessions/1916",
+            "https://sessions.minnestar.org/sessions/2002",
+            "https://sessions.minnestar.org/sessions/2004",
+            "https://sessions.minnestar.org/sessions/2020",
+            "https://sessions.minnestar.org/sessions/2035",
+            "https://sessions.minnestar.org/sessions/2037",
+            "https://sessions.minnestar.org/sessions/2105",
+            "https://sessions.minnestar.org/sessions/2118",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/7082": [
+            "https://sessions.minnestar.org/sessions/1910",
+            "https://sessions.minnestar.org/sessions/1921",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1931",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1934",
+            "https://sessions.minnestar.org/sessions/1935",
+            "https://sessions.minnestar.org/sessions/1937",
+            "https://sessions.minnestar.org/sessions/1942",
+            "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1945",
+            "https://sessions.minnestar.org/sessions/1947",
+            "https://sessions.minnestar.org/sessions/1948",
+            "https://sessions.minnestar.org/sessions/1958",
+            "https://sessions.minnestar.org/sessions/1962",
+            "https://sessions.minnestar.org/sessions/1967",
+            "https://sessions.minnestar.org/sessions/2003",
+            "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2024",
+            "https://sessions.minnestar.org/sessions/2029",
+            "https://sessions.minnestar.org/sessions/2040",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2063",
+            "https://sessions.minnestar.org/sessions/2066",
+            "https://sessions.minnestar.org/sessions/2067",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2120",
+            "https://sessions.minnestar.org/sessions/2123",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
         "/participants/10": [
             "https://sessions.minnestar.org/sessions/1911",
             "https://sessions.minnestar.org/sessions/1915",
@@ -1991,28 +2797,23 @@
             "https://sessions.minnestar.org/sessions/2094",
             "https://sessions.minnestar.org/sessions/2095"
         ],
+        "/participants/278": [
+            "https://sessions.minnestar.org/sessions/1911",
+            "https://sessions.minnestar.org/sessions/2005",
+            "https://sessions.minnestar.org/sessions/2021"
+        ],
         "/participants/917": [
             "https://sessions.minnestar.org/sessions/1911",
-            "https://sessions.minnestar.org/sessions/1914",
-            "https://sessions.minnestar.org/sessions/1916",
             "https://sessions.minnestar.org/sessions/1918",
             "https://sessions.minnestar.org/sessions/1925",
-            "https://sessions.minnestar.org/sessions/1927",
             "https://sessions.minnestar.org/sessions/1930",
             "https://sessions.minnestar.org/sessions/1932",
-            "https://sessions.minnestar.org/sessions/1936",
             "https://sessions.minnestar.org/sessions/1946",
-            "https://sessions.minnestar.org/sessions/1947",
-            "https://sessions.minnestar.org/sessions/1949",
-            "https://sessions.minnestar.org/sessions/1960",
             "https://sessions.minnestar.org/sessions/2014",
             "https://sessions.minnestar.org/sessions/2034",
             "https://sessions.minnestar.org/sessions/2055",
             "https://sessions.minnestar.org/sessions/2079",
-            "https://sessions.minnestar.org/sessions/2089",
-            "https://sessions.minnestar.org/sessions/2098",
-            "https://sessions.minnestar.org/sessions/2108",
-            "https://sessions.minnestar.org/sessions/2126"
+            "https://sessions.minnestar.org/sessions/2095"
         ],
         "/participants/2481": [
             "https://sessions.minnestar.org/sessions/1911"
@@ -2028,7 +2829,6 @@
         ],
         "/participants/7008": [
             "https://sessions.minnestar.org/sessions/1911",
-            "https://sessions.minnestar.org/sessions/1912",
             "https://sessions.minnestar.org/sessions/1915",
             "https://sessions.minnestar.org/sessions/1933",
             "https://sessions.minnestar.org/sessions/1943",
@@ -2036,17 +2836,6 @@
             "https://sessions.minnestar.org/sessions/2023",
             "https://sessions.minnestar.org/sessions/2035",
             "https://sessions.minnestar.org/sessions/2084"
-        ],
-        "/participants/6880": [
-            "https://sessions.minnestar.org/sessions/1912",
-            "https://sessions.minnestar.org/sessions/1923",
-            "https://sessions.minnestar.org/sessions/1932",
-            "https://sessions.minnestar.org/sessions/1936",
-            "https://sessions.minnestar.org/sessions/1940",
-            "https://sessions.minnestar.org/sessions/1948",
-            "https://sessions.minnestar.org/sessions/1950",
-            "https://sessions.minnestar.org/sessions/1957",
-            "https://sessions.minnestar.org/sessions/1959"
         ],
         "/participants/6812": [
             "https://sessions.minnestar.org/sessions/1913"
@@ -2076,15 +2865,39 @@
             "https://sessions.minnestar.org/sessions/2065",
             "https://sessions.minnestar.org/sessions/2066"
         ],
+        "/participants/7096": [
+            "https://sessions.minnestar.org/sessions/1914",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1941",
+            "https://sessions.minnestar.org/sessions/1955",
+            "https://sessions.minnestar.org/sessions/1969",
+            "https://sessions.minnestar.org/sessions/2002",
+            "https://sessions.minnestar.org/sessions/2005",
+            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2014",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2061",
+            "https://sessions.minnestar.org/sessions/2066",
+            "https://sessions.minnestar.org/sessions/2090",
+            "https://sessions.minnestar.org/sessions/2100",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2111",
+            "https://sessions.minnestar.org/sessions/2114",
+            "https://sessions.minnestar.org/sessions/2119"
+        ],
         "/participants/1": [
             "https://sessions.minnestar.org/sessions/1915",
+            "https://sessions.minnestar.org/sessions/1921",
             "https://sessions.minnestar.org/sessions/1937",
             "https://sessions.minnestar.org/sessions/1946",
             "https://sessions.minnestar.org/sessions/1969",
             "https://sessions.minnestar.org/sessions/2011",
             "https://sessions.minnestar.org/sessions/2089",
-            "https://sessions.minnestar.org/sessions/2091",
-            "https://sessions.minnestar.org/sessions/2094"
+            "https://sessions.minnestar.org/sessions/2094",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2124",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/693": [
             "https://sessions.minnestar.org/sessions/1915",
@@ -2108,7 +2921,10 @@
             "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1927",
             "https://sessions.minnestar.org/sessions/1930",
-            "https://sessions.minnestar.org/sessions/1937"
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1937",
+            "https://sessions.minnestar.org/sessions/1957",
+            "https://sessions.minnestar.org/sessions/2041"
         ],
         "/participants/2182": [
             "https://sessions.minnestar.org/sessions/1916",
@@ -2146,7 +2962,15 @@
             "https://sessions.minnestar.org/sessions/1961",
             "https://sessions.minnestar.org/sessions/2005",
             "https://sessions.minnestar.org/sessions/2008",
-            "https://sessions.minnestar.org/sessions/2010"
+            "https://sessions.minnestar.org/sessions/2010",
+            "https://sessions.minnestar.org/sessions/2017",
+            "https://sessions.minnestar.org/sessions/2037",
+            "https://sessions.minnestar.org/sessions/2050",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2122",
+            "https://sessions.minnestar.org/sessions/2124",
+            "https://sessions.minnestar.org/sessions/2125"
         ],
         "/participants/6904": [
             "https://sessions.minnestar.org/sessions/1916",
@@ -2180,6 +3004,7 @@
             "https://sessions.minnestar.org/sessions/2073",
             "https://sessions.minnestar.org/sessions/2079",
             "https://sessions.minnestar.org/sessions/2081",
+            "https://sessions.minnestar.org/sessions/2088",
             "https://sessions.minnestar.org/sessions/2108",
             "https://sessions.minnestar.org/sessions/2109",
             "https://sessions.minnestar.org/sessions/2112",
@@ -2190,6 +3015,69 @@
         ],
         "/participants/6827": [
             "https://sessions.minnestar.org/sessions/1919"
+        ],
+        "/participants/295": [
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/2029",
+            "https://sessions.minnestar.org/sessions/2056",
+            "https://sessions.minnestar.org/sessions/2083",
+            "https://sessions.minnestar.org/sessions/2096"
+        ],
+        "/participants/702": [
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1935",
+            "https://sessions.minnestar.org/sessions/1944",
+            "https://sessions.minnestar.org/sessions/1945",
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/1948",
+            "https://sessions.minnestar.org/sessions/1967",
+            "https://sessions.minnestar.org/sessions/2008",
+            "https://sessions.minnestar.org/sessions/2066",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/731": [
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/1969",
+            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2029",
+            "https://sessions.minnestar.org/sessions/2056",
+            "https://sessions.minnestar.org/sessions/2062",
+            "https://sessions.minnestar.org/sessions/2083",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2107",
+            "https://sessions.minnestar.org/sessions/2108"
+        ],
+        "/participants/2306": [
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/2029",
+            "https://sessions.minnestar.org/sessions/2056",
+            "https://sessions.minnestar.org/sessions/2083",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2107",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2121",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/3299": [
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1947",
+            "https://sessions.minnestar.org/sessions/1950",
+            "https://sessions.minnestar.org/sessions/2004",
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2069",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2120",
+            "https://sessions.minnestar.org/sessions/2124",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/3901": [
             "https://sessions.minnestar.org/sessions/1920",
@@ -2204,6 +3092,24 @@
             "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1961",
             "https://sessions.minnestar.org/sessions/2056"
+        ],
+        "/participants/4672": [
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1935",
+            "https://sessions.minnestar.org/sessions/1942",
+            "https://sessions.minnestar.org/sessions/1960",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/1965",
+            "https://sessions.minnestar.org/sessions/2022",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2063",
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2104",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2115",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/4688": [
             "https://sessions.minnestar.org/sessions/1920",
@@ -2225,7 +3131,8 @@
             "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/1961",
             "https://sessions.minnestar.org/sessions/2029",
-            "https://sessions.minnestar.org/sessions/2056"
+            "https://sessions.minnestar.org/sessions/2056",
+            "https://sessions.minnestar.org/sessions/2107"
         ],
         "/participants/5309": [
             "https://sessions.minnestar.org/sessions/1920",
@@ -2254,7 +3161,12 @@
         ],
         "/participants/6790": [
             "https://sessions.minnestar.org/sessions/1920",
-            "https://sessions.minnestar.org/sessions/1948"
+            "https://sessions.minnestar.org/sessions/1921",
+            "https://sessions.minnestar.org/sessions/1948",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2120",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/6903": [
             "https://sessions.minnestar.org/sessions/1920",
@@ -2266,15 +3178,34 @@
             "https://sessions.minnestar.org/sessions/2007",
             "https://sessions.minnestar.org/sessions/2020",
             "https://sessions.minnestar.org/sessions/2023",
-            "https://sessions.minnestar.org/sessions/2073"
+            "https://sessions.minnestar.org/sessions/2073",
+            "https://sessions.minnestar.org/sessions/2088",
+            "https://sessions.minnestar.org/sessions/2123"
         ],
-        "/participants/7012": [
+        "/participants/6961": [
             "https://sessions.minnestar.org/sessions/1920",
-            "https://sessions.minnestar.org/sessions/1932",
-            "https://sessions.minnestar.org/sessions/1953",
             "https://sessions.minnestar.org/sessions/1961",
             "https://sessions.minnestar.org/sessions/2029",
             "https://sessions.minnestar.org/sessions/2056",
+            "https://sessions.minnestar.org/sessions/2083",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2107"
+        ],
+        "/participants/7012": [
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1931",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1945",
+            "https://sessions.minnestar.org/sessions/1951",
+            "https://sessions.minnestar.org/sessions/1953",
+            "https://sessions.minnestar.org/sessions/1958",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/2003",
+            "https://sessions.minnestar.org/sessions/2025",
+            "https://sessions.minnestar.org/sessions/2029",
+            "https://sessions.minnestar.org/sessions/2056",
+            "https://sessions.minnestar.org/sessions/2066",
+            "https://sessions.minnestar.org/sessions/2076",
             "https://sessions.minnestar.org/sessions/2083",
             "https://sessions.minnestar.org/sessions/2096",
             "https://sessions.minnestar.org/sessions/2104",
@@ -2284,15 +3215,24 @@
             "https://sessions.minnestar.org/sessions/2122",
             "https://sessions.minnestar.org/sessions/2126"
         ],
-        "/participants/7021": [
+        "/participants/7040": [
             "https://sessions.minnestar.org/sessions/1920",
-            "https://sessions.minnestar.org/sessions/1930",
-            "https://sessions.minnestar.org/sessions/1932",
-            "https://sessions.minnestar.org/sessions/1937",
-            "https://sessions.minnestar.org/sessions/1952",
-            "https://sessions.minnestar.org/sessions/2004",
-            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2083",
+            "https://sessions.minnestar.org/sessions/2096"
+        ],
+        "/participants/7046": [
+            "https://sessions.minnestar.org/sessions/1920",
             "https://sessions.minnestar.org/sessions/2040",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/7061": [
+            "https://sessions.minnestar.org/sessions/1920",
+            "https://sessions.minnestar.org/sessions/1961",
+            "https://sessions.minnestar.org/sessions/2029",
+            "https://sessions.minnestar.org/sessions/2056",
+            "https://sessions.minnestar.org/sessions/2083",
+            "https://sessions.minnestar.org/sessions/2096",
             "https://sessions.minnestar.org/sessions/2107"
         ],
         "/participants/423": [
@@ -2312,21 +3252,50 @@
             "https://sessions.minnestar.org/sessions/2015",
             "https://sessions.minnestar.org/sessions/2040",
             "https://sessions.minnestar.org/sessions/2060",
-            "https://sessions.minnestar.org/sessions/2061"
+            "https://sessions.minnestar.org/sessions/2061",
+            "https://sessions.minnestar.org/sessions/2078",
+            "https://sessions.minnestar.org/sessions/2089"
         ],
         "/participants/5454": [
             "https://sessions.minnestar.org/sessions/1922",
+            "https://sessions.minnestar.org/sessions/1959",
+            "https://sessions.minnestar.org/sessions/1966",
             "https://sessions.minnestar.org/sessions/2002",
             "https://sessions.minnestar.org/sessions/2035",
             "https://sessions.minnestar.org/sessions/2045",
             "https://sessions.minnestar.org/sessions/2047",
-            "https://sessions.minnestar.org/sessions/2055"
+            "https://sessions.minnestar.org/sessions/2055",
+            "https://sessions.minnestar.org/sessions/2064",
+            "https://sessions.minnestar.org/sessions/2072",
+            "https://sessions.minnestar.org/sessions/2081",
+            "https://sessions.minnestar.org/sessions/2090",
+            "https://sessions.minnestar.org/sessions/2092",
+            "https://sessions.minnestar.org/sessions/2101"
         ],
         "/participants/5998": [
             "https://sessions.minnestar.org/sessions/1922",
             "https://sessions.minnestar.org/sessions/1935",
             "https://sessions.minnestar.org/sessions/2023",
             "https://sessions.minnestar.org/sessions/2040"
+        ],
+        "/participants/6383": [
+            "https://sessions.minnestar.org/sessions/1922",
+            "https://sessions.minnestar.org/sessions/1927",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1941",
+            "https://sessions.minnestar.org/sessions/1942",
+            "https://sessions.minnestar.org/sessions/1947",
+            "https://sessions.minnestar.org/sessions/1951",
+            "https://sessions.minnestar.org/sessions/1969",
+            "https://sessions.minnestar.org/sessions/2002",
+            "https://sessions.minnestar.org/sessions/2007",
+            "https://sessions.minnestar.org/sessions/2014",
+            "https://sessions.minnestar.org/sessions/2043",
+            "https://sessions.minnestar.org/sessions/2061",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2123",
+            "https://sessions.minnestar.org/sessions/2124",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/6891": [
             "https://sessions.minnestar.org/sessions/1922",
@@ -2353,9 +3322,28 @@
             "https://sessions.minnestar.org/sessions/1930",
             "https://sessions.minnestar.org/sessions/1932"
         ],
-        "/participants/4977": [
+        "/participants/5459": [
             "https://sessions.minnestar.org/sessions/1923",
-            "https://sessions.minnestar.org/sessions/1927"
+            "https://sessions.minnestar.org/sessions/1927",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1935",
+            "https://sessions.minnestar.org/sessions/1950",
+            "https://sessions.minnestar.org/sessions/1951",
+            "https://sessions.minnestar.org/sessions/1959",
+            "https://sessions.minnestar.org/sessions/2006",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2073",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/6880": [
+            "https://sessions.minnestar.org/sessions/1923",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1936",
+            "https://sessions.minnestar.org/sessions/1940",
+            "https://sessions.minnestar.org/sessions/1948",
+            "https://sessions.minnestar.org/sessions/1950",
+            "https://sessions.minnestar.org/sessions/1957",
+            "https://sessions.minnestar.org/sessions/1959"
         ],
         "/participants/1740": [
             "https://sessions.minnestar.org/sessions/1925",
@@ -2363,16 +3351,6 @@
             "https://sessions.minnestar.org/sessions/1942",
             "https://sessions.minnestar.org/sessions/1958",
             "https://sessions.minnestar.org/sessions/1962"
-        ],
-        "/participants/1793": [
-            "https://sessions.minnestar.org/sessions/1925",
-            "https://sessions.minnestar.org/sessions/1930",
-            "https://sessions.minnestar.org/sessions/1932",
-            "https://sessions.minnestar.org/sessions/1937",
-            "https://sessions.minnestar.org/sessions/1960",
-            "https://sessions.minnestar.org/sessions/2017",
-            "https://sessions.minnestar.org/sessions/2108",
-            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/1978": [
             "https://sessions.minnestar.org/sessions/1925",
@@ -2382,7 +3360,10 @@
             "https://sessions.minnestar.org/sessions/1937",
             "https://sessions.minnestar.org/sessions/1961",
             "https://sessions.minnestar.org/sessions/1965",
-            "https://sessions.minnestar.org/sessions/2096"
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/2948": [
             "https://sessions.minnestar.org/sessions/1925",
@@ -2409,14 +3390,29 @@
             "https://sessions.minnestar.org/sessions/1937",
             "https://sessions.minnestar.org/sessions/1959",
             "https://sessions.minnestar.org/sessions/1960",
+            "https://sessions.minnestar.org/sessions/2043",
             "https://sessions.minnestar.org/sessions/2096",
             "https://sessions.minnestar.org/sessions/2104",
             "https://sessions.minnestar.org/sessions/2105",
             "https://sessions.minnestar.org/sessions/2112",
             "https://sessions.minnestar.org/sessions/2126"
         ],
+        "/participants/5527": [
+            "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1930",
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/1965",
+            "https://sessions.minnestar.org/sessions/2014",
+            "https://sessions.minnestar.org/sessions/2042",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2080",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2124"
+        ],
         "/participants/6253": [
             "https://sessions.minnestar.org/sessions/1925",
+            "https://sessions.minnestar.org/sessions/1951",
             "https://sessions.minnestar.org/sessions/1959",
             "https://sessions.minnestar.org/sessions/2096"
         ],
@@ -2433,10 +3429,19 @@
             "https://sessions.minnestar.org/sessions/1932",
             "https://sessions.minnestar.org/sessions/2011"
         ],
-        "/participants/6003": [
+        "/participants/7038": [
             "https://sessions.minnestar.org/sessions/1930",
-            "https://sessions.minnestar.org/sessions/1936",
-            "https://sessions.minnestar.org/sessions/2033"
+            "https://sessions.minnestar.org/sessions/1937",
+            "https://sessions.minnestar.org/sessions/2018",
+            "https://sessions.minnestar.org/sessions/2021",
+            "https://sessions.minnestar.org/sessions/2028",
+            "https://sessions.minnestar.org/sessions/2074",
+            "https://sessions.minnestar.org/sessions/2080",
+            "https://sessions.minnestar.org/sessions/2089",
+            "https://sessions.minnestar.org/sessions/2098",
+            "https://sessions.minnestar.org/sessions/2100",
+            "https://sessions.minnestar.org/sessions/2105",
+            "https://sessions.minnestar.org/sessions/2120"
         ],
         "/participants/6805": [
             "https://sessions.minnestar.org/sessions/1931",
@@ -2444,6 +3449,44 @@
         ],
         "/participants/6816": [
             "https://sessions.minnestar.org/sessions/1931"
+        ],
+        "/participants/1475": [
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/2083"
+        ],
+        "/participants/2628": [
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/2035",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
+        "/participants/7039": [
+            "https://sessions.minnestar.org/sessions/1932",
+            "https://sessions.minnestar.org/sessions/2093",
+            "https://sessions.minnestar.org/sessions/2095",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2097",
+            "https://sessions.minnestar.org/sessions/2098",
+            "https://sessions.minnestar.org/sessions/2099",
+            "https://sessions.minnestar.org/sessions/2100",
+            "https://sessions.minnestar.org/sessions/2101",
+            "https://sessions.minnestar.org/sessions/2102",
+            "https://sessions.minnestar.org/sessions/2103",
+            "https://sessions.minnestar.org/sessions/2105",
+            "https://sessions.minnestar.org/sessions/2106",
+            "https://sessions.minnestar.org/sessions/2107",
+            "https://sessions.minnestar.org/sessions/2108",
+            "https://sessions.minnestar.org/sessions/2109",
+            "https://sessions.minnestar.org/sessions/2111",
+            "https://sessions.minnestar.org/sessions/2112",
+            "https://sessions.minnestar.org/sessions/2113",
+            "https://sessions.minnestar.org/sessions/2114",
+            "https://sessions.minnestar.org/sessions/2118",
+            "https://sessions.minnestar.org/sessions/2119",
+            "https://sessions.minnestar.org/sessions/2121",
+            "https://sessions.minnestar.org/sessions/2123",
+            "https://sessions.minnestar.org/sessions/2124",
+            "https://sessions.minnestar.org/sessions/2125"
         ],
         "/participants/182": [
             "https://sessions.minnestar.org/sessions/1933",
@@ -2459,6 +3502,20 @@
             "https://sessions.minnestar.org/sessions/2055",
             "https://sessions.minnestar.org/sessions/2105",
             "https://sessions.minnestar.org/sessions/2108"
+        ],
+        "/participants/5603": [
+            "https://sessions.minnestar.org/sessions/1933",
+            "https://sessions.minnestar.org/sessions/1941",
+            "https://sessions.minnestar.org/sessions/1949",
+            "https://sessions.minnestar.org/sessions/1955",
+            "https://sessions.minnestar.org/sessions/1958",
+            "https://sessions.minnestar.org/sessions/2014",
+            "https://sessions.minnestar.org/sessions/2020",
+            "https://sessions.minnestar.org/sessions/2036",
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2080",
+            "https://sessions.minnestar.org/sessions/2124"
         ],
         "/participants/4406": [
             "https://sessions.minnestar.org/sessions/1934",
@@ -2477,6 +3534,17 @@
         "/participants/6879": [
             "https://sessions.minnestar.org/sessions/1936"
         ],
+        "/participants/7034": [
+            "https://sessions.minnestar.org/sessions/1936",
+            "https://sessions.minnestar.org/sessions/2016",
+            "https://sessions.minnestar.org/sessions/2034",
+            "https://sessions.minnestar.org/sessions/2037",
+            "https://sessions.minnestar.org/sessions/2039",
+            "https://sessions.minnestar.org/sessions/2058",
+            "https://sessions.minnestar.org/sessions/2067",
+            "https://sessions.minnestar.org/sessions/2072",
+            "https://sessions.minnestar.org/sessions/2095"
+        ],
         "/participants/1552": [
             "https://sessions.minnestar.org/sessions/1937",
             "https://sessions.minnestar.org/sessions/1960",
@@ -2491,8 +3559,17 @@
             "https://sessions.minnestar.org/sessions/1939",
             "https://sessions.minnestar.org/sessions/2038",
             "https://sessions.minnestar.org/sessions/2043",
+            "https://sessions.minnestar.org/sessions/2047",
             "https://sessions.minnestar.org/sessions/2061",
-            "https://sessions.minnestar.org/sessions/2063"
+            "https://sessions.minnestar.org/sessions/2062",
+            "https://sessions.minnestar.org/sessions/2063",
+            "https://sessions.minnestar.org/sessions/2067",
+            "https://sessions.minnestar.org/sessions/2096",
+            "https://sessions.minnestar.org/sessions/2100",
+            "https://sessions.minnestar.org/sessions/2128"
+        ],
+        "/participants/5311": [
+            "https://sessions.minnestar.org/sessions/1940"
         ],
         "/participants/6955": [
             "https://sessions.minnestar.org/sessions/1941",
@@ -2505,31 +3582,37 @@
             "https://sessions.minnestar.org/sessions/1944",
             "https://sessions.minnestar.org/sessions/2006"
         ],
+        "/participants/7027": [
+            "https://sessions.minnestar.org/sessions/1946",
+            "https://sessions.minnestar.org/sessions/2013",
+            "https://sessions.minnestar.org/sessions/2022",
+            "https://sessions.minnestar.org/sessions/2029",
+            "https://sessions.minnestar.org/sessions/2037",
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2081",
+            "https://sessions.minnestar.org/sessions/2090",
+            "https://sessions.minnestar.org/sessions/2092"
+        ],
+        "/participants/4455": [
+            "https://sessions.minnestar.org/sessions/1948",
+            "https://sessions.minnestar.org/sessions/2067"
+        ],
         "/participants/6828": [
             "https://sessions.minnestar.org/sessions/1950",
             "https://sessions.minnestar.org/sessions/2024",
             "https://sessions.minnestar.org/sessions/2030",
             "https://sessions.minnestar.org/sessions/2037",
-            "https://sessions.minnestar.org/sessions/2057"
-        ],
-        "/participants/406": [
-            "https://sessions.minnestar.org/sessions/1951",
-            "https://sessions.minnestar.org/sessions/2004",
-            "https://sessions.minnestar.org/sessions/2013",
-            "https://sessions.minnestar.org/sessions/2021",
-            "https://sessions.minnestar.org/sessions/2034",
-            "https://sessions.minnestar.org/sessions/2047",
-            "https://sessions.minnestar.org/sessions/2064",
-            "https://sessions.minnestar.org/sessions/2066",
-            "https://sessions.minnestar.org/sessions/2096",
-            "https://sessions.minnestar.org/sessions/2100",
-            "https://sessions.minnestar.org/sessions/2108",
-            "https://sessions.minnestar.org/sessions/2114"
+            "https://sessions.minnestar.org/sessions/2057",
+            "https://sessions.minnestar.org/sessions/2075",
+            "https://sessions.minnestar.org/sessions/2097"
         ],
         "/participants/6822": [
             "https://sessions.minnestar.org/sessions/1955"
         ],
         "/participants/7000": [
+            "https://sessions.minnestar.org/sessions/1955"
+        ],
+        "/participants/7070": [
             "https://sessions.minnestar.org/sessions/1955"
         ],
         "/participants/6181": [
@@ -2547,7 +3630,8 @@
         ],
         "/participants/6999": [
             "https://sessions.minnestar.org/sessions/1958",
-            "https://sessions.minnestar.org/sessions/2057"
+            "https://sessions.minnestar.org/sessions/2057",
+            "https://sessions.minnestar.org/sessions/2075"
         ],
         "/participants/6831": [
             "https://sessions.minnestar.org/sessions/1961"
@@ -2581,6 +3665,18 @@
             "https://sessions.minnestar.org/sessions/1965",
             "https://sessions.minnestar.org/sessions/2074"
         ],
+        "/participants/7083": [
+            "https://sessions.minnestar.org/sessions/1965",
+            "https://sessions.minnestar.org/sessions/2013",
+            "https://sessions.minnestar.org/sessions/2076",
+            "https://sessions.minnestar.org/sessions/2123"
+        ],
+        "/participants/7048": [
+            "https://sessions.minnestar.org/sessions/1966",
+            "https://sessions.minnestar.org/sessions/2052",
+            "https://sessions.minnestar.org/sessions/2092",
+            "https://sessions.minnestar.org/sessions/2102"
+        ],
         "/participants/122": [
             "https://sessions.minnestar.org/sessions/1969"
         ],
@@ -2590,17 +3686,32 @@
         "/participants/6874": [
             "https://sessions.minnestar.org/sessions/2004"
         ],
+        "/participants/7081": [
+            "https://sessions.minnestar.org/sessions/2005",
+            "https://sessions.minnestar.org/sessions/2040",
+            "https://sessions.minnestar.org/sessions/2058",
+            "https://sessions.minnestar.org/sessions/2061",
+            "https://sessions.minnestar.org/sessions/2076",
+            "https://sessions.minnestar.org/sessions/2078",
+            "https://sessions.minnestar.org/sessions/2079",
+            "https://sessions.minnestar.org/sessions/2080",
+            "https://sessions.minnestar.org/sessions/2081",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
         "/participants/4465": [
             "https://sessions.minnestar.org/sessions/2010"
         ],
         "/participants/1057": [
             "https://sessions.minnestar.org/sessions/2011"
         ],
+        "/participants/2158": [
+            "https://sessions.minnestar.org/sessions/2011",
+            "https://sessions.minnestar.org/sessions/2120",
+            "https://sessions.minnestar.org/sessions/2122",
+            "https://sessions.minnestar.org/sessions/2126"
+        ],
         "/participants/1783": [
             "https://sessions.minnestar.org/sessions/2014"
-        ],
-        "/participants/4828": [
-            "https://sessions.minnestar.org/sessions/2017"
         ],
         "/participants/3358": [
             "https://sessions.minnestar.org/sessions/2023",
@@ -2616,8 +3727,14 @@
         "/participants/6508": [
             "https://sessions.minnestar.org/sessions/2033"
         ],
+        "/participants/6922": [
+            "https://sessions.minnestar.org/sessions/2034"
+        ],
         "/participants/4818": [
             "https://sessions.minnestar.org/sessions/2039"
+        ],
+        "/participants/1701": [
+            "https://sessions.minnestar.org/sessions/2043"
         ],
         "/participants/2427": [
             "https://sessions.minnestar.org/sessions/2044"
@@ -2625,13 +3742,12 @@
         "/participants/6936": [
             "https://sessions.minnestar.org/sessions/2045"
         ],
+        "/participants/6966": [
+            "https://sessions.minnestar.org/sessions/2047",
+            "https://sessions.minnestar.org/sessions/2052"
+        ],
         "/participants/6824": [
             "https://sessions.minnestar.org/sessions/2053"
-        ],
-        "/participants/6961": [
-            "https://sessions.minnestar.org/sessions/2056",
-            "https://sessions.minnestar.org/sessions/2096",
-            "https://sessions.minnestar.org/sessions/2107"
         ],
         "/participants/6992": [
             "https://sessions.minnestar.org/sessions/2061"
@@ -2646,6 +3762,10 @@
             "https://sessions.minnestar.org/sessions/2064"
         ],
         "/participants/200": [
+            "https://sessions.minnestar.org/sessions/2072",
+            "https://sessions.minnestar.org/sessions/2092"
+        ],
+        "/participants/3355": [
             "https://sessions.minnestar.org/sessions/2072"
         ],
         "/participants/4058": [
@@ -2654,10 +3774,13 @@
         "/participants/6240": [
             "https://sessions.minnestar.org/sessions/2074"
         ],
-        "/participants/1475": [
-            "https://sessions.minnestar.org/sessions/2083"
+        "/participants/6285": [
+            "https://sessions.minnestar.org/sessions/2074"
         ],
-        "/participants/2306": [
+        "/participants/7080": [
+            "https://sessions.minnestar.org/sessions/2074"
+        ],
+        "/participants/7058": [
             "https://sessions.minnestar.org/sessions/2083"
         ],
         "/participants/1270": [
@@ -2666,134 +3789,22 @@
         "/participants/6986": [
             "https://sessions.minnestar.org/sessions/2090"
         ],
-        "/participants/7022": [
-            "https://sessions.minnestar.org/sessions/2091"
-        ],
-        "/participants/7024": [
-            "https://sessions.minnestar.org/sessions/2091"
-        ],
-        "/participants/295": [
-            "https://sessions.minnestar.org/sessions/2096"
-        ],
-        "/participants/731": [
-            "https://sessions.minnestar.org/sessions/2096",
-            "https://sessions.minnestar.org/sessions/2107",
-            "https://sessions.minnestar.org/sessions/2108"
-        ],
-        "/participants/3421": [
-            "https://sessions.minnestar.org/sessions/2096",
-            "https://sessions.minnestar.org/sessions/2104",
-            "https://sessions.minnestar.org/sessions/2105",
-            "https://sessions.minnestar.org/sessions/2108",
-            "https://sessions.minnestar.org/sessions/2115",
-            "https://sessions.minnestar.org/sessions/2120",
-            "https://sessions.minnestar.org/sessions/2126"
+        "/participants/7064": [
+            "https://sessions.minnestar.org/sessions/2093",
+            "https://sessions.minnestar.org/sessions/2120"
         ],
         "/participants/4726": [
+            "https://sessions.minnestar.org/sessions/2095",
             "https://sessions.minnestar.org/sessions/2096"
-        ],
-        "/participants/5436": [
-            "https://sessions.minnestar.org/sessions/2096",
-            "https://sessions.minnestar.org/sessions/2098",
-            "https://sessions.minnestar.org/sessions/2104",
-            "https://sessions.minnestar.org/sessions/2108",
-            "https://sessions.minnestar.org/sessions/2115",
-            "https://sessions.minnestar.org/sessions/2120",
-            "https://sessions.minnestar.org/sessions/2122",
-            "https://sessions.minnestar.org/sessions/2126"
-        ],
-        "/participants/5441": [
-            "https://sessions.minnestar.org/sessions/2096",
-            "https://sessions.minnestar.org/sessions/2104",
-            "https://sessions.minnestar.org/sessions/2108",
-            "https://sessions.minnestar.org/sessions/2126"
         ],
         "/participants/5544": [
             "https://sessions.minnestar.org/sessions/2096"
         ],
-        "/participants/7039": [
-            "https://sessions.minnestar.org/sessions/2096",
-            "https://sessions.minnestar.org/sessions/2097",
-            "https://sessions.minnestar.org/sessions/2098",
-            "https://sessions.minnestar.org/sessions/2099",
-            "https://sessions.minnestar.org/sessions/2100",
-            "https://sessions.minnestar.org/sessions/2101",
-            "https://sessions.minnestar.org/sessions/2102",
-            "https://sessions.minnestar.org/sessions/2103",
-            "https://sessions.minnestar.org/sessions/2105",
-            "https://sessions.minnestar.org/sessions/2106",
-            "https://sessions.minnestar.org/sessions/2107"
-        ],
-        "/participants/7040": [
-            "https://sessions.minnestar.org/sessions/2096"
-        ],
-        "/participants/7061": [
-            "https://sessions.minnestar.org/sessions/2096",
-            "https://sessions.minnestar.org/sessions/2107"
-        ],
         "/participants/6985": [
             "https://sessions.minnestar.org/sessions/2097"
         ],
-        "/participants/7038": [
-            "https://sessions.minnestar.org/sessions/2098",
-            "https://sessions.minnestar.org/sessions/2100",
-            "https://sessions.minnestar.org/sessions/2105",
-            "https://sessions.minnestar.org/sessions/2120"
-        ],
-        "/participants/6241": [
-            "https://sessions.minnestar.org/sessions/2101",
-            "https://sessions.minnestar.org/sessions/2120"
-        ],
-        "/participants/7048": [
-            "https://sessions.minnestar.org/sessions/2102"
-        ],
-        "/participants/678": [
-            "https://sessions.minnestar.org/sessions/2104",
-            "https://sessions.minnestar.org/sessions/2105",
-            "https://sessions.minnestar.org/sessions/2112",
-            "https://sessions.minnestar.org/sessions/2115",
-            "https://sessions.minnestar.org/sessions/2126"
-        ],
-        "/participants/702": [
-            "https://sessions.minnestar.org/sessions/2104",
-            "https://sessions.minnestar.org/sessions/2108"
-        ],
-        "/participants/1792": [
-            "https://sessions.minnestar.org/sessions/2104",
-            "https://sessions.minnestar.org/sessions/2108",
-            "https://sessions.minnestar.org/sessions/2123",
-            "https://sessions.minnestar.org/sessions/2126"
-        ],
-        "/participants/6188": [
-            "https://sessions.minnestar.org/sessions/2105"
-        ],
-        "/participants/2628": [
-            "https://sessions.minnestar.org/sessions/2108"
-        ],
-        "/participants/6267": [
-            "https://sessions.minnestar.org/sessions/2108",
-            "https://sessions.minnestar.org/sessions/2115",
-            "https://sessions.minnestar.org/sessions/2126"
-        ],
-        "/participants/7046": [
-            "https://sessions.minnestar.org/sessions/2108",
-            "https://sessions.minnestar.org/sessions/2126"
-        ],
         "/participants/3572": [
             "https://sessions.minnestar.org/sessions/2111"
-        ],
-        "/participants/5306": [
-            "https://sessions.minnestar.org/sessions/2116"
-        ],
-        "/participants/7064": [
-            "https://sessions.minnestar.org/sessions/2120"
-        ],
-        "/participants/6443": [
-            "https://sessions.minnestar.org/sessions/2122",
-            "https://sessions.minnestar.org/sessions/2126"
-        ],
-        "/participants/6948": [
-            "https://sessions.minnestar.org/sessions/2124"
         ],
         "/participants/7065": [
             "https://sessions.minnestar.org/sessions/2124"

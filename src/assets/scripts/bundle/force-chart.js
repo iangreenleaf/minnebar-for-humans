@@ -21,7 +21,7 @@ window.addEventListener("load", (e) => {
     .force("collide", d3
       .forceCollide()
       .radius((d) => {
-        return d["participants"].length;
+        return areaToRadius(d["participants"].length*100);
       })
     )
     .tick(1200)
@@ -35,7 +35,7 @@ window.addEventListener("load", (e) => {
     .enter()
     .append("circle")
     .attr("r", (d) => {
-      return d["participants"].length;
+      return areaToRadius(d["participants"].length*100);
     })
     .attr("fill", (d) => {
       const list = d["list"];
@@ -44,7 +44,7 @@ window.addEventListener("load", (e) => {
       if (list === "none")
         return "green";
       return "yellow";
-    })
+    });
 
   function ticked() {
     console.log("ticked")
@@ -57,5 +57,9 @@ window.addEventListener("load", (e) => {
       });
   }
 });
+
+function areaToRadius(area) {
+  return Math.sqrt(area/Math.PI);
+}
 
 console.log("loaded");

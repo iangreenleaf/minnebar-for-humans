@@ -4,8 +4,8 @@ import sessions from "../../../_data/sessions.json";
 
 window.addEventListener("load", (e) => {
   const svg = d3.select("#forces");
-  const width = 960;
-  const height = 600;
+  const width = 900;
+  const height = 900;
 
   const simulation = d3
     .forceSimulation(sessions)
@@ -17,7 +17,6 @@ window.addEventListener("load", (e) => {
         return d["count"] / 5;
       })
     )
-    .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2).strength(1))
     .force("collide", d3
       .forceCollide()

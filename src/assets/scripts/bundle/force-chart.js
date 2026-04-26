@@ -40,7 +40,7 @@ window.addEventListener("load", (e) => {
     .force("collide", d3
       .forceCollide()
       .radius((d) => {
-        return areaToRadius(d["participants"].length*25);
+        return areaToRadius(d["participants"].length*(25+10));
       })
     )
     .on("tick", ticked);

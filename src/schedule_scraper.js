@@ -28,10 +28,13 @@ for (const timeslotElement of timeslotElements) {
     const dataElement = $(sessionElement).find("[data-session-id]")[0];
     const sessionID = dataElement.attribs['data-session-id'];
     const sessionURL = sessionUrlBase + sessionID;
-    sessions.push(sessionURL);
+
+    const room = $(sessionElement).find(".room").text().trim();
+
+    sessions.push({"url": sessionURL, "room": room, "id": sessionID});
   }
 
   timeslots.push({"time": timeslotTime, "title": timeslotTitle, "sessions": sessions});
 }
 
-fs.writeFileSync("./src/pages/schedule.json", JSON.stringify(timeslots, null, 4));
+fs.writeFileSync("./src/_data/schedule.json", JSON.stringify(timeslots, null, 4));

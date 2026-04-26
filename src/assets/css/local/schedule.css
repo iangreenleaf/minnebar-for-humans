@@ -1,0 +1,61 @@
+#main {
+    font-family: Verdana, sans-serif;
+}
+
+.schd-timeslot {
+    margin: 0;
+}
+
+.schd-timeslot-header {
+    background-color: #434688;
+    padding: 15px 30px;
+    font-size: 30px;
+}
+
+.schd-time {
+    display: inline;
+    font-weight: bold;
+}
+
+.schd-title {
+    display: inline;
+    margin-left: 10px;
+}
+
+.schd-sessions {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.schd-session {
+    margin: 23px 37px;
+}
+
+.schd-session-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.schd-room {
+    font-size: 20px;
+    color: #7ac2db;
+    float: right;
+    margin-top: 5px;
+    margin-left: 6px;
+}
+
+.schd-session-header {
+    cursor: pointer;
+}
+
+.schd-session-description {
+    font-size: 18px;
+    margin: 5px;
+}
+
+@media (width <= 800px) {
+    .schd-sessions {
+        display: grid;
+        grid-template-columns: 100%;
+    }
+}

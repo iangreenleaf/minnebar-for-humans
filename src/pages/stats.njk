@@ -1,0 +1,24 @@
+---
+title: Stats
+permalink: /stats/index.html
+layout: page
+---
+
+{% import "partials/stats-display-macros.njk" as statDisplay %}
+
+<div class="stats">
+  {{ statDisplay.bigBar(stats["overall"]["nonAiSessions"], "Non-AI Sessions",
+     stats["overall"]["aiSessions"], "AI Sessions",
+     stats["overall"]["ppSessionsAi"]) }}
+  {{ statDisplay.bigBar(stats["overall"]["avgNonAi"] | round(2), "Average votes per non-AI session",
+     stats["overall"]["avgAi"] | round(2), "Average votes per AI session",
+     stats["overall"]["ppAvgAi"]) }}
+  {{ statDisplay.bigBar(stats["overall"]["nonAiVotes"] | round(2), "Total non-AI session votes",
+     stats["overall"]["aiVotes"] | round(2), "Total AI session votes",
+     stats["overall"]["ppVotesAi"]) }}
+</div>
+
+{%- css "local" -%}
+  {%- include 'css/stats-macros.css' -%}
+  {%- include 'css/stats.css' -%}
+{%- endcss -%}

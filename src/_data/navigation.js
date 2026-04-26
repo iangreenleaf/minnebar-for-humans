@@ -5,9 +5,13 @@ export default {
       url: '/sessions/'
     },
     {
-      text: 'By Category',
+      text: 'By category',
       url: '/categories/'
     },
+    {
+      text: "Stats",
+      url: "/stats/"
+    }
   ],
   bottom: [
   ]

@@ -11,6 +11,7 @@ sections:
     open: false
 ---
 {% set groupedSessions = sessions | groupby("list") %}
+{% set categoriesById = categories | toObject("id") %}
 
 <p>
   Be sure to visit the official site and mark yourself as interested in any sessions that catch your eye.
@@ -26,9 +27,7 @@ sections:
     <ul>
       {% for session in groupedSessions[type] %}
         <li>
-          <a href={{ session.url }}>
-            {{ session.title }}
-          </a>
+          {% include 'partials/session-list-entry.njk' %}
         </li>
       {% endfor %}
     </ul>

@@ -3,8 +3,8 @@ import fs from 'node:fs';
 
 const dataFile = "./src/_data/sessions.json";
 const lists = [
-  {"key": "1", "list": "ai"},
-  {"key": "2", "list": "none"}
+  {"key": "a", "list": "ai"},
+  {"key": "n", "list": "none"}
 ];
 
 const readFile = fs.readFileSync(dataFile);

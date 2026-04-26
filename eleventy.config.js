@@ -87,6 +87,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addFilter('findAttr', (list, attr, value) => {
     return list.find(listItem => listItem[attr] === value)
   });
+  eleventyConfig.addFilter('toObject', filters.toObject);
 
   // --------------------- Shortcodes
   eleventyConfig.addShortcode('svg', shortcodes.svgShortcode);

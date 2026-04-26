@@ -2,6 +2,24 @@ import * as d3 from "d3";
 import * as stats from "../../../_data/stats.json";
 import sessions from "../../../_data/sessions.json";
 
+const connectionsMax = 3;
+
+stats["connections"].sort((a, b) => b["count"] - a["count"]);
+const links = [];
+for (const session of sessions) {
+  let foundConnections = 0;
+  for (const connection of stats["connections"]) {
+    if (foundConnections >= connectionsMax)
+      break;
+    if (!(connection["source"] === session["url"] || connection["target"] === session["url"]))
+      continue;
+    foundConnections += 1;
+    if (links.includes(connection))
+      continue;
+    links.push(connection);
+  }
+}
+
 window.addEventListener("load", (e) => {
   const svg = d3.select("#forces");
   const width = 900;
@@ -17,14 +35,15 @@ window.addEventListener("load", (e) => {
         return d["count"] / 5;
       })
     )
-    .force("center", d3.forceCenter(width / 2, height / 2).strength(1))
+    .force("center", d3.forceCenter(width / 4, height / 4).strength(2))
+    .force("manybody", d3.forceManyBody().strength(-6000))
     .force("collide", d3
       .forceCollide()
       .radius((d) => {
-        return areaToRadius(d["participants"].length*100);
+        return areaToRadius(d["participants"].length*25);
       })
     )
-    .tick(1200)
+    .tick(600)
     .on("tick", ticked);
 
   const node = svg
@@ -35,7 +54,7 @@ window.addEventListener("load", (e) => {
     .enter()
     .append("circle")
     .attr("r", (d) => {
-      return areaToRadius(d["participants"].length*100);
+      return areaToRadius(d["participants"].length*25);
     })
     .attr("fill", (d) => {
       const list = d["list"];

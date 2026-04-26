@@ -39,9 +39,7 @@ window.addEventListener("load", (e) => {
     .force("manybody", d3.forceManyBody().strength(-200))
     .force("collide", d3
       .forceCollide()
-      .radius((d) => {
-        return areaToRadius(d["participants"].length*(25+10));
-      })
+      .radius((d) => getSize(d) + 3)
     )
     .on("tick", ticked);
 
@@ -64,9 +62,7 @@ window.addEventListener("load", (e) => {
     .data(sessions)
     .enter()
     .append("circle")
-    .attr("r", (d) => {
-      return areaToRadius(d["participants"].length*25);
-    })
+    .attr("r", (d) => getSize(d))
     .attr("fill", (d) => {
       const list = d["list"];
       if (list === "ai")
@@ -99,28 +95,43 @@ window.addEventListener("load", (e) => {
 
     link
       .attr("x1", (d) => {
-        return d.source.x;
+        return inRange(d.source.x, width);
       })
       .attr("y1", (d) => {
-        return d.source.y;
+        return inRange(d.source.y, height);
       })
       .attr("x2", (d) => {
-        return d.target.x;
+        return inRange(d.target.x, width);
       })
       .attr("y2", (d) => {
-        return d.target.y;
+        return inRange(d.target.y, height);
       });
 
     node
       .attr("cx", (d) => {
-        return d.x;
+        const size = getSize(d);
+        return inRange(d.x, width - size, size);
       })
       .attr("cy", (d) => {
-        return d.y;
+        const size = getSize(d);
+        return inRange(d.y, height - size, size);
       });
   }
 });
 
 function areaToRadius(area) {
   return Math.sqrt(area/Math.PI);
+}
+
+function inRange(num, max, min = 0) {
+  if (min > num)
+    return min
+  if (num > max)
+    return max
+  return num
+}
+
+// Gets the size intended for a node to be
+function getSize(d) {
+  return areaToRadius(d["participants"].length*25);
 }

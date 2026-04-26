@@ -74,7 +74,25 @@ window.addEventListener("load", (e) => {
       if (list === "none")
         return "green";
       return "yellow";
-    });
+    }).call(
+      d3
+        .drag()
+        .on("start", (d) => {
+          if (!d.active)
+            simulation.alphaTarget(0.3).restart();
+            d.subject.fx = d.subject.x;
+            d.subject.fy = d.subject.y;
+        })
+        .on("drag", (d) => {
+          d.subject.fx = d.x;
+          d.subject.fy = d.y;
+        })
+        .on("end", (d) => {
+          if (!d.active) simulation.alphaTarget(0);
+          d.subject.fx = null;
+          d.subject.fy = null;
+        })
+    );
 
   function ticked() {
     console.log("ticked");
@@ -106,5 +124,3 @@ window.addEventListener("load", (e) => {
 function areaToRadius(area) {
   return Math.sqrt(area/Math.PI);
 }
-
-console.log("loaded");

@@ -30,21 +30,32 @@ window.addEventListener("load", (e) => {
     .force("link", d3
       .forceLink()
       .id((d) => d["url"])
-      .links(stats["connections"])
+      .links(links)
       .strength((d) => {
-        return d["count"] / 5;
+        return d["count"] / 10;
       })
     )
-    .force("center", d3.forceCenter(width / 4, height / 4).strength(2))
-    .force("manybody", d3.forceManyBody().strength(-6000))
+    .force("center", d3.forceCenter(width / 2, height / 2).strength(1))
+    .force("manybody", d3.forceManyBody().strength(-200))
     .force("collide", d3
       .forceCollide()
       .radius((d) => {
         return areaToRadius(d["participants"].length*25);
       })
     )
-    .tick(600)
     .on("tick", ticked);
+
+  const link = svg
+  .append("g")
+  .attr("class", "links")
+  .selectAll("line")
+  .data(links)
+  .enter()
+  .append("line")
+  .attr("stroke-width", (d) => {
+    return d["count"]*0.1;
+  })
+  .style("stroke", "pink");
 
   const node = svg
     .append("g")
@@ -66,7 +77,22 @@ window.addEventListener("load", (e) => {
     });
 
   function ticked() {
-    console.log("ticked")
+    console.log("ticked");
+
+    link
+      .attr("x1", (d) => {
+        return d.source.x;
+      })
+      .attr("y1", (d) => {
+        return d.source.y;
+      })
+      .attr("x2", (d) => {
+        return d.target.x;
+      })
+      .attr("y2", (d) => {
+        return d.target.y;
+      });
+
     node
       .attr("cx", (d) => {
         return d.x;

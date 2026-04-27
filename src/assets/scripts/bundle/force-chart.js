@@ -85,6 +85,7 @@ window.addEventListener("load", (e) => {
 
   const node = nodeG
     .append("circle")
+    .attr("stroke-width", "2")
     .attr("data-url", (d) => d['url'])
     .attr("r", (d) => getSize(d))
     .attr("fill", (d) => {
@@ -153,6 +154,21 @@ window.addEventListener("load", (e) => {
     const text = g.getElementsByTagName("text")[0]
     d3.select(text)
       .attr("display", "show");
+
+    const directNeighbours = [];
+    for (const link of links) {
+      if (link["source"]["url"] === url)
+        directNeighbours.push(link["target"]["url"]);
+      else if (link["target"]["url"] === url)
+        directNeighbours.push(link["source"]["url"]);
+    }
+
+    node
+      .attr("stroke", (d) => {
+        if (directNeighbours.includes(d["url"]))
+          return "gold";
+        return "";
+      })
   }
 });
 

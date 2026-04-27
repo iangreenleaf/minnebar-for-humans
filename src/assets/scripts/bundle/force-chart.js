@@ -55,22 +55,14 @@ window.addEventListener("load", (e) => {
   })
   .style("stroke", "pink");
 
-  const node = svg
+  const nodeG = svg
     .append("g")
     .attr("class", "nodes")
     .selectAll("circle")
     .data(sessions)
     .enter()
-    .append("circle")
-    .attr("r", (d) => getSize(d))
-    .attr("fill", (d) => {
-      const list = d["list"];
-      if (list === "ai")
-        return "red";
-      if (list === "none")
-        return "green";
-      return "yellow";
-    })
+    .append("g")
+    .on("mouseover", (e) => handleHover(e))
     .attr("data-url", (d) => d['url'])
     .call(
       d3
@@ -90,8 +82,26 @@ window.addEventListener("load", (e) => {
           d.subject.fx = null;
           d.subject.fy = null;
         })
-    )
-    .on("mouseover", (e) => handleHover(e));
+    );
+
+  const node = nodeG
+    .append("circle")
+    .attr("r", (d) => getSize(d))
+    .attr("fill", (d) => {
+      const list = d["list"];
+      if (list === "ai")
+        return "red";
+      if (list === "none")
+        return "green";
+      return "yellow";
+    });
+
+  const labels = nodeG
+    .append("text")
+    .attr("fill", "#fff")
+    .attr("font-size", "15")
+    .attr("font-family", "arial")
+    .text((d) => d["title"]);
 
   function ticked() {
     link
@@ -108,14 +118,23 @@ window.addEventListener("load", (e) => {
         return inRange(d.target.y, height);
       });
 
-    node
-      .attr("cx", (d) => {
+    nodeG
+      .attr("transform", (d) => {
         const size = getSize(d);
-        return inRange(d.x, width - size, size);
-      })
-      .attr("cy", (d) => {
-        const size = getSize(d);
-        return inRange(d.y, height - size, size);
+        const x = inRange(d.x, width - size, size);
+        const y = inRange(d.y, height - size, size);
+        return `translate(${x}, ${y})`;
+      });
+
+    const rightAlignX = width / 3;
+    const leftAlignX = (width / 3) * 2;
+    labels
+      .attr("text-anchor", (d) => {
+        if (rightAlignX > d.x)
+          return "start";
+        if (leftAlignX > d.x)
+          return "middle";
+        return "end";
       });
   }
 });

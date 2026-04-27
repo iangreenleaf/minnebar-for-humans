@@ -21,7 +21,7 @@ for (const session of sessions) {
 }
 
 window.addEventListener("load", (e) => {
-  const svg = d3.select("#forces");
+  const svg = d3.select(".forces");
   const width = 900;
   const height = 900;
 
@@ -168,7 +168,7 @@ window.addEventListener("load", (e) => {
         if (directNeighbours.includes(d["url"]))
           return "gold";
         return "";
-      })
+      });
   }
 });
 

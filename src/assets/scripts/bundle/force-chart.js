@@ -70,7 +70,9 @@ window.addEventListener("load", (e) => {
       if (list === "none")
         return "green";
       return "yellow";
-    }).call(
+    })
+    .attr("data-url", (d) => d['url'])
+    .call(
       d3
         .drag()
         .on("start", (d) => {
@@ -88,11 +90,10 @@ window.addEventListener("load", (e) => {
           d.subject.fx = null;
           d.subject.fy = null;
         })
-    );
+    )
+    .on("mouseover", (e) => handleHover(e));
 
   function ticked() {
-    console.log("ticked");
-
     link
       .attr("x1", (d) => {
         return inRange(d.source.x, width);
@@ -134,4 +135,9 @@ function inRange(num, max, min = 0) {
 // Gets the size intended for a node to be
 function getSize(d) {
   return areaToRadius(d["participants"].length*25);
+}
+
+function handleHover(e) {
+  const url = e.target.getAttribute("data-url");
+  console.log(url);
 }

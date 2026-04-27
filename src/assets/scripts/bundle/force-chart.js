@@ -103,6 +103,7 @@ window.addEventListener("load", (e) => {
     .attr("font-family", "arial")
     .attr("display", "none")
     .attr("pointer-events", "none")
+    .attr("font-weight", "bold")
     .text((d) => d["title"]);
 
   function ticked() {
@@ -142,12 +143,16 @@ window.addEventListener("load", (e) => {
 
   function handleHover(e) {
     const url = e.target.getAttribute("data-url");
-    labels
-      .attr("display", (d) => {
-        if (d["url"] === url)
-          return "block";
-        return "none";
-      })
+    d3.selectAll(".nodes > g > text")
+      .attr("display", "none");
+
+    const g = e.target.parentNode;
+    d3.select(g)
+      .raise();
+
+    const text = g.getElementsByTagName("text")[0]
+    d3.select(text)
+      .attr("display", "show");
   }
 });
 

@@ -1,6 +1,6 @@
-import * as d3 from "d3";
-import * as stats from "../../../_data/stats.json";
-import sessions from "../../../_data/sessions.json";
+import * as d3 from 'd3';
+import * as stats from '../../../_data/stats.json';
+import sessions from '../../../_data/sessions.json';
 
 const connectionsMax = 3;
 
@@ -63,7 +63,6 @@ window.addEventListener("load", (e) => {
     .enter()
     .append("g")
     .on("mouseover", (e) => handleHover(e))
-    .attr("data-url", (d) => d['url'])
     .call(
       d3
         .drag()
@@ -86,6 +85,7 @@ window.addEventListener("load", (e) => {
 
   const node = nodeG
     .append("circle")
+    .attr("data-url", (d) => d['url'])
     .attr("r", (d) => getSize(d))
     .attr("fill", (d) => {
       const list = d["list"];
@@ -101,6 +101,8 @@ window.addEventListener("load", (e) => {
     .attr("fill", "#fff")
     .attr("font-size", "15")
     .attr("font-family", "arial")
+    .attr("display", "none")
+    .attr("pointer-events", "none")
     .text((d) => d["title"]);
 
   function ticked() {
@@ -137,6 +139,16 @@ window.addEventListener("load", (e) => {
         return "end";
       });
   }
+
+  function handleHover(e) {
+    const url = e.target.getAttribute("data-url");
+    labels
+      .attr("display", (d) => {
+        if (d["url"] === url)
+          return "block";
+        return "none";
+      })
+  }
 });
 
 function areaToRadius(area) {
@@ -154,9 +166,4 @@ function inRange(num, max, min = 0) {
 // Gets the size intended for a node to be
 function getSize(d) {
   return areaToRadius(d["participants"].length*25);
-}
-
-function handleHover(e) {
-  const url = e.target.getAttribute("data-url");
-  console.log(url);
 }

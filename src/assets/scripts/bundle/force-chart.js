@@ -20,6 +20,11 @@ for (const session of sessions) {
   }
 }
 
+// Precompute the size of each node
+for (const session of sessions) {
+  session["nodeSize"] = areaToRadius(session["participants"].length*25);
+}
+
 window.addEventListener("load", (e) => {
   const svg = d3.select(".forces");
   const width = 900;
@@ -39,7 +44,7 @@ window.addEventListener("load", (e) => {
     .force("manybody", d3.forceManyBody().strength(-400))
     .force("collide", d3
       .forceCollide()
-      .radius((d) => getSize(d) + 3)
+      .radius((d) => d["nodeSize"] + 3)
     )
     .on("tick", ticked);
 
@@ -87,7 +92,7 @@ window.addEventListener("load", (e) => {
     .append("circle")
     .attr("stroke-width", "2")
     .attr("data-url", (d) => d['url'])
-    .attr("r", (d) => getSize(d))
+    .attr("r", (d) => d["nodeSize"])
     .attr("fill", (d) => {
       const list = d["list"];
       if (list === "ai")
@@ -115,25 +120,21 @@ window.addEventListener("load", (e) => {
 
     link
       .attr("x1", (d) => {
-        const size = getSize(d.source);
-        return inRange(d.source.x, width - size, size);
+        return inRange(d.source.x, width - d.source["nodeSize"], d.source["nodeSize"]);
       })
       .attr("y1", (d) => {
-        const size = getSize(d.source);
-        return inRange(d.source.y, width - size, size);
+        return inRange(d.source.y, height - d.source["nodeSize"], d.source["nodeSize"]);
       })
       .attr("x2", (d) => {
-        const size = getSize(d.target);
-        return inRange(d.target.x, width - size, size);
+        return inRange(d.target.x, width - d.target["nodeSize"], d.target["nodeSize"]);
       })
       .attr("y2", (d) => {
-        const size = getSize(d.target);
-        return inRange(d.target.y, width - size, size);
+        return inRange(d.target.y, height - d.target["nodeSize"], d.target["nodeSize"]);
       });
 
     nodeG
       .attr("transform", (d) => {
-        const size = getSize(d);
+        const size = d["nodeSize"];
         const x = inRange(d.x, width - size, size);
         const y = inRange(d.y, height - size, size);
         return `translate(${x}, ${y})`;
@@ -193,9 +194,4 @@ function inRange(num, max, min = 0) {
   if (num > max)
     return max
   return num
-}
-
-// Gets the size intended for a node to be
-function getSize(d) {
-  return areaToRadius(d["participants"].length*25);
 }

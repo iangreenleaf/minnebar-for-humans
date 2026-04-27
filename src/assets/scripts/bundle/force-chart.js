@@ -176,6 +176,8 @@ window.addEventListener("load", (e) => {
       .attr("stroke", (d) => {
         if (directNeighbours.includes(d["url"]))
           return "gold";
+        if (d["url"] === url)
+          return "aqua";
         return "";
       });
   }

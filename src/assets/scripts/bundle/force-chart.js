@@ -40,8 +40,8 @@ window.addEventListener("load", (e) => {
         return d["count"] / 10;
       })
     )
-    .force("center", d3.forceCenter(width / 2, height / 2).strength(1))
-    .force("manybody", d3.forceManyBody().strength(-400))
+    .force("center", d3.forceCenter(width / 2, height / 2).strength(0.5))
+    .force("manybody", d3.forceManyBody().strength(-350))
     .force("collide", d3
       .forceCollide()
       .radius((d) => d["nodeSize"] + 3)
@@ -114,30 +114,28 @@ window.addEventListener("load", (e) => {
 
   function ticked() {
     for (const session of sessions) {
-      session["x"] = inRange(session["x"], width);
-      session["y"] = inRange(session["y"], height);
+      const size = session["nodeSize"];
+      session["x"] = inRange(session["x"], width - size, size);
+      session["y"] = inRange(session["y"], height - size, size);
     }
 
     link
       .attr("x1", (d) => {
-        return inRange(d.source.x, width - d.source["nodeSize"], d.source["nodeSize"]);
+        return d.source.x;
       })
       .attr("y1", (d) => {
-        return inRange(d.source.y, height - d.source["nodeSize"], d.source["nodeSize"]);
+        return d.source.y;
       })
       .attr("x2", (d) => {
-        return inRange(d.target.x, width - d.target["nodeSize"], d.target["nodeSize"]);
+        return d.target.x;
       })
       .attr("y2", (d) => {
-        return inRange(d.target.y, height - d.target["nodeSize"], d.target["nodeSize"]);
+        return d.target.y;
       });
 
     nodeG
       .attr("transform", (d) => {
-        const size = d["nodeSize"];
-        const x = inRange(d.x, width - size, size);
-        const y = inRange(d.y, height - size, size);
-        return `translate(${x}, ${y})`;
+        return `translate(${d.x}, ${d.y})`;
       });
 
     const rightAlignX = width / 3;

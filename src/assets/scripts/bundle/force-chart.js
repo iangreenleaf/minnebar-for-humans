@@ -36,7 +36,7 @@ window.addEventListener("load", (e) => {
       })
     )
     .force("center", d3.forceCenter(width / 2, height / 2).strength(1))
-    .force("manybody", d3.forceManyBody().strength(-200))
+    .force("manybody", d3.forceManyBody().strength(-400))
     .force("collide", d3
       .forceCollide()
       .radius((d) => getSize(d) + 3)
@@ -108,18 +108,27 @@ window.addEventListener("load", (e) => {
     .text((d) => d["title"]);
 
   function ticked() {
+    for (const session of sessions) {
+      session["x"] = inRange(session["x"], width);
+      session["y"] = inRange(session["y"], height);
+    }
+
     link
       .attr("x1", (d) => {
-        return inRange(d.source.x, width);
+        const size = getSize(d.source);
+        return inRange(d.source.x, width - size, size);
       })
       .attr("y1", (d) => {
-        return inRange(d.source.y, height);
+        const size = getSize(d.source);
+        return inRange(d.source.y, width - size, size);
       })
       .attr("x2", (d) => {
-        return inRange(d.target.x, width);
+        const size = getSize(d.target);
+        return inRange(d.target.x, width - size, size);
       })
       .attr("y2", (d) => {
-        return inRange(d.target.y, height);
+        const size = getSize(d.target);
+        return inRange(d.target.y, width - size, size);
       });
 
     nodeG
